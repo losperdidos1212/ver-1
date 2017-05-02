@@ -10,5 +10,13 @@
 <stream_url><![CDATA[http://streamcloud.eu/65s93nsenmvd]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
-</channel>
+  </channel>
+    
+    
+    
+    
+    
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
+    
 </items>
