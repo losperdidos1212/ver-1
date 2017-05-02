@@ -167,6 +167,24 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
+     <channel>
+<title><![CDATA[2x09 Nuestra finca]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1355fd39402221ba05fb824dc8418c42.jpg" />]]>Chilean drug chemist Cockroach brings his product to Colombian smuggler Pablo Escobar. DEA agent Steve Murphy joins the war on drugs in Bogota. </description>
+<stream_url><![CDATA[http://streamcloud.eu/j9oug4b042z4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+       <channel>
+<title><![CDATA[2x10 Al fin cayo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1355fd39402221ba05fb824dc8418c42.jpg" />]]>Chilean drug chemist Cockroach brings his product to Colombian smuggler Pablo Escobar. DEA agent Steve Murphy joins the war on drugs in Bogota. </description>
+<stream_url><![CDATA[hhttp://streamcloud.eu/v916hgf1juf5]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
