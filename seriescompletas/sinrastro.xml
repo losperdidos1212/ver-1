@@ -13,9 +13,47 @@
   </channel>
     
     
+<channel>
+<title><![CDATA[1x02 Birthday Boy]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/wpyz2fnf6avd]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>
     
-    
-    
+ <channel>
+<title><![CDATA[1x03 He Saw, She Saw]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/np05eg35f5zm]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>
+  
+<channel>
+<title><![CDATA[1x04  Between the Cracks]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/0nt8odhkhzs7]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>
+  
+  <channel>
+<title><![CDATA[1x05  Suspect]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/3hzaq2auew1y]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>
+  
+  
+  
+  
+  
+  
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
     </items>
