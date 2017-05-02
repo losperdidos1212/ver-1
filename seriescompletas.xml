@@ -18,6 +18,16 @@
 <buffer_kb>10240</buffer_kb>
 </channel>
 
+<channel>       
+<title><![CDATA[Narcos]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">sin rastro]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/sinrastro.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
+  
+  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
 
