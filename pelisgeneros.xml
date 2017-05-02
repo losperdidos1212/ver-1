@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[A LA CARTA]]></playlist_name>
+  
+  <channel>       
+<title><![CDATA[COMEDIA]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/trutorangvice/novelas/master/comedia.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+
+<channel>       
+<title><![CDATA[INFANTILES]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/trutorangvice/novelas/master/pelisinfantiles.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[DRAMA]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/trutorangvice/novelas/master/peliculasdrama.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[ACCION]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/trutorangvice/novelas/master/accion.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
+   <channel>       
+<title><![CDATA[TERROR]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/trutorangvice/novelas/master/peliculasterror.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
+  
+  
+ 
+
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
+
+</items>
