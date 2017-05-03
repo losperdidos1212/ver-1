@@ -161,6 +161,66 @@
   </channel>
   
   
+ <channel>
+<title><![CDATA[1x18 The Source]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/olikv46o0k6s]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>
+  
+
+ <channel>
+<title><![CDATA[1x19 Victory for Humanity]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/0ix09xxwk57z]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel> 
+  
+  <channel>
+<title><![CDATA[1x20 No mas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/abkr6gvy5kdn]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel> 
+  
+ <channel>
+<title><![CDATA[1x21 Are You Now Or Have You Ever Been?]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/dfk0g204eezy]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>  
+  
+  
+ <channel>
+<title><![CDATA[1x22 Fall Out (1)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/fyl5zrquzfca]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>   
+  
+  
+<channel>
+<title><![CDATA[1x23 Fall Out (2)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0914ddb5b5feb7fe189340b2e6f20bcd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/rf8q1lwt1b4i]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>     
+  
+  
+  
+  
   
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
