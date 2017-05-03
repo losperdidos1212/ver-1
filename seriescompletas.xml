@@ -29,8 +29,16 @@
   <channel>       
 <title><![CDATA[Juego De Tronos T1]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1355fd39402221ba05fb824dc8418c42.jpg">Chilean drug chemist Cockroach brings his product to Colombian smuggler Pablo Escobar. DEA agent Steve Murphy joins the war on drugs in Bogota.]]></description>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1355fd39402221ba05fb824dc8418c42.jpg">Juego de Tronos es una serie de televisión de drama y fantasía creada para la HBO por David Benioff y D. B. Weiss. Es una adaptación de la saga de novelas de fantasía Canción de Hielo y Fuego de George R. R. Martin. La primera de las novelas es la que da nombre a la serie.]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/JuegodeTronos1.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
+   <channel>       
+<title><![CDATA[Juego De Tronos T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1355fd39402221ba05fb824dc8418c42.jpg">Juego de Tronos es una serie de televisión de drama y fantasía creada para la HBO por David Benioff y D. B. Weiss. Es una adaptación de la saga de novelas de fantasía Canción de Hielo y Fuego de George R. R. Martin. La primera de las novelas es la que da nombre a la serie.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/JuegodeTronos2.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
 </channel>
   
