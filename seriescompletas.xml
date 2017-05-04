@@ -197,7 +197,13 @@
 </channel> 
 
   
-  
+<channel>       
+<title><![CDATA[ El principe T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/principet2.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel> 
   
   
   
