@@ -146,7 +146,13 @@
 </channel> 
   
   
-
+<channel>       
+<title><![CDATA[Padre cain T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/padrecaint1.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel> 
   
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
