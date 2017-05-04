@@ -255,7 +255,13 @@
 <buffer_kb>10240</buffer_kb>
 </channel> 
   
-
+<channel>       
+<title><![CDATA[ La rabia T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/larabiat1.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel> 
   
   
   
