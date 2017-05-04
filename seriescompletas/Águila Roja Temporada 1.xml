@@ -107,6 +107,6 @@
 </channel>
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://www.dropbox.com/s/iw3n20w1ekmvf9f/Aguila%20Roja%20Temporadas.xml?dl=1]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
 
 </items>
