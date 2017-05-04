@@ -146,6 +146,14 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
+ <channel>
+<title><![CDATA[19 Dangerous Liaisons]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/cp2kqyjqz5yx/4RR0VV.S05E19.m1080p.WEB.DL.RAiDON.mkv.html]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
 <!--channel>
 <title><![CDATA[]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
