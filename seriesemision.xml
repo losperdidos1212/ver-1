@@ -3,6 +3,14 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
   <channel>       
+<title><![CDATA[Legion T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_52fd7d1d432c7fcc6f030d4c589ea0c0.jpg">La ficción se centra en David Haller, un hombre que desde que era adolescente ha tenido que luchar contra una enfermadad mental. Su diagnóstico: esquizofrenia. Durante años, ha ido entrando y saliendo de diferentes hospitales psiquíatricos para tratarse, pero después de un extraño encuentro con un paciente, se tiene que enfrentar a la posibilidad de que las voces que escucha en su cabeza y las visiones que ve podrían ser reales.  ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Legion%20Temporada%201.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+ 
+  <channel>       
 <title><![CDATA[Dos chicas sin blanca T6]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0b80d2ff2177763bdfe18ca0c85576b7.jpg">Max deals with the aftermath of her breakup with Randy, Sophie and Oleg prepare for the birth of their baby and Han vows to take side jobs in order to take back full ownership of the diner. ]]></description>
