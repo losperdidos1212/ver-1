@@ -83,6 +83,6 @@
 </channel>
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://www.dropbox.com/s/63ie3ns2ov4936l/Juego%20de%20Tronos%20Temporadas.xml?dl=1]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
 
 </items>
