@@ -146,13 +146,7 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
-<channel>
-<title><![CDATA[tve1]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://media2.mitele.es/uploads/2016/04/screenshot_v0rMWKYhpI1bN9j7BlQk31-660x371.jpg" />Khaled huye de Granada tras los atentados llevándose consigo a Fátima, mientras Morey y Fran inician una frenética persecución. El joven agente del CNI sabe que si el terrorista logra cruzar la frontera con Marruecos nunca más volverá a ver a su amada]]></description>
-<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLUCA/mp4/9/8/1477431843189.mp4]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel
+
  
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
