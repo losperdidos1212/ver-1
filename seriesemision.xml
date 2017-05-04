@@ -2,6 +2,14 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
+  <channel>       
+<title><![CDATA[The American West T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_38bb025431b071b610862958f3233097.jpg">Spanning the years 1865 to 1890, The American West, will show how -- in the aftermath of the Civil War -- the United States transforms into the “land of opportunity.” Viewers will be transported into the violent world of cowboys, Indians, outlaws and law men. The 8-episode limited event series chronicles the personal, little-known stories of Western legends such as Jesse James, Billy the Kid, Wyatt Earp, Crazy Horse and Sitting Bull.   ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/The%20American%20West%20Temporada%201.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+ 
  <channel>       
 <title><![CDATA[Madres forzosas T2]]></title>
 <logo_30x30></logo_30x30>
