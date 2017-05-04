@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Generos De Peliculas HD]]></playlist_name>
+ 
+<channel>      
+<title><![CDATA[Accion/Thriller HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/c47b8ps2vhfcj67/Accion.png?dl=1'/>]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/48sdd48xr074spl/Peliculas%20Accion-Thriller.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[Animacion HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/1t696d8dexv3pva/Animacion.png?dl=1'/>]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/62dclgo5fynxoxo/Peliculas%20Animacion.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[Aventuras/Fantasia HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/eyd95tiq8m5pik5/Aventuras.png?dl=1'/> ]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/r634ny8cm21q5zh/Peliculas%20Aventuras-Fantasia.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[Belicas/Guerra HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/jdrfpzwqa1nsdxl/Belicas.png?dl=1'/>]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/fowp8b1fhv8c60e/Peliculas%20Belicas-Guerra.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[Ciencia Ficcion HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/8qncfw5k5uidncp/Ciencia%20Ficcion.png?dl=1'/>]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/iahzaoic80ncn3o/Peliculas%20Ciencia%20Ficcion.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[Comedia/Familiar HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/oli7ezah05n0f8m/Comedia.png?dl=1'/>]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/25ubnalepov3y6h/Peliculas%20Comedia-Familiar.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[Drama HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/2lo2vm2hedhbwkk/Drama.png?dl=1'/>]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/u8z15f3uhmgstq0/Peliculas%20Drama.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[Terror/Suspense HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/t12rzyzfwqmweur/Terror.png?dl=1'/>]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/jj1hv5hyh1omo97/Peliculas%20Terror-Suspense%20.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[Western HD]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='https://www.dropbox.com/s/jp3b3hq8um4jm9d/Western.png?dl=1'/>]]></description> 
+<playlist_url><![CDATA[https://www.dropbox.com/s/5eue8kl5q8n3r2d/Peliculas%20Western.xml?dl=1]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<next_page_url text="FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="ATRAS"><![CDATA[https://www.dropbox.com/s/ahlnvimxuhfvi4j/HMStreamHQ.xml?dl=1]]></prev_page_url>
+
+</items>
