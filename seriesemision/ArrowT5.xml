@@ -2,6 +2,14 @@
 <items>
  <playlist_name>Arrow >> Temporada 5</playlist_name>
  
+ <channel>
+<title><![CDATA[pruebasssss]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/uJmQsMSHKJiNuTSpYpJRWtRssCK.jpg" />]]></description>
+<stream_url><![CDATA[http://deswowsmootha3player.antena3.com/vsgsm/_definst_/smil:assets17/2017/04/25/315FDB23-4FEB-4BD1-BD14-EA5B5ECBBA98/es.smil/manifest.f4m]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
 <channel>
 <title><![CDATA[1 Legado]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
