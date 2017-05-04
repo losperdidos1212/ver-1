@@ -138,7 +138,7 @@
 </channel>
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://www.dropbox.com/s/md7990oyvbsu40j/The%20Big%20Bang%20Theory%20Temporadas.xml?dl=1]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HMStream.xml]]></prev_page_url>
 
 
 </items>
