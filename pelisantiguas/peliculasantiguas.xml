@@ -2,14 +2,7 @@
 <items>
 <playlist_name><![CDATA[Peliculas Antiguas]]></playlist_name>
  
- <channel>
-<title><![CDATA[TITULO DE LA PELICULA SERIE]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="caratula para que salga en el skin" />]]>comentario sobre la peli o serie</description>
-<stream_url><![CDATA[enlace de la pelicula o serie]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
+
   
 <channel>
 <title><![CDATA[Perros callejeros 2]]></title>
