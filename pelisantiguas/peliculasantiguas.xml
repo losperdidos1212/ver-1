@@ -33,6 +33,18 @@ Elenco: Ángel Fernández Franco , </description>
 </channel>
  
  
+ <channel>
+<title><![CDATA[Los bingueros]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_b5854609cfa4718c4db6ec7352f95e73.jpg" />]]>TAmadeo es un mediocre empleado de banca que nunca alcanzará ese tranquilo nivel económico con el que todo el mundo sueña. Tampoco Fermín tiene muy seguro su futuro; cobra el paro y hace chapuzas vendiendo libros y haciendo contratos de entierros pagados a plazos. Por distintas razones llegan a la conclusión de que el bingo puede llegar a ser la solución de sus males, y ambos personajes se conocen en la cola de entrada a un local del bingo. Aúnan sus esfuerzos pero ni siquiera así logran sacar dinero al juego, pero ya están atrapados</description>
+<stream_url><![CDATA[http://streamcloud.eu/2bo2adzj2xp5]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
  
 <next_page_url text="FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
