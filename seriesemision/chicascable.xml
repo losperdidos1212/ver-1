@@ -2,11 +2,65 @@
 <items>
 <playlist_name><![CDATA[Las chicas del cable]]></playlist_name>
   
-    <channel>
-<title><![CDATA[capitulos 1]]></title>
+ <channel>
+<title><![CDATA[capitulo 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg" />]]>Marga tiene una cita para almorzar con Pablo. Ángeles descubre más sobre la infidelidad de Mario. Las fantasías de Carlota la sorprenden. </description>
-<stream_url><![CDATA[https://play.cdn15.fx.fastcontentdelivery.com/luq44clk4tixexzw6vvlrz4s37vkol5kkohyb4jpsdbyisbucjimmxbp2yba/normal.mp4]]></stream_url>
+<stream_url><![CDATA[https://cdn.livechatinc.com/sounds/message.ogg]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+  <channel>
+<title><![CDATA[capitulo 3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg" />]]>Llaman a la policía cuando se pone en duda la identidad de Lidia. La esposa de Francisco tiene sospechas y le pide ayuda a Carolina.</description>
+<stream_url><![CDATA[http://streamcloud.eu/di995f4nu32q]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[capitulo 4]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg" />]]>Marga tiene una cita para almorzar con Pablo. Ángeles descubre más sobre la infidelidad de Mario. Las fantasías de Carlota la sorprenden. </description>
+<stream_url><![CDATA[http://streamcloud.eu/wv3hmh4leokb]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   <channel>
+<title><![CDATA[capitulo 5]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg" />]]>Marga tiene una cita para almorzar con Pablo. Ángeles descubre más sobre la infidelidad de Mario. Las fantasías de Carlota la sorprenden. </description>
+<stream_url><![CDATA[http://streamcloud.eu/knkzfwcfsd0t]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   <channel>
+<title><![CDATA[capitulo 6]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg" />]]>Marga tiene una cita para almorzar con Pablo. Ángeles descubre más sobre la infidelidad de Mario. Las fantasías de Carlota la sorprenden. </description>
+<stream_url><![CDATA[http://streamcloud.eu/2f61voh1b0xa]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[capitulo 7]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg" />]]>Marga tiene una cita para almorzar con Pablo. Ángeles descubre más sobre la infidelidad de Mario. Las fantasías de Carlota la sorprenden. </description>
+<stream_url><![CDATA[http://streamcloud.eu/j2773rmv7gl3]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+     <channel>
+<title><![CDATA[capitulo 8]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg" />]]>Marga tiene una cita para almorzar con Pablo. Ángeles descubre más sobre la infidelidad de Mario. Las fantasías de Carlota la sorprenden. </description>
+<stream_url><![CDATA[http://streamcloud.eu/d4hm7mw8g5qi]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
