@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+    <channel>       
+<title><![CDATA[Olmos y Robles T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f294159274f1b4889c3504bd8d8788d8.jpg">Luis nunca ejerció de padre y ahora que debe y quiere, no puede. Kike siempre huye de las responsabilidades y ahora le llega la mayor de ellas. Girón, un implacable abogado y Curro, un liante profesional y dueño del bar del barrio donde ambos crecieron, serán los consejeros de uno y otro. ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/olmosyrobles.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
    <channel>       
 <title><![CDATA[IFAMILY]]></title>
 <logo_30x30></logo_30x30>
