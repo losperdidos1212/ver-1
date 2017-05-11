@@ -41,7 +41,14 @@
 </channel>
 
  
- 
+<channel>
+<title><![CDATA[Elbueno el malo y el feo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/c7ioGWDmZHcg3EXkGUdfQMv4hO3.jpg"/>]]>n El bueno, el feo y el malo online Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar</description>
+<stream_url><![CDATA[http://s16.diskokosmiko.mx/movie?e=EUVCMjPZC0NZYNUnmLYVhNYM5KZZOmdEmlyWc5Ob1uApw0Gp5_jHzfhm2BM5lXkmkmTqh11VVhoGZQRVF_sJNqEsNPbF2qtPrIIF0b-gxR2BOSQKjaPCTZarutWeyhuP4v7fB66lKsUxVIRu65ZFTLBSDwY6hGhGYbI1vI3G1dA]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
  
