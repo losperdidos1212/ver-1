@@ -51,7 +51,14 @@
 </channel>
  
  
- 
+<channel>
+<title><![CDATA[El Dorado hd]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/j7wF8fnYbrkh7Y3ftkY8SoF44ZU.jpg"/>]]>n El Dorado online Cole Thornton, un pistolero a sueldo, une fuerzas con un viejo amigo, el sheriff JP Hara. Junto con un viejo luchador indio y jugador, ayudan a un ranchero</description>
+<stream_url><![CDATA[http://s16.diskokosmiko.mx/movie?e=-c9B9AMvcwWQW1O-kuoOLadkZS08tRdrsfH2t20yUBi48QjR5cU-w93V4rINLatNbqHCzhCvcguPjv11NlnDIblP5hPHDSNknLr3chOSttj4tVSMB_nD0ontgPr0EzmiTltUzyT3zcxy7KF4OTX8x1TiaR_DMSZswSaDkoW2cMY]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
  
