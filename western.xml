@@ -31,8 +31,24 @@
 </channel>
  
  
- 
+<channel>
+<title><![CDATA[Cometieron dos errores]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/c32fGrWPK7CbweOK6xbVQiBldDd.jpg"/>]]>n Unos hombres acusan injustamente a Jed Cooper (Clint Eastwood) de haber robado ganado y no dudan en ahorcarlo. En el último instante,</description>
+<stream_url><![CDATA[http://s16.diskokosmiko.mx/movie?e=bDWxGwlZhLw9kPPm5XR-ybu7IjsU2LP4QSlJkEaNUQqfgNIKpTJe2jhrpT4BIcflXoLM8Damj73VXJhsVPwAgltxO10VOTCx7IkxGyhu9PAtJ00ZiVSij1We_3IUZ2kjk9BXmXVFT9PGyrFfqh_JnzVR93zJZY6s7dXpGliNA4Y]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
 
