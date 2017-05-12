@@ -56,6 +56,44 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+  
+  
+    <channel>
+<title><![CDATA[2x07 Puerta #3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dc84a7e4c08c7bf2f03c2f5ef3a9dafc.jpg" />]]>Dev es un actor en la treintena que vive en Nueva York y que todavía no tiene demasiado claro qué quiere hacer con su vida. Cada episodio gira entorno a algún aspecto de la vida de Dev como su experiencia como inmigrante, la difícil situación de las personas mayores o cómo encontrar el mejor restaurante italiano pero todo en tono de comedia. </description>
+<stream_url><![CDATA[http://streamcloud.eu/hl65mzspuugy]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[2x08 Acción de Gracias]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dc84a7e4c08c7bf2f03c2f5ef3a9dafc.jpg" />]]>Dev es un actor en la treintena que vive en Nueva York y que todavía no tiene demasiado claro qué quiere hacer con su vida. Cada episodio gira entorno a algún aspecto de la vida de Dev como su experiencia como inmigrante, la difícil situación de las personas mayores o cómo encontrar el mejor restaurante italiano pero todo en tono de comedia. </description>
+<stream_url><![CDATA[http://streamcloud.eu/f3impu6gk4vx]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[2x09 Amarsi un po]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dc84a7e4c08c7bf2f03c2f5ef3a9dafc.jpg" />]]>Dev es un actor en la treintena que vive en Nueva York y que todavía no tiene demasiado claro qué quiere hacer con su vida. Cada episodio gira entorno a algún aspecto de la vida de Dev como su experiencia como inmigrante, la difícil situación de las personas mayores o cómo encontrar el mejor restaurante italiano pero todo en tono de comedia. </description>
+<stream_url><![CDATA[http://streamcloud.eu/i93i501fcbv0]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+      <channel>
+<title><![CDATA[2x10 Buona notte]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dc84a7e4c08c7bf2f03c2f5ef3a9dafc.jpg" />]]>Dev es un actor en la treintena que vive en Nueva York y que todavía no tiene demasiado claro qué quiere hacer con su vida. Cada episodio gira entorno a algún aspecto de la vida de Dev como su experiencia como inmigrante, la difícil situación de las personas mayores o cómo encontrar el mejor restaurante italiano pero todo en tono de comedia. </description>
+<stream_url><![CDATA[http://streamcloud.eu/3x9fm91mz7ii]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
 
   
   
@@ -63,6 +101,6 @@
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
 
 </items>
