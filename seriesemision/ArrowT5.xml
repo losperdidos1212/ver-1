@@ -156,76 +156,16 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
- <channel>
-<title><![CDATA[tvprueba]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
-<stream_url><![CDATA[http://s8.partagora.com/preview?e=eWgBHULFkohc-TZuwq9DueWtvRvL4kd2oQ0ri-C9-g0Ukd9vmNI4BCI68QCPn28Q-HxR4hApwHCB6NKtGsl5R_hdc1jZ5Oz783A_FswdgqqRjLLiMhUMJMbO3vnj9j87nToysZEP_SxuynW-JlqS9H1h5C_lyAW2Q-l2UXtcLLU]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
- 
- 
- 
- 
- 
- 
- 
- 
-<!--channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
 
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel-->
 
 
 
