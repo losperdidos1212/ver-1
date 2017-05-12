@@ -291,7 +291,15 @@
 </channel>
 
   
- 
+channel>
+<title><![CDATA[El tren de la bruja]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/cfTnV4YZdev8zec3gYXL5X4zc7s.jpg" />]]>Es un cortometraje de terror dirigido por Koldo Serra que gano numerosos premios y recibio buenas criticas. Este cortometraje no debe ser confundido </description>
+<stream_url><![CDATA[http://s12.diskokosmiko.mx/movie?e=9E_cyIWBYTyMywJHn2jh-wnIFvd6vKIozLkQB4kEm37p3BkEIdTox4BRNUAlnw3uT7BTj3M9xeh12ifQIw4fQiGfu08sS7o5xw81f1_yNdzwcZBfpiETOaY2ylEtg4f6VxFY7YOE9MnsgVBKlQmvwCP9y9CKaLN7XqxPh6a2Qac]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
   
   
   
