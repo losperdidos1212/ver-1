@@ -291,7 +291,7 @@
 </channel>
 
   
-channel>
+<channel>
 <title><![CDATA[El tren de la bruja]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/cfTnV4YZdev8zec3gYXL5X4zc7s.jpg" />]]>Es un cortometraje de terror dirigido por Koldo Serra que gano numerosos premios y recibio buenas criticas. Este cortometraje no debe ser confundido </description>
@@ -301,7 +301,14 @@ channel>
 </channel>
 
   
-  
+<channel>
+<title><![CDATA[Juan de los muertos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/jt6ZDwSPcebRBYwrKmYnETUZhS.jpg"/>]]>Juan de los Muertos online 50 años después de la Revolución Cubana, otra nueva revolución llega a La Habana. Una misteriosa infección está convirtiendo a sus habitantes en muertos</description>
+<stream_url><![CDATA[http://s12.diskokosmiko.mx/movie?e=KjKYC1a6AQWsJqZownTqisBZHyIjCYH_0m7-7xP9dJNgLESSL4uOF9-v_wf-NkUv_XnpoqZbFQWWT2SJQ-ZS43XE14v9lzlEi6DvoBuJTczrdm9n6x7XdHz6NA9btQav2RQ0zdfDhg72cwDoaJwpM9iPbl34DBFQDv3405g0-u0]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
   
 <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[nStreamVOD.xml]]></prev_page_url>
