@@ -2,13 +2,7 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
-  <channel>      
-<title><![CDATA[Erase una vez T6]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_904489540e3b8cd0cd3e50ada14bfdbc.jpg'/>Mezclando el mundo real y los cuentos de hadas, se cuenta la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra. Él cree que su madre pertenece a un mundo irreal y que es la hija de Blancanieves.]]></description> 
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/EraseunavezT6.xml]]></playlist_url>  
-<buffer_kb>10240</buffer_kb>
-</channel>
+ 
  
  <channel>      
 <title><![CDATA[The Big Bang Theory T1]]></title> 
