@@ -39,7 +39,14 @@
 </channel>
   
 
-
+<channel>
+<title><![CDATA[objetivo londres]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://gnula.nu/wp-content/uploads/2017/04/Carte_blanche_poster_polonia.jpg" />]]>acaba de completar un viaje por todo el mundo para encontrar y documentar una extraordinaria selecciÃ³n de criaturas mÃ¡gicas. Llegando a Nueva York para hacer una breve parada en su camino, donde podrÃ­a haber llegado y salido sin incidentesâ¦pero no para un Muggle llamado Jacob, un caso perdido de magia, y la fuga de algunas criaturas fantÃ¡sticas de Newt, que podrÃ­an causar problemas el mundo mÃ¡gico y en el mundo Muggle</description>
+<stream_url><![CDATA[https://ia801201.us.archive.org/13/items/ObjetivoLondres/Objetivo%20Londres.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
 
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
