@@ -2,7 +2,13 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
- 
+  <channel>      
+<title><![CDATA[Erase una vez T6]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_904489540e3b8cd0cd3e50ada14bfdbc.jpg'/>La serie se basa en la teoría de que existe un universo alterno donde todos los personajes de los clásicos cuentos de hadas existen, un mundo que tiene una conexión perdida con nuestro mundo, por lo que se centra en los personajes del Bosque Encantado y la conspiración de la Reina Malvada para perturbar la vida de los demás habitantes. Mediante una maldición, la Bruja envía a los personajes de los cuentos al pueblo de Storybrooke, Maine, donde todos ellos viven sin saber quiénes son en realidad, para que sea ella la única con un final feliz.]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/EraseunavezT6.xml]]></playlist_url>  
+<buffer_kb>10240</buffer_kb>
+</channel>
  
  <channel>      
 <title><![CDATA[The Big Bang Theory T1]]></title> 
