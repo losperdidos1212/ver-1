@@ -4,7 +4,7 @@
 
 <channel>       
 <title><![CDATA[SERIES EN EMISION]]></title>
-<logo_30x30></logo_30x30>
+<logo_30x30>http://i67.tinypic.com/nwijyh.png</logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
