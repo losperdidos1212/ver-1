@@ -10,13 +10,7 @@
 <buffer_kb>10240</buffer_kb>
 </channel>
   
-      <channel>       
-<title><![CDATA[Mission Impossible]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/mission_impossible-334472913-large.jpg">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/Mission%20Impossible.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
-</channel>
+   
 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
