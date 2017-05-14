@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
 <playlist_name><![CDATA[Contenido Para A dultos]]></playlist_name>
+   
+   
+     <channel>
+<title><![CDATA[La France a Poil 01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://divxatope1.com/pictures/f/mediums/94468_monster-trucks-2017-br-screener-720p-x264-mkv-ac3-2-0-castellano.jpg"/>]]></description>
+<stream_url><![CDATA[http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
    <channel>
 <title><![CDATA[ls11756_3000]]></title>
