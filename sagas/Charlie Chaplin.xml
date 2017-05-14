@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Charlie Chaplin]]></playlist_name>
+  
+    <channel>
+<title><![CDATA[Charlie Chaplin - City Lights (1931)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwi6j6zC8e_TAhVFvZAKHWR-CBMQjRwIBw&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FCharles_Chaplin&psig=AFQjCNGUsSckjph6V7szg_0bd5JYGrgNjQ&ust=1494868569925628" />]]></description>
+<stream_url><![CDATA[http://s204.kbagi.com/movie?e=FvUmFSTR4k-nKhy9L4rhKelubK1iWb-01TR5lTpUJVYsX5KJ1qM6t1ETKP9h3k5qYtu-KtzV3OYyVPS5MA9mOiQlsiawUzMPrxZInB4TmugCMAxdTeqdqzqdtkop1uNkF60dKs2Dvz2jhnjKC0SlHU9ls3p-k88chsw-J30fWwI]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   
+  
+
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
+
+</items>
