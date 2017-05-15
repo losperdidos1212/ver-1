@@ -29,6 +29,51 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
+   <channel>
+<title><![CDATA[Capitulo 4]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/4/9/1486047572394.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+     <channel>
+<title><![CDATA[Capitulo 5]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/5/1486599001458.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+  
+     <channel>
+<title><![CDATA[Capitulo 6]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/3/2/1487203964423.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[Capitulo 7]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/1/9/1487808754391.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+  <channel>
+<title><![CDATA[Capitulo 8]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/1/4/1488413016441.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
    
   
 
