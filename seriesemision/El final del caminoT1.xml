@@ -5,7 +5,7 @@
     <channel>
 <title><![CDATA[Capitulo 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]>http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png</description>
+<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]></description>
 <stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/9/0/1484066620309.mp4/playlist.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -14,7 +14,7 @@
   <channel>
 <title><![CDATA[Capitulo 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]>http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png</description>
+<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]></description>
 <stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/0/1484744372206.mp4/playlist.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -23,7 +23,7 @@
  <channel>
 <title><![CDATA[Capitulo 3]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]>http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png</description>
+<description><![CDATA[<img src="http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png" />]]></description>
 <stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/3/5/1485390976853.mp4]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
