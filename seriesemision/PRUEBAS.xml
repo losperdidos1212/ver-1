@@ -2,14 +2,7 @@
 <items>
 <playlist_name><![CDATA[Pruebas server nuevo]]></playlist_name>
   
-    <channel>
-<title><![CDATA[tv online ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_44f225d4776c46052779bfac93c403bd.jpg" />]]>acaba de completar un viaje por todo el mundo para encontrar y documentar una extraordinaria selecciÃ³n de criaturas mÃ¡gicas. Llegando a Nueva York para hacer una breve parada en su camino, donde podrÃ­a haber llegado y salido sin incidentesâ¦pero no para un Muggle llamado Jacob, un caso perdido de magia, y la fuga de algunas criaturas fantÃ¡sticas de Newt, que podrÃ­an causar problemas el mundo mÃ¡gico y en el mundo Muggle</description>
-<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2542&t=live&f=ts]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
+  
   
      <channel>
 <title><![CDATA[#0 ]]></title>
@@ -113,7 +106,373 @@
 <description></description>
 <stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2542&t=live&f=ts]]></stream_url>
 </channel>
-
+  
+  <channel>
+<title><![CDATA[M COMEDIAHD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2541&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M SERIES HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=376&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M SeriesXtraHD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=362&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M ESTRENOSHD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=363&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M DCINE HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=3728&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[HOLLYWOODHD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=48&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CALLE 13 HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=761&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[TNT HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2489&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[SYFY HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=73&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[AMC HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2495&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[TCM HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=358&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[COMEDYCENTRALHD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=3714&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[BEIN LALIGA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=75&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[BEIN SPORTS]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=3186&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[LALIGA TV BAR HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5408&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[MOVISTAR PARTIDAZO LIVE SESSION]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5409&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M F TBOL HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=76&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M DEP 2 HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=93&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M DEP 1 HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=77&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M GOLF HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2398&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M FORMULA1HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5226&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M MOTOGPHD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2496&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[EUROSPORT1HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=3713&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[NG WILD HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5225&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[R MADRID TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5796&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[MEZZO LIVE HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5795&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[FDF]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5793&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[BABY TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5798&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[BARCA TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5797&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CLAN TVE]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5794&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[VIAJAR HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=3711&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CAZA Y PESCA HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5410&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[NAT GEO HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=74&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[NICKELODEONHD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=3733&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[DISNEY CH HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=3712&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[TOROS]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5439&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[TELEDEPORTE]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5412&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[PARAMOUNT]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5416&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[NONSTOPEOPLE]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5426&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[NEOX]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5413&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[MTV ESPA A]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5427&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[M Cine Espa ol]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5414&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[LA 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5442&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[HISTORIA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5428&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[GOL TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5411&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[EUROSPORT 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5445&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ENERGY]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5446&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[DIVINITY]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5429&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[DISNEY XD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5430&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[DISCOVERY]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5431&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CRIMEN INVES]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5432&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CLASSICA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5433&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CANAL SUR A]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5434&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CANAL PANDA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5435&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CANAL ODISEA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5422&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[Canal Extremadura SAT]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5423&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CANAL DECASA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5424&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[CI]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5443&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[BOING]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5436&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ARAGON TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5437&t=live&f=ts]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[AE]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5438&t=live&f=ts]]></stream_url>
+</channel>
 
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
