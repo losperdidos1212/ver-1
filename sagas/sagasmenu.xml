@@ -10,6 +10,14 @@
 <buffer_kb>10240</buffer_kb>
 </channel>
   
+    <channel>       
+<title><![CDATA[Piratas del Caribe]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://es.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/91/06/54/20129011.jpg">Mar Caribe, siglo XVIII. El aventurero capitán Jack Sparrow piratea en aguas caribeñas, pero su andanzas terminan cuando su enemigo, el Capitán Barbossa, después de robarle su barco, el Perla Negra, ataca la ciudad de Port Royal y secuestra a Elizabeth Swann, la hija del Gobernador. Will Turner, amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar el Perla Negra. Pero Barbossa y su tripulación son víctimas de un conjuro que los condena a vivir eternamente y a transformarse cada noche en esqueletos vivientes. El conjuro sólo puede romperse si devuelven una pieza de oro azteca y saldan una deuda de sangre. El rescate de la bella Elizabeth será una tarea difícil, pues la maldición es real y será difícil enfrentarse con quienes no pueden morir.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/Mission%20Impossible.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
    
 
 
