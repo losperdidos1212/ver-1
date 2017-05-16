@@ -1,40 +1,39 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
-<playlist_name><![CDATA[Saga Mission Impossible]]></playlist_name>
+<playlist_name><![CDATA[Saga Piratas del Caribe]]></playlist_name>
   
     <channel>
-<title><![CDATA[Mission Impossible (1996)]]></title>
+<title><![CDATA[Piratas del Caribe: La maldición de la Perla Negra]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/mission_impossible-334472913-large.jpg" />]]></description>
-<stream_url><![CDATA[http://s201.kbagi.com/movie?e=ArTPGfRmdQUWE3U7d58HwMQIuteSr2f6ZJBDw7jGAl91k7uEpYh2XXY3RmT5F7rXzRQujhgEgZiUfdJNwpJe-zpBtfxDrUWRjZK1VnUr3RfPS0EUQ2RRtZNZqZbFyLAZc5Rv0A_bTp3GyNCIdghHMeCQQBLNygMbfim8hv4SWeU]]></stream_url>
+<description><![CDATA[<img src="http://es.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/91/06/54/20129011.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/lxfr655ync26]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+      <channel>
+<title><![CDATA[Piratas del Caribe: La maldición de la Perla Negra]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://es.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/91/06/54/20129011.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/lxfr655ync26]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
  
      <channel>
-<title><![CDATA[Mission Impossible 2 (2000)]]></title>
+<title><![CDATA[Piratas del Caribe: El cofre del hombre muerto]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.gstatic.com/tv/thumb/movieposters/25485/p25485_p_v8_am.jpg" />]]></description>
-<stream_url><![CDATA[http://s202.kbagi.com/movie?e=eWY4eP7XfXtMiDZ9E-igs16UvmWaLRftmSqSzYvXqfjAxBspRD5y6kIDQMgy2rQkzS6HnWRaK3-iA0D_3hwNsVR0SZqVJGWEx8_usLaUgGLK-j4JmEZt-LlFrUEU8Y4GBJsNEtAcV7d0NZNwLQICJRh0VBYbjZu2VPHG2jjeYsM]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
-  
-  
-     <channel>
-<title><![CDATA[Mission Impossible 3 (2006)]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQk9QAjqjjnVOTOj2vkckB6I3tIDdHhIU88kllMGWSOy6ANMKpg" />]]></description>
-<stream_url><![CDATA[http://s203.kbagi.com/movie?e=pjOXcf8CVe8RO32TaTe9H2oVzqmQJDz0TRpIbYvUzvjHkfpdon3kVrl8eSguAUYY5bxl-EJkf_RfkVpONODCrtfCzhniKtoKVdVemM2TV1emJ65a4LZ1UJzPpJov8VnWTZ18N-t1uYt9FFSliQVIqSGuKa2yX4HsoG7oYxqdihI]]></stream_url>
+<description><![CDATA[<img src="http://es.web.img1.acsta.net/r_160_240/b_1_d6d6d6/pictures/14/03/25/11/14/498694.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dp8w1mxk5x4h]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
   
      <channel>
-<title><![CDATA[Mission Impossible 3 (2006)]]></title>
+<title><![CDATA[Piratas del Caribe: En mareas misteriosas]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQk9QAjqjjnVOTOj2vkckB6I3tIDdHhIU88kllMGWSOy6ANMKpg" />]]></description>
-<stream_url><![CDATA[http://s203.kbagi.com/movie?e=pjOXcf8CVe8RO32TaTe9H2oVzqmQJDz0TRpIbYvUzvjHkfpdon3kVrl8eSguAUYY5bxl-EJkf_RfkVpONODCrtfCzhniKtoKVdVemM2TV1emJ65a4LZ1UJzPpJov8VnWTZ18N-t1uYt9FFSliQVIqSGuKa2yX4HsoG7oYxqdihI]]></stream_url>
+<description><![CDATA[<img src="http://es.web.img3.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/82/41/99/19714749.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/rid07dtjie90]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
