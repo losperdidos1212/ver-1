@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Videos y Conciertos]]></playlist_name>
+  
+    <channel>
+<title><![CDATA[Enrique Iglesias - Bailando]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" /></description>
+<stream_url><![CDATA[http://s36.diskokosmiko.mx/movie?e=zz9vChIYUflQKD3IzN7PmWE8pWM-mbBsza9XZILWcXZLgpHLBWREJcN1668Xv1CKdiIJmTHNjBJppWcqssUD8N0VuyMNNqX4c3F_Y4CoOf75jLgfVTYWF9nhxvzUvEG8Yy2OnJd3B7gE4bFtKHDb-PeDqo6185LUMbiT_8oj5ns]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+ 
+  
+
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
+
+</items>
