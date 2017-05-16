@@ -83,6 +83,36 @@
 <description></description>
 <stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=5792&t=live&f=ts]]></stream_url>
 </channel>
+  
+  <channel>
+<title><![CDATA[FOX LIFE HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2538&t=live&f=ts]]></stream_url>
+</channel>
+  
+  
+<channel>
+<title><![CDATA[AXN HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=764&t=live&f=ts]]></stream_url>
+</channel>
+  
+<channel>
+<title><![CDATA[AXN WHITE HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=763&t=live&f=ts]]></stream_url>
+</channel>
+  
+
+<channel>
+<title><![CDATA[M ACCI N HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=2542&t=live&f=ts]]></stream_url>
+</channel>
 
 
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
