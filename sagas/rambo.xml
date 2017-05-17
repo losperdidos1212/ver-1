@@ -2,6 +2,15 @@
 <items>
 <playlist_name><![CDATA[Saga Rambo]]></playlist_name>
   
+      <channel>
+<title><![CDATA[Rambo. Acorralado]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.ecartelera.com/carteles/5100/5138/001_p.jpg" />]]>Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva mision: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaidas en la jungla, portando unicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que solo haga fotografias de reconocimiento. Pero el plan no saldra como estaba previsto</description>
+<stream_url><![CDATA[https://archive.org/download/RamboIIlaMission1985/Rambo11982.avi]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
     <channel>
 <title><![CDATA[Rambo. Acorralado, parte II]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
