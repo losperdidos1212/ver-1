@@ -111,7 +111,14 @@
 </channel>
  
  
-
+<channel>
+<title><![CDATA[ Ha_Ash Concierto Completo en Lima - Perú 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]> </description>
+<stream_url><![CDATA[http://s23.diskokosmiko.mx/movie?e=DMSpvqeSin5hY3vA_NyP0WBpnmrdGhRCx6lmI8T-riBK5kKV_1VX49ulId16SbOBpdyeCxtAwWso-pXh96HxKlVyCoS-MOs1XtNl2HyVhPWKLL8Szn4J6kHYfJ7Q6yC-vuU3wqRBWkPECEUNbws7RVWaxeVT2B02t3a8RQJefRk]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
