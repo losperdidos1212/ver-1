@@ -12,10 +12,10 @@
 </channel>
   
   <channel>
-<title><![CDATA[MIMUSICA HD1]]></title>
+<title><![CDATA[Heart TV]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="" />]]> </description>
-<stream_url><![CDATA[http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8]]></stream_url>
+<stream_url><![CDATA[chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase=on]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
