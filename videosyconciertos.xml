@@ -15,7 +15,7 @@
 <title><![CDATA[MIMUSICA HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="" />]]> </description>
-<stream_url><![CDATA[http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?]]></stream_url>
+<stream_url><![CDATA[http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
