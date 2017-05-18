@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
+
+<channel>
+<title><![CDATA[LIFE Tv (peliculas,series)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8]]></stream_url>
+</channel>
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
+
+</items>
