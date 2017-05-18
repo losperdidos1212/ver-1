@@ -2,6 +2,23 @@
 <items>
 <playlist_name><![CDATA[Contenido Para A dultos]]></playlist_name>
   
+    <channel>
+<title><![CDATA[CENTOXCENTO TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://edge1868.livesports.pw/live/verhotplus599c96c4f2d6f5e/index.m3u8]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+  
+    <channel>
+<title><![CDATA[RED LIGH]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://cdn2.shurs.xyz/verliga/11/chunks.m3u8]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
   <channel>
 <title><![CDATA[VENUS]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
