@@ -24,7 +24,7 @@
 
 
 <channel>
-<title><![CDATA[Paion obsesiva]]></title>
+<title><![CDATA[Pasion obsesiva]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_cf52c4043f514da4e9184c79d6dd1a1a.jpg"/>]]>n La cándida Reese Witherspoon es Nicole Walker, una niña bien que se enamora de un sospechoso novio (Mark Wahlberg) que, tras sus atenciones iniciales, resulta ser de lo más celoso. Una "atracción fatal" </description>
 <stream_url><![CDATA[http://streamcloud.eu/i95wyp1xn9hi]]></stream_url>
@@ -32,7 +32,20 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
-
+<channel>
+<title><![CDATA[La dama de honor]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_fb038b768551e856bbd395adc00316a8.jpg"/>]]>n Philippe (Benoît Magimel), un joven que vive con su madre y dos hermanas pequeñas en un barrio tranquilo, acaba de empezar a trabajar con un contratista inmobiliario. En la boda de su hermana, se siente atraído por Senta, su dama de honor, pero el amor de Senta es un amor insano que consume a Philippe. Prueba de ello es que llega a proponerle matar a un desconocido como prueba suprema de su amor.  </description>
+<stream_url><![CDATA[http://streamcloud.eu/k8kt1bskwjao]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+  
+  
+  
+  
+  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
 
