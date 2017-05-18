@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Contenido Para A dultos]]></playlist_name>
   
+   <channel>
+<title><![CDATA[HOT]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://178.193.237.115:9000/play/a083]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
   <channel>
 <title><![CDATA[NUART]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
