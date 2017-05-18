@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Contenido Para A dultos]]></playlist_name>
   
+     <channel>
+<title><![CDATA[Jasmin TV HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
    <channel>
 <title><![CDATA[HOT]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
