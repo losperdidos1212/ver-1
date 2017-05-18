@@ -2,13 +2,7 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
-     <channel>       
-<title><![CDATA[Charlie Chaplin]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Charlie_Chaplin.jpg/280px-Charlie_Chaplin.jpg">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/Charlie%20Chaplin.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
-</channel>
+   
   
     <channel>       
 <title><![CDATA[Piratas del Caribe]]></title>
