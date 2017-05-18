@@ -12,6 +12,52 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
+  <channel>
+<title><![CDATA[seaside-rendezvou]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]> </description>
+<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/seaside-rendezvous.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   <channel>
+<title><![CDATA[the-kings-singers-overture-the-barber-of-seville]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]> </description>
+<stream_url><![CDATA[http://nuestrahuella.com/videos/recomendados-musical/the-kings-singers-overture-the-barber-of-seville.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[El Baile de la Yegua]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]> </description>
+<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/El%20Baile%20de%20la%20Yegua%20-%20Subtitulado%20Espa%f1ol%20(PSY%20ft.%20Hyuna)%20Oficial%20%5bHD_CC%5d(360p_H.264-AAC).mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   <channel>
+<title><![CDATA[akira-miyagawas-beethovens-symphony-No-5]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]> </description>
+<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/akira-miyagawas-beethovens-symphony-No-5-and-mambo-no-5-combination.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[kings-singers-im-yours]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]> </description>
+<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/kings-singers-im-yours.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+   
+  
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
