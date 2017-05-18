@@ -744,12 +744,12 @@
 <description><![CDATA[<img src="" />]]></description>
 <stream_url><![CDATA[https://lh3.googleusercontent.com/7Mba-B0aWGAGC_pWIGHHvdiaE1URQwgWJOENiAqGy3Y-0rGnmFzXwQGzLkMSeswVwMRHyl98=m37]]></stream_url>
 <buffer_kb>20480</buffer_kb>
-
+</channel>
 
 
 
 
 <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="Atras"><![CDATA[nStreamVOD.xml]]></prev_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisadultos.xml]]></prev_page_url>
 
 </items>
