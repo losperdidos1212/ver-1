@@ -2,6 +2,27 @@
 <items>
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
+   <channel>
+<title><![CDATA[Futbol]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12497.ts]]></stream_url>
+</channel>
+  
+    <channel>
+<title><![CDATA[Motos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://185.53.161.147:8888/play/a021]]></stream_url>
+</channel>
+  
+    <channel>
+<title><![CDATA[13]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://185.53.161.147:8888/play/a014]]></stream_url>
+</channel>
+  
   <channel>
 <title><![CDATA[LIFE Tv (peliculas,series)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
