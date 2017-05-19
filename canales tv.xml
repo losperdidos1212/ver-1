@@ -2,6 +2,29 @@
 <items>
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
+      <channel>
+<title><![CDATA[MEGA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on]]></stream_url>
+</channel>
+  
+  
+      <channel>
+<title><![CDATA[ LA SEXTA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on]]></stream_url>
+</channel>
+  
+  
+     <channel>
+<title><![CDATA[ANTENA 3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on]]></stream_url>
+</channel>
+  
    <channel>
 <title><![CDATA[TOROS]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
