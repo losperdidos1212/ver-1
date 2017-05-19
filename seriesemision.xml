@@ -2,7 +2,16 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
-  <channel>      
+   <channel>      
+<title><![CDATA[Paraiso T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e0cf007766ac852760d18020e5797d37.jpg" />]]>Michelle, una corista de Las Vegas, se casa de forma repentina, trasladándose a una tranquila ciudad costera donde termina trabajando junto a su nueva suegra en su escuela de danza.  </description>
+<stream_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/ParaisoT1.xml]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+ <channel>      
 <title><![CDATA[Younger T2]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_ba2b5b55fbab4483fa2d0162c1c30dd5.jpg'/>Una mujer de 40 años que ha dedicado toda su vida a ser madre y esposa decide retomar su carrera. Para ello, tendrá que fingir tener 26 años.]]></description> 
