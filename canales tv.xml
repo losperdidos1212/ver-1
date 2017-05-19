@@ -2,6 +2,50 @@
 <items>
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
+      <channel>
+<title><![CDATA[AXN]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge202.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8]]></stream_url>
+</channel>
+  
+     <channel>
+<title><![CDATA[FOX life]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge2.telesport.pw/live/foxlife/index.m3u8]]></stream_url>
+</channel>
+  
+     <channel>
+<title><![CDATA[FOX]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge204.livesports.pw/live/verfoxespana247756767558f1/index.m3u8]]></stream_url>
+</channel>
+  
+     <channel>
+<title><![CDATA[M.SERIES XTRA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge201.livesports.pw/live/vera6669184f0b71095624027/index.m3u8]]></stream_url>
+</channel>
+  
+  
+  
+    <channel>
+<title><![CDATA[M.SERIES]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8]]></stream_url>
+</channel>
+  
+    <channel>
+<title><![CDATA[CALLE 13]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8]]></stream_url>
+</channel>
+  
      <channel>
 <title><![CDATA[CALLE 13]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
