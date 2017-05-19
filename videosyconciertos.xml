@@ -2,6 +2,15 @@
 <items>
 <playlist_name><![CDATA[Videos Y Conciertos]]></playlist_name>
   
+     <channel>
+<title><![CDATA[virgintv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]> </description>
+<stream_url><![CDATA[Music Vox TV]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
        <channel>
 <title><![CDATA[Jennifer Lopez Y Pitbull 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
