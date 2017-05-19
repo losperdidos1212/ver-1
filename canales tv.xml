@@ -2,6 +2,101 @@
 <items>
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
+            <channel>
+<title><![CDATA[M. MOTOGP]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1870.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8]]></stream_url>
+</channel>
+  
+  
+           <channel>
+<title><![CDATA[M.FORMULA1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1868.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8]]></stream_url>
+</channel>
+  
+           <channel>
+<title><![CDATA[DEPORTES 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1868.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8]]></stream_url>
+</channel> 
+  
+          <channel>
+<title><![CDATA[DEPORTES 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1870.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8]]></stream_url>
+</channel> 
+  
+        <channel>
+<title><![CDATA[FUTBOL]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1868.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8]]></stream_url>
+</channel> 
+  
+         <channel>
+<title><![CDATA[LA LIGATV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1867.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8]]></stream_url>
+</channel> 
+  
+       <channel>
+<title><![CDATA[BEIN LA LIGA]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1868.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8]]></stream_url>
+</channel> 
+  
+  
+     <channel>
+<title><![CDATA[BEIN SPORTS]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1870.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8]]></stream_url>
+</channel> 
+  
+  
+    <channel>
+<title><![CDATA[COMEDY CENTRAL]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge204.livesports.pw/live/vercomedycentral6b595e876/index.m3u8]]></stream_url>
+</channel> 
+  
+  <channel>
+<title><![CDATA[TCM]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge1868.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8]]></stream_url>
+</channel> 
+  
+    <channel>
+<title><![CDATA[SYFY]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge8.telesport.pw/live/syfy/index.m3u8]]></stream_url>
+</channel> 
+  
+     <channel>
+<title><![CDATA[TNT]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge202.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8]]></stream_url>
+</channel>
+  
+  
+       <channel>
+<title><![CDATA[AXN WHITE PROBAR ESTE AVER]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://149.100.19.148:8000/play/a02k]]></stream_url>
+</channel>
+  
       <channel>
 <title><![CDATA[AXN]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
