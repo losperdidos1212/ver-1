@@ -41,7 +41,14 @@
 </channel>
  
  
- 
+ <channel>
+<title><![CDATA[Fiebre del sabado noche]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/wQpNdoFmaahDTfiPpZKEY40AXe8.jpg"/>]]>nEn Nueva York, después de trabajar toda la semana en una tienda de pinturas de Brooklyn, Tony Manero (John Travolta) se prepara esmeradamente</description>
+<stream_url><![CDATA[http://streamcloud.eu/w56gp76cqhi4/Fiebre.del.sabado.noche.1977.Ed..30.Aniversario.DVDRip.es.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
