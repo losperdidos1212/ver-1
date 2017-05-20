@@ -31,7 +31,19 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
-
+<channel>
+<title><![CDATA[Step up]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/uy1kUNtvYTZLkBSpQP8FQMRdAg7.jpg"/>]]>n Tyler Gage (Channing Tatum) ha crecido y pasado toda su vida en los barrios más peligrosos de la ciudad de Baltimore y sabe que es poco probable que alguna vez salga</description>
+<stream_url><![CDATA[http://streamcloud.eu/5nnpjeiwduhi/__step-up-bailando.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
 
