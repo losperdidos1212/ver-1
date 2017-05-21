@@ -247,7 +247,7 @@
 </channel>	
 	
 	<channel>
-<title><![CDATA[A mí no me mire usted]]></title>
+<title><![CDATA[A mi no me mire usted]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/a_mi_no_me_mire_usted-930518646-large.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/6pe7nr3xhkjd]]></stream_url>
@@ -256,7 +256,7 @@
 </channel>
 	
 <channel>
-<title><![CDATA[A París con el amor]]></title>
+<title><![CDATA[A Paris con el amor]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/to_paris_with_love-673745448-large.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/mmh5nm896hl1]]></stream_url>
@@ -264,6 +264,134 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[A pleno sol]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/plein_soleil_blazing_sun-637673042-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/45odt7pnf4tq]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[A por ellas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/plein_soleil_blazing_sun-637673042-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ojv9e93mj5ls]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A por todas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on-249429260-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/lyxyp0desdvs]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A por todas de nuevo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on_again_bring_it_on_2-442350088-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5kb91c0etecq]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A por todas de nuevo, una vez mas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on_all_or_nothing_bring_it_on_3-147489221-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/v12ikc84cyd9]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A por todas: La lucha final]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on_fight_to_the_finish-819762501-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/qx1av0m3fut4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A por todas: Vamos a triunfar]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on_in_it_to_win_it_bring_it_on_4-923654753-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/8940i5tad497]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+	<channel>
+<title><![CDATA[A proposito de Henry]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/regarding_henry-928500658-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/lurwhpvum8cm]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A proposito de Llewyn Davis]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/inside_llewyn_davis-416939063-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dzddsbmzzkvc]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+
+	
+<channel>
+<title><![CDATA[A puerta fría]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_puerta_fria-509978497-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1dr1bs3899bj]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+<channel>
+<title><![CDATA[A Roma con amor]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/to_rome_with_love-664840527-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/xsshszdjtiqg]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A Scanner Darkly (Una mirada a la oscuridad)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_scanner_darkly-250619246-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6myhu3ks2pcu]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+
+<channel>
+<title><![CDATA[A solas con ella]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/alone_with_her-572445398-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/o52zmjlwmats]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A Teacher]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_teacher-744971898-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/wqry56eug841]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+		
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
