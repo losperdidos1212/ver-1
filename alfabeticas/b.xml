@@ -71,7 +71,14 @@
 </channel>  
    
   
- 
+<channel>
+<title><![CDATA[Babel]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/babel-458375352-large.jpg">]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fey5gu2yibkl]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>  
   
   
   
