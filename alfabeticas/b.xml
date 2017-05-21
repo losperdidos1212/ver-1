@@ -32,6 +32,53 @@
   
   
   
+  <channel>
+<title><![CDATA[Baba yaga]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/baba_yaga-927177109-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/3ge726f0b0gm]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
+  
+  
+  
+ <channel>
+<title><![CDATA[Babadoock]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_babadook-131562437-large.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dyufb3mdrn6e]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
+  
+<channel>
+<title><![CDATA[Babe el cerdito de la ciudad]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/babe_pig_in_the_city-587736802-large.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5g55422if0ug]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>  
+  
+<channel>
+<title><![CDATA[Babe el cerdito de la ciudad]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/babe_pig_in_the_city-587736802-large.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5g55422if0ug]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>  
+   
+  
+ 
+  
+  
+  
+  
+  
+  
+  
   
   <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
