@@ -203,16 +203,26 @@
 <stream_url><![CDATA[http://streamcloud.eu/e6tz2oha3v02]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Abuelos al poder]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/parental_guidance-612173995-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/sqavq72eld9f]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
 </channel>	
 	
 	
-	
-	
-	
-	
-	
-	
-	
+<channel>
+<title><![CDATA[Abzurdah]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/abzurdah-250470373-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/qh2picexq9r5]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
 	
 <channel>
 <title><![CDATA[A cambio de nada]]></title>
@@ -223,7 +233,7 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
-		<channel>
+<channel>
 <title><![CDATA[A casa por navidad]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/hjem_til_jul_home_for_christmas-358886966-large.jpg" />]]></description>
@@ -231,6 +241,58 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+	
+<channel>
+<title><![CDATA[AC/DC: Let There Be Rock, la película]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_let_there_be_rock_the_movie_live_in_paris-226633958-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dcxq3ki7k6j5]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[AC/DC: Live at Donington]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_live_at_donington-173521737-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/hfdhj0wbg4fb]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[AC/DC: Live at River Plate]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_live_at_river_plate-152111993-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/pp5iqqsvdg6u]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+		
+	
+<channel>
+<title><![CDATA[AC/DC: No Bull]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_no_bull_ac_dc_live_at_the_plaza_de_toros_madrid_1996-119781701-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/z0ehipf3ny50]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 <channel>
 <title><![CDATA[A ciegas]]></title>
