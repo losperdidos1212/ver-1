@@ -3,7 +3,7 @@
 <items>
 <playlist_name><![CDATA[Peliculas Que Empiezan Por A]]></playlist_name>
 	
-	<channel>
+<channel>
 <title><![CDATA[A 23 pasos de Baker Street]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/23_paces_to_baker_street-243340430-large.jpg" />]]></description>
@@ -12,11 +12,96 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
-		<channel>
+<channel>
+<title><![CDATA[Aaltra]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/aaltra-682253285-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bxx9u64avf49]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+
+	
+<channel>
+<title><![CDATA[AAA - La película]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/aaa_la_pelicula-286545933-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/i8q9uezv0ik6]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Abandonada]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/abandoned-710900277-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fph53ahddgcm]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Abandonados]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/abandoned-487383365-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fph53ahddgcm]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Abandoned Mine]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/abandoned_mine-817825715-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/07ip1q0ox2jq]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Abbott y Costello contra los fantasmas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/abbott_and_costello_meet_frankenstein-626351092-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/nxghfv0sh1a4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+
+<channel>
+<title><![CDATA[Abajo el amor]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_r_c_h_i_e-280847110-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/hvr37kvqf9mt]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Abajo el telon]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cradle_will_rock-699574194-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dnzf2gl9442k]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+<channel>
 <title><![CDATA[A bayoneta calada]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/fixed_bayonets-935154372-large.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/nv0gaffisumq]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Abismo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_deep-523451879-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/vsch1heujxuc]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -31,6 +116,15 @@
 </channel>
 	
 	<channel>
+<title><![CDATA[Abominable]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/abominable-610689760-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/pwk1qs9d5xw5]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
 <title><![CDATA[A cambio de nada]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/a_cambio_de_nada-246727834-large.jpg" />]]></description>
@@ -143,6 +237,15 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/a_horrible_way_to_die-666777483-large.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/t05txde2l96q]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A.I. Inteligencia Artificial]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_i_artificial_intelligence-535598622-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/j1l6q8pwvwz6]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -463,8 +566,67 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
-			
 	
+<channel>
+<title><![CDATA[A traves del espejo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/dark_mirror-130960711-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/mmo47cfx7iia]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[A tu lado (TV)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/katie_fforde_an_deiner_seite_tv-423960346-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/wvglunf57nyf]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+			
+<channel>
+<title><![CDATA[A un paso de la muerte]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/wrong_turn_at_tahoe-200453457-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/suae7pm8bpac]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A veinte millas de la justicia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/borderline-796488532-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/lgu45f5aa59u]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A vida o muerte]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_matter_of_life_and_death_stairway_to_heaven-740671019-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/d5l9l26crwti]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A.R.C.H.I.E.]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_r_c_h_i_e-280847110-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/d5jgd5vomgks]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+
+	
+	
+
+	
+		
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
 
