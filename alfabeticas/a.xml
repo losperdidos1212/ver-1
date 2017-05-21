@@ -1397,7 +1397,25 @@
 <stream_url><![CDATA[http://streamcloud.eu/9kc0h2zhtpis]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
-</channel>	
+</channel>
+	
+<channel>
+<title><![CDATA[A las cinco de la tarde]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/panj_e_asr_at_five_in_the_afternoon-684602479-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/u798j8wt5bru]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A las duras y a las maduras]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/for_richer_or_poorer-481103088-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/b26pesuf5uns]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
 <channel>
 <title><![CDATA[Alaridos (Cemetery Gates)]]></title>
@@ -1416,6 +1434,8 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+	
+
 	
 <channel>
 <title><![CDATA[Alas de mariposa]]></title>
@@ -1499,41 +1519,105 @@
 <buffer_kb>20480</buffer_kb>
 </channel>	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-
+<channel>
+<title><![CDATA[Alex & Friends. Sobreviviendo a los padres]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/come_diventare_grandi_nonostante_i_genitori-758585818-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/l6rkggot54hy]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
 	
 <channel>
-<title><![CDATA[A las cinco de la tarde]]></title>
+<title><![CDATA[Alexander y el dia terrible, horrible, espantoso, horrorosos]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/panj_e_asr_at_five_in_the_afternoon-684602479-large.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/u798j8wt5bru]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/alexander_and_the_terrible_horrible_no_good_very_bad_day-682015054-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6g1u8h79wqp2]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[Alexander y el dia terrible, horrible, espantoso, horrorosos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/alexander_and_the_terrible_horrible_no_good_very_bad_day-682015054-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6g1u8h79wqp2]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
 <channel>
-<title><![CDATA[A las duras y a las maduras]]></title>
+<title><![CDATA[ALF: La película (TV)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/for_richer_or_poorer-481103088-large.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/b26pesuf5uns]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/project_alf_tv-426897096-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/wme0vpvgj7l8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
+	
+<channel>
+<title><![CDATA[Alfie]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/alfie-752409095-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/zyv57yyont8y]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Alfombras magicas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/arabian_adventure-865974320-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fcijbkp3kh45]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Algo mas que amigos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/friends-420400024-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/96isjrwbk78e]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Algo mas que colegas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/partners-743884510-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/m5of8hzpo04o]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Algo más que cómplices]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/life_without_dick-855183756-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/2vcuev20atjg]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
 	
 <channel>
 <title><![CDATA[A Little Bit Zombie]]></title>
