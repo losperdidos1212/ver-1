@@ -1285,7 +1285,26 @@
 <stream_url><![CDATA[http://streamcloud.eu/aflof2vcowvl]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A la Habana me voy]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/week_end_in_havana-510745788-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/vm8us7jlhde9]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
 </channel>	
+	
+<channel>
+<title><![CDATA[A la hora señalada]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/nick_of_time-424957185-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/83kvecwqvm5y]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
 	
 <channel>
 <title><![CDATA[Al limite]]></title>
@@ -1295,6 +1314,9 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+	
+
+	
 	
 <channel>
 <title><![CDATA[Al limite de la verdad]]></title>
@@ -1350,43 +1372,24 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
-	
+<channel>
+<title><![CDATA[Aladdin y el rey de los ladrones]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/aladdin_and_the_king_of_thieves-832877494-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fop860j9ylmr]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
 <channel>
-<title><![CDATA[A la Habana me voy]]></title>
+<title><![CDATA[Aladino]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/week_end_in_havana-510745788-large.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/vm8us7jlhde9]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/superfantagenio-430677820-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/zlonw7hmblmw]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
-</channel>	
+</channel>
 	
-<channel>
-<title><![CDATA[A la hora señalada]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/nick_of_time-424957185-large.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/83kvecwqvm5y]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>	
-		
 <channel>
 <title><![CDATA[A la mañana siguiente]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -1394,7 +1397,33 @@
 <stream_url><![CDATA[http://streamcloud.eu/9kc0h2zhtpis]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[Alaridos (Cemetery Gates)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cemetery_gates-850569052-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ar9hpg8vwu5o]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
 </channel>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+		
+
 	
 <channel>
 <title><![CDATA[A las cinco de la tarde]]></title>
