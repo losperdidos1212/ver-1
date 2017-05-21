@@ -111,6 +111,88 @@
 <buffer_kb>20480</buffer_kb>
 </channel>	
 	
+<channel>
+<title><![CDATA[A golpe de monedas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/go_fast-610354843-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4njo1fs4hqzf]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	<channel>
+<title><![CDATA[A golpes]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_golpes-210928503-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5r857ki3wh2g]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	<channel>
+<title><![CDATA[A Good Woman]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_good_woman-150946136-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/iglmpujtlyyd]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	<channel>
+<title><![CDATA[A Horrible Way to Die]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_horrible_way_to_die-666777483-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/t05txde2l96q]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+		
+	<channel>
+<title><![CDATA[A la caza]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cruising-437158888-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/t9vo6exxjtlr]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+	<channel>
+<title><![CDATA[A la caza del lobo rojo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_package-114845179-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/8xmmhvwntpe6]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+	<channel>
+<title><![CDATA[A la deriva]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/adrift_open_water_2-663231369-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ke9ma3y1v1z7]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+		
+<channel>
+<title><![CDATA[A la Habana me voy]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/week_end_in_havana-510745788-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/vm8us7jlhde9]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[A la hora señalada]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/nick_of_time-424957185-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/83kvecwqvm5y]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+		
+	
 	
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
