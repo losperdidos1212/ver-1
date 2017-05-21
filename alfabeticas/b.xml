@@ -21,7 +21,14 @@
 </channel> 
   
 
-  
+ <channel>
+<title><![CDATA[Baaria]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/baaria_la_porta_del_vento-525793016-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4izq4lj0mhjq]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
   
   
   
