@@ -391,6 +391,52 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+	
+<channel>
+<title><![CDATA[A tiro limpio]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_tiro_limpio-940539993-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ujq1bhkm3acs]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[A toda marcha]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/tuff_turf-530734682-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/awzl2bpwaoz3]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A todo gas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_fast_and_the_furious-493327751-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6im243hzos07]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[A todo gas 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/2_fast_2_furious-199382456-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/8a1wkwt368v3]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A todo gas: Los Bandoleros]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_fast_and_the_furious_los_bandoleros_s-447527731-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/l0i4qcehspyr]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+		
 		
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
