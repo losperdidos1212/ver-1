@@ -1224,11 +1224,74 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
-	<channel>
+<channel>
 <title><![CDATA[Al filo de la noticia]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/broadcast_news-571520744-large.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/g4fjmczggo1q]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Al filo del manana]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/edge_of_tomorrow-632023834-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/kazcq7zrd8nj]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+		
+<channel>
+<title><![CDATA[Al fin solos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/second_chorus-937470571-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/wt73jumqr5i0]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Al final de la escalera]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_changeling-437910999-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/hg08r1d5xv5b]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Al final del eden]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/another_day_in_paradise-780687688-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/i21p0wwyj3wh]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+		
+<channel>
+<title><![CDATA[Al final del tunel]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/al_final_del_tunel-693476769-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6nn6wit9una3]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[Al final todos mueren]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/al_final_todos_mueren-853955902-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/aflof2vcowvl]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[Al limite]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/edge_of_darkness-400458709-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/mszr76heijdb]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -1239,9 +1302,7 @@
 	
 	
 	
-		
 	
-
 	
 	
 	
