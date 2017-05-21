@@ -713,6 +713,15 @@
 <stream_url><![CDATA[http://streamcloud.eu/4ixb4wkyayo5]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A fondo (Go Fast)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/go_fast-610354843-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/9qt4ubbu2oo0]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
 </channel>	
 	
 <channel>
@@ -733,32 +742,61 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-	
-
-	
 <channel>
-<title><![CDATA[A fondo (Go Fast)]]></title>
+<title><![CDATA[After the Dark]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/go_fast-610354843-large.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/9qt4ubbu2oo0]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/after_the_dark_the_philosophers-803613788-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/w32no7ek81vv]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
+	
+<channel>
+<title><![CDATA[AfterDeath]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/afterdeath-671304487-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/qxiqlqyueakj]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Afterparty]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/afterparty-683742936-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/hbujkx5gq1fh]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Aftershock]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/aftershock-928401033-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ijizaah2eca2]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+		
+<channel>
+<title><![CDATA[Agarralo como puedas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_naked_gun-194094300-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bjtgbx06q4aw]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+	
+	
+	
+
+
+	
+
+	
+	
 	
 <channel>
 <title><![CDATA[A golpe de monedas]]></title>
