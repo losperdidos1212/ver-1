@@ -446,7 +446,24 @@
 <buffer_kb>20480</buffer_kb>
 </channel>	
 		
-		
+<channel>
+<title><![CDATA[A todo gas: Turbo-Charged Prelude]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_fast_and_the_furious_turbo_charged_prelude_s-984209563-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/l8eciu8ique8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A todo riesgo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/classe_tous_risques-796509946-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/0hrsb4o30yxq]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+			
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
