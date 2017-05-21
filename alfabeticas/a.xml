@@ -436,6 +436,15 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+	
+<channel>
+<title><![CDATA[A todo gas: Tokyo Race (A todo gas 3)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_fast_and_the_furious_tokyo_drift-349229245-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/8sd3o8q925he]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
 		
 		
 	
