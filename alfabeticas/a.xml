@@ -102,6 +102,15 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[A fondo (Go Fast)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/go_fast-610354843-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/9qt4ubbu2oo0]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
 	
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
