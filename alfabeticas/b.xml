@@ -2,3 +2,21 @@
 <items>
 <playlist_name><![CDATA[Peliculas Que Empiezan Por B]]></playlist_name>
 
+<channel>
+<title><![CDATA[B. Monkey]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/b_monkey-506528690-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/f5zwy76ufu7p]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+<channel>
+<title><![CDATA[Ba'al, el dios de la tormenta]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ba_al_the_storm_god_tv-100651064-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/551rra922yn9]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
+  
