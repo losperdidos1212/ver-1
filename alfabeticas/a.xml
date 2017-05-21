@@ -1104,23 +1104,54 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[Air Bud]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/air_bud-193891213-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dluclj43tl7p]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
 	
+<channel>
+<title><![CDATA[Air Buddies]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/air_buddies-188164598-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/zognj4dn7iyk]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
+<channel>
+<title><![CDATA[Airbag]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/airbag-110139764-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/wt2nznxixiyu]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
+<channel>
+<title><![CDATA[Airbender, el ultimo guerrero]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_last_airbender-427360744-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1gplrm9detwu]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Akira]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/akira-557684565-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/2gv1ukixadte]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
 
 	
-	
-	
-
-	
-
-	
-
-	
-
-		
-	<channel>
+<channel>
 <title><![CDATA[A la caza]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/cruising-437158888-large.jpg" />]]></description>
@@ -1128,8 +1159,8 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
-	
-	<channel>
+
+<channel>
 <title><![CDATA[A la caza del lobo rojo]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/the_package-114845179-large.jpg" />]]></description>
@@ -1138,14 +1169,52 @@
 <buffer_kb>20480</buffer_kb>
 </channel>	
 	
-	<channel>
+<channel>
+<title><![CDATA[Al acecho (TV)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/stalkers_tv-693194889-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/th6sv5tzsehd]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
 <title><![CDATA[A la deriva]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/adrift_open_water_2-663231369-large.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/ke9ma3y1v1z7]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
-</channel>	
+</channel>
+	
+<channel>
+<title><![CDATA[Al diablo con el diablo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bedazzled-830919326-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4z5du2nkk0h0'']]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
 		
 <channel>
 <title><![CDATA[A la Habana me voy]]></title>
@@ -1208,7 +1277,7 @@
 <stream_url><![CDATA[http://streamcloud.eu/5ksgfd1446u4]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
-</channel>	
+</channel>		
 	
 <channel>
 <title><![CDATA[A merced del odio]]></title>
