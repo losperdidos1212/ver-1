@@ -56,6 +56,51 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+
+<channel>
+<title><![CDATA[A ciegas (TV)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/in_the_dark_tv-565085460-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fmjqlu3lkwy9]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A Cinderella Story: If the Shoe Fits]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_cinderella_story_if_the_shoe_fits-176919696-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/606krj98vx4h]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+
+<channel>
+<title><![CDATA[A contra reloj]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/out_of_time-372295756-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/eyoegpmfkmid]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A cualquier precio]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/at_any_price-497773180-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1rccy1umv5yw]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[A escondidas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_escondidas-816167406-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4ixb4wkyayo5]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
 	
 	
