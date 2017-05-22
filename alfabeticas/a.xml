@@ -2131,7 +2131,14 @@
 <buffer_kb>20480</buffer_kb>
 </channel>	
 	
-	
+	<channel>
+<title><![CDATA[Alterado]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/altered-401255128-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/qa51unjrknxc]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
 	
 	
