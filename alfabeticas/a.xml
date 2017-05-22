@@ -2059,21 +2059,6 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
 <channel>
 <title><![CDATA[A los cirujanos se les va la mano]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -2081,7 +2066,79 @@
 <stream_url><![CDATA[http://streamcloud.eu/5ksgfd1446u4]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
-</channel>		
+</channel>
+	
+<channel>
+<title><![CDATA[Alpha]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<http://pics.filmaffinity.com/alpha-347018840-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/74gelg5mqvza]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Alpha Dog]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<http://pics.filmaffinity.com/alpha_dog-169880703-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/covo65g6ww3u]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Alrededor del mundo con Timón y Pumba]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<http://pics.filmaffinity.com/around_the_world_with_timon_pumbaa-216975828-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bktdxz3k8nt6]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Alta fidelidad]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<http://pics.filmaffinity.com/high_fidelity-753088703-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/02z6xruyp87a]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Alta sociedad]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<http://pics.filmaffinity.com/high_society-253918395-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/qfuptsyv44jc]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[Alta tension]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<http://pics.filmaffinity.com/haute_tension-258012416-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/orfaqso53ne6]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
 	
 <channel>
 <title><![CDATA[A merced del odio]]></title>
