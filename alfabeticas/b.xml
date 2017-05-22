@@ -62,10 +62,10 @@
 </channel>  
   
 <channel>
-<title><![CDATA[Babe el cerdito de la ciudad]]></title>
+<title><![CDATA[Baby doll]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/babe_pig_in_the_city-587736802-large.jpg"/>]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/5g55422if0ug]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/baby_doll-999059516-large.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5rpd54nn5ea0]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>  
@@ -74,14 +74,21 @@
 <channel>
 <title><![CDATA[Babel]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/babel-458375352-large.jpg">]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/fey5gu2yibkl]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/baby_baby_baby-119144460-large.jpg">]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/xhbyy76cpj5j]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>  
   
   
-  
+<channel>
+<title><![CDATA[Baby,baby]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/babel-458375352-large.jpg">]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fey5gu2yibkl]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>   
   
   
   
