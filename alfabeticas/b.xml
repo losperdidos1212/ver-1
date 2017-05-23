@@ -266,13 +266,41 @@
 <buffer_kb>20480</buffer_kb>
   </channel>   
   
+<channel>
+<title><![CDATA[Bajo un manto de estrellas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bajo_un_manto_de_estrellas-948352657-large.jpg">]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ru7967161otl]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>    
   
+<channel>
+<title><![CDATA[Balas sobre Broadway]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bullets_over_broadway-111356097-large.jpg">]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/v7m34lbvxx5e]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>     
   
+<channel>
+<title><![CDATA[Balto 2: Aventura en la tierra de hielo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/balto_ii_wolf_quest-641993132-large.jpg">]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/gu8b1gemjzaj]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>      
   
-  
-  
-  
-  
+<channel>
+<title><![CDATA[Balto 3: Rescate del avion perdido]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/balto_iii_wings_of_change-115130042-large.jpg">]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/wy09fz9vyha4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+  </channel>       
   
   
   
