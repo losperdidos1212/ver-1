@@ -38,9 +38,29 @@
 <buffer_kb>20480</buffer_kb>
 </channel>	
 
+<channel>
+<title><![CDATA[Caballos salvajes]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/wild_horses-874828724-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/brxrbhom7a15]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
-
-		
+<channel>
+<title><![CDATA[Cabaret]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cabaret-273852045-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/838hpxdfxe84]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+	
+	
+	
+	
+	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
 
