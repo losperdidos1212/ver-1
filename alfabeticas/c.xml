@@ -28,7 +28,7 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
-	
+
 <channel>
 <title><![CDATA[Caballeros, princesas y otras bestias]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -46,7 +46,7 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
-
+	
 <channel>
 <title><![CDATA[Cabaret]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -55,7 +55,7 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
-	
+
 <channel>
 <title><![CDATA[Cabeza de pelotón]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -64,7 +64,7 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
-	
+
 <channel>
 <title><![CDATA[Cabeza de muerte]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -73,7 +73,7 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
-	
+
 <channel>
 <title><![CDATA[Cabezas de chorlito]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -82,7 +82,7 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
-	
+
 	
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
