@@ -57,7 +57,7 @@
 </channel>	
 	
 <channel>
-<title><![CDATA[ Cabeza de pelotón]]></title>
+<title><![CDATA[Cabeza de pelotón]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/platoon_leader-433006827-large.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/nyltaiv9sbdr]]></stream_url>
@@ -66,13 +66,23 @@
 </channel>	
 	
 <channel>
-<title><![CDATA[ Cabeza de muerte]]></title>
+<title><![CDATA[Cabeza de muerte]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/shrooms-218406254-large.jpg" />]]></description>
 <stream_url><![CDATA['http://streamcloud.eu/15vxjoef6wx8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
+	
+<channel>
+<title><![CDATA[Cabezas de chorlito]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/block_heads-597849775-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/cdpwczakn62n]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
 	
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
