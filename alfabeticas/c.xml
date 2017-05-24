@@ -28,6 +28,15 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+	
+<channel>
+<title><![CDATA[Caballeros, princesas y otras bestias]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/your_highness-444873030-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/c24w5atzzfqq]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
 
 
 
