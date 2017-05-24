@@ -3,10 +3,10 @@
 <playlist_name><![CDATA[Peliculas Que Empiezan Por C]]></playlist_name>
 	
 <channel>
-<title><![CDATA[NOMBRE DE LA PELICULA]]></title>
+<title><![CDATA[C.R.A.Z.Y.]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="CARATULA DE LA PELICULA" />]]></description>
-<stream_url><![CDATA[ENLACE DE LA PELICULA]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/c_r_a_z_y_crazy-926512458-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/22sqzelbme49]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
