@@ -39,24 +39,24 @@
 </channel>
 
 <channel>
-<title><![CDATA[Caballero y asesino]]></title>
+<title><![CDATA[Caballeros, princesas y otras bestias]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src=http://pics.filmaffinity.com/the_merry_gentleman-779853827-large.jpg"" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/7ztq3581kla8]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/your_highness-444873030-large.jpg" />]]></description>
+<stream_url><!![CDATA[http://streamcloud.eu/c24w5atzzfqq]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
 
 <channel>
-<title><![CDATA[Caballeros, princesas y otras bestias]]></title>
+<title><![CDATA[ Caballos salvajes]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/your_highness-444873030-large.jpg" />]]></description>
-<stream_url><!![CDATA[http://streamcloud.eu/c24w5atzzfqq[]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/wild_horses-874828724-large.jpg" />]]></description>
+<stream_url><!![CDATA[http://streamcloud.eu/brxrbhom7a15]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
 
-
+	
 
 
 
