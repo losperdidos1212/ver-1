@@ -29,10 +29,32 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
+<channel>
+<title><![CDATA[Cabalgata]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cavalcade-216157685-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/wcjhn5iyqzd7]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
+<channel>
+<title><![CDATA[Caballero y asesino]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_merry_gentleman-779853827-large.jpg" />]]></description>
+<stream_url><!![CDATA[http://streamcloud.eu/7ztq3581kla8[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
-
-
+<channel>
+<title><![CDATA[Caballeros, princesas y otras bestias]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/your_highness-444873030-large.jpg" />]]></description>
+<stream_url><!![CDATA[http://streamcloud.eu/c24w5atzzfqq[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
 
 
