@@ -3,7 +3,7 @@
 <playlist_name><![CDATA[Peliculas Que Empiezan Por Z]]></playlist_name>
            
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zack y Cody, la película (TV)[/COLOR]</title>
+<title><![CDATA[ Zack y Cody, la película (TV)[/COLOR]</title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -14,12 +14,12 @@
     
 
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/the_suite_life_movie_tv-539432364-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/the_suite_life_movie_tv-539432364-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zafarrancho en el rancho[/COLOR]</title>
+<title><![CDATA[ Zafarrancho en el rancho]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -30,12 +30,12 @@
     
 
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/home_on_the_range-764151137-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/home_on_the_range-764151137-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zandalee (En el límite del deseo)[/COLOR]</title>
+<title><![CDATA[ Zandalee (En el límite del deseo)[/COLOR]</title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -46,12 +46,12 @@
     
 
 <thumbnail>http://pics.filmaffinity.com/zandalee-981642759-large.jpg</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zandalee-981642759-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zandalee-981642759-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zapatones[/COLOR]</title>
+<title><![CDATA[ Zapatones]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -61,12 +61,12 @@
     
     
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/piedone_d_egitto-364876009-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/piedone_d_egitto-364876009-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zapped (TV)[/COLOR]</title>
+<title><![CDATA[ Zapped (TV)[/COLOR]</title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -76,12 +76,12 @@
     
     
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zapped_tv-657823334-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zapped_tv-657823334-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zathura, una aventura espacial[/COLOR]</title>
+<title><![CDATA[ Zathura, una aventura espacial]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -93,12 +93,12 @@
 
 
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zathura_a_space_adventure-689874214-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zathura_a_space_adventure-689874214-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zatoichi[/COLOR]</title>
+<title><![CDATA[ Zatoichi]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -108,12 +108,12 @@
     
     
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zatoichi-776337106-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zatoichi-776337106-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zelig[/COLOR]</title>
+<title><![CDATA[ Zelig]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -124,12 +124,12 @@
     
 
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zelig-491434869-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zelig-491434869-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zipi y Zape y el club de la canica[/COLOR]</title>
+<title><![CDATA[ Zipi y Zape y el club de la canica]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -138,12 +138,12 @@
     
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zipi_y_zape_y_el_club_de_la_canica-521947130-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zipi_y_zape_y_el_club_de_la_canica-521947130-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zipi y Zape y la isla del capitán[/COLOR]</title>
+<title><![CDATA[ Zipi y Zape y la isla del capitán]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -153,12 +153,12 @@
     
     
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zipi_y_zape_y_la_isla_del_capitan-266990408-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zipi_y_zape_y_la_isla_del_capitan-266990408-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zodiac[/COLOR]</title>
+<title><![CDATA[ Zodiac]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -167,12 +167,12 @@
     
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zodiac-856909935-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zodiac-856909935-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombeavers (Castores zombies)[/COLOR]</title>
+<title><![CDATA[ Zombeavers (Castores zombies)[/COLOR]</title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -186,12 +186,12 @@
 
 
 <thumbnail>http://pics.filmaffinity.com/zombeavers-961382103-large.jpg</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zombeavers-961382103-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zombeavers-961382103-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombi[/COLOR]</title>
+<title><![CDATA[ Zombi]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -201,12 +201,12 @@
     
     
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/dawn_of_the_dead-486487800-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/dawn_of_the_dead-486487800-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombie Camp[/COLOR]</title>
+<title><![CDATA[ Zombie Camp]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -215,12 +215,12 @@
     
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/scouts_guide_to_the_zombie_apocalypse-747330471-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/scouts_guide_to_the_zombie_apocalypse-747330471-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombie Nightmare[/COLOR]</title>
+<title><![CDATA[ Zombie Nightmare]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -232,12 +232,12 @@
 
 
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zombie_nightmare-594808703-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zombie_nightmare-594808703-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombie Strippers[/COLOR]</title>
+<title><![CDATA[ Zombie Strippers]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -249,12 +249,12 @@
 
 
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zombie_strippers-298588071-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zombie_strippers-298588071-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombie Town[/COLOR]</title>
+<title><![CDATA[ Zombie Town]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -263,12 +263,12 @@
     
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/wasting_away_aaah_zombies-299230355-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/wasting_away_aaah_zombies-299230355-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombie World, the Movie[/COLOR]</title>
+<title><![CDATA[ Zombie World, the Movie]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -276,12 +276,12 @@
 <stream_url><![CDATA[http://streamcloud.eu/ar10ywdokeqi]]></stream_url>
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zombie_world_the_movie-710721005-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zombie_world_the_movie-710721005-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombies party [/COLOR]</title>
+<title><![CDATA[ Zombies party ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -290,12 +290,12 @@
     
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/shaun_of_the_dead-862150434-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/shaun_of_the_dead-862150434-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombis nazis (Dead Snow)[/COLOR]</title>
+<title><![CDATA[ Zombis nazis (Dead Snow)[/COLOR]</title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -303,12 +303,12 @@
 <stream_url><![CDATA[http://streamcloud.eu/at8oiwg7j08f]]></stream_url>
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/d_d_sn_dead_snow_dod_sno-119808222-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/d_d_sn_dead_snow_dod_sno-119808222-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zombis nazis 2[/COLOR]</title>
+<title><![CDATA[ Zombis nazis 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -321,12 +321,12 @@
 
 
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/d_d_sn_2_dead_snow_2_red_vs_dead-683053919-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/d_d_sn_2_dead_snow_2_red_vs_dead-683053919-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zona de Combate (Hyena Road)[/COLOR]</title>
+<title><![CDATA[ Zona de Combate (Hyena Road)[/COLOR]</title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -334,12 +334,12 @@
 <stream_url><![CDATA[http://streamcloud.eu/7m7uuj8iglgr]]></stream_url>
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/hyena_road-260888041-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/hyena_road-260888041-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zoolander No. 2[/COLOR]</title>
+<title><![CDATA[ Zoolander No. 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -348,12 +348,12 @@
     
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zoolander_no_2-865825258-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zoolander_no_2-865825258-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zoolander: Un descerebrado de moda[/COLOR]</title>
+<title><![CDATA[ Zoolander: Un descerebrado de moda]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -361,46 +361,46 @@
 <stream_url><![CDATA[http://streamcloud.eu/rrrdgdsb3whx]]></stream_url>
     
     
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zoolander-135717443-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zoolander-135717443-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zootrópolis[/COLOR]</title>
+<title><![CDATA[ Zootrópolis]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
 <video_type>http</video_type>
 <stream_url><![CDATA[http://streamcloud.eu/8h1bh1x64ko6]]></stream_url>
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zootopia-155827662-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zootopia-155827662-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zorba el griego[/COLOR]</title>
+<title><![CDATA[ Zorba el griego]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
 <video_type>http</video_type>
 <stream_url><![CDATA[http://streamcloud.eu/n1imz3s41ick]]></stream_url>
 
-<description><![CDATA[<img src="http://pics.filmaffinity.com/alexis_zorbas_zorba_the_greek-876087444-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/alexis_zorbas_zorba_the_greek-876087444-large.jpg]]></stream_url>
 </channel>
 
 
 <channel>
-<title>[ [COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ][COLOR lime] Zulu[/COLOR]</title>
+<title><![CDATA[ Zulu]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
 <video_type>http</video_type>
 <stream_url><![CDATA[http://streamcloud.eu/einqhiuh1wtu]]></stream_url>
   
-<description><![CDATA[<img src="http://pics.filmaffinity.com/zulu-268542931-large.jpg" />]]></description>
+<stream_url><![CDATA[http://pics.filmaffinity.com/zulu-268542931-large.jpg]]></stream_url>
 </channel>
 
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
 
-</items>		   
+</items></items>		   
