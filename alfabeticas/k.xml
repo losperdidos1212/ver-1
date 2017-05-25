@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas Que Empiezan Por K]]></playlist_name>
 
 <channel>
 <title><![CDATA[ Kabei: nuestra madre]]></title>
@@ -608,27 +610,11 @@
 </channel>
 
 
-<channel>
-<title><![CDATA[ Kika Superbruja y el libro de hechizos]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
 
-<stream_url><![CDATA[http://streamcloud.eu/zif4ujegcjxv]]></stream_url>
-    
-    
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/hexe_lilli_der_drache_und_das_magische_buch-954336140-large.jpg</thumbnail>
-<fanart>http://pics.filmaffinity.com/hexe_lilli_der_drache_und_das_magische_buch-954336140-large.jpg</fanart>
-</channel>
 
 
 <channel>
-<title><![CDATA[ Kika Superbruja: El viaje a Mandolán (Kika Superbruja 2)[/COLOR]</title>
+<title><![CDATA[ Kika Superbruja: El viaje a Mandolán (Kika Superbruja 2)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -780,7 +766,7 @@
 
 
 <channel>
-<title><![CDATA[ Killing Jesus (TV)[/COLOR]</title>
+<title><![CDATA[ Killing Jesus (TV)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -931,23 +917,7 @@
 </channel>
 
 
-<channel>
-<title><![CDATA[ KISS en Ataque de los Fantasmas]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
 
-<stream_url><![CDATA[http://streamcloud.eu/wicrf560bjx0]]></stream_url>
-    
-    
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/kiss_meets_the_phantom_of_the_park-371481391-large.jpg</thumbnail>
-<fanart>http://pics.filmaffinity.com/kiss_meets_the_phantom_of_the_park-371481391-large.jpg</fanart>
-</channel>
 
 
 <channel>
@@ -1404,4 +1374,10 @@
 <thumbnail>http://pics.filmaffinity.com/kung_fury-771388099-large.jpg</thumbnail>
 <fanart>http://pics.filmaffinity.com/kung_fury-771388099-large.jpg</fanart>
 </channel>
-           
+   
+
+
+<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
+
+</items>
