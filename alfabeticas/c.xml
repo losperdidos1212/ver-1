@@ -83,6 +83,109 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
+<channel>
+<title><![CDATA[Cabin Fever]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cabin_fever-294448137-large.jpg" />]]></description>
+<stream_url><![CDATA['http://streamcloud.eu/q6eg1a1qyk1t]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[Cabin Fever 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cabin_fever_2_spring_fever-991167583-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/tnip3uupxiq1]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[Caché (Escondido]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cache-603353491-large.jpg" />]]></description>
+<stream_url><![CDATA['http://streamcloud.eu/tnip3uupxiq1]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>		
+	
+<channel>
+<title><![CDATA[Cactus Jack]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_villain-406671199-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/grclgn4i9i5w]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>		
+	
+<channel>
+<title><![CDATA[Cadena perpetua]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_shawshank_redemption-576140557-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1bkc8g2w5jcf]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>		
+	
+<channel>
+<title><![CDATA[Cadete Kelly]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cadet_kelly_tv-654794214-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/mhav0f817klb]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[Cadillac Records]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cadillac_records-180336214-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fa5she7yfknf]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>			
+	
+<channel>
+<title><![CDATA[Café de Flore]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cafe_de_flore-671042652-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/9mle82g9l55y]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>		
+	
+<channel>
+<title><![CDATA[Café Society]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cafe_society-572459421-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4tx3rf7hjfsv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>			
+	
+<channel>
+<title><![CDATA[Café solo o con ellas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cafe_solo_o_con_ellas-378269255-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/3s2a26nusyhl]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>			
+	
+<channel>
+<title><![CDATA[Caída del cielo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/caida_del_cielo-181357031-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4tx3rf7hjfsv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+	
+	
+	
+	
 	
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
