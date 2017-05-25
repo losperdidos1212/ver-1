@@ -3725,30 +3725,7 @@
 </channel>
 
 
-<channel>
-<title><![CDATA[ El chico de Filadelfia]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-
-
-
-<stream_url><![CDATA[http://streamcloud.eu/e99a9jg5itmb]]></stream_url>
-    <video_type>http</video_type>
-    <buffer_kb>20480</buffer_kb>
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/the_philly_kid-173025954-large.jpg</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/the_philly_kid-173025954-large.jpg" />]]></description>
-</channel>
-
-    
-    
-
-<thumbnail>http://pics.filmaffinity.com/embrace_of_the_vampire-663225970-large.jpg</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/embrace_of_the_vampire-663225970-large.jpg" />]]></description>
-</channel>  
+ 
 
  <channel>
 <title><![CDATA[ El chico de oro]]></title>
