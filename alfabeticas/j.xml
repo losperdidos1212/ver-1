@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas Que Empiezan Por A]]></playlist_name>
 
 <channel>
 <title><![CDATA[ J. Edgar]]></title>
@@ -1654,4 +1657,12 @@
 <thumbnail>http://pics.filmaffinity.com/justino_un_asesino_de_la_tercera_edad-679245045-large.jpg</thumbnail>
 <description>http://pics.filmaffinity.com/justino_un_asesino_de_la_tercera_edad-679245045-large.jpg</description>
 </channel>
+    
+    
+ <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
+
+</items>   
+    
+    
            
