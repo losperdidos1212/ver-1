@@ -325,23 +325,7 @@
 </channel>
 
 
-<channel>
-<title><![CDATA[ Kartum]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
 
-<stream_url><![CDATA[http://streamcloud.eu/4q7ntx0n5iyj]]></stream_url>
-    
-    
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/khartoum-442438632-large.jpg</thumbnail>
-<fanart>http://pics.filmaffinity.com/khartoum-442438632-large.jpg</fanart>
-</channel>
 
 
 <channel>
@@ -940,7 +924,7 @@
 
 
 <channel>
-<title><![CDATA[ Klass (The Class)[/COLOR]</title>
+<title><![CDATA[ Klass (The Class]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
