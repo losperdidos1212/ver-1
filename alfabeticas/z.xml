@@ -3,7 +3,7 @@
 <playlist_name><![CDATA[Peliculas Que Empiezan Por Z]]></playlist_name>
            
 <channel>
-<title><![CDATA[ Zack y Cody, la película (TV)[/COLOR]</title>
+<title><![CDATA[ Zack y Cody, la película (TV)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -35,7 +35,7 @@
 
 
 <channel>
-<title><![CDATA[ Zandalee (En el límite del deseo)[/COLOR]</title>
+<title><![CDATA[ Zandalee (En el límite del deseo)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -66,7 +66,7 @@
 
 
 <channel>
-<title><![CDATA[ Zapped (TV)[/COLOR]</title>
+<title><![CDATA[ Zapped (TV)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -172,7 +172,7 @@
 
 
 <channel>
-<title><![CDATA[ Zombeavers (Castores zombies)[/COLOR]</title>
+<title><![CDATA[ Zombeavers (Castores zombies)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -295,7 +295,7 @@
 
 
 <channel>
-<title><![CDATA[ Zombis nazis (Dead Snow)[/COLOR]</title>
+<title><![CDATA[ Zombis nazis (Dead Snow)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -326,7 +326,7 @@
 
 
 <channel>
-<title><![CDATA[ Zona de Combate (Hyena Road)[/COLOR]</title>
+<title><![CDATA[ Zona de Combate (Hyena Road)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 
 <buffer_kb>20480</buffer_kb>
@@ -403,4 +403,4 @@
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
 
-</items></items>		   
+</items>		   
