@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas Que Empiezan Por Z]]></playlist_name>
 
 <channel>
-<title><![CDATA[ W.[/COLOR]</title>
+<title><![CDATA[ W.]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -153,7 +155,7 @@
 
 
 <channel>
-<title><![CDATA[ Wanted (Se busca)[/COLOR]</title>
+<title><![CDATA[ Wanted (Se busca)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -172,7 +174,7 @@
 
 
 <channel>
-<title><![CDATA[ War Horse (Caballo de batalla)[/COLOR]</title>
+<title><![CDATA[ War Horse (Caballo de batalla)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -400,7 +402,7 @@
 
 
 <channel>
-<title><![CDATA[ Wayne's world 2 ¡¡Qué desparrame 2!![/COLOR]</title>
+<title><![CDATA[ Wayne's world 2 ¡¡Qué desparrame 2!!]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -438,7 +440,7 @@
 
 
 <channel>
-<title><![CDATA[ West Side Story (Amor sin barreras)[/COLOR]</title>
+<title><![CDATA[ West Side Story (Amor sin barreras)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -533,7 +535,7 @@
 
 
 <channel>
-<title><![CDATA[ White God (Dios blanco)[/COLOR]</title>
+<title><![CDATA[ White God (Dios blanco)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -552,7 +554,7 @@
 
 
 <channel>
-<title><![CDATA[ Whitney (TV)[/COLOR]</title>
+<title><![CDATA[ Whitney (TV)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -571,7 +573,7 @@
 
 
 <channel>
-<title><![CDATA[ Why Girls Love Sailors (C)[/COLOR]</title>
+<title><![CDATA[ Why Girls Love Sailors (C)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -799,7 +801,7 @@
 
 
 <channel>
-<title><![CDATA[ With This Ring (TV)[/COLOR]</title>
+<title><![CDATA[ With This Ring (TV)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -951,7 +953,7 @@
 
 
 <channel>
-<title><![CDATA[ WWW.[/COLOR]</title>
+<title><![CDATA[ WWW.]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -986,4 +988,4 @@
 <thumbnail>http://pics.filmaffinity.com/wyatt_earp-839854301-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/wyatt_earp-839854301-large.jpg" />]]></description>
 </channel>
-           
+ </items>          
