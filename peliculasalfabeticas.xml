@@ -34,7 +34,15 @@
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/alfabeticas/d.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
-</channel>  
+</channel> 
+  
+   <channel>       
+<title><![CDATA[Peliculas E]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/alfabeticas/e.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
   
  <channel>       
 <title><![CDATA[Peliculas F]]></title>
@@ -45,13 +53,7 @@
 </channel>  
   
   
- <channel>       
-<title><![CDATA[Peliculas E]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/alfabeticas/e.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
-</channel> 
+ 
 
 <channel>       
 <title><![CDATA[Peliculas G]]></title>
@@ -60,6 +62,14 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/alfabeticas/g.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
 </channel>  
+  
+   <channel>       
+<title><![CDATA[Peliculas H]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/alfabeticas/e.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
   
  <channel>       
 <title><![CDATA[Peliculas J]]></title>
