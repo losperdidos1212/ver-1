@@ -153,6 +153,28 @@
 <buffer_kb>4096</buffer_kb>
 </channel>
 
+ <channel>
+<title><![CDATA[10x20 The Collaboration Fluctuationnn]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamplay.to/f30i3ea64k0l]]></stream_url>
+<buffer_kb>4096</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[10x21 The Collaboration Fluctuationnn]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/20mreltlj7s7]]></stream_url>
+<buffer_kb>4096</buffer_kb>
+</channel> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
 
