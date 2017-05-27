@@ -518,4 +518,9 @@
 <thumbnail>http://pics.filmaffinity.com/quo_vadis-858129210-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/quo_vadis-858129210-large.jpg" />]]></description>
 </channel>
-           
+   
+
+ <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
+
+</items>
