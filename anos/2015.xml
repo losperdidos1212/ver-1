@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas Desde EL Ano 2015]]></playlist_name>
+           
+<channel>
+<title><![CDATA[ A cambio de nada 2015]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/nth8gsim4i04]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_cambio_de_nada-246727834-large.jpg" />]]></description>
+</channel>
+
+
+
+
+
+
+
+
+
+
+ <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
+
+</items>  
