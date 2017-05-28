@@ -5,8 +5,8 @@
 <channel>       
 <title><![CDATA[NO-DO]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/videosyconciertos.xml]]></playlist_url>
+<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/nodo.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
 </channel>
 
