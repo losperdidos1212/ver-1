@@ -5,13 +5,34 @@
 
  
 <channel>
-<title><![CDATA[1 Legado]]></title>
+<title><![CDATA[ACADEMIA DE CABALLERIA DE VALLADOLID.]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/uJmQsMSHKJiNuTSpYpJRWtRssCK.jpg" />]]></description>
-<stream_url><![CDATA[https://lh3.googleusercontent.com/qTN1CpoJ_qes7PZQh3qJIFR6cfZAf1qN6iNOvp1xyHv2Sxwt3H9hMUMSdT0nXaWtNtbo4xDnFLqmpXkImE4EbtwvSdduGrSDt8rQmXyyhEbK2gHosJ0Tk82KKlMrmmsIYomhpQLzoZZTZxDttYliUT2c29FQcyJPSj2skAOw_Zwh_J2f8JDIxPz8kCvVmk9UgkEJBRaS2J0SQ4mm3s4vGysCPLxxylU_6O4od5wjKsfz9YKpZP_7Dx9osZidubOc6FMEIsbKvyUVA8XYDCOL77_hBrnSr7dxmNt2u49mBUDymxnvRei_YrMznSCBL7dSQhRjhF7bx79aSiMDIm1KvD41fRP9BSQEPJLcmVvUu22smGXiotPqcZy4iyhbRMtVuLsDzZzJ75vnjr4FPRG12wf3dcAuXNZx4TqjMLpAwKhPT9xSYSy2KQi6-fW0RjVrJeBbE7OrSxzv6pMfklDEeO5s5SalMTq9dE2D5CpX9uk_4ijLeMeLOk8FoIqY6mVQtSR2xSPhMd96IrKRYKyjrM4fCwy5NjyuoN5I3_wfMYsX5FnDLEtgKF7-9zfYpTkW0h9Cxjbptn2JIbxmVCmLJkE9OeB_PoIJvINig7KOxchahZQauc9j=m22?cpn=2HAliUopQhWORioR&c=WEB&cver=1.20170321]]></stream_url>
+<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/8/1349097516485.mp4]]></stream_url>
 <buffer_kb>20480</buffer_kb>
 </channel>
 
+ <channel>
+<title><![CDATA[Ayer y hoy de las armas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/2/3/1402054456532.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Ayer y hoy de las armas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/7/1402054366675.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+
+ 
 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
