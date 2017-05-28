@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
-<playlist_name><![CDATA[Documentales Variados]]></playlist_name>
+<playlist_name><![CDATA[DOCUMMENTALES VARIADOS]]></playlist_name>
+  
 
-<channel>       
+  
+  
+   <channel>       
 <title><![CDATA[NO-DO]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/nodo.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
-</channel>
+</channel> 
+  
+  
+  
 
-
-
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
 
 </items>
