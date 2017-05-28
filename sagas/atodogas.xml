@@ -22,18 +22,7 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/2_fast_2_furious-199382456-large.jpg" />]]></description>
 </channel>
 
-
-<channel>
-<title><![CDATA[ A todo gas: Los Bandoleros (C)]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/l0i4qcehspyr]]></stream_url>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/the_fast_and_the_furious_los_bandoleros_s-447527731-large.jpg" />]]></description>
-</channel>
-
-
-<channel>
+  <channel>
 <title><![CDATA[ A todo gas: Tokyo Race (A todo gas 3)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
@@ -42,24 +31,54 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/the_fast_and_the_furious_tokyo_drift-349229245-large.jpg" />]]></description>
 </channel>
 
-
 <channel>
-<title><![CDATA[ A todo gas: Turbo-Charged Prelude (C)]]></title>
+<title><![CDATA[Fast & Furious: Aún más rápido (A todo gas 4)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/l8eciu8ique8]]></stream_url>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/the_fast_and_the_furious_turbo_charged_prelude_s-984209563-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dbehchqqh8qu]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_01886b75ef37fd4021244f8830f1f0d6.jpg" />]]></description>
+</channel>
+
+
+
+
+
+<channel>
+<title><![CDATA[Fast & Furious 5 (A todo gas 5)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/dzbzfbiwlnp9]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_64738a20952d5b1758da9166152ba3a9.jpg" />]]></description>
 </channel>
 
 
 <channel>
-<title><![CDATA[ A todo riesgo]]></title>
+<title><![CDATA[ A todo gas 6]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/0hrsb4o30yxq]]></stream_url>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/classe_tous_risques-796509946-large.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/pac36nnwl0pd]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_0a4d709b2b0f2840d47297e38e8bfa59.jpg" />]]></description>
+</channel>
+  
+  <channel>
+<title><![CDATA[ A todo gas 7 (Rapido y Furioso 7)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/t7coqkaslm9e]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_25db4a77cb6743534204a471273846c0.jpg" />]]></description>
+</channel>
+
+  <channel>
+<title><![CDATA[ Fast & Furious 8]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/ezpy3ldrmdu0]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_3719fc9382f541dc329d0612b99d5d0b.jpg" />]]></description>
 </channel>
 
   
