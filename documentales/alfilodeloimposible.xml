@@ -20,6 +20,30 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[Surf: El cazador de olas gigantes]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="Surf: El cazador de olas gigantes" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/3/4/1484487428243.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Benasque: alpinismo en femenino]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="Surf: El cazador de olas gigantes" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/9/2/1483882918729.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+   <channel>
+<title><![CDATA[Espeleología - Vallgornera: Piedra, agua...tiempo (2)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="Surf: El cazador de olas gigantes" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/8/1483279182985.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
