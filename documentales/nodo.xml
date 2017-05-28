@@ -36,7 +36,21 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
+  <channel>
+<title><![CDATA[DESEMBARCO EN LA ISLA DE OESEL]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/9/0/1349097447309.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
+ <channel>
+<title><![CDATA[CON LOS HEROES DEL SOMME]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/0/1349097441905.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
  
 
