@@ -37,10 +37,18 @@
   
   
     <channel>       
-<title><![CDATA[PELICULAS ALFABETICO]]></title>
+<title><![CDATA[PELICULAS POR ORDEN ALFABETICO]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
+      <channel>       
+<title><![CDATA[PELICULAS POR ANO]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/19002000.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
 </channel>
   
