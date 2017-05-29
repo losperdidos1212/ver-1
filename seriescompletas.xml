@@ -70,20 +70,14 @@
   
 
 <channel>       
-<title><![CDATA[Legends of Tomorrow T1]]></title>
+<title><![CDATA[Legends of Tomorrow ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/LegendsofTomorrow.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/LegendsofTomorrowmenu.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
 </channel>
   
-<channel>       
-<title><![CDATA[Legends of Tomorrow T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/LegendsofTomorrowT2.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
-</channel>
+
   
   <channel>       
 <title><![CDATA[Aftermath T 1]]></title>
