@@ -43,6 +43,14 @@
 </channel>
 
 <channel>      
+<title><![CDATA[Desde 2012]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://tara2.org/wp-content/uploads/2015/04/videoclub.png" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/2013.xml]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
 <title><![CDATA[Desde 2013]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="http://tara2.org/wp-content/uploads/2015/04/videoclub.png" />]]></description>
