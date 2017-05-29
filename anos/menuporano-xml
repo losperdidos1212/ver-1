@@ -11,6 +11,14 @@
 </channel>
 
   <channel>      
+<title><![CDATA[Desde 2003]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/El_Hotel_Electrico_%281905%29.ogv/300px--El_Hotel_Electrico_%281905%29.ogv.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/19002000.xml]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+  <channel>      
 <title><![CDATA[Desde 2005]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="http://www.noticiasonline.com/fotos/peliculasrack.jpg" />]]></description>
