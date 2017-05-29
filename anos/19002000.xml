@@ -34,7 +34,13 @@
 </channel>
 
 
-
+<channel>
+<title><![CDATA[EL HUNDIMIENTO DEL TITANIC]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/titanic-516989010-large.jpg" />]]></description>
+<stream_url><![CDATA[http://Blackpuppy@209.126.108.87/classicas/El.Hundimiento.Del.Titanic.(1953).Ingles-Latino.mkv]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
 
 
