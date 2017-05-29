@@ -11,7 +11,14 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/dalkomhan_insaeng_a_bittersweet_life-790809970-large.jpg" />]]></description>
 </channel>
 
-
+<channel>
+<title><![CDATA[ A golpes 2005]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/5r857ki3wh2g]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_golpes-210928503-large.jpg" />]]></description>
+</channel>
 
 
 
