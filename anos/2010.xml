@@ -2,6 +2,15 @@
 <items>
 <playlist_name><![CDATA[Peliculas Desde EL Ano 2010]]></playlist_name>
            
+ <channel>
+<title><![CDATA[A Horrible Way to Die 2010]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/t05txde2l96q]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_horrible_way_to_die-666777483-large.jpg" />]]></description>
+</channel>          
+           
 <channel>
 <title><![CDATA[ A casa por navidad 2010]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
