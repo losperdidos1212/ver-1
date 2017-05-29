@@ -2,6 +2,8 @@
 <items>
 <playlist_name><![CDATA[Peliculas Desde EL Ano 1900 a 2000]]></playlist_name>
            
+           
+           
 <channel>
 <title><![CDATA[ A 23 pasos de Baker Street 1956]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -22,7 +24,14 @@
 </channel>
 
 
-
+<channel>
+<title><![CDATA[ A la caza 1980]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/t9vo6exxjtlr]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cruising-437158888-large.jpg" />]]></description>
+</channel>
 
 
 
