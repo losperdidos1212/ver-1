@@ -2,6 +2,15 @@
 <items>
 <playlist_name><![CDATA[TERROR]]></playlist_name>
   
+  <channel>
+<title><![CDATA[Mondo zombie (2017)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w342/3EGpgveC1gFb2I69F0doAwac89D.jpg" />]]>Mondo zombie nos traslada a un mundo muy parecido al creado por Romero en su trilogía, donde los zombies han tomado posesion de la tierra.</description>
+<stream_url><![CDATA[http://streamcloud.eu/4kj4j4n9zklw/MZTDNDHD.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
 
 
 <channel>
