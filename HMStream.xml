@@ -12,7 +12,7 @@
   
 
 <channel>       
-<title><![CDATA[SALA SERIES EN EMISION]]></title>
+<title><![CDATA[SALA DE SERIES EN EMISION]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></playlist_url>
@@ -20,7 +20,7 @@
 </channel>
   
   <channel>       
-<title><![CDATA[SALA SERIES COMPLETAS]]></title>
+<title><![CDATA[SALA DE SERIES COMPLETAS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></playlist_url>
@@ -28,7 +28,7 @@
 </channel>
   
   <channel>       
-<title><![CDATA[SALA SERIES ONLINE MKV]]></title>
+<title><![CDATA[SALA DE SERIES ONLINE MKV]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesmkv.xml]]></playlist_url>
@@ -36,7 +36,7 @@
 </channel>
   
   <channel>       
-<title><![CDATA[SALA PELICULAS DE ESTRENO]]></title>
+<title><![CDATA[SALA DE PELICULAS DE ESTRENO]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/estrenos/pelisestrenos.xml]]></playlist_url>
@@ -46,7 +46,7 @@
   
   
     <channel>       
-<title><![CDATA[ALMACEN PELICULAS POR ORDEN ALFABETICO]]></title>
+<title><![CDATA[ALMACEN DE PELICULAS POR ORDEN ALFABETICO]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></playlist_url>
@@ -54,7 +54,7 @@
 </channel>
   
       <channel>       
-<title><![CDATA[SALA PELICULAS POR ANO]]></title>
+<title><![CDATA[SALA DE PELICULAS POR ANO]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/menuporano-xml]]></playlist_url>
@@ -62,7 +62,7 @@
 </channel>
   
    <channel>       
-<title><![CDATA[SALA PELICULAS POR GENERO]]></title>
+<title><![CDATA[SALA DE PELICULAS POR GENERO]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></playlist_url>
