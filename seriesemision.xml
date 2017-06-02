@@ -3,9 +3,17 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
   <channel>      
+<title><![CDATA[Misterio del tiempo  T3]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_458bcd99eff8914acbc917cc9a1e4756.jpg" />]]>Serie de TV (2017-Actualidad). La serie sigue a Inger Johanne Vik, una psicóloga y criminóloga que ha trabajado en el FBI y para la policía nacional sueca. Se ve involucrada en la investigación de una serie de asesinatos ocurridos en toda Suecia para proteger a su hija con autismo Stina, que ha sido testigo del primero de ellos. En Nochebuena la obispo Elisabeth Lindgren es asesinada en Uppsala, y la policía nacional envía al detective Ingvar Nyman </description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Modus%20T1%2CXML]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+  <channel>      
 <title><![CDATA[Modus T1]]></title> 
 <logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/modus_wgxza4t6vhh2017-04-18.jpg" />]]>Serie de TV (2015-Actualidad). La serie sigue a Inger Johanne Vik, una psicóloga y criminóloga que ha trabajado en el FBI y para la policía nacional sueca. Se ve involucrada en la investigación de una serie de asesinatos ocurridos en toda Suecia para proteger a su hija con autismo Stina, que ha sido testigo del primero de ellos. En Nochebuena la obispo Elisabeth Lindgren es asesinada en Uppsala, y la policía nacional envía al detective Ingvar Nyman </description>
+<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/modus_wgxza4t6vhh2017-04-18.jpg" />]]>Serie de TV (2017-Actualidad). La serie sigue a Inger Johanne Vik, una psicóloga y criminóloga que ha trabajado en el FBI y para la policía nacional sueca. Se ve involucrada en la investigación de una serie de asesinatos ocurridos en toda Suecia para proteger a su hija con autismo Stina, que ha sido testigo del primero de ellos. En Nochebuena la obispo Elisabeth Lindgren es asesinada en Uppsala, y la policía nacional envía al detective Ingvar Nyman </description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Modus%20T1%2CXML]]></playlist_url>
 <buffer_kb>20480</buffer_kb>
 </channel>
