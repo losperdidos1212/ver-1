@@ -181,7 +181,14 @@
 </channel>
  
  
-
+<channel>
+<title><![CDATA[Capitulo 23]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Arrow.5x22.HD1080p/4RR0VV.S05E23.HDRip.avi.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
  
  
  
