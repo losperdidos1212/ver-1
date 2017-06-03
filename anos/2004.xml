@@ -2,13 +2,23 @@
 <items>
 <playlist_name><![CDATA[Peliculas Desde EL Ano 2003]]></playlist_name>
            
-channel>
+<channel>
 <title><![CDATA[ A Good Woman 2004]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/iglmpujtlyyd]]></stream_url>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/a_good_woman-150946136-large.jpg" />]]></description>
+</channel>
+
+<channel>
+<title><![CDATA[ A por todas de nuevo 2004]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/5kb91c0etecq]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/bring_it_on_again_bring_it_on_2-442350088-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on_again_bring_it_on_2-442350088-large.jpg" />]]></description>
 </channel>
 
 
@@ -19,7 +29,8 @@ channel>
 
 
 
+
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/menuporano-xml]]></prev_page_url>
 
 </items>  
