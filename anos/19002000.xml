@@ -61,6 +61,37 @@
 <thumbnail>http://pics.filmaffinity.com/the_package-114845179-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/the_package-114845179-large.jpg" />]]></description>
 </channel>
+           
+<channel>
+<title><![CDATA[ A la Habana me voy 1941]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/vm8us7jlhde9]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/week_end_in_havana-510745788-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/week_end_in_havana-510745788-large.jpg" />]]></description>
+</channel>
+
+<channel>
+<title><![CDATA[ A la hora señalada 1995]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/83kvecwqvm5y]]></stream_url> 
+<thumbnail>http://pics.filmaffinity.com/nick_of_time-424957185-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/nick_of_time-424957185-large.jpg" />]]></description>
+</channel>
+
+<channel>
+<title><![CDATA[ A la mañana siguiente 1986]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/9kc0h2zhtpis]]></stream_url>    
+<thumbnail>http://pics.filmaffinity.com/the_morning_after-810799358-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_morning_after-810799358-large.jpg" />]]></description>
+</channel>
+           
           
 
 
