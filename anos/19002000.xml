@@ -41,6 +41,27 @@
 <stream_url><![CDATA[http://Blackpuppy@209.126.108.87/classicas/El.Hundimiento.Del.Titanic.(1953).Ingles-Latino.mkv]]></stream_url>
 <buffer_kb>20480</buffer_kb>
 </channel>
+           
+ <channel>
+<title><![CDATA[ A la caza 1980]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/t9vo6exxjtlr]]></stream_url>  
+<thumbnail>http://pics.filmaffinity.com/cruising-437158888-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cruising-437158888-large.jpg" />]]></description>
+</channel>
+
+<channel>
+<title><![CDATA[ A la caza del lobo rojo 1989]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/8xmmhvwntpe6]]></stream_url>  
+<thumbnail>http://pics.filmaffinity.com/the_package-114845179-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_package-114845179-large.jpg" />]]></description>
+</channel>
+          
 
 
 
