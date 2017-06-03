@@ -10,6 +10,16 @@
 <stream_url><![CDATA[http://streamcloud.eu/1rccy1umv5yw]]></stream_url>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/at_any_price-497773180-large.jpg" />]]></description>
 </channel>
+           
+ <channel>
+<title><![CDATA[ A Little Bit Zombie 2012]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/vi9k0l22awqh]]></stream_url> 
+<thumbnail>http://pics.filmaffinity.com/a_little_bit_zombie-622268933-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_little_bit_zombie-622268933-large.jpg" />]]></description>
+</channel>          
 
 
 
