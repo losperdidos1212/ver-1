@@ -2,7 +2,6 @@
 <items>
 <playlist_name><![CDATA[Peliculas Que Empiezan Por C]]></playlist_name>
 
-<SetViewMode>500</SetViewMode>
 
 <channel>
 <title><![CDATA[ C.R.A.Z.Y]]></title>
@@ -11142,6 +11141,6 @@
            
 		   
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
 
 </items>		   
