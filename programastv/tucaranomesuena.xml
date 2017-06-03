@@ -110,6 +110,15 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>  
+  
+    <channel> 
+<title><![CDATA[1x12 Temporada 1 Capitulo 13 Final]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_2a7e6f6cdbb8b7a128eb27e4ada5827b.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/7kpck3ouy466]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
    
 
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
