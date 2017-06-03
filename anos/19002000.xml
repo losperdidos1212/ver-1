@@ -170,7 +170,27 @@
 <stream_url><![CDATA[http://streamcloud.eu/lurwhpvum8cm]]></stream_url>
 <thumbnail>http://pics.filmaffinity.com/regarding_henry-928500658-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/regarding_henry-928500658-large.jpg" />]]></description>
-</channel>           
+</channel>  
+           
+ <channel>
+<title><![CDATA[ A tiro limpio 1963]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/ujq1bhkm3acs]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/a_tiro_limpio-940539993-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_tiro_limpio-940539993-large.jpg" />]]></description>
+</channel>
+
+<channel>
+<title><![CDATA[ A toda marcha 1985]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/awzl2bpwaoz3]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/tuff_turf-530734682-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/tuff_turf-530734682-large.jpg" />]]></description>
+</channel>          
           
 
 
