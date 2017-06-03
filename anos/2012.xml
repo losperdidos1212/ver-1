@@ -22,7 +22,25 @@
 </channel>          
 
 
+<channel>
+<title><![CDATA[ A puerta fría 2012]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/1dr1bs3899bj]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/a_puerta_fria-509978497-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_puerta_fria-509978497-large.jpg" />]]></description>
+</channel>
 
+<channel>
+<title><![CDATA[ A Roma con amor 2012]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/xsshszdjtiqg]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/to_rome_with_love-664840527-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/to_rome_with_love-664840527-large.jpg" />]]></description>
+</channel>
 
 
 
