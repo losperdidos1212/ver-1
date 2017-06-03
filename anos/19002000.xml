@@ -161,7 +161,16 @@
 <thumbnail>http://pics.filmaffinity.com/bring_it_on-249429260-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on-249429260-large.jpg" />]]></description>
 </channel>         
-          
+
+<channel>
+<title><![CDATA[ A propósito de Henry 1991]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/lurwhpvum8cm]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/regarding_henry-928500658-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/regarding_henry-928500658-large.jpg" />]]></description>
+</channel>           
           
 
 
