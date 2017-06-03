@@ -12,6 +12,15 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[la gran muralla]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_3719fc9382f541dc329d0612b99d5d0b.jpg"/>]]>China, siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles, sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana. </description>
+<stream_url><![CDATA[https://archive.org/download/losmascas_yopmail_Boot/10-5-2017laGranMuralla.m1080p.tomgiganto.mkv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
