@@ -22,6 +22,27 @@
 <thumbnail>http://pics.filmaffinity.com/bring_it_on_all_or_nothing_bring_it_on_3-147489221-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on_all_or_nothing_bring_it_on_3-147489221-large.jpg" />]]></description>
 </channel>
+           
+<channel>
+<title><![CDATA[ A Scanner Darkly (Una mirada a la oscuridad 2006)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/6myhu3ks2pcu]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/a_scanner_darkly-250619246-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_scanner_darkly-250619246-large.jpg" />]]></description>
+</channel>
+
+<channel>
+<title><![CDATA[ A solas con ella 2006]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/o52zmjlwmats]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/alone_with_her-572445398-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/alone_with_her-572445398-large.jpg" />]]></description>
+</channel>
+           
 
 
 
