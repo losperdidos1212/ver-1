@@ -13,7 +13,15 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/adrift_open_water_2-663231369-large.jpg" />]]></description>
 </channel>
 
-
+<channel>
+<title><![CDATA[ A por todas de nuevo, una vez más 2006]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/v12ikc84cyd9]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/bring_it_on_all_or_nothing_bring_it_on_3-147489221-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/bring_it_on_all_or_nothing_bring_it_on_3-147489221-large.jpg" />]]></description>
+</channel>
 
 
 
