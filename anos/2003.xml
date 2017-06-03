@@ -11,6 +11,15 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/out_of_time-372295756-large.jpg" />]]></description>
 </channel>
 
+ <channel>
+<title><![CDATA[ A las cinco de la tarde 2003]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/u798j8wt5bru]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/panj_e_asr_at_five_in_the_afternoon-684602479-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/panj_e_asr_at_five_in_the_afternoon-684602479-large.jpg" />]]></description>
+</channel>          
 
 
 
