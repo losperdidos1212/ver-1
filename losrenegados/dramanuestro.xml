@@ -21,7 +21,18 @@
 <buffer_kb>30480</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[theVesse]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_13630d504edb4208832c03db233df626.jpg"/>]]> </description>
+<stream_url><![CDATA[https://archive.org/download/2017051111.38.47_201705/8-5-2017theVessel.m1080p.tomgiganto.mkv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30480</buffer_kb>
+</channel>	
 	
+	
+	
+	https://archive.org/download/2017051111.38.47_201705/8-5-2017theVessel.m1080p.tomgiganto.mkv
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[nStreamVOD.xml]]></prev_page_url>
