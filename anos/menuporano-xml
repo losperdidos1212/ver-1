@@ -35,6 +35,14 @@
 </channel>
 
  <channel>      
+<title><![CDATA[Desde 2006]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://www.noticiasonline.com/fotos/peliculasrack.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/2005-xml]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+ <channel>      
 <title><![CDATA[Desde 2008]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="http://photos1.blogger.com/blogger/806/3046/1600/videoclub.gif" />]]></description>
