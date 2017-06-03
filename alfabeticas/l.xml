@@ -26042,6 +26042,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  		
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
 
 </items>
