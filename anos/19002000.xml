@@ -190,7 +190,17 @@
 <stream_url><![CDATA[http://streamcloud.eu/awzl2bpwaoz3]]></stream_url>
 <thumbnail>http://pics.filmaffinity.com/tuff_turf-530734682-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/tuff_turf-530734682-large.jpg" />]]></description>
-</channel>          
+</channel>   
+           
+<channel>
+<title><![CDATA[ A todo gas 2000]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/6im243hzos07]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/the_fast_and_the_furious-493327751-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_fast_and_the_furious-493327751-large.jpg" />]]></description>
+</channel>           
           
 
 
