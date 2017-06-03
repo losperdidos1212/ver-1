@@ -12,6 +12,16 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[despusDeLaMuerte]]></title>
+<logo_30x30><![CDATA[http://hdfull.tv/tthumb/172x256/movie_a99bc65b6243d1207f6daffe622654ae.jpg]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]>Después de que un club nocturno se derrumbe, una madame se encuentra atrapada en el infierno con cuatro clientes hedonistas, y debe unir al grupo para luchar contra un demonio si quieren tener alguna opción de escapar. </description>
+<stream_url><![CDATA[https://archive.org/download/2017051111.38.47_20170531_2126/7-5-2017despusDeLaMuerte.m1080p.tomgiganto.mkv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
