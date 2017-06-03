@@ -102,6 +102,16 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
+ <channel>
+<title><![CDATA[ A por ellas 2013]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/ojv9e93mj5ls]]></stream_url>    
+<thumbnail>http://pics.filmaffinity.com/the_hot_flashes-743145069-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_hot_flashes-743145069-large.jpg" />]]></description>
+</channel> 
+  
   
   
 
