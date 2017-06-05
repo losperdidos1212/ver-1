@@ -21,7 +21,14 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
-	
+<channel>
+<title><![CDATA[Revancha]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_7123d30b84031ecf8bc49a913d57013f.jpg"/>]]>El argumento del filme gira en torno a un luchador (Jake Gyllenhaal) que, a pesar de gozar de gloria y de premios en su pasado, actualmente ha caído en desgracia. Sin embargo, no se ha rendido y ha tomado la decisión de mejorar su imagen por el bien de su hija.</description>
+<stream_url><![CDATA[https://archive.org/download/losmascas_yopmail_Boot/Redencion.BR-Scr.Anonymous_xxx.avi.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
