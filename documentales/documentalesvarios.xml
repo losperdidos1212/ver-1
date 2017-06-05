@@ -2,6 +2,54 @@
 <items>
  <playlist_name>VARIOS DOCUMENTALES</playlist_name>
  
+  <channel>
+<title><![CDATA[Ingeniería Romana - Los canales del acueduct]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://images-na.ssl-images-amazon.com/images/I/71pTgbEKQJL._SY445_.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/6/1444927509165.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Ingeniería Romana - El teatro de Cartagen]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://images-na.ssl-images-amazon.com/images/I/71pTgbEKQJL._SY445_.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/3/2/1446645080623.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[La web de 'Ingeniería Romana', con vídeos 360º]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://images-na.ssl-images-amazon.com/images/I/71pTgbEKQJL._SY445_.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/3/7/1445269373473.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Ingeniería Romana - Acueductos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://images-na.ssl-images-amazon.com/images/I/71pTgbEKQJL._SY445_.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/2/1/1445710251412.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Ingeniería Romana - Las Ciudades]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://images-na.ssl-images-amazon.com/images/I/71pTgbEKQJL._SY445_.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/9/2/1445706320429.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[La era de la estupidez]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://images-na.ssl-images-amazon.com/images/I/71pTgbEKQJL._SY445_.jpg" />]]></description>
+<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/9/8/1449282368189.mp4?nvb=20170605082909&nva=20170605142909&token=05675a3de35dad307db05]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
 
  
 <channel>
