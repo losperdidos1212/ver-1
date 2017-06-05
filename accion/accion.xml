@@ -2,7 +2,14 @@
 <items>
 <playlist_name><![CDATA[ACCION]]></playlist_name>
   
-   
+   <channel>
+ <title><![CDATA[Mision de asesinos  ]]></title> 
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_521e3600417044a47c377b14378b9266.jpg" />]]>Comienzos del siglo XVII. Tras el final de la invasión japonesa. Corea se encuentra muy debilitada y las revueltas surgen en cada región auspiciadas por los que ambicionan el poder. Las muertes llegarán a la corte y el comandante del ejército, Gyu-Geob, intentará detener al culpable, pero no sospecha que el responsable de dichas muertes está más cercano a él de lo que pensaba. </description>
+<stream_url><![CDATA[http://streamcloud.eu/lsvm8dapji0b]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
   
   <channel>
  <title><![CDATA[El reye Escorpion 4  ]]></title> 
