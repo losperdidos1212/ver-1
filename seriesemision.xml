@@ -240,14 +240,7 @@
  
   
  
-  <channel>       
-<title><![CDATA[El fin de la comedia]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e1ac6897c9599b6024e02a3e5614968a.jpg">Ignatius Farray es un cómico diferente, su concepto extremo del stand-up, su aspecto, los temas que trata y su forma de actuar lo diferencian claramente de los cómicos que solemos ver habitualmente. El escenario es el lugar en el que Ignatius se siente seguro, pero cuando baja de él, se convierte en un padre divorciado, que flirtea con la crisis de los 40 y al que su imagen no ayuda a la hora de encontrar piso o pedir un crédito en un banco. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Elfindelacomedia.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
-</channel>
- 
+  
  <channel>       
 <title><![CDATA[Queridos Blancos]]></title>
 <logo_30x30></logo_30x30>
