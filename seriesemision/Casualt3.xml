@@ -5,10 +5,34 @@
 
  
 <channel>
-<title><![CDATA[Capitulo 3x1]]></title>
+<title><![CDATA[Capitulo 3x01]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f6037b3f7b47630629671b3691cbdc7c.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/hacf6ajrkix3]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 3x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f6037b3f7b47630629671b3691cbdc7c.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6gggngnfunbk]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 3x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f6037b3f7b47630629671b3691cbdc7c.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/eb2mj2k1jr03]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Capitulo 3x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f6037b3f7b47630629671b3691cbdc7c.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/um3iuh4mdr81]]></stream_url>
 <buffer_kb>20480</buffer_kb>
 </channel>
 
