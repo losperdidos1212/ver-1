@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
+
+ <channel>      
+<title><![CDATA[ Mentes Criminales T12]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0abc8df7b1c554f716b8e5fc21af0ced.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/mentescriminales.xml]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
  <channel>      
 <title><![CDATA[ Superstore T2]]></title> 
