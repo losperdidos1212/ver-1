@@ -2,6 +2,14 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
+ <channel>      
+<title><![CDATA[ Los 100 T4]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_ff325d675831a1c8daf728375765680b.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/los100.xml]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
    <channel>      
 <title><![CDATA[ Morir de pie T1]]></title> 
 <logo_30x30></logo_30x30> 
