@@ -3,6 +3,14 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
  <channel>      
+<title><![CDATA[ Casual T4]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f6037b3f7b47630629671b3691cbdc7c.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Casualt3.xml]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>      
 <title><![CDATA[ Teachers T1]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_092975cddf36d7f60d3843fc546bb279.jpg" />]]></description>
