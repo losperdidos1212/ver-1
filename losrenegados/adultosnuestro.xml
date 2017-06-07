@@ -21,6 +21,18 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
+
+	<channel>
+<title><![CDATA[Fiesta de masajes de unas zorras hermosas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
