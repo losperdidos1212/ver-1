@@ -3,6 +3,14 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
   <channel>      
+<title><![CDATA[ Chicago P.D. T4]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Chicago%20P.DT4.xml]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+  <channel>      
 <title><![CDATA[ NCIS: Nueva Orleans T3]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_7c13cd49d31d253cd27795b889a68788.jpg" />]]></description>
