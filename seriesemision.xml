@@ -3,6 +3,14 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
   <channel>      
+<title><![CDATA[ Elementary T5]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_da6115fa2d80091759cd0eca73bbacd3.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/ElementaryT5.xml]]></playlist_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+  <channel>      
 <title><![CDATA[ The Leftovers T3]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cbcc016c16f197bd2fa8a24f28a3072f.jpg" />]]></description>
