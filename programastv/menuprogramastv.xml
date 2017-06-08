@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[PROGRAMAS TV]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[Mentes Criminales: Sin Fronteras T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e8e68cbcd13c007c639398bbed27c7ca.jpg">]]></description>
+<playlist_url><![CDATA[http://hdfull.tv/tthumb/172x265/show_51c0e23d571ab9343fc7eec989ee7137.jpg]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
   
    <channel>       
 <title><![CDATA[Fantastic Duo T1]]></title>
