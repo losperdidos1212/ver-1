@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[PROGRAMAS TV]]></playlist_name>
   
+  
+   <channel>       
+<title><![CDATA[Fantastic Duo T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e8e68cbcd13c007c639398bbed27c7ca.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Fantastic%20Duo%20T1.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>  
 
   
   
