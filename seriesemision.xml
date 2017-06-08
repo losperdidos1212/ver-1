@@ -3,6 +3,14 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
  <channel>       
+<title><![CDATA[Genius T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Genius%20T1.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel> 
+ 
+ <channel>       
 <title><![CDATA[Better Call Saul T3]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e932aef68f3f93c049fc0fc9a779e9bc.jpg">]]></description>
