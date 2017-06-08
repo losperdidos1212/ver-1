@@ -3,10 +3,18 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
   <channel>       
+<title><![CDATA[Candice Renoir T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_7ed1231687a49d6d240207e1d45862bd.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Candice%20RenoirT1.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+ 
+  <channel>       
 <title><![CDATA[Mentes Criminales: Sin Fronteras T2]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e8e68cbcd13c007c639398bbed27c7ca.jpg">]]></description>
-<playlist_url><![CDATA[http://hdfull.tv/tthumb/172x265/show_51c0e23d571ab9343fc7eec989ee7137.jpg]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Mentes%20Criminales%3A%20Sin%20Fronteras%20T2.xml]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
 </channel>
  
