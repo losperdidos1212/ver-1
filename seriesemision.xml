@@ -3,6 +3,14 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
   <channel>       
+<title><![CDATA[MECH-X4 T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c847b066ae2c9e98589f240b60488963.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/MECH-X4%20T1.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+ 
+  <channel>       
 <title><![CDATA[Candice Renoir T1]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_7ed1231687a49d6d240207e1d45862bd.jpg">]]></description>
