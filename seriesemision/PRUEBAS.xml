@@ -2,10 +2,17 @@
 <items>
 <playlist_name><![CDATA[Pruebas server nuevo]]></playlist_name>
   
+      <channel>       
+<title><![CDATA[infantiles]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/infantiles/animacion.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
   
   
      <channel>
-<title><![CDATA[partagora]]></title>
+<title><![CDATA[nooooooo]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_44f225d4776c46052779bfac93c403bd.jpg" />]]>acaba de completar un viaje por todo el mundo para encontrar y documentar una extraordinaria selecciÃ³n de criaturas mÃ¡gicas. Llegando a Nueva York para hacer una breve parada en su camino, donde podrÃ­a haber llegado y salido sin incidentesâ¦pero no para un Muggle llamado Jacob, un caso perdido de magia, y la fuga de algunas criaturas fantÃ¡sticas de Newt, que podrÃ­an causar problemas el mundo mÃ¡gico y en el mundo Muggle</description>
 <stream_url><![CDATA[http://partagora.com/aron/scorpion-temporada-3-76756/scorpion-3x-06,784154.mkv]]></stream_url>
