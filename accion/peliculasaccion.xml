@@ -1,4 +1,6 @@
-
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas Desde EL Accion]]></playlist_name>
 
 <channel>
 <title><![CDATA[ MACHETE ]]></title>
@@ -959,7 +961,7 @@
 <channel>
 <title><![CDATA[ Los pinguinos de madagascar]]></title>
 <stream_url><![CDATA[http://streamcloud.eu/jw2gqq2322i3/L0s_p1ng111n0s_d3_M4d4g4sc4r_L4_p3l1c11l4_HDRip.avi.html]]></stream_url>
-<thumbnail>http://vignette2.wikia.nocookie.net/doblaje/images/0/06/Pinguinos_FichaTV-500x347.jpg/revision/latest?cb=20131120224411&path-prefix=es</thumbnail>
+
 <fanart></fanart>
 </channel>
 
@@ -1099,4 +1101,7 @@
 </channels>
 
 
+ <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/menuporano-xml]]></prev_page_url>
 
+</items>  
