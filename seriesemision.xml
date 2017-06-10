@@ -2,6 +2,14 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
+<channel>       
+<title><![CDATA[Versailles T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e8883068c7aaa37a0baace90cf090ae6.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/versailles.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+ 
  
 <channel>       
 <title><![CDATA[Teen Wolf T1]]></title>
