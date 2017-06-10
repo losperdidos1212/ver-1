@@ -153,34 +153,14 @@
 <channel>
 <title><![CDATA[  El protector]]></title>
 <stream_url><![CDATA[http://streamcloud.eu/7nkbrwwpfqnm]]></stream_url>
-<thumbnail>http://www.peliculaonline.com.ve/imagen/pelicula/4236/2/linea-de-fuego/</thumbnail>
-<description><![CDATA[<img src="http://www.peliculaonline.com.ve/imagen/pelicula/4236/2/linea-de-fuego/</fanart>
+<description><![CDATA[<img src="http://www.peliculaonline.com.ve/imagen/pelicula/4236/2/linea-de-fuego" />]]></description>
 </channel>
 
 
 
-<channel>
-<title><![CDATA[  ]]></title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
 
 
-<channel>
-<title><![CDATA[ ]]></title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
-</items>
-</channel>
 
-<channel>
-<name> [COLOR yellow] Belicas [/COLOR] </name>
-<thumbnail>http://www.hdfondos.eu/pictures/2016/0716/1/th1_462375.jpg</thumbnail>
-<fanart></fanart>
-<items>
 
 
 
@@ -600,7 +580,7 @@
 
 
 <channel>
-<title><![CDATA[ Extincion(Bienvenido a Harmony)</title>
+<title><![CDATA[ Extincion(Bienvenido a Harmony)]]></title>
 <stream_url><![CDATA[http://streamcloud.eu/5oojg4frr04e]]></stream_url>
 <thumbnail>http://image.tmdb.org/t/p/w396/vBKvcNPmBCdzaYYBseS2aAQlfOX.jpg</thumbnail>
 <description><![CDATA[<img src="http://image.tmdb.org/t/p/w396/vBKvcNPmBCdzaYYBseS2aAQlfOX.jpg" />]]></description>
@@ -707,7 +687,7 @@
 
 
 <channel>
-<title><![CDATA[ It (Eso)</title>
+<title><![CDATA[ It (Eso)]]></title>
 <stream_url><![CDATA[http://streamcloud.eu/503nmew91at6/IT_Eso__1990__HDRip_Castellano.avi.html]]></stream_url>
 <thumbnail>http://pics.filmaffinity.com/it-644420327-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/it-644420327-large.jpg" />]]></description>
@@ -749,7 +729,7 @@
 
 
 <channel>
-<title><![CDATA[  Lago Eden (Eden Lake)</title>
+<title><![CDATA[  Lago Eden (Eden Lake)]]></title>
 <stream_url><![CDATA[http://streamcloud.eu/1pv9v91gnn5c/D091_2008_Lago.Eden_DVDRip_ESP_LiNkMaN.avi.html]]></stream_url>
 <thumbnail>http://gnula.nu/wp-content/uploads/2015/01/Eden_Lake_poster_usa.jpg</thumbnail>
 <description><![CDATA[<img src="http://gnula.nu/wp-content/uploads/2015/01/Eden_Lake_poster_usa.jpg" />]]></description>
@@ -839,8 +819,8 @@
 <thumbnail>http://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/6/8/6/5051893014686.jpg</thumbnail>
 <description><![CDATA[<img src="http://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/6/8/6/5051893014686.jpg" />]]></description>
 </channel>
-</items>
-</channel>
+
+
 
 
 
@@ -992,7 +972,7 @@
 </channel>
 
 <channel>
-<title><![CDATA[ Intensa Mente (Del Reves)</title>
+<title><![CDATA[ Intensa Mente (Del Reves)]]></title>
 <stream_url><![CDATA[http://streamcloud.eu/lrniau0v6el0]]></stream_url>
 <thumbnail>http://2.bp.blogspot.com/-Kysy9-aKSGU/VZL0_TPPnNI/AAAAAAAAC5A/L9A99Z8XDzc/s640/150.jpg</thumbnail>
 <fanart></fanart>
@@ -1060,31 +1040,6 @@
 </channel>
 
 
-<channel>
-<title><![CDATA[ ]]></title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
-
-
-
-<channel>
-<title><![CDATA[ ]]></title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
-
-
-<channel>
-<title><![CDATA[ ]]></title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
-
-
 
 
 
@@ -1098,7 +1053,7 @@
 </channel>
 </items>
 </channel>
-</channels>
+
 
 
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
