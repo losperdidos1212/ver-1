@@ -1,0 +1,40 @@
+
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Saga BLADE]]></playlist_name>
+
+
+
+
+
+<channel>
+<title><![CDATA[ BLADE]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/gvwawpcc84w7]]></stream_url>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Blade_movie.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/blade-397609933-large.jpg" />]]></description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ BLADE 2 ]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/nzucq9qwn8xd]]></stream_url>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6d/Blade_II_movie.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/blade_ii_blade_2-832857919-large.jpg" />]]></description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ BLADE 3]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/soegxfvzo633]]></stream_url>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/34/Blade_Trinity_OST.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/blade_trinity_blade_3-956890691-large.jpg" />]]></description>
+</channel>
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
