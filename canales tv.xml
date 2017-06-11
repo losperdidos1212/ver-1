@@ -9,6 +9,13 @@
 <stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8]]></stream_url>
 </channel>
   
+        <channel>
+<title><![CDATA[A3series]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8]]></stream_url>
+</channel> 
+  
             <channel>
 <title><![CDATA[la 6]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -16,29 +23,7 @@
 <stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8]]></stream_url>
 </channel>
   
-  
-           <channel>
-<title><![CDATA[mega]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8]]></stream_url>
-</channel>
-  
-           <channel>
-<title><![CDATA[A3series]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8]]></stream_url>
-</channel> 
-  
-          <channel>
-<title><![CDATA[TVgalicia]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8]]></stream_url>
-</channel> 
-  
-        <channel>
+         <channel>
 <title><![CDATA[neox]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
@@ -51,6 +36,25 @@
 <description></description>
 <stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8]]></stream_url>
 </channel> 
+  
+  
+           <channel>
+<title><![CDATA[mega]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8]]></stream_url>
+</channel>
+  
+     
+  
+          <channel>
+<title><![CDATA[TVgalicia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8]]></stream_url>
+</channel> 
+  
+ 
   
        <channel>
 <title><![CDATA[tv3]]></title>
