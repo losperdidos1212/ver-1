@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Saga Arma letal]]></playlist_name>
+
+
+
+<channel>
+<title><![CDATA[ Arma letal (1987]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/29l6fxbrfy4e/Arma_Letal_I-DvdRip-ESP.avi.html]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/young_guns-854087350-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Arma letal 2 (1989]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/uole1r1h2mw2]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/lethal_weapon_2-844556124-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Arma letal 3 (1992]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/f7hekbe52f7e/Arma_Letal_III-DvdRip-ESP.avi.html]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/lethal_weapon_3-400957456-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Arma letal 4 (1998]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/z7yt2bh4na1c]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/lethal_weapon_4-865805132-large.jpg" />]]></description>
+</channel>
+
+
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
