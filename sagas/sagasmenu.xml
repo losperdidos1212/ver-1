@@ -2,10 +2,18 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
+     <channel>       
+<title><![CDATA[American pie]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://peliculasderisa.net/wp-content/uploads/2012/06/american-pie-1-peliculas-de-risa.jpg">Una legión de jóvenes inexpertos viven obsesionados con el sexo opuesto. Jim, uno de ellos, está desesperado porque todavía es virgen. Además, desde que sus padres le sorprendieron viendo películas pornográficas, su situación en casa ha empeorado, porque su bienintencionado padre pretende ocuparse de su educación sexual; en el colegio, las cosas no van mucho mejor: su relación con una chica, gracias a un programa de intercambio, tiene toda la pinta de fracasar. Así que su último recurso se llama Michelle, una integrante de la banda de música que resulta ser todo un prodigio.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/American%20pie.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
    <channel>       
 <title><![CDATA[12 Trampas]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://img.ecartelera.com/sagas/000/45.jpg">El detective de New Orleans Danny Fisher (John Cena) está a punto de vivir el peor día de su vida: Miles Jackson (Aidan Gillen), un criminal terrorista que se ha escapado de prisión, secuestra a su novia (Ashley Scott) y lo reta a superar doce pruebas en las calles de la ciudad de Luisiana, si quiere salvarla. (FILMAFFINITY)]]></description>
+<description><![CDATA[<img src="http://img.ecartelera.com/sagas/000/45.jpg">El detective de New Orleans Danny Fisher (John Cena) está a punto de vivir el peor día de su vida: Miles Jackson (Aidan Gillen), un criminal terrorista que se ha escapado de prisión, secuestra a su novia (Ashley Scott) y lo reta a superar doce pruebas en las calles de la ciudad de Luisiana, si quiere salvarla.]]></description>
 <playlist_url><![CDATA[http://pics.filmaffinity.com/12_rounds-267025219-large.jpg]]></playlist_url>
 <buffer_kb>10240</buffer_kb>
 </channel>
