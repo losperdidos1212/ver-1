@@ -57,7 +57,14 @@
 <buffer_kb>20480</buffer_kb>
 </channel>	
 	
-	
+<channel>
+<title><![CDATA[colonia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_7123d30b84031ecf8bc49a913d57013f.jpg"/>]]>Una joven pareja se ve envuelta en el golpe de Estado de Chile en 1973. Él es secuestrado por la policía secreta de Pinochet, y ella le seguirá la pista hasta una zona del sur del país llamada Colonia Dignidad, que aparenta ser una misión de caridad regida por un sacerdote</description>
+<stream_url><![CDATA[https://archive.org/download/losmascas_yopmail_Boot/Coloniahdripelitetorrent.net.avi]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
