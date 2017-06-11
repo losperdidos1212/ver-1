@@ -58,6 +58,20 @@
 <description></description>
 <stream_url><![CDATA[http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8]]></stream_url>
 </channel>
+  
+   <channel>
+<title><![CDATA[real madrid tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8]]></stream_url>
+</channel>
+  
+   <channel>
+<title><![CDATA[MIMUSICA HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?]]></stream_url>
+</channel>
    
   
      
