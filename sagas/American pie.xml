@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Saga American pie]]></playlist_name>
+  
+      <channel>
+<title><![CDATA[American Pie (1999)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.ecartelera.com/carteles/5100/5138/001_p.jpg" />]]>Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva mision: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaidas en la jungla, portando unicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que solo haga fotografias de reconocimiento. Pero el plan no saldra como estaba previsto</description>
+<stream_url><![CDATA[https://archive.org/download/RamboIIlaMission1985/Rambo11982.avi]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[Rambo. Acorralado, parte II]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/rambo_first_blood_part_ii-584733504-mmed.jpg" />]]>Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva mision: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaidas en la jungla, portando unicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que solo haga fotografias de reconocimiento. Pero el plan no saldra como estaba previsto</description>
+<stream_url><![CDATA[https://archive.org/download/RamboIIlaMission1985/Rambo2.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+     <channel>
+<title><![CDATA[Rambo III]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.ecartelera.com/peliculas/rambo-iii/carteles" />]]>Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistan, Rambo regresa al servicio para intentar liberar a su amigo.</description>
+<stream_url><![CDATA[https://archive.org/download/RamboIIlaMission1985/Rambo3.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+     <channel>
+<title><![CDATA[John Rambo: Vuelta Al Infierno]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.ecartelera.com/carteles/1400/1499/001_p.jpg" />]]>"John Rambo", el ex-boina verde que, después de una vida marcada por la guerra, vive una solitaria y apacible existencia en la jungla del norte de Tailandia, pescando y cazando cobras para luego venderlas. Todo esto cambia cuando un grupo de misioneros necesitan que les guie hasta la frontera con Birmania para suministrar medicinas y alimentos a unos refugiados asediados por el despiadado ejército birmano, que ha hecho de las torturas y los asesinatos algo habitual. Rambo no tendra mas remedio que volver a involucrarse. Se vera obligado a hacer lo que mejor sabe, porque a pesar suyo lleva la guerra en la sangre</description>
+<stream_url><![CDATA[https://archive.org/download/RamboIIlaMission1985/Rambo4HdSylvesterStallone2008.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+
+  
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
