@@ -335,6 +335,14 @@
 <description><![CDATA[<img src="http://www.lascabezasdesanjuan.es/teatromunicipal/images/stories/documentos/cine/FROZEN.redimensionado.jpg" />]]></description>
 <logo_30x30><![CDATA[]]></logo_30x30>
 </channel>
+ 
+ <channel>
+<title><![CDATA[vaiana]]></title>
+<stream_url><![CDATA[https://archive.org/download/2017051111.38.47_20170531_2120/Vaianamicrohdelitetorrent.net.mp4]]></stream_url>
+<description><![CDATA[<img src="http://www.lascabezasdesanjuan.es/teatromunicipal/images/stories/documentos/cine/FROZEN.redimensionado.jpg" />]]></description>
+<logo_30x30><![CDATA[]]></logo_30x30>
+</channel>
+ 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
