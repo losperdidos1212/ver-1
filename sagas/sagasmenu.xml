@@ -2,13 +2,7 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
-  <channel>       
-<title><![CDATA[BLADE]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/blade-397609933-large.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/2Blade.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
-</channel>
+ 
   
     <channel>       
 <title><![CDATA[Aullidos]]></title>
