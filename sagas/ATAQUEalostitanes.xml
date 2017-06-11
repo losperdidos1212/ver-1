@@ -1,0 +1,58 @@
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Saga ATAQUE DE LOS TITANES]]></playlist_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<channel>
+<title><![CDATA[ ATAQUE DE LOS TITANES,LA PELICULA ]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/30zh9j40fckd]]></stream_url>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ ATAQUE A LOS TITANES ]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/3tbrfyd2wgfg]]></stream_url>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ ATAQUE A LOS TITANES 2, EL FIN DEL MUNDO ]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/hpg0a10gxzn3]]></stream_url>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ ATAQUE A LOS TITANES PARTE 2 ]]></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</channel>
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
+
+
