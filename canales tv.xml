@@ -3,359 +3,71 @@
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
              <channel>
-<title><![CDATA[BEIN LA lIGA PRUEBA1]]></title>
+<title><![CDATA[antena 3]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge1868.livesports.pw/live/verbeinlaliga0e11dc89d568/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8]]></stream_url>
 </channel>
   
             <channel>
-<title><![CDATA[M. MOTOGP]]></title>
+<title><![CDATA[la 6]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge1870.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8]]></stream_url>
 </channel>
   
   
            <channel>
-<title><![CDATA[M.FORMULA1]]></title>
+<title><![CDATA[mega]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://fast-iptv.com:9000/live/111/111/983.m3u8]]></stream_url>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8]]></stream_url>
 </channel>
   
            <channel>
-<title><![CDATA[DEPORTES 2]]></title>
+<title><![CDATA[A3series]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge1868.livesports.pw/live/verdeportedosm00b21af0a5a/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8]]></stream_url>
 </channel> 
   
           <channel>
-<title><![CDATA[DEPORTES 1]]></title>
+<title><![CDATA[TVgalicia]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge1870.livesports.pw/live/verdeporteone5e281e2e8f20/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8]]></stream_url>
 </channel> 
   
         <channel>
-<title><![CDATA[FUTBOL]]></title>
+<title><![CDATA[neox]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge1868.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8]]></stream_url>
 </channel> 
   
          <channel>
-<title><![CDATA[LA LIGATV]]></title>
+<title><![CDATA[nova]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge1867.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8]]></stream_url>
 </channel> 
   
        <channel>
-<title><![CDATA[BEIN LA LIGA]]></title>
+<title><![CDATA[tv3]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://fast-iptv.com:9000/live/111/111/29.m3u8]]></stream_url>
+<stream_url><![CDATA[http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8]]></stream_url>
 </channel> 
   
   
      <channel>
-<title><![CDATA[BEIN SPORTS]]></title>
+<title><![CDATA[3/24]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge1870.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8]]></stream_url>
 </channel> 
   
   
-    <channel>
-<title><![CDATA[COMEDY CENTRAL]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge204.livesports.pw/live/vercomedycentral6b595e876/index.m3u8]]></stream_url>
-</channel> 
-  
-  <channel>
-<title><![CDATA[TCM]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge1868.livesports.pw/live/vertcmespd1f470f86e0d2cb4/index.m3u8]]></stream_url>
-</channel> 
-  
-    <channel>
-<title><![CDATA[SYFY]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge8.telesport.pw/live/syfy/index.m3u8]]></stream_url>
-</channel> 
-  
-     <channel>
-<title><![CDATA[TNT]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge202.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8]]></stream_url>
-</channel>
-  
-  
-       <channel>
-<title><![CDATA[AXN WHITE PROBAR ESTE AVER]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://149.100.19.148:8000/play/a02k]]></stream_url>
-</channel>
-  
-      <channel>
-<title><![CDATA[AXN]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge202.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8]]></stream_url>
-</channel>
-  
-     <channel>
-<title><![CDATA[FOX life]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge2.telesport.pw/live/foxlife/index.m3u8]]></stream_url>
-</channel>
-  
-     <channel>
-<title><![CDATA[FOX]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge204.livesports.pw/live/verfoxespana247756767558f1/index.m3u8]]></stream_url>
-</channel>
-  
-     <channel>
-<title><![CDATA[M.SERIES XTRA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge201.livesports.pw/live/vera6669184f0b71095624027/index.m3u8]]></stream_url>
-</channel>
-  
-  
-  
-    <channel>
-<title><![CDATA[M.SERIES]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8]]></stream_url>
-</channel>
-  
-    <channel>
-<title><![CDATA[CALLE 13]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge202.livesports.pw/live/vermseries9492273540e14a5/index.m3u8]]></stream_url>
-</channel>
-  
-     <channel>
-<title><![CDATA[CALLE 13]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge8.telesport.pw/live/calle13/index.m3u8]]></stream_url>
-</channel>
-  
-    <channel>
-<title><![CDATA[PARAMOUNT]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://cdn1.shurs.xyz/verdirectotv/5/chunks.m3u8]]></stream_url>
-</channel>
-  
-    <channel>
-<title><![CDATA[HOLLYWOOD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge201.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8]]></stream_url>
-</channel>
-  
-  <channel>
-<title><![CDATA[XTRA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge1868.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8]]></stream_url>
-</channel>
-  
-   <channel>
-<title><![CDATA[DCINE]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge201.livesports.pw/live/verdicneesp9084d46f8d69b2/index.m3u8]]></stream_url>
-</channel>
-  
-    <channel>
-<title><![CDATA[ACCION]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge1868.livesports.pw/live/ver5a4fe7bbe7bf12a76ea7f8/index.m3u8]]></stream_url>
-</channel> 
-  
-   <channel>
-<title><![CDATA[ACCION]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge204.livesports.pw/live/veraccion177662786c60c28d/index.m3u8]]></stream_url>
-</channel> 
-  
-   <channel>
-<title><![CDATA[ ESTRENOS]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge202.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8]]></stream_url>
-</channel> 
-  
-  <channel>
-<title><![CDATA[ INTERECONOMIA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1991986513_b500000.m3u8]]></stream_url>
-</channel> 
-  
-  
-   <channel>
-<title><![CDATA[ INTERECONOMIA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1991986513_b500000.m3u8]]></stream_url>
-</channel> 
-  
-   <channel>
-<title><![CDATA[ LA OTRA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8]]></stream_url>
-</channel>
-  
-  
-     <channel>
-<title><![CDATA[ TELEMADRD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8]]></stream_url>
-</channel>
-  
-  
-        <channel>
-<title><![CDATA[CANAL EXTREMADURA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8]]></stream_url>
-</channel>
-  
-      <channel>
-<title><![CDATA[REAL MADRID TV]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on]]></stream_url>
-</channel>
-  
-    <channel>
-<title><![CDATA[ATRESERIES HD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on]]></stream_url>
-</channel>
-  
-      <channel>
-<title><![CDATA[MEGA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on]]></stream_url>
-</channel>
-  
-  
-      <channel>
-<title><![CDATA[ LA SEXTA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on]]></stream_url>
-</channel>
-  
-  
-     <channel>
-<title><![CDATA[ANTENA 3]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on]]></stream_url>
-</channel>
-  
-   <channel>
-<title><![CDATA[TOROS]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge5.telesport.pw/live/cazaypesca/index.m3u8]]></stream_url>
-</channel>
-  
-    <channel>
-<title><![CDATA[CAZA Y PESCA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge5.telesport.pw/live/cazaypesca/index.m3u8]]></stream_url>
-</channel>
-  
-     <channel>
-<title><![CDATA[AXN WHITE]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://149.100.19.148:8000/play/a02k]]></stream_url>
-</channel>
-  
-     <channel>
-<title><![CDATA[#0]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge6.telesport.pw/live/plus1/index.m3u8]]></stream_url>
-</channel>
-  
-   <channel>
-<title><![CDATA[Futbol]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12497.ts]]></stream_url>
-</channel>
-  
-     <channel>
-<title><![CDATA[Deportes 1l]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge11.verliga.me/live/plusdeportes/index.m3u8]]></stream_url>
-</channel>
-  
-  
-    <channel>
-<title><![CDATA[Motos]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://185.53.161.147:8888/play/a021]]></stream_url>
-</channel>
-  
-    <channel>
-<title><![CDATA[13]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://185.53.161.147:8888/play/a014]]></stream_url>
-</channel>
-  
-  <channel>
-<title><![CDATA[LIFE Tv (peliculas,series)]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8]]></stream_url>
-</channel>
-
-<channel>
-<title><![CDATA[accion (cine)]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://edge2.telesport.pw/live/plusaccion/index.m3u8]]></stream_url>
-</channel>
-  
- <channel>
-<title><![CDATA[Dcine]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://cdn2.shurs.xyz/verliga/3/playlist.m3u8]]></stream_url>
-</channel> 
   
  
   
