@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
+   <channel>       
+<title><![CDATA[Ataque de los titanes]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/shingeki_no_kyojin_kohen_jiyu_no_tsubasa_attack_on_titan_part_ii_wings_of_freedom-582924666-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/2ATAQUEalostitanes.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+</channel>
+  
     <channel>       
 <title><![CDATA[Arma letal]]></title>
 <logo_30x30></logo_30x30>
