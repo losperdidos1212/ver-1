@@ -2,6 +2,22 @@
 <items>
  <playlist_name>VARIOS DOCUMENTALES</playlist_name>
  
+ <channel>
+<title><![CDATA[US Army, Maquinas de Guerra Parte 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9f2c38f72d8ce066a61f854a8e3cb5a3.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1n3hl1hvw94w]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[US Army, Maquinas de Guerra Parte 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9f2c38f72d8ce066a61f854a8e3cb5a3.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/3nihmg5umzgn]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
 
  
   <channel>
