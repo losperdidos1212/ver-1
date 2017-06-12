@@ -4,7 +4,7 @@
   
   
   
-     <channel>
+<channel>
 <title><![CDATA[Blinky Bill, el koala]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]></description>
@@ -13,7 +13,14 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 	
-	
+<channel>
+<title><![CDATA[Vaiana]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/2017051111.38.47_20170531_2120/Vaianamicrohdelitetorrent.net.mkv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
