@@ -90,7 +90,13 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
  
-
+<channel>
+<title><![CDATA[Capitulo 2x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9c10836b5b7e1314a28f852472d2478e.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Sh4d0wshvnt3rs.2x11.m720p.mkv/Sh4d0whvnt3rs.2x12.m720p.DD.5.1.mkv.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
  
 
