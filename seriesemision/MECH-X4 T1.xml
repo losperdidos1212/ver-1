@@ -43,10 +43,33 @@
 <stream_url><![CDATA[http://streamcloud.eu/udphb5bp4qbs/1x04.nn3chx4.DTV.mkv.html]]></stream_url>
 <buffer_kb>20480</buffer_kb>
 </channel>
+
+<channel>
+<title><![CDATA[Capitulo 1x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c847b066ae2c9e98589f240b60488963.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/pz0ozb2zynd8]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
+<channel>
+<title><![CDATA[Capitulo 1x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c847b066ae2c9e98589f240b60488963.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/1x02.nn3chx4.DTV..mkv/1x07.nn3chx4.DTV.mkv.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
-
-
+<channel>
+<title><![CDATA[Capitulo 1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c847b066ae2c9e98589f240b60488963.jpg" />]]></description>
+<stream_url><![CDATA[]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+ 
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
 
 </items>
