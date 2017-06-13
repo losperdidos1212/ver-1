@@ -74,6 +74,17 @@
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>	
+
+<channel>
+<title><![CDATA[conexion estambul]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_7123d30b84031ecf8bc49a913d57013f.jpg"/>]]>Nick Tschiller, un duro policía de Hamburgo, viaja a través de Turquía y Rusia para recuperar a su hija de manos de un agente secreto turco que está preparando un atentado en Moscú.</description>
+<stream_url><![CDATA[https://archive.org/download/losmascas_yopmail_Boot/ConexinEstambulmicrohdelitetorrent.net.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>	
+	
+	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
