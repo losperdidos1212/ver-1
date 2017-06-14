@@ -68,7 +68,13 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
-
+<channel>
+<title><![CDATA[Capitulo 4x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
+<stream_url><![https://archive.org/download/C.PD.4x07.m720p.mkv/C.PD.4x10.m720p.es.mkv]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
 
 
 
