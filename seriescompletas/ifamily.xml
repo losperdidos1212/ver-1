@@ -10,7 +10,7 @@
 </description> 
 <stream_url><![CDATA[http://streamcloud.eu/3nuq8zbdpptz]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
    <channel>
@@ -20,7 +20,7 @@
 </description> 
 <stream_url><![CDATA[http://streamcloud.eu/xoczvonewe3l]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
      <channel>
@@ -30,7 +30,7 @@
 </description> 
 <stream_url><![CDATA[http://streamcloud.eu/sdzwue6rus4g/1F4M1LY.S01E04.m720p.HDTV.RAiDON.mkv.html]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
      <channel>
@@ -40,7 +40,7 @@
 </description> 
 <stream_url><![CDATA[http://streamcloud.eu/zt6iluyz59q3/iF4M1LY.S01E05.m720p.HDTV.RAiDON.mkv.html]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
    <channel>
@@ -50,7 +50,7 @@
 </description> 
 <stream_url><![CDATA[http://streamcloud.eu/xymmzkrh9wew]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
     <channel>
@@ -60,7 +60,7 @@
 </description> 
 <stream_url><![CDATA[http://streamcloud.eu/jh0ydb703tjo]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
    <channel>
@@ -70,7 +70,7 @@
 </description> 
 <stream_url><![CDATA[http://streamcloud.eu/d0w1x86bkezu]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
