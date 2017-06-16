@@ -4,6 +4,15 @@
   
   
  <channel>       
+<title><![CDATA[Noche en el museo]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/xRPkamZ4vkkklL3dpts5l4Mqem9.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/Noche%20en%20el%20museo.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
+ <channel>       
 <title><![CDATA[Los mercenarios]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://www.peliculasrey.com/wp-content/uploads/2015/04/los-indestructibles-1.jpeg">]]></description>
