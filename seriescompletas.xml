@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
+  
+ <channel>       
+<title><![CDATA[La que se avecina ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://cdn.carbyne.ps.ooyala.com/mediaset/images/production/3580_S009_E003_la-que-se-avecina-temporada-9-capitulo-110_3588_thumbnail_05377a1f7bc82bdd104bf66d9ffa30e0.jpg">Ignatius Farray es un cómico diferente, su concepto extremo del stand-up, su aspecto, los temas que trata y su forma de actuar lo diferencian claramente de los cómicos que solemos ver habitualmente. El escenario es el lugar en el que Ignatius se siente seguro, pero cuando baja de él, se convierte en un padre divorciado, que flirtea con la crisis de los 40 y al que su imagen no ayuda a la hora de encontrar piso o pedir un crédito en un banco. ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/laqueseavecina.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
 
 <channel>       
 <title><![CDATA[El fin de la comedia T1]]></title>
