@@ -2,6 +2,14 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
+ <channel>       
+<title><![CDATA[The Ranch T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_ef4b5ca7750b36acd1d7396fe7889388.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/The%20Ranch%20T2.xml]]></playlist_url>
+<buffer_kb>10240</buffer_kb>
+ </channel>
+ 
 <channel>       
 <title><![CDATA[The kennedys after camelot T1]]></title>
 <logo_30x30></logo_30x30>
