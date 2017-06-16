@@ -10,7 +10,7 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/nodo.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel> 
   
   <channel>       
@@ -18,7 +18,7 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://www.libreriadesnivel.com/static/img/9788487746314.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/alfilodeloimposible.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel> 
    
 <channel>       
@@ -26,7 +26,7 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://www.libreriadesnivel.com/static/img/9788487746314.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/documentalesvarios.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>  
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
