@@ -9,7 +9,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/sw4o1vhhzfek]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
  
  <channel>
@@ -17,7 +17,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/8m11632sahcl]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
  <channel>
@@ -25,7 +25,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/08b356mz2082]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
  <channel>
@@ -33,7 +33,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/ej28omisgowi]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>
@@ -41,7 +41,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/z3n0yv66ghpy]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>
@@ -49,7 +49,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/pl2pd5ab8whj]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>
@@ -57,7 +57,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/cdmlwop3zy2r]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>
@@ -65,7 +65,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/n6kuubmbr89t]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>
@@ -73,7 +73,15 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
 <stream_url><![CDATA[https://archive.org/download/C.PD.4x07.m720p.mkv/C.PD.4x10.m720p.es.mkv]]></stream_url>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 4x11]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_cf36c01ad54c6770da98966348f660a4.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/cbmikwtbwple]]></stream_url>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 
