@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[Manos a la obra]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://image2.casadellibro.com/m/ig/2/2587042.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Manosalaobra.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
  <channel>       
 <title><![CDATA[Aqui no hay quien viva ]]></title>
 <logo_30x30></logo_30x30>
