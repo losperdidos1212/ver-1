@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
+  
+ <channel>       
+<title><![CDATA[Los mercenarios]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.peliculasrey.com/wp-content/uploads/2015/04/los-indestructibles-1.jpeg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/mercenarios.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
  
   
     <channel>       
