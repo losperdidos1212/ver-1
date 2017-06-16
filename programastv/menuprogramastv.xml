@@ -10,7 +10,7 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e8e68cbcd13c007c639398bbed27c7ca.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Fantastic%20Duo%20T1.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>  
 
   
@@ -20,7 +20,7 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f1b7be50d8d6085e77cf79b22bf14374.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/planetacalleja.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel> 
   
 
@@ -29,7 +29,7 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f1b7be50d8d6085e77cf79b22bf14374.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/tucaranomesuena.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>   
   
  <channel>       
@@ -37,7 +37,7 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_09ef0416933e9a01c0673528d8e2f220.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/MasterChef%20Espa%C3%B1a%20T5.xml]]></playlist_url>
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>   
    
   
