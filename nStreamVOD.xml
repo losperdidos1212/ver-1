@@ -8,7 +8,7 @@
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src='http://evasandoval.es/wp-content/uploads/2012/07/accion.jpg'/>]]></description> 
 <playlist_url><![CDATA[http://31.14.133.86/todas/files/accion.xml]]></playlist_url>  
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>      
@@ -16,7 +16,7 @@
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src='http://evasandoval.es/wp-content/uploads/2012/07/accion.jpg'/>]]></description> 
 <playlist_url><![CDATA[http://31.14.133.86/todas/files/comedia.xml]]></playlist_url>  
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>      
@@ -24,7 +24,7 @@
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src='http://evasandoval.es/wp-content/uploads/2012/07/accion.jpg'/>]]></description> 
 <playlist_url><![CDATA[http://31.14.133.86/todas/files/drama.xml]]></playlist_url>  
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>      
@@ -32,7 +32,7 @@
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src='http://evasandoval.es/wp-content/uploads/2012/07/accion.jpg'/>]]></description> 
 <playlist_url><![CDATA[http://31.14.133.86/todas/files/infantiles.xml]]></playlist_url>  
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>      
@@ -40,7 +40,7 @@
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src='http://evasandoval.es/wp-content/uploads/2012/07/accion.jpg'/>]]></description> 
 <playlist_url><![CDATA[http://31.14.133.86/todas/files/terror.xml]]></playlist_url>  
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>      
@@ -48,7 +48,7 @@
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src='http://evasandoval.es/wp-content/uploads/2012/07/accion.jpg'/>]]></description> 
 <playlist_url><![CDATA[http://31.14.133.86/todas/files/ultimas.xml]]></playlist_url>  
-<buffer_kb>10240</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 
 

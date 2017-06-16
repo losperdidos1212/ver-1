@@ -8,7 +8,7 @@
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/9TkUQrMmb8qyYLt5B4bN3xPHkL2.jpg"/>]]>n Johnny Castle es un experto profesor de baile y un amante consumado. Por su parte, Baby Houseman es una aburrida e inocente adolescente de 17 años</description>
 <stream_url><![CDATA[http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
   
@@ -16,7 +16,7 @@
 <title><![CDATA[ OT. El Reencuentro - Concierto]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/6/2/1477961367226.mp4?nvb=20170528221116&nva=20170529041116&token=0f00cd5feac195affd440]]></stream_url>
 <description><![CDATA[<img src="http://www.lavanguardia.com/r/GODO/LV/p3/WebSite/2016/07/28/Recortada/img_jsilvestre_20160728-132545_imagenes_lv_terceros_poster_ot-153-klcE--656x848@LaVanguardia-Web.jpg" />]]></description>
 </channel>
@@ -26,7 +26,7 @@
 <title><![CDATA[ AC/DC: Let There Be Rock, la película]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/dcxq3ki7k6j5]]></stream_url>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_let_there_be_rock_the_movie_live_in_paris-226633958-large.jpg" />]]></description>
 </channel>
@@ -36,7 +36,7 @@
 <title><![CDATA[ AC/DC: Live at Donington]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/hfdhj0wbg4fb]]></stream_url>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_live_at_donington-173521737-large.jpg" />]]></description>
 </channel>
@@ -46,7 +46,7 @@
 <title><![CDATA[ AC/DC: Live at River Plate]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/pp5iqqsvdg6u]]></stream_url>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_live_at_river_plate-152111993-large.jpg" />]]></description>
 </channel>
@@ -56,7 +56,7 @@
 <title><![CDATA[ AC/DC: No Bull]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/z0ehipf3ny50]]></stream_url>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_no_bull_ac_dc_live_at_the_plaza_de_toros_madrid_1996-119781701-large.jpg" />]]></description>
 </channel>
@@ -67,7 +67,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[Music Vox TV]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
        <channel>
@@ -76,7 +76,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[https://ia801607.us.archive.org/9/items/BackItUpPrinceRoyceJenniferLopezPitbull/Back%20It%20Up%20-%20Prince%20Royce(%20Jennifer%20Lopez%20-%20Pitbull).mp4]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
      <channel>
@@ -85,7 +85,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
     <channel>
@@ -94,7 +94,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
   <channel>
@@ -103,7 +103,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase=on]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
   
@@ -113,7 +113,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/on-the-rocks-bad-romance.mp4]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
   <channel>
@@ -122,7 +122,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/seaside-rendezvous.mp4]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
    <channel>
@@ -131,7 +131,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[http://nuestrahuella.com/videos/recomendados-musical/the-kings-singers-overture-the-barber-of-seville.mp4]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
     <channel>
@@ -140,7 +140,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/El%20Baile%20de%20la%20Yegua%20-%20Subtitulado%20Espa%f1ol%20(PSY%20ft.%20Hyuna)%20Oficial%20%5bHD_CC%5d(360p_H.264-AAC).mp4]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
    <channel>
@@ -149,7 +149,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/akira-miyagawas-beethovens-symphony-No-5-and-mambo-no-5-combination.mp4]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
   
     <channel>
@@ -158,7 +158,7 @@
 <description><![CDATA[<img src="" />]]> </description>
 <stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/recomendados-musical/kings-singers-im-yours.mp4]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
    
   
