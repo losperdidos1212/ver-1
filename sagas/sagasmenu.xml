@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
+    <channel>       
+<title><![CDATA[REGRESO AL FUTURO]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/original/x4N74cycZvKu5k3KDERJay4ajR3.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/saga%20regreso%20al%20futuro.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
    <channel>       
 <title><![CDATA[EL PADRINO]]></title>
 <logo_30x30></logo_30x30>
