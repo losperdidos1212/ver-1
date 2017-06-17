@@ -3,6 +3,14 @@
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
    <channel>       
+<title><![CDATA[CRESPUSCULO]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/9RDU2zi40Km7crbo6Z974EpUoIL.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/CRESPUSCULO.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+   <channel>       
 <title><![CDATA[EXPEDIENTE WARREN]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/opKxoICmroU1qFKtxwMZwQY9mA2.jpg">]]></description>
