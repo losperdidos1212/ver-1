@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
+   <channel>       
+<title><![CDATA[EL PADRINO]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.mundodescargas.com/cine/listados/imagenes/covers/2_4232.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/el%20padrino.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
   <channel>       
 <title><![CDATA[MISION IMPOSIBLE]]></title>
 <logo_30x30></logo_30x30>
