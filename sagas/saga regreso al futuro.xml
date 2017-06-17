@@ -21,3 +21,8 @@
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/original/pP2a4MBQbIeZMbErBWMjxTT5Npb.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/rwswz71teek5]]></stream_url>
 </channel>
+  
+  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
