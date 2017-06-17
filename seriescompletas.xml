@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+<channel>       
+<title><![CDATA[7vidas]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.elnortedecastilla.es/multimedia/201501/29/media/010-gal-amparo-baro.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/7Vidas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+  
   <channel>       
 <title><![CDATA[El equipo A]]></title>
 <logo_30x30></logo_30x30>
