@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[SAGA MISION IMPOSIBLE]]></playlist_name>
+                       
+
+
+<channel>
+<title><![CDATA[MISION IMPOSIBLE]]></title>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/vmj2PzTLC6xJvshpq8SlaYE3gbd.jpg">]]></description>                                                                
+<stream_url><![CDATA[http://streamcloud.eu/u50o14qr1wig/__mision-imposible.mp4.html]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[MISION IMPOSIBLE 2]]></title>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/ievn5VY863CqLIgAoiTytcDNAHm.jpg">]]></description>                                                                
+<stream_url><![CDATA[http://streamcloud.eu/6uu8lqf5z7es/Mision_imposible_2_HDRip_2000.avi.html]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[MISION IMPOSIBLE 3]]></title>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7s5LDTamAuRwPMjSCEB6o2Yhqsf.jpg">]]></description>                                                                
+<stream_url><![CDATA[http://streamcloud.eu/7f929u0m1n7b/Mision_Imposible_3.avi.html]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[MISION IMPOSIBLE:PROTOCOLO FANTASMA]]></title>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/sSM24exCWGyGN6l97jRqxc0pq5r.jpg">]]></description>                                                                
+<stream_url><![CDATA[http://streamcloud.eu/q19465zby7yz/__mision-imposible-protocolo-fantasma.mp4.html]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[MISION IMPOSIBLE:NACION SECRETA]]></title>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/8WkkLtF9Ut5onLym3m8TI0fjWEA.jpg">]]></description>                                                                
+<stream_url><![CDATA[http://streamcloud.eu/c2gampt526ss/MisImp720es.mkv.html]]></stream_url>
+</channel>
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
