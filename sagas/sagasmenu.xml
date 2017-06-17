@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[PAJARES Y FERNANDO ESTESO]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/original/7tc7eEfmnL5292dDCHb5KKQOj7L.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/saga%20andres%20pajares%20y%20fernando%20esteso.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
    <channel>       
 <title><![CDATA[CRESPUSCULO]]></title>
 <logo_30x30></logo_30x30>
