@@ -81,6 +81,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[Bandidas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_002476e1bf0201fdac9f274467791535.jpg"/>]]>n Sara Sandoval es una bella y altiva aristÃ³crata mexicana que se ha educado en Europa y disfruta de los privilegios de una plÃ¡cida existencia, sin privaciones de ninguna clase. Al otro extremo del espectro social estÃ¡ MarÃ­a Ãlvarez. VolcÃ¡nica y rebelde, ella es la deslumbrante hija de un peÃ³n de campo. Ellas provienen de lados opuestos de la escala social y, en circunstancias normales, sus caminos probablemente no se hubiesen cruzado nunca. Pero el destino une a estas dos mujeres cuando una banda de pistoleros a sueldo, que trabajan para unos avariciosos barones del ferrocarril, roba las tierras de sus respectivas familias, atacando y asesinando a sus seres mÃ¡s queridos. Empujadas por la necesidad, MarÃ­a y Sara forman de mala gana una alianza con la intenciÃ³n de hallar cumplida venganza. Al decidir tomar cartas en el asunto, se convierten a su vez en prÃ³fugas de la ley y en ladronas de bancos. </description>
+<stream_url><![CDATA[http://streamcloud.eu/zzbk1jm657p0]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></prev_page_url>
