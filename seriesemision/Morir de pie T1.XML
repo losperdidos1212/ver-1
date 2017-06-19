@@ -21,7 +21,13 @@
 </channel>
  
  
- 
+ <channel>
+<title><![CDATA[1x03 Piloto]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/3rocy6s8fbdv]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 
