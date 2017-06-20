@@ -194,7 +194,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
 
-  
+ <channel>
+<title><![CDATA[3x23]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1aecc64e718fef7025c295ef023fc1f8.jpg" />]]>Team Scorpion must put aside their personal and romantic predicaments when anonymous hackers with unknown motives take control of U.S. military aircraft and warships and point weapons at American cities. </description>
+<stream_url><![CDATA[https://archive.org/download/trutorangvice_yopmail_ScT3/S.crp.3x23.m720p.es.mkv.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
