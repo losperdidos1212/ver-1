@@ -52,6 +52,74 @@
 </channel> 
  
  
+  <channel>
+<title><![CDATA[1x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/4/1441292331645.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+   <channel>
+<title><![CDATA[1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/4/6/1441374197464.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+    <channel>
+<title><![CDATA[1x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/2/1438611419626.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/5/1438697680558.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+  <channel>
+<title><![CDATA[1x11]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/1/5/1441722705951.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[1x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/1/1441807185818.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ <channel>
+<title><![CDATA[1x13]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/9/5/1441982066159.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
+  <channel>
+<title><![CDATA[1x14]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/0/1/1442241055410.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
  
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
