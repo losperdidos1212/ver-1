@@ -10,7 +10,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
+ <channel>
+<title><![CDATA[1x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1214aa4d36e260d2fc62b346058bbec5.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/8/1438265918188.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/menudocumentales.xml]]></prev_page_url>
 
