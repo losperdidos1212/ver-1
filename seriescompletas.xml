@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[Breaking Bad]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_2982716b2e74da3fc6db9a039afc5d1a.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Breaking%20Bad.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
 <channel>       
 <title><![CDATA[7vidas]]></title>
 <logo_30x30></logo_30x30>
