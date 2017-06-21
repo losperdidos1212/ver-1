@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+    <channel>       
+<title><![CDATA[The Blacklist: Redemption]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_a9fc64d16a89a9beede0551ae63842fe.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/The%20Blacklist%3A%20Redemption.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
   <channel>       
 <title><![CDATA[Breaking Bad]]></title>
 <logo_30x30></logo_30x30>
