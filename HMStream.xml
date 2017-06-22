@@ -2,13 +2,7 @@
 <items>
 <playlist_name><![CDATA[Menu De Inicio De Serieslynx]]></playlist_name>
   
-  <channel>       
-<title><![CDATA[SALA DE CINE LOS RENEGADOS]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.bandmine.com/photos/62/37/85/b/p_0lx.jpg">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+  
   
 
 <channel>       
