@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
 <playlist_name><![CDATA[Peliculas Que Empiezan Por Y]]></playlist_name>
-           
-<channel>
-<title><![CDATA[ Melanie]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://videowood.tv/video/19ysh]]></stream_url>
-<thumbnail>http://Miguel Herrán,  Antonio Bachiller,  Luis Tosar,  María Miguel,  Antonia Guzmán, Felipe Vélez,  Patricia Santos,  Miguel Rellán,  Fernando Albizu,  Sebastián Haro, Roberto Álvarez,  Luis Zahera,  Ález Barahona,  Lara Sajén,  Mario Llorente, Carlos Olalla,  Beatriz Argüello,  Iris Alpáñez,  Adelfa Calvo,  Manolo Caro</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/23_paces_to_baker_street-243340430-large.jpg" />]]></description>
-</channel>           
+          
  
 <channel>
 <title><![CDATA[ A 23 pasos de Baker Street 1956]]></title>
