@@ -2,11 +2,11 @@
 <items>
 <playlist_name><![CDATA[Pruebas server nuevo]]></playlist_name>
   
-      <channel>       
-<title><![CDATA[prueba20 11-06-2016]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/accion/pruebadrama.xml]]></playlist_url>
+ <channel>
+<title><![CDATA[pruebas]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
+<stream_url><![CDATA[http://185.176.193.151/dl/d614a6dbc75a67b334b46fb5f2bf82a2/594bdbb0/oo6554991f6871b20210caa69c0f1c1044.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
