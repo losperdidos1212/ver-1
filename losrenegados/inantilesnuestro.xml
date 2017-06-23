@@ -40,6 +40,52 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[El jardín de las palabras 2013]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]>La historia tiene lugar en la temporada de lluvia de Japón durante el mes de junio. Un aprendiz de zapatero llamado Takao se encuentra dibujando zapatos en un jardín japonés cuando conoce a una misteriosa mujer mayor que él. Desde ese primer encuentro, ambos siguen reuniéndose y estrechando su re </description>
+<stream_url><![CDATA[http://streamcloud.eu/oo0njv3tsn0b/El_jard__n_de_las_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[buscando a dory 2016 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]>Un año después de los acontecimientos narrados en "Buscando a Nemo", Dory vive apaciblemente con Marlin y su hijo Nemo. Pero durante un viaje para ver cómo las mantarrayas migran de vuelta a casa, los problemas de memoria de Dory parecen desaparecer durante un segundo: recuerda que tiene una familia e inmediatamente decide emprender viaje para reencontrarse con sus padres, a los que perdió hace años.</description>
+<stream_url><![CDATA[http://streamcloud.eu/y6sganmemkj1/Buscando_a_Dory_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
+	
+<channel>
+<title><![CDATA[cigueñas 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]>En Montaña Cigüeña, viven las cigüeñas que hace tiempo enviaban
+bebés a los padres de todo el mundo. Ahora distribuyen los paquetes de una compañía mundial de Internet. Junior, la mejor cigüeña repartidora de la compañía, está a punto de conseguir un ascenso, pero accidentalemete activa la Máquina de Producción de Bebés y el resultado es una adorable niña ilegal. Para evitar que su jefe se entere, Junior y su amiga Tulip, el único ser humano de Montaña Cigüeña, se apresuran a entregar el bebé en un viaje salvaje que podría afectar a la integridad de más de una familia y restablecer la verdadera misión de las cigüeñas en el mundo. Debut en el largometraje de Doug Sweetland, responsable del corto de Pixar "Presto" </description>
+<stream_url><![CDATA[http://streamcloud.eu/y6sganmemkj1/Buscando_a_Dory_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[heidi 2015]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]>Heidi (Anuk Steffe) es una huérfana de ocho años, criada por su abuelo (Bruno Ganz) en las montañas suizas. Junto a su amigo, Pedro el cabrero (Quirin Agrippi), cuida de las cabras del abuelo y disfruta de la libertad en la montaña. Pero un día su tía Dete (Anna Schinz) decide llevársela a la ciudad de Frankfurt para ser educada en una familia adinerada. Allí hará amistad con la hija inválida de la familia, Klara (Isabelle Ottmann)</description>
+<stream_url><![CDATA[http://streamcloud.eu/1zncvbaut61v/Heidi_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[el principito 2015 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]>Para que todo salga bien en la prestigiosa Academia Werth, la pequeña y su madre se mudan a una casa nueva. La pequeña es muy seria y madura para su edad y planea estudiar durante las vacaciones siguiendo un estricto programa organizado por su madre; pero sus planes son perturbados por un vecino excéntrico y generoso. Él le enseña un mundo extraordinario en donde todo es posible. Un mundo en el que el Aviador se topó alguna vez con el misterioso Principito. Entonces comienza la aventura de la pequeña en el universo del Principito. Y así descubre nuevamente su infancia y comprenderá que sólo se ve bien con el corazón. Lo esencial es invisible a los ojos. Cuenta con las voces (en versión inglesa) de James Franco, Rachel McAdams, Marion Cotillard, Jeff Bridges, Benicio Del Toro, Mackenzie Foy y Paul Giamatti. 
+ </description>
+<stream_url><![CDATA[http://streamcloud.eu/h5nvndzqty02/El_principito_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
