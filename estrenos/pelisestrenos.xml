@@ -2,6 +2,15 @@
 <items>
 <playlist_name><![CDATA[Ultimas Agregadas Varios Idiomas]]></playlist_name>
  
+  <channel> 
+<title><![CDATA[KONG: La Isla de la Calavera Calidad:HDRip Castellano]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://i.blogs.es/e45e8c/kong-la-isla-calavera-poster-alternativo-imagen/450_1000.jpg" />]]> </description> 
+<stream_url><![CDATA[http://streamcloud.eu/0khxq7i0n26b]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
  <channel> 
 <title><![CDATA[La bella y la bestia DVDRip-Castellano]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -323,14 +332,7 @@
   
 
  
-    <channel> 
-<title><![CDATA[KONG: La Isla de la Calavera]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://i.blogs.es/e45e8c/kong-la-isla-calavera-poster-alternativo-imagen/450_1000.jpg" />]]> </description> 
-<stream_url><![CDATA[http://streamcloud.eu/r2kb8czqqklt]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
+   
   
   
   
