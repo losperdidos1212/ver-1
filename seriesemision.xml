@@ -3,6 +3,15 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
 <channel>       
+<title><![CDATA[Testigo de cargo T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dd1585042678a8e58f4d26653a54152c.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/testigocargo.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+<channel>       
 <title><![CDATA[Acara perro T1]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5bf139354ad891ab252624f24810d2a2.jpg">]]></description>
