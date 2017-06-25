@@ -11,16 +11,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 
-<channel>
-<title><![CDATA[El contable]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_70363ddec3b4a37f6bbdc692d5d587ed.jpg" />]]>Christian Wolff es un contable y genio matemático, un hombre obsesivo con el orden y con mucha más afinidad con los números que con las personas, que lleva una doble vida como asesino despiadado.</description>
-<stream_url><![CDATA[https://archive.org/download/images_20170624_1106/conta.mkv]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel> 
-	
-	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
