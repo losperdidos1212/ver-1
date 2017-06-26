@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+ <channel>       
+<title><![CDATA[De parte de quien]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.miguelgila.com/wp-content/uploads/2016/04/Gila-ChusLampreave-720x720-ElMundoDeGila.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Departedequien.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
   <channel>       
 <title><![CDATA[Ay senor senor]]></title>
 <logo_30x30></logo_30x30>
