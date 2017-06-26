@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[EL SENOR DE LOS ANILLOS]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/else%C3%B1ordelosanillos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
     <channel>       
 <title><![CDATA[DANIEL EL TRAVIESO]]></title>
 <logo_30x30></logo_30x30>
