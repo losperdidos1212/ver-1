@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Saga Conan]]></playlist_name>
+
+
+
+
+
+
+
+
+<channel>
+<title><![CDATA[ CONAN, El Barbaro (1982)]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/etfx39sm18pi]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/conan_the_barbarian-679144812-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/conan_the_barbarian-679144812-large.jpg" />]]></description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ CONAN, El Destructor (1984)]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/hvzfia3fqzvf]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/conan_the_destroyer-402762331-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/conan_the_destroyer-402762331-large.jpg" />]]></description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ El Guerrero Rojo (1985) ]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/g1adonoa7ktg]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/red_sonja-279579102-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/red_sonja-279579102-large.jpg" />]]></description>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ CONAN, El Barbaro (2016)]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/lmfxdrfe5vkb]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/conan_the_barbarian-894153978-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/conan_the_barbarian-894153978-large.jpg" />]]></description>
+</channel>
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
+
+
