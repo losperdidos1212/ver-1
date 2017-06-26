@@ -3,6 +3,14 @@
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
   <channel>       
+<title><![CDATA[Ay senor senor]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://2.bp.blogspot.com/-yYD3mAhzu0M/VGalDMWgYgI/AAAAAAAAAhY/P_8dlLbD1Ec/s1600/A_Ay_Se_or_Se_or_Serie_de_TV-707763823-large.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/AYsenorsenor.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>       
 <title><![CDATA[Academia de baile Gloria]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://www.diccionariosdigitales.net/CARATULAS/Academia%20de%20baile%20Gloria%20(2001)%20Serie%20de%20TV.jpg"/>]]></description>
