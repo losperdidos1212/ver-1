@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Peliculas Por Sagas]]></playlist_name>
   
+    <channel>       
+<title><![CDATA[DANIEL EL TRAVIESO]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/dennis_the_menace-376949357-large.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/DanielTravieso.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
    <channel>       
 <title><![CDATA[CONAN]]></title>
 <logo_30x30></logo_30x30>
