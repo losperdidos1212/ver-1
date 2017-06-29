@@ -18,11 +18,19 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
-    <channel>       
-<title><![CDATA[nuevo server 4]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://cldup.com/LZT0t4mAqy.mp4]]></playlist_url>
+   <channel>
+<title><![CDATA[nuevo server3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
+<stream_url><![CDATA[http://www.spruto.tv/get_file/8/d16d9e45e8410d0ec98969f813710458/205000/205337/205337.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>
+<title><![CDATA[nuevo server4]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
+<stream_url><![CDATA[https://cldup.com/LZT0t4mAqy.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
