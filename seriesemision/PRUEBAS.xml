@@ -3,18 +3,18 @@
 <playlist_name><![CDATA[Pruebas server nuevo]]></playlist_name>
   
  <channel>
-<title><![CDATA[pruebas3]]></title>
+<title><![CDATA[video nuevo server]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
-<stream_url><![CDATA[http://file-st10.karelia.ru/6fq5j6/3057d994db7485a19ed31f6a89792caa/f6d05d99b6d8b0a03d26951bd641f7f1/All.abj.3x15.m720p.es.mp4]]></stream_url>
+<stream_url><![CDATA[https://fs4.stormo.tv/remote_control.php?time=1498726756&cv=077bb9cb3e47356018131fb9e6f23eb5&lr=0&cv2=f2806dec30ba07277731d69aa2cef489&file=%2Fvideos%2F160000%2F160683%2F160683.mp4&cv3=4cda23e64014fc13576ec27dc66fdfe0]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
 <channel>
-<title><![CDATA[pruebas3]]></title>
+<title><![CDATA[nuevo server2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
-<stream_url><![CDATA[http://file-st10.karelia.ru/6fq5j6/3057d994db7485a19ed31f6a89792caa/f6d05d99b6d8b0a03d26951bd641f7f1/All.abj.3x15.m720p.es.mp4?force]]></stream_url>
+<stream_url><![CDATA[https://fs3.stormo.tv/remote_control.php?time=1498728028&cv=6f8af54894f578d070478e7bdb12cef8&lr=0&cv2=d00601794db25f8fe64f0326ac0f1169&file=%2Fvideos%2F150000%2F150883%2F150883.mp4&cv3=4cda23e64014fc13576ec27dc66fdfe0]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
