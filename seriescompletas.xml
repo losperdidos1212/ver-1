@@ -10,6 +10,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
+<channel>       
+<title><![CDATA[Entre fantasmas Temporada 1 a la Temporada 5]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://divxatope1.com/pictures/c/1994_alli-abajo.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/entrefantasmas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
+  
   <channel>       
 <title><![CDATA[V (Los visitantes) AUDIO:Dual Ano:1984]]></title>
 <logo_30x30></logo_30x30>
