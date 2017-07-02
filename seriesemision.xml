@@ -2,13 +2,7 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
- <channel>       
-<title><![CDATA[Mortadelo y Filemon]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dd1585042678a8e58f4d26653a54152c.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/mortadeloyfilemon.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel
+
  
 <channel>       
 <title><![CDATA[Testigo de cargo T1]]></title>
