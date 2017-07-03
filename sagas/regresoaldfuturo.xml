@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Saga Regreso Al Futuro]]></playlist_name>
+  
+      <channel>
+<title><![CDATA[Regreso al Futuro]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.pordede.com/content/covers/mediacover-72-4.png" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/8o5yguab3ft3/Regreso_al_Futuro_MicroHD_1080p_AC3_5.1.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[Regreso al Futuro II]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.pordede.com/content/covers/mediacover-124-4.png" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/f6og7fvgg7ta/Regreso_al_Futuro_2_MicroHD_1080p_AC3_5.1.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+     <channel>
+<title><![CDATA[Regreso al Futuro III]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.pordede.com/content/covers/mediacover-152-4.png" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/p5rxb3q1rmpw/Regreso_al_Futuro_3_MicroHD_1080p_AC3_5.1.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+
+
+
+  
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
