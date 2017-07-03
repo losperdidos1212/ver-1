@@ -3,6 +3,14 @@
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
    <channel>       
+<title><![CDATA[Cosas de casa]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://diarium.usal.es/amoren/files/2012/11/cosas-de-casa768.jpeg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/COSASDECASA.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
+   <channel>       
 <title><![CDATA[Mortadelo y Filemon]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dd1585042678a8e58f4d26653a54152c.jpg">]]></description>
