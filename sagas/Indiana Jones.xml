@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Saga Indiana Jones]]></playlist_name>
+  
+      <channel>
+<title><![CDATA[Indiana Jones y la última cruzada]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.pordede.com/content/covers/mediacover-57-4.png" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6s0239w8cx6m/Indiana_Jones_y_la_ultima_cruzada_MicroHD_1080p_AC3_5.1.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[Indiana Jones y el templo maldito]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.pordede.com/content/covers/mediacover-55-4.png" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1n08pupwetzi/Indiana_Jones_y_el_templo_maldito_MicroHD_1080p_AC3_5.1.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+     <channel>
+<title><![CDATA[Indiana Jones: En busca del arca perdida]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.pordede.com/content/covers/mediacover-53-4.png" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/9es2t761hb1y/Indiana_Jones_En_busca_del_arca_perdida_MicroHD_1080p_AC3_5.1.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+   <channel>
+<title><![CDATA[Indiana Jones y el reino de la calavera de cristal]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.pordede.com/content/covers/mediacover-169-4.png" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/0t5j8oht8moi/Indiana_Jones_y_el_reino_de_la_calavera_de_cristal_MicroHD_1080p_AC3_5.1.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+
+
+
+  
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/sagas/sagasmenu.xml]]></prev_page_url>
+
+</items>
