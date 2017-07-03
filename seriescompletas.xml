@@ -3,6 +3,14 @@
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
    <channel>       
+<title><![CDATA[Aladina]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://blog.casapia.com/wp-content/uploads/2012/03/fundacion-aladina1.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/ALADINA.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
+   <channel>       
 <title><![CDATA[Cosas de casa]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://diarium.usal.es/amoren/files/2012/11/cosas-de-casa768.jpeg">]]></description>
