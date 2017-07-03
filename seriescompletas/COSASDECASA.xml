@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Ay senor senor]]></playlist_name>
 
 
 
@@ -1720,3 +1722,6 @@
                         <description><![CDATA[<img src="http://diarium.usal.es/amoren/files/2012/11/cosas-de-casa768.jpeg" />]]></description>                      
                         <stream_url><![CDATA[http://streamcloud.eu/cxtwgytu3sga/Cosas.de.Casa.9x22.Castellano.mp4.html]]></stream_url>
                            </channel>
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+    </items>
