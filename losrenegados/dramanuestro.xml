@@ -46,6 +46,43 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 	
+
+<channel>
+<title><![CDATA[El caso Fischer 2014]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_70363ddec3b4a37f6bbdc692d5d587ed.jpg" />]]>(El sacrificio del peón) narra la historia de la preparación y del legendario enfrentamiento por el campeonato del mundo entre Bobby Fischer, campeón de ajedrez norteamericano, y el campeón soviético Boris Spassky. El duelo, que tuvo lugar en 1972, en plena Guerra Fría, fue mucho más que un conjunto de partidas para conquistar un campeonato; prueba de ello es que captó la atención televisada de todo el mundo..</description>
+<stream_url><![CDATA[http://streamcloud.eu/m9vnfdln1693/El_caso_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 		
+	
+	<channel>
+<title><![CDATA[el contable 2015]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_70363ddec3b4a37f6bbdc692d5d587ed.jpg" />]]>Christian Wolff (Ben Affleck) tiene desde niño un leve autismo que le hace ser muy meticuloso con el orden y poco comunicativo, pero al mismo tiempo resulta ser un genio de las matemáticas. Hombre extremadamente tranquilo, obsesivo y con mucha más afinidad con los números que con las personas, lleva sin embargo una doble vida: como contable local con una pequeña oficina, y como contable 'freelance' de algunas de las organizaciones criminales más peligrosas del mundo.</description>
+<stream_url><![CDATA[http://streamcloud.eu/0laesrk0ph0u/El_contable_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 	
+	
+<channel>
+<title><![CDATA[elle 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_70363ddec3b4a37f6bbdc692d5d587ed.jpg" />]]>Michèle, exitosa ejecutiva de una empresa de videojuegos, busca venganza tras ser asaltada de forma violenta en su propia casa por un intruso.</description>
+<stream_url><![CDATA[http://streamcloud.eu/t2a4dflx32cz/Elle_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 	
+	
+	<channel>
+<title><![CDATA[esperando al rey 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_70363ddec3b4a37f6bbdc692d5d587ed.jpg" />]]>Huyendo de la recesión, Alan Clay (Tom Hanks), un empresario estadounidense, se traslada a Arabia Saudí, donde la economía se encuentra en pleno auge. Su objetivo es evitar la ruina y mantener unida a su familia.</description>
+<stream_url><![CDATA[http://streamcloud.eu/e6kijx58tbby/Esperando_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 	
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
