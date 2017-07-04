@@ -9,7 +9,7 @@
 <channel>
 <title><![CDATA[El jardín de las palabras 2013]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]>La historia tiene lugar en la temporada de lluvia de Japón durante el mes de junio. Un aprendiz de zapatero llamado Takao se encuentra dibujando zapatos en un jardín japonés cuando conoce a una misteriosa mujer mayor que él. Desde ese primer encuentro, ambos siguen reuniéndose y estrechando su re </description>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]>La historia tiene lugar en la temporada de lluvia de Japón durante el mes de junio. Un aprendiz de zapatero llamado Takao se encuentra dibujando zapatos en un jardín japonés cuando conoce a una misteriosa mujer mayor que él. Desde ese primer encuentro, ambos siguen reuniéndose y estrechando su re.</description>
 <stream_url><![CDATA[http://streamcloud.eu/oo0njv3tsn0b/El_jard__n_de_las_.mkv.html]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
@@ -52,6 +52,16 @@ bebés a los padres de todo el mundo. Ahora distribuyen los paquetes de una comp
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>	
+
+<channel>
+<title><![CDATA[Kubo y las dos cuerdas mágicas 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/djetGF7wFW26L7QtXQmN7EM4hkR.jpg"/>]]>Kubo vive tranquilamente en un pequeño y normal pueblo hasta que un espíritu del pasado vuelve su vida patas arriba, al reavivar una venganza. Esto causa en Kubo multitud de malos tragos al verse perseguido por dioses y monstruos. Si de verdad Kubo quiere sobrevivir, antes debe localizar una armadura mágica que una vez fue vestida por su padre, un legendario guerrero samurái.</description>
+<stream_url><![CDATA[http://streamcloud.eu/cu1g5ksbbup9/Kubo_y_las_dos_cerdas_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
