@@ -2,7 +2,13 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
-
+<channel>       
+<title><![CDATA[La peluqueria T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_27dff23598d3c189c3c0cbb090763391.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/lapelu.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
 <channel>       
 <title><![CDATA[Testigo de cargo T1]]></title>
