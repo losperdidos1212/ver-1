@@ -73,6 +73,15 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
+
+<channel>
+<title><![CDATA[keanu 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_c3e3420a757cfb31853330c0aef1f7d0.jpg" />]]>Dos amigos traman un plan para recuperar a Keanu, un pequeño gato que les han robado, haciéndose pasar por traficantes de drogas para infiltrarse en una banda callejera que tiene al minino.</description>
+<stream_url><![CDATA[http://streamcloud.eu/k4mo3b9kzrql/Keanu.mkv.htmll]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 	
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
