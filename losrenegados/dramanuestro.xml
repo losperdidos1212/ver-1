@@ -6,12 +6,12 @@
 
 	
 <channel>
-<title><![CDATA[nada]]></title>
+<title><![CDATA[ahora me ves 2 2013]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_13630d504edb4208832c03db233df626.jpg"/>]]>Un padre no tiene los medios para pagar el tratamiento médico de su hija. Como último recurso, se asocia con un codicioso compañero de trabajo para robar un casino. Cuando las cosas van mal, se ven obligados a secuestrar un autobús de la ciudad.</description>
-<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_13630d504edb4208832c03db233df626.jpg"/>]]>Un año después de despistar al FBI y conseguir la admiración del público con sus espectáculos mentales, los cuatro jinetes vuelven a la luz pública, pero un nuevo enemigo se propone arruinar su golpe más espectacular y peligroso hasta la fecha... Secuela de "Now You See Me" de 2013.</description>
+<stream_url><![CDATA[http://streamcloud.eu/ctya3qs2y21k/Ahora_.mkv.html]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>30480</buffer_kb>
+<buffer_kb>30000</buffer_kb>
 </channel>
 	
 <channel>
@@ -23,6 +23,32 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 	
+<channel>
+<title><![CDATA[Antes de ti 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_70363ddec3b4a37f6bbdc692d5d587ed.jpg" />]]>Louisa “Lou” Clark (Emilia Clarke), una chica inestable y creativa, reside en un pequeño pueblo de la campiña inglesa. Vive sin rumbo y va de un trabajo a otro para ayudar a su familia a llegar a fin de mes. Sin embargo, un nuevo trabajo pondrá a prueba su habitual alegría. En el castillo local, se ocupa de cuidar y acompañar a Will Traynor (Sam Claflin), un joven y rico banquero que se quedó paralítico tras un accidente.</description>
+<stream_url><![CDATA[http://streamcloud.eu/acjsz2fzt85d/Antes_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+	
+<channel>
+<title><![CDATA[Captain Fantastic 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_70363ddec3b4a37f6bbdc692d5d587ed.jpg" />]]>Ben (Viggo Mortensen) es un hombre que ha pasado diez años viviendo en los remotos bosques situados en el noroeste de los Estados Unidos criando a sus seis hijos, varios de ellos junto a su mujer. Aislados totalmente de la vida moderna, de las comodidades de las ciudades y de la sociedad de consumo, Ben es un padre devoto que ha inculcado en sus hijos una peculiar forma de pensar y vivir la vida. Sin embargo, una trágica noticia hace que la peculiar familia deba dejar temporalmente su modo de vida en la naturaleza y volver a la civilización.</description>
+<stream_url><![CDATA[http://streamcloud.eu/j6s4g146n8bd/Captain_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 	
+	
+<channel>
+<title><![CDATA[asedio de jadotvile  2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_70363ddec3b4a37f6bbdc692d5d587ed.jpg" />]]>Año 1961, en el Congo. Jadotville cuenta la verdadera historia del comandante Patrick Quinlan y su batallón de 150 soldados irlandeses de la ONU, sitiados por 3.000 soldados congoleños bajo el mando de mercenarios franceses y belgas que trabajaban para empresas mineras.</description>
+<stream_url><![CDATA[http://streamcloud.eu/k0nrby0sltv9/El_asedio_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
