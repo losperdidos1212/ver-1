@@ -62,6 +62,27 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[capitulo 3x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/le-bureau-des-legendes_j1t2erzg9lg2016-08-09.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/rtswbxhqr2hb]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[capitulo 3x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/le-bureau-des-legendes_j1t2erzg9lg2016-08-09.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/0dh5ofbw06nn]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
