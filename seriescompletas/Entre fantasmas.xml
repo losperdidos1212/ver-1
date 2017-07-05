@@ -204,6 +204,43 @@
   </channel>  
   
   
+ <channel>
+<title><![CDATA[Capitulo 2x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/pger425cwzf0/EntFntsms.Es.202.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel> 
+  
+   <channel>
+<title><![CDATA[Capitulo 2x03 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/zaa6by1gefmf/EntFntsms.Es.203.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+ <channel>
+<title><![CDATA[Capitulo 2x04 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/dodfh77oeapx/EntFntsms.Es.204.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel> 
+  
+ <channel>
+<title><![CDATA[Capitulo 2x05 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/e0ypxa3dktmp/EntFntsms.Es.205.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>  
+  
+  
   
   
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
