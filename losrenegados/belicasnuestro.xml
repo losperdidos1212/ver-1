@@ -21,6 +21,16 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>	
+
+<channel>
+<title><![CDATA[Zona de Combate 2015]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src=""/>]]>Tres hombres distintos, tres mundos diferentes, tres guerras diferentes, todos se sitúan en la intersección de la guerra moderna, en un oscuro mundo donde no todo es como parece.Inspirada en hechos reales, “Hyena Road” es un film situado en el corazón del territorio talibán en Afganistán. Cuando el experto francotirador, Ryan Sanders (Rossif Sutherland) y su equipo se ven obligados a refugiarse en un pueblo cercano, ellos se encuentran cara a cara con The Ghost, un legendario luchador por la libertad de Afganistán que se vio obligado a recluirse por los talibanes.Cuando el oficial de inteligencia, Pete Mitchell (Paul Gross) se entera de su encuentro casual, alista al equipo de Sanders para rastrear a The Ghost con la esperanza de sumar a un aliado poco probable y poderoso.</description>
+<stream_url><![CDATA[http://streamcloud.eu/3qwxz7a17j7t/Zona_de_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>		
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
