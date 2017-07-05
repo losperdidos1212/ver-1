@@ -56,6 +56,17 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
   </channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x07 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[https://archive.org/download/3ntr3F4nt4sm4s1x07Es.avi/3ntr3%20f4nt4sm4s-%20_1x07_es.avi.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+  
   
  <channel>
 <title><![CDATA[Capitulo 1x08 ]]></title>
