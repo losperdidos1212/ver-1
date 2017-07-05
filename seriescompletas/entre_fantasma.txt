@@ -671,7 +671,7 @@
                         <title><![CDATA[4x22]]></title>
                         <logo_30x30><![CDATA[]]></logo_30x30>
                         <description><![CDATA[<img src="http://www.series21.com/thumbs/series_180x270_85/92.jpg" />]]></description>                      
-                        <stream_url><![CDATA[http://www.nowvideo.sx/video/264a9e189339d]]></stream_url>
+                        <stream_url><![CDATA[http://streamcloud.eu/dvnlq5525khq/EntFntsms.Es.422.avi.html]]></stream_url>
                            </channel>
 
 
