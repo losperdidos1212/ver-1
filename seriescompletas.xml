@@ -3,6 +3,14 @@
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
    <channel>       
+<title><![CDATA[Entre fantasmas Tempora 1 A Temporada 5]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Entre%20fantasmas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
+   <channel>       
 <title><![CDATA[Aladina]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://blog.casapia.com/wp-content/uploads/2012/03/fundacion-aladina1.jpg">]]></description>
