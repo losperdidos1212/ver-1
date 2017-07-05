@@ -158,14 +158,20 @@
 </channel> 
 
  <channel>
-<title><![CDATA[Capitulo 2x121]]></title>
+<title><![CDATA[Capitulo 2x21]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_b4322cf1e781d24a3d7617ea402f7cc4.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/xko48lob3wgv]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
- 
+<channel>
+<title><![CDATA[Capitulo 2x22]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_b4322cf1e781d24a3d7617ea402f7cc4.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/yrzmkkpwkvjr]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
 
 
 </items>
