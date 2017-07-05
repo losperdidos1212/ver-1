@@ -56,8 +56,33 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
   </channel>
+  
+ <channel>
+<title><![CDATA[Capitulo 1x08 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/qrjl6gsp0hut/EntFntsms.Es.108.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>  
+  
+  <channel>
+<title><![CDATA[Capitulo 1x09 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/nhz4kfb23hi8/EntFntsms.Es.109.avi.html   ]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel> 
     
-   
+ <channel>
+<title><![CDATA[Capitulo 1x10 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/199.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/asnt0ownuqvr/EntFntsms.Es.111.avi.html    ]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>  
   
   
   
