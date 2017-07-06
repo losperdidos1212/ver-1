@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+    <channel>       
+<title><![CDATA[Ally Mcbeal Tempoprada 1 a Temporada 5]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/736x/b5/73/6a/b5736ada962ad0b92aa13018ff709eaf.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/ally_mcbeal.txt]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>  
+  
   <channel>       
 <title><![CDATA[Alcatraz]]></title>
 <logo_30x30></logo_30x30>
