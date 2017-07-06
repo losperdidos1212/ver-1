@@ -1,7 +1,6 @@
- <?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
 <items>
-<playlist_name><![CDATA[Entre Fantasmas]]></playlist_name>
-
+<playlist_name><![CDATA[Entre fantasmas]]></playlist_name>
  
 <channel>
                         <title><![CDATA[1x01]]></title>
@@ -859,6 +858,6 @@
                            </channel>
 						   
 						   
- <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
-    </items>						   						   
+    </items>						   
