@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[Los Hombres De Paco]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_7956a5461a365dd1d958c76c20b1c062.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/los%20hombres%20de%20paco.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
 <channel>       
 <title><![CDATA[Hawai 5.0 Temporada 1 a Temporada 6]]></title>
 <logo_30x30></logo_30x30>
