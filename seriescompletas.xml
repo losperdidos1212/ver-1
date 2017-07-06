@@ -3,6 +3,14 @@
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
    <channel>       
+<title><![CDATA[Csi Las Vegas Tempoprada 1 a Temporada 15]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/originals/01/e0/64/01e0646c5767f3704fd5a439294fbc49.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/csi_las_vegas.txt]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
+   <channel>       
 <title><![CDATA[Chicago P.D Tempoprada 1 a Temporada 3]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://cdn-static.sidereel.com/tv_shows/54933/giant_2x/ChicagoPD_3.jpg">]]></description>
