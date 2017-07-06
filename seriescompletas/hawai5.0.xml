@@ -311,6 +311,56 @@
 <buffer_kb>30000</buffer_kb>
   </channel> 
   
+<channel>
+<title><![CDATA[Capitulo 2x11 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_64f5970ea6033fbc6f48c8c4173a1ddd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/px6c6tx5s85t]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+<channel>
+<title><![CDATA[Capitulo 2x12 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_64f5970ea6033fbc6f48c8c4173a1ddd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/au5x7bhzdja3]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel> 
+  
+ <channel>
+<title><![CDATA[Capitulo 2x13 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_64f5970ea6033fbc6f48c8c4173a1ddd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/kor26jiyve2t]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+  <channel>
+<title><![CDATA[Capitulo 2x14 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_64f5970ea6033fbc6f48c8c4173a1ddd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/mb3ht9bax6ar]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+  
+  <channel>
+<title><![CDATA[Capitulo 2x15 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_64f5970ea6033fbc6f48c8c4173a1ddd.jpg">]]>serie de desaparecidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/88tldfyjouy4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+  
+  
+  
+  
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
