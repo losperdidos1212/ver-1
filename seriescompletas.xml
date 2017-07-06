@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+   <channel>       
+<title><![CDATA[Bones Tempoprada 1 a Temporada 12]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://okdiario.com/series/img/2016/02/Bones_1.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/bones.txt]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
     <channel>       
 <title><![CDATA[Ally Mcbeal Tempoprada 1 a Temporada 5]]></title>
 <logo_30x30></logo_30x30>
