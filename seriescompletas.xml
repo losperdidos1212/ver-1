@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+    <channel>       
+<title><![CDATA[Los Camioneros]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://cloud10.todocoleccion.online/coleccionismo-revistas-periodicos/tc/2011/09/02/28377645.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/los_camioneros.txt]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
    <channel>       
 <title><![CDATA[Entre fantasmas Tempora 1 A Temporada 5]]></title>
 <logo_30x30></logo_30x30>
