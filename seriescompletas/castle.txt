@@ -5,9 +5,9 @@
 
 
 <channel>
-                        <title><![CDATA[1x01]]></title>
-                        <logo_30x30><![CDATA[]]></logo_30x30>
-                        <description><![CDATA[<img src="http://3.bp.blogspot.com/-Hb4p-5lGjqg/UiNdz2HhCdI/AAAAAAAADJQ/kVXSdzcCEL4/s1600/Castle+Serie+de+televisi%C3%B3n.JPG" />]]></description>                      
+<title><![CDATA[1x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+ <description><![CDATA[<img src="http://3.bp.blogspot.com/-Hb4p-5lGjqg/UiNdz2HhCdI/AAAAAAAADJQ/kVXSdzcCEL4/s1600/Castle+Serie+de+televisi%C3%B3n.JPG" />]]></description>                      
                         <stream_url><![CDATA[http://streamcloud.eu/dfvr99kincij/Castl.esp.F.1x01.avi.html]]></stream_url>
                            </channel>
 
