@@ -1191,3 +1191,7 @@
                         <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
                         <stream_url><![CDATA[http://streamcloud.eu/d8a9waerlrke/Principe.BelAir.6x24.I__Done_Part_2.ES.avi.html]]></stream_url>
                            </channel>
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+    </items>
