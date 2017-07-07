@@ -36,7 +36,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+<channel>
+<title><![CDATA[Capitulo 6x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_60c4699df0971ec2590ba2feb78edf43.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/TW0LF.S06E01.m720p.WEB.DL.mkv/T.wf.6x05.m720p.es.mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel
  
 
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
