@@ -3,6 +3,14 @@
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
   <channel>       
+<title><![CDATA[Principe De Belain]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/principedebelain.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+  
+  <channel>       
 <title><![CDATA[Curro Jimenez]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/curro_jimenez_tv_series-392040146-large.jpg">]]></description>
