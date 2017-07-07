@@ -3,6 +3,14 @@
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
   <channel>       
+<title><![CDATA[Curro Jimenez]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/curro_jimenez_tv_series-392040146-large.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/CURROJIMENEZ.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+  
+  <channel>       
 <title><![CDATA[Los Hombres De Paco]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_7956a5461a365dd1d958c76c20b1c062.jpg">]]></description>
