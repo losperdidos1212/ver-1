@@ -130,6 +130,14 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/AYsenorsenor.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+  <channel>       
+<title><![CDATA[Bienvenidos Al Lolita]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://es.web.img2.acsta.net/pictures/14/01/03/13/30/014901.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Bienvenidosallolita.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
  <channel>       
 <title><![CDATA[Bones Tempoprada 1 a Temporada 12]]></title>
