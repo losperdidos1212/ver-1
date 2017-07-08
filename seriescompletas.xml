@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[El Halcon Callejero]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://seriesblanco.com/files/uploads/2786.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/ELHALCONCALLEJERO.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
    <channel>       
 <title><![CDATA[Hostal royal manzanares]]></title>
 <logo_30x30></logo_30x30>
