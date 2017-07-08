@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[Sensacion de vivir]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Sensacion%20de%20vivir.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+  
    <channel>       
 <title><![CDATA[Doctor Mateo]]></title>
 <logo_30x30></logo_30x30>
