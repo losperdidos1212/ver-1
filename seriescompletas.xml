@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+   <channel>       
+<title><![CDATA[Sensacion de vivir]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/4/6/7/8421394538764.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Sintetasnohayparaiso.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+  
   <channel>       
 <title><![CDATA[Sensacion de vivir]]></title>
 <logo_30x30></logo_30x30>
