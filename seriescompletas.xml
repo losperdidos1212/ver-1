@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+  <channel>       
+<title><![CDATA[La tia de ambrosio]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://1.bp.blogspot.com/-U6JPS3CxpP0/VunK0WIOeUI/AAAAAAAAtVQ/g2Yuw1m4gf4Cf2wx7rAq9tpoKWE-WCsRg/s1600/la%2Btia%2Bde%2Bambrosio.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/latiadeambrosio.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>  
+  
    <channel>       
 <title><![CDATA[Medico de familia]]></title>
 <logo_30x30></logo_30x30>
