@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+   <channel>       
+<title><![CDATA[Star Trek: La serie original]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_071a942075f513fb0d108c95cb4b87d2.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Star%20Trek%3A%20La%20serie%20original.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>   
+  
   <channel>       
 <title><![CDATA[La tia de ambrosio]]></title>
 <logo_30x30></logo_30x30>
