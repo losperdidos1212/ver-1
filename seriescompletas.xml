@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+ <channel>       
+<title><![CDATA[Las chicas de oro]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/las_chicas_de_oro_tv_series-991352556-large.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/laschicasdeoro.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+  
 <channel>       
 <title><![CDATA[LLeno por favor]]></title>
 <logo_30x30></logo_30x30>
