@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+   <channel>       
+<title><![CDATA[Hostal royal manzanares]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.coleccionismocinematografico.com/127-191-thickbox/hostal-royal-manzanares-2-temporada-completa-pack-5-dvds-precintado-descatalogado-lina-morgan.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Hostalroyalmanzanares.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
  <channel>       
 <title><![CDATA[Las chicas de oro]]></title>
 <logo_30x30></logo_30x30>
