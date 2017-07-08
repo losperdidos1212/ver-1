@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
   
+ <channel>       
+<title><![CDATA[Periodistas]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.seriesyonkis.com/img/series/170x243/periodistas.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Periodistas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>  
+  
     <channel>       
 <title><![CDATA[Sexo en new york]]></title>
 <logo_30x30></logo_30x30>
