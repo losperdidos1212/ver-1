@@ -27,13 +27,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>       
-<title><![CDATA[APB T1 - Idioma Dual]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_48931cd8231b9c6a81fa5f8afb0ead00.jpg">DespuÃ©s de haber presenciado un crimen violento, un multimillonario tecnolÃ³gico compra una comisarÃ­a policial en problemas, reiniciÃ¡ndola como una fuerza de policÃ­a privada.  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/apb.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
  <channel>       
 <title><![CDATA[Arrow T5]]></title>
