@@ -10,13 +10,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>       
-<title><![CDATA[American Horror Story T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5633a21f0b40c1895ba74ea2d974cac9.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/AmericanHorrorStoryT2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
  <channel>       
 <title><![CDATA[Academia de baile Gloria]]></title>
@@ -82,6 +76,14 @@
 <buffer_kb>30000</buffer_kb>
  </channel>  
  
+ <channel>       
+<title><![CDATA[American Horror Story T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5633a21f0b40c1895ba74ea2d974cac9.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/AmericanHorrorStoryT2.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
    <channel>       
 <title><![CDATA[Anatomia de Grey T1 a la T12]]></title>
 <logo_30x30></logo_30x30>
@@ -103,6 +105,14 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4cf39fc1a8e98d1ec3c12792bcbb0b7a.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/anclados.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>       
+<title><![CDATA[APB T1 - Idioma Dual]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_48931cd8231b9c6a81fa5f8afb0ead00.jpg">DespuÃ©s de haber presenciado un crimen violento, un multimillonario tecnolÃ³gico compra una comisarÃ­a policial en problemas, reiniciÃ¡ndola como una fuerza de policÃ­a privada.  ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/apb%20T1.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
