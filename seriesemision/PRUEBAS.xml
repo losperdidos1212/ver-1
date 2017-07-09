@@ -19,10 +19,10 @@
 </channel> 
   
    <channel>
-<title><![CDATA[moviestar series]]></title>
+<title><![CDATA[somos]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts]]></stream_url>
+<stream_url><![CDATA[http://88.148.69.129:9090/play/a00g]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
