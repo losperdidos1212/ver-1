@@ -474,20 +474,14 @@
 </channel>  
 
  <channel>       
-<title><![CDATA[Master of None T1]]></title>
+<title><![CDATA[Master of None T1 y T2]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dc84a7e4c08c7bf2f03c2f5ef3a9dafc.jpg">Dev es un actor en la treintena que vive en Nueva York y que todavía no tiene demasiado claro qué quiere hacer con su vida. Cada episodio gira entorno a algún aspecto de la vida de Dev como su experiencia como inmigrante, la difícil situación de las personas mayores o cómo encontrar el mejor restaurante italiano pero todo en tono de comedia.]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/MasterofNoneT2.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-     <channel>       
-<title><![CDATA[Master of None T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dc84a7e4c08c7bf2f03c2f5ef3a9dafc.jpg">Dev es un actor en la treintena que vive en Nueva York y que todavía no tiene demasiado claro qué quiere hacer con su vida. Cada episodio gira entorno a algún aspecto de la vida de Dev como su experiencia como inmigrante, la difícil situación de las personas mayores o cómo encontrar el mejor restaurante italiano pero todo en tono de comedia.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/MasterofNoneT2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+   
   
 <channel>       
 <title><![CDATA[Medico de familia]]></title>
