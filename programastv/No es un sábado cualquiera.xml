@@ -19,6 +19,33 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>  
+  
+   <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.rtve.es/css/rtve.2017.television/rtve.programas/sabado-noche/i/sabado-noche_logo.png" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/5/5/1498380795555.mp4?nvb=20170709100047&nva=20170709160047&token=0d81d6b044ab76fcebf8c]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+    <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 4]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.rtve.es/css/rtve.2017.television/rtve.programas/sabado-noche/i/sabado-noche_logo.png" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/0/4/1498955632740.mp4?nvb=20170709100131&nva=20170709160131&token=03ee3a2d6385594d8eb60]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 5]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.rtve.es/css/rtve.2017.television/rtve.programas/sabado-noche/i/sabado-noche_logo.png" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/6/7/1499584740976.mp4?nvb=20170709100241&nva=20170709160241&token=0c4c8bb6f546962d6083a]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
 
 
  
