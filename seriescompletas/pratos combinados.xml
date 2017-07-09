@@ -176,6 +176,62 @@
 <description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
 <stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19960524000000.mp4/playlist.m3u8]]></stream_url>
 </channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 026: Todo un artista]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19960531000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 027: Mans de seda]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19970117000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 028: Todolos homes son distintos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19970124000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 029: O coctel]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19970131000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 030: A recomendacion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19970207000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 031: America, America]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19970214000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 032: Escola de seductores]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19970221000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 033: Unha nova estrela]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19970228000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
 						   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
