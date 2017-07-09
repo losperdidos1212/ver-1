@@ -75,7 +75,7 @@
 <channel>       
 <title><![CDATA[VIDEOS MUSICALES Y CONCIERTOS]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="https://i.ytimg.com/vi/hPddm27gXCY/maxresdefault.jpg">Portal Dedicado Al Streaming De videos Musicales]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/videosyconciertos.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
