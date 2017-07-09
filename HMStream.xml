@@ -16,7 +16,7 @@
   <channel>       
 <title><![CDATA[SALA DE SERIES COMPLETAS]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/ff/cd/ca/ffcdcab25fd2bddecc26897f7375c5e7.jpg">Aqui en contraras todas las temporadas completas ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -24,7 +24,7 @@
   <channel>       
 <title><![CDATA[SALA DE SERIES ONLINE MKV]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFanW8FdZw3K89Yl2quE3Xok7GpGknFIhiA4qwUvQX0cfCcB7Bew">Aqui en contraras todas las series en calidad MKV]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesmkv.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -32,7 +32,7 @@
 <channel>       
 <title><![CDATA[SALA CINE LOS RENEGADOS CALIDAD: MKV]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFqCgAdfbltZwcBL21kbS4VacDNkiHl50UqLwy-3r5X-0PnnX">Cine en calidad MKV]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
@@ -41,7 +41,7 @@
   <channel>       
 <title><![CDATA[SALA DE PELICULAS DE ESTRENO]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="https://i.ytimg.com/vi/49VrCLM3d40/maxresdefault.jpg">Aqui en contraras estrenos de cartelera en varias calidades. Recuerda que no siempre se veran con buena calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/estrenos/pelisestrenos.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -51,7 +51,7 @@
     <channel>       
 <title><![CDATA[ALMACEN DE PELICULAS POR ORDEN ALFABETICO]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="http://img.microsiervos.com/Peliculas-Ready-Player-One.jpg">Aqui en contraras todo ordenado alfabeticamente]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -59,7 +59,7 @@
       <channel>       
 <title><![CDATA[SALA DE PELICULAS POR ANO]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="https://i2.wp.com/hipertextual.com/files/2014/03/posters-de-peliculas.jpg?resize=670%2C413&ssl=1">Aqui en contraras peliculas por ano de estreno]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/menuporano-xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -67,7 +67,7 @@
    <channel>       
 <title><![CDATA[SALA DE PELICULAS POR GENERO]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://www.dropbox.com/s/zc0huqnso2uy6mb/Portada%20Portal.png?dl=1">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="http://1.bp.blogspot.com/-id2tRmmagv8/UDWf8MGSi1I/AAAAAAAAAEo/D7AaJ9vTDaQ/s1600/5803926-poster-de-la-pelicula-de-cine-generos-vintage-background.jpg">Aqui en contras pelis por genero]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
