@@ -306,6 +306,14 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/elfindelacomedia.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
+ 
+  <channel>      
+<title><![CDATA[El final del camino T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_7e158bade18dfba13bbb1c83a7102483.jpg'/>http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/El%20final%20del%20camino.xml]]></playlist_url>  
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 <channel>       
 <title><![CDATA[El Halcon Callejero]]></title>
@@ -396,6 +404,22 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg">Juego de Tronos es una serie de televisión de drama y fantasía creada para la HBO por David Benioff y D. B. Weiss. Es una adaptación de la saga de novelas de fantasía Canción de Hielo y Fuego de George R. R. Martin. La primera de las novelas es la que da nombre a la serie.]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/JuegodeTronos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  <channel>       
+<title><![CDATA[La Casa De Papel]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_156c976079ee54fd5a566567f0285e01.jpg">Un golpe maestro ideado y perfeccionado durante aÃ±os, planificado durante meses y ejecutado en pocos minutos para que el elegido grupo de ladrones que se adentra en la FÃ¡brica Nacional de Moneda y Timbre a punta de pistola haga creer a la PolicÃ­a que su plan ha falladoâ¦ y que los tienen asediados dentro del edificio sin otra salida que su rendiciÃ³n. ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/La%20casa%20de%20papel.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  <channel>       
+<title><![CDATA[Las chicas del cable]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg">In 1920s Madrid, four women at the National Telephone Company ring in revolution as they deal with romance, envy and the modern workplace.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/las%20chicas%20del%20cable.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
@@ -560,6 +584,14 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Sensacion%20de%20vivir.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
+ 
+  <channel>       
+<title><![CDATA[Se quien eres]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_b6b746e4a0054278ca2cc0b130909b0e.jpg ">Un hombre vaga por una carretera solitaria. Por su estado parece haber sufrido un accidente de trÃ¡fico, pero no sabe ni quiÃ©n es ni cÃ³mo ha llegado allÃ­. Se trata de Juan ElÃ­as, un carismÃ¡tico abogado y profesor de universidad, casado con la jueza Alicia Castro, y padre de dos hijos. Pero Ã©l no lo recuerda: estÃ¡ completamente amnÃ©sico.  ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/se%20quien%20eres.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 <channel>       
 <title><![CDATA[Sexo en new york]]></title>
@@ -627,6 +659,14 @@
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_92b74653649048c78104690e7e6eadbd.jpg"/>]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/V.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>      
+<title><![CDATA[Younger ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_ba2b5b55fbab4483fa2d0162c1c30dd5.jpg'/>Una mujer de 40 aÃ±os que ha dedicado toda su vida a ser madre y esposa decide retomar su carrera. Para ello, tendrÃ¡ que fingir tener 26 aÃ±os.]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Younger.xml]]></playlist_url>  
 <buffer_kb>30000</buffer_kb>
 </channel>
   
