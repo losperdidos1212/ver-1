@@ -531,6 +531,14 @@
 <buffer_kb>30000</buffer_kb>
  </channel> 
  
+  <channel>       
+<title><![CDATA[Pratos combinados]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/pratos%20combinados.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+ 
  <channel>       
 <title><![CDATA[Ronja la hija del bandolero T1]]></title>
 <logo_30x30></logo_30x30>
