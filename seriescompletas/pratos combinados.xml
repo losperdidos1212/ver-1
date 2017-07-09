@@ -29,6 +29,55 @@
 <description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
 <stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19951222000000.mp4/playlist.m3u8]]></stream_url>
 </channel>
+	
+<channel>
+<title><![CDATA[Capitulo 005: Estranos na noite]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19951228000000.mp4/playlist.m3u8]]></stream_url>
+</channel>	
+	
+<channel>
+<title><![CDATA[Capitulo 006: Reconecemento medico]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19960105000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+<channel>
+<title><![CDATA[Capitulo 007: Rebaixas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19960112000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 008: Altas finanzas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19960119000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+<channel>
+<title><![CDATA[Capitulo 009: Candidato Miro]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19960126000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+<channel>
+<title><![CDATA[Capitulo 010: Animalinos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19960202000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
+	
+	<channel>
+<title><![CDATA[Capitulo 011: Festa de cumpreanos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg" />]]></description>                      
+<stream_url><![CDATA[http://media3.crtvg.es/mediacache/_definst_/mp4:http/00/0028/0028_19960209000000.mp4/playlist.m3u8]]></stream_url>
+</channel>
 						                              
 						   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
