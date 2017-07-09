@@ -126,13 +126,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-  <channel>      
-<title><![CDATA[El final del camino T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_7e158bade18dfba13bbb1c83a7102483.jpg'/>http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png]]></description> 
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/El%20final%20del%20caminoT1.xml]]></playlist_url>  
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
 
  <channel>      
 <title><![CDATA[ El Misterio del tiempo  T3]]></title> 
@@ -206,13 +200,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[La Casa De Papel]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_156c976079ee54fd5a566567f0285e01.jpg">Un golpe maestro ideado y perfeccionado durante aÃ±os, planificado durante meses y ejecutado en pocos minutos para que el elegido grupo de ladrones que se adentra en la FÃ¡brica Nacional de Moneda y Timbre a punta de pistola haga creer a la PolicÃ­a que su plan ha falladoâ¦ y que los tienen asediados dentro del edificio sin otra salida que su rendiciÃ³n. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/lacasadepapel.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
  <channel>       
 <title><![CDATA[La extrana pareja]]></title>
@@ -230,13 +218,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
-  <channel>       
-<title><![CDATA[Las chicas del cable]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9622168491b049e81e51caddc9c0d8c3.jpg">In 1920s Madrid, four women at the National Telephone Company ring in revolution as they deal with romance, envy and the modern workplace.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/chicascable.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
   
 
@@ -395,13 +377,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[Se quien eres]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_b6b746e4a0054278ca2cc0b130909b0e.jpg ">Un hombre vaga por una carretera solitaria. Por su estado parece haber sufrido un accidente de trÃ¡fico, pero no sabe ni quiÃ©n es ni cÃ³mo ha llegado allÃ­. Se trata de Juan ElÃ­as, un carismÃ¡tico abogado y profesor de universidad, casado con la jueza Alicia Castro, y padre de dos hijos. Pero Ã©l no lo recuerda: estÃ¡ completamente amnÃ©sico.  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/sequieneres.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  
  
@@ -552,21 +528,9 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>      
-<title><![CDATA[Younger T2]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_ba2b5b55fbab4483fa2d0162c1c30dd5.jpg'/>Una mujer de 40 aÃ±os que ha dedicado toda su vida a ser madre y esposa decide retomar su carrera. Para ello, tendrÃ¡ que fingir tener 26 aÃ±os.]]></description> 
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/YoungerT2.xml]]></playlist_url>  
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
- <channel>      
-<title><![CDATA[Younger T3]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_ba2b5b55fbab4483fa2d0162c1c30dd5.jpg'/>Una mujer de 40 aÃ±os que ha dedicado toda su vida a ser madre y esposa decide retomar su carrera. Para ello, tendrÃ¡ que fingir tener 26 aÃ±os.]]></description> 
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/YoungerT3.xml]]></playlist_url>  
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  
 
