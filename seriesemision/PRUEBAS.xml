@@ -3,10 +3,10 @@
 <playlist_name><![CDATA[Pruebas server nuevo]]></playlist_name>
   
  <channel>
-<title><![CDATA[video musicales]]></title>
+<title><![CDATA[documentales]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
-<stream_url><![CDATA[https://minhateca.com.br/prmendess/FILMES/Lan*c3*a7amentos+2015+-+2016/Filmes+2015/2015+Barricada/2015+Barricada,977432662.avi(video)]]></stream_url>
+<stream_url><![CDATA[http://fs1.cnubis.com/7le?download_token=63594c5cd81e9369c4934db9a1b9c956d65a1510774a5ae5606192ae34dc86f0]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
