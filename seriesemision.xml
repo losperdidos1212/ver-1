@@ -360,6 +360,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/queridosblancos.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+<channel>       
+<title><![CDATA[Rewiew T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_a79257306ce23749e0f9e13d8f138dc1.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/review.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
 
  <channel>       
 <title><![CDATA[Riverdale T1]]></title>
