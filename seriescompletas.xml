@@ -208,29 +208,15 @@
  </channel>
  
  <channel>       
-<title><![CDATA[Cuestion de sexo T1]]></title>
+<title><![CDATA[Cuestion de sexo T1 a T3]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://www.bolsamania.com/seriesadictos/wp-content/uploads/2009/04/cuestion-de-sexo.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/cuestionsexot1.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/cuestionsexo.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>    
   
   
-<channel>       
-<title><![CDATA[Cuestion de sexo T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.bolsamania.com/seriesadictos/wp-content/uploads/2009/04/cuestion-de-sexo.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/cuestiondesexot2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>      
-  
-<channel>       
-<title><![CDATA[Cuestion de sexo T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.bolsamania.com/seriesadictos/wp-content/uploads/2009/04/cuestion-de-sexo.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/cuestionsexot3.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+
   
   <channel>       
 <title><![CDATA[Curro Jimenez]]></title>
