@@ -332,20 +332,14 @@
  </channel>
  
  <channel>       
-<title><![CDATA[ Fragiles T1]]></title>
+<title><![CDATA[ Fragiles T1 y T2]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_819ea3315fb00db44a40bf58d099ec6a.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/fragilest1.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
-<channel>       
-<title><![CDATA[ Fragiles T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_819ea3315fb00db44a40bf58d099ec6a.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/fragilest2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+ 
  
    <channel>       
 <title><![CDATA[Hostal royal manzanares]]></title>
