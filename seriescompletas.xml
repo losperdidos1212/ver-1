@@ -305,7 +305,7 @@
   
   
   <channel>       
-<title><![CDATA[ El principe T1]]></title>
+<title><![CDATA[ El principe T1 yT2]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_57dc83ec35a09ee0ab9dca235faabd4f.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/principet1.xml]]></playlist_url>
@@ -313,13 +313,7 @@
 </channel> 
 
   
-<channel>       
-<title><![CDATA[ El principe T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_57dc83ec35a09ee0ab9dca235faabd4f.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/principet2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>   
+  
  
  <channel>       
 <title><![CDATA[El Principe de Bel Air]]></title>
