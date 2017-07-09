@@ -66,11 +66,25 @@
 <stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8]]></stream_url>
 </channel>
   
+    <channel>
+<title><![CDATA[FORMULA 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge2503.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8]]></stream_url>
+</channel>
+  
    <channel>
 <title><![CDATA[Moto GP]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
 <stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts]]></stream_url>
+</channel>
+  
+    <channel>
+<title><![CDATA[BEIN SPORTS]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge2506.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8]]></stream_url>
 </channel>
   
   <channel>
@@ -92,6 +106,27 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
 <stream_url><![CDATA[http://edge16.verliga.me/live/plusdeportes/index.m3u8]]></stream_url>
+</channel>
+  
+ <channel>
+<title><![CDATA[C +DEPORTES 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/508.ts]]></stream_url>
+</channel> 
+  
+   <channel>
+<title><![CDATA[EUROSPORTS 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/529.ts]]></stream_url>
+</channel> 
+  
+   <channel>
+<title><![CDATA[EUROSPORTS 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts]]></stream_url>
 </channel>
   
    <channel>
