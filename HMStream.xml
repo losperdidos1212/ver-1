@@ -8,7 +8,7 @@
 <channel>       
 <title><![CDATA[SALA DE SERIES EN EMISION]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://cdn.modalia.es/images/stories/2015/Julio/series/portada.jpg">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="http://www.alfabetajuega.com/multimedia/imagenes/201607/156402.alfabetajuega-netflix-120716.jpg">Aqui en contraras todas las series que estan en emision actualmente.]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
