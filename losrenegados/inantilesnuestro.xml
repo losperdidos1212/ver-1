@@ -59,6 +59,18 @@ bebés a los padres de todo el mundo. Ahora distribuyen los paquetes de una comp
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+	<channel>
+<title><![CDATA[ANGRY BIRD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/kotonoha_no_niwa_the_garden_of_words-219051308-msmall.jpg"/>]]>Basada en la colección de videojuegos Angry Birds la historia se desarrolla en una isla poblada por aves felices que no vuelan. En este paraíso Red, un pájaro con muy mal genio el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero cuando llegan a la isla unos misteriosos cerdos verdes serán estos tres marginados los que averiguen que traman los extranos visitantes.</description>
+<stream_url><![CDATA[http://streamcloud.eu/ux1ze1b58ubv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
