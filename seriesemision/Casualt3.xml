@@ -51,6 +51,18 @@
 <stream_url><![CDATA[http://streamcloud.eu/bwhvwlsnrozj]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+ 
+ <channel>
+<title><![CDATA[Capitulo 3x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f6037b3f7b47630629671b3691cbdc7c.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/C4su4l.3x04.HDTV.avi/C.sl.3x07.m720p.es.mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
 
