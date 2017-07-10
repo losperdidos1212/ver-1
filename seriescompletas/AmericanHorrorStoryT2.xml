@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
- <playlist_name><![CDATA[American Horror Story Temporada 1 A Temporada 2 ]]></playlist_name>
+ <playlist_name><![CDATA[American Horror Story Temporada 1 A Temporada 3 ]]></playlist_name>
  
  <channel>
 <title><![CDATA[Capitulo 1x01 ]]></title>
@@ -201,6 +201,112 @@
 <stream_url><![CDATA[http://streamcloud.eu/csuzqs94t5r0/AHS213.avi.html]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x01 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5fh6veicjy8r]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/0xkm0b7t940r]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x03 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/7ps35rukz2ii]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x04 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/45cchy9jlm3h]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x05 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4adararitqjj]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x06 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/9umqxff29d2y]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x07 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/rmnyry0gphiw]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x08 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4lozs22vv3i0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x09 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/jydaoola0gyu]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 3x10 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/6hyatnhj5djs]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+    <channel>
+<title><![CDATA[Capitulo 3x11 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ujgcmyuaie3c]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+    <channel>
+<title><![CDATA[Capitulo 3x12 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/es457pbt0gop]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+    <channel>
+<title><![CDATA[Capitulo 3x13 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/kl0as8tsj11s]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
