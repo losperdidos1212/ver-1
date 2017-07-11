@@ -129,7 +129,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
-	
+<channel>
+<title><![CDATA[Un gato callejero llamado Bob 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/now_you_see_me_2-490181636-mmed.jpg"/>]]>Un dia James Bowen un músico callejero de Londres se encuentra en su apartamento un gato herido abandonado al que llama Bob Basado en un bestseller del propio James Bowen (A Street Cat Named Bob and How he Saved my Life) que estuvo en Inglaterra 52 semanas consecutivas en la lista de los mas vendidos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/xdizfzrgque2/Un_gato_callejero_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
