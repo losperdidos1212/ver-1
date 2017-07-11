@@ -66,6 +66,13 @@
 <stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8]]></stream_url>
 </channel>
   
+   <channel>
+<title><![CDATA[Los Simpson]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8]]></stream_url>
+</channel>
+  
     <channel>
 <title><![CDATA[Toros]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
