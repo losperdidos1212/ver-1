@@ -176,6 +176,25 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[el viajante 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/now_you_see_me_2-490181636-mmed.jpg"/>]]>Emad y Rana deben dejar su piso en el centro de Teheren a causa de los trabajos que se estan efectuando y que amenazan el edificio. Se instalan en otro lugar pero un incidente relacionado con el anterior inquilino cambiara dramaticamente la vida de la joven pareja.</description>
+<stream_url><![CDATA[http://streamcloud.eu/ehcoakwshpff/El_Viajante_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	<channel>
+<title><![CDATA[land of mine (bajo la arena) 2015]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/now_you_see_me_2-490181636-mmed.jpg"/>]]>La guerra no acaba cuando se firma la paz. Cuando Alemania se rindio en 1945 en la costa occidental danesa comenzo otra dura batalla la de los jovenes soldados alemanes que fueron obligados a retirar miles de minas plantadas en la arena por el ejército nazi. Zandvliet muestra el maltrato infligido a esos prisioneros un oscuro episodio de posguerra poco conocido..</description>
+<stream_url><![CDATA[http://streamcloud.eu/r6uodeo4v5mj/bajo_la_arrena_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
 
