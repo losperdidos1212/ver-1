@@ -3,10 +3,10 @@
 <playlist_name><![CDATA[Pruebas server nuevo]]></playlist_name>
   
  <channel>
-<title><![CDATA[documentales]]></title>
+<title><![CDATA[documentales dmax]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
-<stream_url><![CDATA[http://fs1.cnubis.com/7le?download_token=63594c5cd81e9369c4934db9a1b9c956d65a1510774a5ae5606192ae34dc86f0]]></stream_url>
+<stream_url><![CDATA[http://discoveryint1.edgeboss.net/download/discoveryint1/byocdn/media/1378939881/201701/1656/1378939881_5298884828001_5298718927001.mp4?playerId=3570805961001&lineupId=&affiliateId=&pubId=1378939881&videoId=5298718927001]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
