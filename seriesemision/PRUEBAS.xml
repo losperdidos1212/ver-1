@@ -19,10 +19,10 @@
 </channel> 
   
    <channel>
-<title><![CDATA[somos]]></title>
+<title><![CDATA[funnyordie.com nuevo server]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
-<stream_url><![CDATA[http://88.148.69.129:9090/play/a00g]]></stream_url>
+<stream_url><![CDATA[http://source.ordienetworks.com.s3.amazonaws.com/videos/4622b5ae39/3AYbxEAR6GVMdqnsgDed_Cap.%20009.mp4?Signature=YQeFa%2BDqioXkjW6neR9gdCMJ2j4%3D&Expires=1499954463&AWSAccessKeyId=0N49FWQHQA68YGYAJV82]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
