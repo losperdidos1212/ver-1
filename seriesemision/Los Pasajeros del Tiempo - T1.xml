@@ -52,6 +52,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[capitulo 1x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_75fcd31faf65b50362693623781772a6.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/2igef2zijor1]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
 
