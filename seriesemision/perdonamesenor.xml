@@ -56,6 +56,18 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
+ <channel>
+<title><![CDATA[Capitulo 1X07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/perdoname-senor-tv_v38cpenfhrp2017-05-24.jpg" />]]>Miniserie de TV (8 episodios). Cuenta la historia de Lucía (Paz Vega), una monja que decide volver a Cádiz, su tierra natal, para resolver asuntos pendientes de su pasado. Allí descubrirá que el tráfico de drogas ha aumentado notablemente en la zona, así que intentará poner fin a este negocio ilegal. Para ello se enfrentará al líder de la mafia de la droga, Bruno (Stany Coppet), su gran amor de juventud. Mientras tanto intentará alejar a su sobrino Rafa de este mundo, a la vez que se enfrenta a complicados ...  </description>
+<stream_url><![CDATA[https://archive.org/download/Perdoname.Seor.1x01.HD720p.es.mkv/PerdnameSeor.1x07.m720p.mkv.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
+  
+  
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
 
