@@ -71,6 +71,14 @@
 </channel>
 
 <channel>      
+<title><![CDATA[ Candice Renoir T3]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_7ed1231687a49d6d240207e1d45862bd.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/candicerenoirt3.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>      
 <title><![CDATA[ Cazadores de sombras T2]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9c10836b5b7e1314a28f852472d2478e.jpg" />]]></description>
