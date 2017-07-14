@@ -75,6 +75,27 @@
 <buffer_kb>30000</buffer_kb>
 </channel>	
 	
+<channel>
+<title><![CDATA[No estamos solos 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_autopsy_of_jane_doe-741055330-mmed.jpg"/>]]>Una familia Mateo Mónica y Sofia de 8 anos se mudan a una casa a las afueras de Lima. Desde la primera noche la nina es acechada por algo aterrador. Estos acosos se hacen cada vez mas violentos y perturbadores por lo que requeriran la ayuda de un sacerdote que intentara ayudarlos sin imaginar las consecuencias.</description>
+<stream_url><![CDATA[http://streamcloud.eu/u3khxdlyvtcx/No_Estamos_S.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+<channel>
+<title><![CDATA[Sospechosos habituales]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_autopsy_of_jane_doe-741055330-mmed.jpg"/>]]>Dave Kujan (Chazz Palminteri) un agente especial del servicio de aduanas de Estados Unidos esta investigando las causas del incendio de un barco en el puerto de San Pedro de Los Angeles que provoco 27 victimas mortales aunque todas parecen haber sido asesinadas. Su unica fuente de informacion es Roger Kint (Kevin Spacey) un estafador lisiado que sobrevivio al incendio. En comisaria Kint cuenta que todo comenzo seis semanas antes en Nueva York cuando cinco delincuentes cinco "sospechosos habituales fueron detenidos para una rueda de reconocimiento relacionada con el robo de un camion de armas.</description>
+<stream_url><![CDATA[http://streamcloud.eu/qf6eyxb2nxzh/Sospechosos_.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
+	
+	
+	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
