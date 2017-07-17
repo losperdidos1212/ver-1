@@ -5,9 +5,23 @@
 
  
 <channel>
-<title><![CDATA[Capitulo 1x01]]></title>
+<title><![CDATA[Capitulo 7x01]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0c13bfd8438763c5f57a209825ba5c44.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/lf7upkbz00b6]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/JV3G0d.TR0N0S.S07E01.m1080p.WEBRip.DD5.1..mkv/JV3G0d.TR0N0S.S07E01.m1080p.WEBRip.DD5.1..mkv.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
+  
+</items>
