@@ -45,6 +45,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+<channel>
+<title><![CDATA[1x06 Piloto]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Morirdepie.1x01.HDTV.avi/M0r1r.D3.P13.1x06.m720p.mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
