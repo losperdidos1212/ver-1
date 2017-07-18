@@ -6,7 +6,7 @@
 <title><![CDATA[1x01 Temporada 1 Capitulo 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
-<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/6/6/1497138746066.mp4?nvb=20170709115531&nva=20170709175531&token=0a052467a03e5cb9dc061]]></stream_url>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/6/6/1497138746066.mp4]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -15,7 +15,7 @@
 <title><![CDATA[1x01 Temporada 1 Capitulo 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
-<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/2/9/1497743854892.mp4?nvb=20170709115630&nva=20170709175630&token=0d2159d9ff0cfe4f7cce6]]></stream_url>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/2/9/1497743854892.mp4]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>  
@@ -33,7 +33,7 @@
 <title><![CDATA[1x01 Temporada 1 Capitulo 4]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
-<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/0/4/1498955632740.mp4?nvb=20170709100131&nva=20170709160131&token=03ee3a2d6385594d8eb60]]></stream_url>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/0/4/1498955632740.mp4]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
@@ -42,10 +42,19 @@
 <title><![CDATA[1x01 Temporada 1 Capitulo 5]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
-<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/6/7/1499584740976.mp4?nvb=20170709100241&nva=20170709160241&token=0c4c8bb6f546962d6083a]]></stream_url>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/6/7/1499584740976.mp4]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
+  
+    <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 6]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/7/9/1500170367497.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
  
