@@ -28,7 +28,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+<channel>
+<title><![CDATA[Capitulo 3x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_7ed1231687a49d6d240207e1d45862bd.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/C.nd.3x02.m720p.es.mkv/Cnd.rn.3x04.m720p.es.mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
