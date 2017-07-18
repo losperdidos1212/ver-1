@@ -111,12 +111,21 @@
 </channel>
 
  <channel>       
+<title><![CDATA[CSI: Contigo al fin del mundo T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9776fee413dbfb05497f077030a0aeab.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/contigofin.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+
+ <channel>       
 <title><![CDATA[CSI: Las Vegas T6]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9776fee413dbfb05497f077030a0aeab.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/CSI%3A%20Las%20Vegas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
+ 
  
  <channel>       
 <title><![CDATA[Deep water T1]]></title>
