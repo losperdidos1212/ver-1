@@ -5,6 +5,14 @@
    <channel>       
 <title><![CDATA[Asturias Al Limite]]></title>
 <logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/p/109370/?w=160&h=90&imgProgApi=logo">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Pura%20magia.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+   <channel>       
+<title><![CDATA[Asturias Al Limite]]></title>
+<logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/7c/1379964.png">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/asturias%20al%20limite.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
