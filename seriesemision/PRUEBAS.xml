@@ -42,6 +42,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
+  <channel>
+<title><![CDATA[nuevo servidor]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
+<stream_url><![CDATA[http://content.veoh.com/flash/p/2/v124741839p5b5h9M4/l124741839.mp4?ct=5988e2f873ec0dfcf3073ae03daf971fc1d2125976e8b673]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
   
     
 
