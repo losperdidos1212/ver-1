@@ -35,10 +35,10 @@
 </channel>
   
  <channel>
-<title><![CDATA[peliculas2]]></title>
+<title><![CDATA[nuevo server 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
-<stream_url><![CDATA[http://bit.ly/WolvesattheDoor]]></stream_url>
+<stream_url><![CDATA[http://fcache.veoh.com/file/f/l124741839.mp4?e=1500511202&ri=6000&rs=100&h=5991a8d3e6bda62e62f1289cb5ebcec3]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
