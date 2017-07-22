@@ -50,6 +50,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
+ <channel>
+<title><![CDATA[pruebas de hoy]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_595fbcdb6e87a048e2680b09fafad133.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/7/1500634231175.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
   
   
     
