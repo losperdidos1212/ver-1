@@ -2,6 +2,14 @@
 <items>
 <playlist_name><![CDATA[PROGRAMAS TV]]></playlist_name>
   
+   <channel>       
+<title><![CDATA[Espanoles Por El Mundo]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/p/30610/?w=160&h=90&imgProgApi=logo">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Espanoles%20Por%20El%20Mundo.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
     <channel>       
 <title><![CDATA[Viaje al centro de la tele]]></title>
 <logo_30x30></logo_30x30>
