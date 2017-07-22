@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Espanoles Por El Mundo]]></playlist_name>
+  
+    <channel> 
+<title><![CDATA[Düsseldorf]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-kuwait/1427265419734.JPG" />]]>Españoles en el mundo viaja hasta Düsseldorf, la capital de Renania del Norte- Westfalia. Prácticamente destruida tras la Segunda Guerra Mundial, la ciudad no ha parado de reconstruirse y hoy es una de las ciudades más pujantes de toda Europa, sede de más de 3.000 compañías internacionale</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/1/9/1500588298291.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+  <channel> 
+<title><![CDATA[Kuwait]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-dusseldorf/1500626915337.jpg" />]]>VIsitamos Kuwait, un pequeño país que, pese a quedar marcado por la Guerra del Golfo, encabeza el ranking de los países más caros. En su capital, Kuwait City, se combina el ocio y el lujo con la tradición, es decir, un oasis en medio del desierto. Situado estratégicamente entre Irak y Arabia Saudí</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/2/3/1427244737732.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ 
+
+
+
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/menuprogramastv.xml]]></prev_page_url> 
+</items>
