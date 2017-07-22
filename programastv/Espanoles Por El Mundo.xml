@@ -129,6 +129,33 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+  
+   <channel> 
+<title><![CDATA[Uzbekistan]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-uzbekistan/1391043039560.JPG" />]]>"Españoles en el mundo" llega a las lejanas tierras de Uzbekistán, en Asia Central. Un joven país ¿nació en 1991 tras la descomposición de la URSS, a la que perteneció durante casi 70 años y que le dejó una profunda huella¿ con un mítico pasado que se forjó gracias a la Ruta de la Seda.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/8/5/1391042077258.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel> 
+<title><![CDATA[Myanmar]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-myanmar/1391649144064.JPG" />]]>Tras 50 años de dictadura militar y ostracismo, Españoles en el Mundo visita Myanmar en pleno Proceso democrático. Myanmar, antigua colonia británica de Birmania.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/3/6/1391647085463.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+   <channel> 
+<title><![CDATA[Riga]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-riga/1392252838820.JPG" />]]>Españoles en el Mundo viaja en esta entrega a la capital de la joven república de Letonia, Riga. Esta bella ciudad es una de las más importantes del Báltico y abrazó recientemente Europa tras años en la órbita soviética.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/7/6/1392252314867.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 
  
