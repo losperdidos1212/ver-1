@@ -279,7 +279,13 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
- 
+ <channel>
+<title><![CDATA[las cloacas de interior]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.tv3.cat/multimedia/jpg/4/8/1499353721284.jpg" />]]>Nueve meses de trabajo de investigacion y analisis sintetizados en 80 minutos de documental y que situan por primera vez bajo el foco de la opinion publica un entorno de ilegalidades y corrupcion en el seno del Ministerio del Interior.</description>
+<stream_url><![CDATA[http://www.descargavideos.tv/MSFAPI#1.2#520332845547#moatframe#8074889747#ping]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
  
 
