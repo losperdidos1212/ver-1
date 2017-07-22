@@ -93,6 +93,42 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+  
+    <channel> 
+<title><![CDATA[Porto Alegre]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-porto-alegre/1388453173731.JPG" />]]>Porto Alegre es una de las ciudades más importantes de Brasil, capital del estado de Río Grande do Sul.La ciudad está ubicada en la conjunción de cinco ríos, entre los cuales se encuentra el Río Guaíba.Cinco españoles son los encargados de descubrir las singularidades de Porto Alegre.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/6/2/1388452592126.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel> 
+<title><![CDATA[Cambridge]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-cambridge/1389075115734.JPG" />]]>¿Quién no ha oído hablar alguna vez de Cambridge? Posiblemente sea una de las de las ciudades universitarias inglesas más importantes y con más tradición. Está situada a unos 80 kilómetros de Londres</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/0/1/1389057788810.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+   <channel> 
+<title><![CDATA[Macao]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-macao/1389832344865.JPG" />]]>Macao, en la costa sur de China, es la nueva parada de Españoles en el mundo. El espacio de viajes de La 1 descubre esta pequeña región administrativa de China de la mano de cinco españoles: Mónica, José Manuel, Nacho, Antonio y Andrés. Ellos mostrarán a los espectadores esta península de solo 30 kilómetros</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/3/5/1389831976053.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+   <channel> 
+<title><![CDATA[Atlanta]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-atlanta/1390440034086.JPG" />]]>Españoles en el Mundo viaja a Atlanta, capital de Georgia, la reina de los Estados Sureños de Norteamérica. Allí vamos a conocer a cinco españoles que llevan varios años en la ciudad: Marta, Ezequiel, Beth, Fernando y Álex.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/2/2/1390439685822.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 
  
