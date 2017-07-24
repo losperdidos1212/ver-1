@@ -172,14 +172,14 @@
 <title><![CDATA[EUROSPORTS 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/529.ts]]></stream_url>
+<stream_url><![CDATA[http://edge9.verliga.me/live/eurosport/index.m3u8]]></stream_url>
 </channel> 
   
    <channel>
-<title><![CDATA[EUROSPORTS 2]]></title>
+<title><![CDATA[Todo deportes]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts]]></stream_url>
+<stream_url><![CDATA[http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8]]></stream_url>
 </channel>
   
   <channel>
