@@ -74,17 +74,17 @@
 </channel>
   
     <channel>
-<title><![CDATA[Toros]]></title>
+<title><![CDATA[Movistar Estrenos]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/501.ts]]></stream_url>
+<stream_url><![CDATA[http://edge7.telesport.pw/live/plusestrenos/index.m3u8]]></stream_url>
 </channel>
   
    <channel>
-<title><![CDATA[Moto GP]]></title>
+<title><![CDATA[Movistar Accion]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts]]></stream_url>
+<stream_url><![CDATA[http://edge3.telesport.pw/live/plusaccion/index.m3u8]]></stream_url>
 </channel>
   
    <channel>
