@@ -67,10 +67,10 @@
 </channel>
   
    <channel>
-<title><![CDATA[Los Simpson]]></title>
+<title><![CDATA[MTV]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8]]></stream_url>
+<stream_url><![CDATA[http://edge7.telesport.pw/live/mtv/index.m3u8]]></stream_url>
 </channel>
   
     <channel>
@@ -88,33 +88,33 @@
 </channel>
   
    <channel>
-<title><![CDATA[Bein Sports]]></title>
+<title><![CDATA[National Geographic]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://185.99.3.14:25461/live/spanish-v2/TdTffMonWn/523.ts]]></stream_url>
+<stream_url><![CDATA[http://edge3.telesport.pw/live/nationalgeo/index.m3u8]]></stream_url>
 </channel>
   
  
   
   <channel>
-<title><![CDATA[C+ Lig]]></title>
+<title><![CDATA[NatGeo Wild]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts]]></stream_url>
+<stream_url><![CDATA[http://edge2.telesport.pw/live/nationalwild/index.m3u8]]></stream_url>
 </channel> 
   
  <channel>
-<title><![CDATA[C + Futbol]]></title>
+<title><![CDATA[RTPA]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/504.ts]]></stream_url>
+<stream_url><![CDATA[http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8]]></stream_url>
 </channel> 
   
    <channel>
-<title><![CDATA[C +DEPORTES 1]]></title>
+<title><![CDATA["LATINO",24/7 Los Simpson]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/507.ts]]></stream_url>
+<stream_url><![CDATA[http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8]]></stream_url>
 </channel>
   
   <channel>
