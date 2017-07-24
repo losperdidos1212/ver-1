@@ -158,7 +158,7 @@
 <title><![CDATA[Barca tv]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts]]></stream_url>
+<stream_url><![CDATA[http://edge12.verliga.me/live/barca/index.m3u8]]></stream_url>
 </channel>  
   
    <channel>
@@ -259,6 +259,13 @@
 <description></description>
 <stream_url><![CDATA[http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8]]></stream_url>
 </channel> 
+  
+     <channel>
+<title><![CDATA[Boing]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[https://cdn.opencable.es/hls/live/boing/index.m3u8]]></stream_url>
+</channel>
   
   
   
