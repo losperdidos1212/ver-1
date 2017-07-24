@@ -2,6 +2,20 @@
 <items>
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
+    <channel>
+<title><![CDATA[La 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge4.telesport.pw/live/tve1/index.m3u8]]></stream_url>
+</channel> 
+  
+    <channel>
+<title><![CDATA[La 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://edge5204.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8]]></stream_url>
+</channel> 
+  
              <channel>
 <title><![CDATA[antena 3]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -16,18 +30,20 @@
 <stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8]]></stream_url>
 </channel> 
   
-    <channel>
-<title><![CDATA[La 2]]></title>
+ 
+  
+   <channel>
+<title><![CDATA[La Cuatro]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge5204.livesports.pw/live/vertvdostelefive0f1f0a0df/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://edge12.verliga.club/live/cuatro/index.m3u8]]></stream_url>
 </channel> 
   
     <channel>
 <title><![CDATA[Telecinco]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/518.ts]]></stream_url>
+<stream_url><![CDATA[http://edge5201.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8]]></stream_url>
 </channel>  
   
             <channel>
