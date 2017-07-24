@@ -267,6 +267,13 @@
 <stream_url><![CDATA[https://cdn.opencable.es/hls/live/boing/index.m3u8]]></stream_url>
 </channel>
   
+    <channel>
+<title><![CDATA[clan TVE]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[https://cdn.opencable.es/hls/live/clan/index.m3u8]]></stream_url>
+</channel>
+  
   
   
  
