@@ -93,7 +93,7 @@
 <title><![CDATA[Calle 13]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://edge8.telesport.pw/live/calle13/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://edge2.telesport.pw/live/calle13/index.m3u8]]></stream_url>
 </channel>
   
    <channel>
@@ -190,10 +190,10 @@
 </channel> 
   
 <channel>
-<title><![CDATA[Fox sports]]></title>
+<title><![CDATA[Fox sports 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://wowza2.mysoltv.com:1992/Latino_Fox_Sports/tracks-v1a1/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8]]></stream_url>
 </channel>  
   
    <channel>
