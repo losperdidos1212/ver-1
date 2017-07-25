@@ -183,10 +183,10 @@
 </channel>
   
   <channel>
-<title><![CDATA[espn]]></title>
+<title><![CDATA[Bein Sports]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://104.245.96.214:8000/live/bilminton/men/931.ts]]></stream_url>
+<stream_url><![CDATA[http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/3293.ts]]></stream_url>
 </channel> 
   
 <channel>
