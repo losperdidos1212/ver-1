@@ -182,6 +182,13 @@
 <stream_url><![CDATA[http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8]]></stream_url>
 </channel>
   
+   <channel>
+<title><![CDATA[Gol TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[https://cdn.opencable.es/hls/live/goltv/index.m3u8]]></stream_url>
+</channel> 
+  
   <channel>
 <title><![CDATA[Bein Sports]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
