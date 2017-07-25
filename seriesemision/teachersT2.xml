@@ -67,9 +67,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+<channel>
+<title><![CDATA[Capitulo 2x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_092975cddf36d7f60d3843fc546bb279.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/zxcrt0oj8z5o]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
- 
- 
+<channel>
+<title><![CDATA[Capitulo 2x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_092975cddf36d7f60d3843fc546bb279.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1a58kkr8uc4r]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
  
  
  
