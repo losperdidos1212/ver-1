@@ -20,6 +20,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
+   <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/pura-magia-gala-3/1501028233432.JPG" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[ http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/2/1501027695126.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 
