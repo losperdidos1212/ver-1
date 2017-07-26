@@ -93,7 +93,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+<channel>
+<title><![CDATA[Capitulo 2x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_51c0e23d571ab9343fc7eec989ee7137.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/kdmug7hqkjzh]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
