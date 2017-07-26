@@ -48,7 +48,7 @@
 <title><![CDATA[A3series]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8]]></stream_url>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on]]></stream_url>
 </channel> 
   
  
@@ -85,14 +85,14 @@
 <title><![CDATA[neox]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8]]></stream_url>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&amp;rebase=on]]></stream_url>
 </channel> 
   
          <channel>
 <title><![CDATA[nova]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8]]></stream_url>
+<stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on]]></stream_url>
 </channel> 
   
   
