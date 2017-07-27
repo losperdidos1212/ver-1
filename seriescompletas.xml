@@ -126,6 +126,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+ <channel>       
+<title><![CDATA[Arrow T1 a T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/Arrow.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
  
  <channel>       
 <title><![CDATA[Ay senor senor]]></title>
