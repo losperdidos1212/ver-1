@@ -36,12 +36,50 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel>
+<title><![CDATA[TEMPORADA 2 2x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_28adbf46b3ea7e11b47c47da89002a07.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Watch1x01BennyHillMkv/Watch2x01BennyHillMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
+<channel>
+<title><![CDATA[TEMPORADA 2 2x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_28adbf46b3ea7e11b47c47da89002a07.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Watch1x01BennyHillMkv/Watch1x04BennyHillMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel
 
+<channel>
+<title><![CDATA[TEMPORADA 2 2x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_28adbf46b3ea7e11b47c47da89002a07.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
 
-
-
-
+<channel>
+<title><![CDATA[TEMPORADA 2 2x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_28adbf46b3ea7e11b47c47da89002a07.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+ 
+<channel>
+<title><![CDATA[TEMPORADA 2 2x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_28adbf46b3ea7e11b47c47da89002a07.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+ 
+ 
+ 
+ 
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
     </items>
