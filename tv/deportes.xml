@@ -3,6 +3,15 @@
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
   <channel>
+<title><![CDATA[GOL TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2514.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+  <channel>
 <title><![CDATA[M. Futbol HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
@@ -33,7 +42,7 @@
 <title><![CDATA[M. MotoGp HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7616.m3u8]]></stream_url>
+<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/1916.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -42,7 +51,7 @@
 <title><![CDATA[M. Formula 1 HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15437.m3u8]]></stream_url>
+<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/1915.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -60,7 +69,7 @@
 <title><![CDATA[M. DEPORTES 1 HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15434.m3u8]]></stream_url>
+<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2519.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
