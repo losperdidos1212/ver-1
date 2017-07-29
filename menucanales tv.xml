@@ -2,6 +2,14 @@
 <items>
  <playlist_name><![CDATA[Variedad De Canales Online]]></playlist_name>
  
+ <channel>       
+<title><![CDATA[TDT]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://fotos00.lagacetadesalamanca.es/2014/10/25/646x260/resintonizar-tdt.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/tv/tdt.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
  
  <channel>       
 <title><![CDATA[Deportes]]></title>
