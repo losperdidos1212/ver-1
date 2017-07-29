@@ -2,6 +2,13 @@
 <items>
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
+   <channel>       
+<title><![CDATA[pruebas terror]]></title>
+<logo_30x30></logo_30x30>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/terror/pruebasterro1.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
     <channel>
 <title><![CDATA[F1 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
