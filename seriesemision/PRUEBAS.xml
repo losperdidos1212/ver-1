@@ -164,6 +164,24 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
+ <channel>
+<title><![CDATA[MLB Network]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
+  
+   <channel>
+<title><![CDATA[Pac 12 Washington 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://xrxs.net/video/live-p12wash-4728.m3u8?iptvgratis?chile.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
+  
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HMStream.xml]]></prev_page_url>
