@@ -164,6 +164,15 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
+    <channel>
+<title><![CDATA[Sport TV 1 HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://nitrotv.for-the.biz:25461/live/juana/juana1234/3474.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
    <channel>
 <title><![CDATA[Chelsea Tv]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
