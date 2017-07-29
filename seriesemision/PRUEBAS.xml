@@ -3,11 +3,19 @@
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
     <channel>
-<title><![CDATA[bein sport  BAJA 3 megas]]></title>
+<title><![CDATA[bein sport  HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
 <stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/1785.m3u8]]></stream_url>
 </channel> 
+  
+    <channel>
+<title><![CDATA[bein Laliga megas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/1785.m3u8]]></stream_url>
+</channel> 
+  
   
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
