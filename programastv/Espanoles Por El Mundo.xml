@@ -375,6 +375,24 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
+    <channel> 
+<title><![CDATA[Nueva Caledonia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-nueva-caledonia/1499986787812.JPG" />]]>Hoy visitamos el archipiélago de Nueva Caledonia, en Oceanía. Descubrimos sus exuberantes costas, sus impresionantes playas y sus paisajes únicos. Además conoceremos su capital Numea y la cultura tradicional canaca</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/2/6/1499984137462.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
+     <channel> 
+<title><![CDATA[Tokio]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/espanoles-mundo-tokio/1501193658089.JPG" />]]>Hoy visitamos el archipiélago de Nueva Caledonia, en Oceanía. Descubrimos sus exuberantes costas, sus impresionantes playas y sus paisajes únicos. Además conoceremos su capital Numea y la cultura tradicional canaca</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/8/7/1501193154278.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
   
   
   
