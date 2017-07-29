@@ -11,6 +11,14 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
+ <channel>       
+<title><![CDATA[Varios Canales]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://images.vertele.eldiario.es/2012/03/23/noticias/rajoy539_1339376105_5804528_660x371.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/tv/varios%20canales.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
 
 
  
