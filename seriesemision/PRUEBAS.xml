@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
-<playlist_name><![CDATA[SERIES pruebas]]></playlist_name>
+<playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
-  
-  
-
-  
-   <channel>       
-<title><![CDATA[pruebas terror]]></title>
-<logo_30x30></logo_30x30>
-
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/terror/pruebasterro1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
+    <channel>
+<title><![CDATA[bein sport ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/3591.m3u8]]></stream_url>
 </channel> 
-  
-  
   
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
