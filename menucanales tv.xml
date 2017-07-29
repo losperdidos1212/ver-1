@@ -6,7 +6,7 @@
  <channel>       
 <title><![CDATA[Deportes]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://teleoposiciones.es/wp-content/uploads/2017/02/cropped-all-sports-banner.png">]]></description>
+<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2qkG6nwD5yfaOpyS5EaHCpMidUtJ-nyBg8AmqXJvosi8x3aQWw">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/tv/deportes.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
