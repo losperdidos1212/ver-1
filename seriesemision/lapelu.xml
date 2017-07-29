@@ -358,6 +358,70 @@
 </channel> 
  
  
+  <channel>
+<title><![CDATA[Capitulo 1x10 Parte 1 Tienes un e-mail]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/peluqueria-tienes-mail/1501278800999.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/0/1/1501278794210.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+   <channel>
+<title><![CDATA[Capitulo 1x10 Parte 2 El farol]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/peluqueria-farol/1501278919692.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/4/1501278915146.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 1x10 Parte 3  La nueva novia de Andres]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/peluqueria-nueva-novia-andres/1501279216607.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/9/1501279211296.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 1x10 Parte 4  Nueva pandilla de Oscar]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/peluqueria-nueva-pandilla-oscar/1501279257457.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/9/8/1501279253889.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+  <channel>
+<title><![CDATA[Capitulo 1x10 Parte 5  El pelo de Raul]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/peluqueria-pelo-raul/1501287665559.JPG" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/2/5/1501284933652.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+   <channel>
+<title><![CDATA[Capitulo 1x10 Parte 6  La segunda equipacion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/peluqueria-segunda-equipacion/1501280553597.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/0/5/1501280550750.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+  <channel>
+<title><![CDATA[Capitulo 1x10 Parte 7  Apuestas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/peluqueria-apuestas/1501280773058.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/0/5/1501280550750.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+  <channel>
+<title><![CDATA[Capitulo 1x10 Parte 8  Urgencias]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/peluqueria-urgencias/1501280838676.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/7/1501280835476.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
  
  
  
