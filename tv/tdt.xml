@@ -2,12 +2,7 @@
 <items>
 <playlist_name><![CDATA[Canales De La TDT Online]></playlist_name>
 
- <channel>
-<title><![CDATA[La 1]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/7661.m3u8]]></stream_url>
-</channel> 
+ 
   
     <channel>
 <title><![CDATA[La 2]]></title>
