@@ -5,7 +5,7 @@
 
  
 <channel>
-<title><![CDATA[1x01 Piloto]]></title>
+<title><![CDATA[1x01 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
 <stream_url><![CDATA[https://archive.org/download/Morirdepie.1x01.HDTV.avi/Morirdepie.1x01.HDTV.avi.mp4]]></stream_url>
@@ -13,7 +13,7 @@
 </channel>
 
  <channel>
-<title><![CDATA[1x02 Piloto]]></title>
+<title><![CDATA[1x02 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
 <stream_url><![CDATA[https://archive.org/download/Morirdepie.1x01.HDTV.avi/M0r1r.D3.P13.1x02.m720p.mkv.mp4]]></stream_url>
@@ -22,7 +22,7 @@
  
  
  <channel>
-<title><![CDATA[1x03 Piloto]]></title>
+<title><![CDATA[1x03 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/3rocy6s8fbdv]]></stream_url>
@@ -30,7 +30,7 @@
 </channel>
  
  <channel>
-<title><![CDATA[1x04 Piloto]]></title>
+<title><![CDATA[1x04 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/o2kvu2qq1fym]]></stream_url>
@@ -38,7 +38,7 @@
 </channel>
  
 <channel>
-<title><![CDATA[1x05 Piloto]]></title>
+<title><![CDATA[1x05 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/12ytx92ffngd]]></stream_url>
@@ -46,7 +46,7 @@
 </channel>
  
 <channel>
-<title><![CDATA[1x06 Piloto]]></title>
+<title><![CDATA[1x06 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
 <stream_url><![CDATA[https://archive.org/download/Morirdepie.1x01.HDTV.avi/M0r1r.D3.P13.1x06.m720p.mkv.mp4]]></stream_url>
@@ -54,10 +54,18 @@
 </channel>
  
 <channel>
-<title><![CDATA[1x07 Piloto]]></title>
+<title><![CDATA[1x07 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/wv48y276syyt]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[1x08 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c96f5c0f8cfeef8125ad7d16e2f42599.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dq6rtdu9gqxy]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
