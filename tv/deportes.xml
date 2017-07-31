@@ -6,46 +6,25 @@
 <title><![CDATA[GOL TV]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2514.m3u8?sd=10&rebase=on]]></stream_url>
+<stream_url><![CDATA[http://iudtv.org:8000/live/190e4jtd6wr5q05j/190e4jtd6wr5q05j/2585.ts]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
   
-  <channel>
-<title><![CDATA[M. Futbol HD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/13008.m3u8?sd=10&rebase=on]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
+
   
-    <channel>
-<title><![CDATA[M. Futbol SD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13008.m3u8?sd=10&rebase=on]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
+ 
   
     <channel>
 <title><![CDATA[M. MotoGp HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7616.m3u8?sd=10&rebase=on]]></stream_url>
+<stream_url><![CDATA[http://iudtv.org:8000/live/190e4jtd6wr5q05j/190e4jtd6wr5q05j/1011.tsn]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
   
-  <channel>
-<title><![CDATA[M. MotoGp HD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/1916.m3u8?sd=10&rebase=on]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
+
   
   <channel>
 <title><![CDATA[M. Formula 1 HD]]></title>
@@ -57,28 +36,20 @@
 </channel>
   
   <channel>
-<title><![CDATA[M. DEPORTES 1 SD]]></title>
+<title><![CDATA[M. DEPORTES 1 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13009.m3u8?sd=10&rebase=on]]></stream_url>
+<stream_url><![CDATA[http://iudtv.org:8000/live/190e4jtd6wr5q05j/190e4jtd6wr5q05j/1012.ts]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
   
+ 
   <channel>
-<title><![CDATA[M. DEPORTES 1 HD]]></title>
+<title><![CDATA[M. DEPORTES 2 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/15433.m3u8?sd=10&rebase=on]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
-  
-  <channel>
-<title><![CDATA[M. DEPORTES 2 HD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15435.m3u8?sd=10&rebase=on]]></stream_url>
+<stream_url><![CDATA[http://iudtv.org:8000/live/190e4jtd6wr5q05j/190e4jtd6wr5q05j/2590.ts]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel> 
@@ -95,41 +66,26 @@
 
   
  <channel>
-<title><![CDATA[Bein sport HD]]></title>
+<title><![CDATA[Bein sport ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13279.m3u8?sd=10&rebase=on]]></stream_url>
+<stream_url><![CDATA[http://iudtv.org:8000/live/190e4jtd6wr5q05j/190e4jtd6wr5q05j/1003.ts]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel> 
   
-   <channel>
-<title><![CDATA[Bein sport  SD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15440.m3u8?sd=10&rebase=on]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel> 
+ 
   
     <channel>
-<title><![CDATA[La liga Bar hd]]></title>
+<title><![CDATA[La liga Bar ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/15429.m3u8?sd=10&rebase=on]]></stream_url>
+<stream_url><![CDATA[http://iudtv.org:8000/live/190e4jtd6wr5q05j/190e4jtd6wr5q05j/1022.ts]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
   
-  <channel>
-<title><![CDATA[La liga Bar sd]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/13006.m3u8?sd=10&rebase=on]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
-  
+ 
    
   
  
