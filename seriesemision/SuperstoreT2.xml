@@ -84,9 +84,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+<channel>
+<title><![CDATA[Capitulo 2x16]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0abc8df7b1c554f716b8e5fc21af0ced.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/xpgvdara38ib]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
- 
- 
+<channel>
+<title><![CDATA[Capitulo 2x17]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0abc8df7b1c554f716b8e5fc21af0ced.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/vec1n0mzs5a1]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
