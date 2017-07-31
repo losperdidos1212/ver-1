@@ -92,14 +92,7 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
- <channel>
-<title><![CDATA[Eurosport 1 SD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7680.m3u8?sd=10&rebase=on]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel> 
+
   
  <channel>
 <title><![CDATA[Bein sport HD]]></title>
