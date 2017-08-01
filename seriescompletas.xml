@@ -232,6 +232,14 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/csi_las_vegas.txt]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
+
+ <channel>       
+<title><![CDATA[Csi NY Temporada 1 a Temporada 9]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/originals/01/e0/64/01e0646c5767f3704fd5a439294fbc49.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/CSI%3ANY.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
  <channel>       
 <title><![CDATA[Cuestion de sexo T1 a T3]]></title>
