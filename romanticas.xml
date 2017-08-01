@@ -50,7 +50,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
-  
+<channel>
+<title><![CDATA[El amor y otras cosas imposibles]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.peliculasonlineflv.net/img/el-amor-y-otras-cosas-imposibles.jpg"/>]]>n Emilia Greenleaf (Natalie Portman), una licenciada en Derecho por la Universidad de Harvard, se acaba de casar con Jack (Scott Cohen), un importante abogado neoyorquino que era su jefe -y que estaba casado- cuando ella empezó a trabajar en su bufete. Desgraciadamente, la vida de Emilia da un vuelco inesperado cuando Jack y ella pierden a su hija recién nacida. </description>
+<stream_url><![CDATA[https://archive.org/download/trutorangvice_yopmail_Boot_20170531_1802/ElAmoYOtaImpos.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
   
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
