@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[CSI New.York]]></playlist_name>
+ 
+<channel>
+ <title><![CDATA[1x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/c1aktvlhu78u]]></stream_url>
+ </channel>
+ 
+ <channel>
+ <title><![CDATA[1x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/l27mge0xgkk7]]></stream_url>
+ </channel>
+ 
+ <channel>
+ <title><![CDATA[1x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/2ov8fg8k1qly]]></stream_url>
+ </channel>
+ 
+ <channel>
+ <title><![CDATA[1x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/cs8kyscbq2pu]]></stream_url>
+ </channel>
+ 
+ <channel>
+ <title><![CDATA[1x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/o5o1yd20i22r]]></stream_url>
+ </channel>
+ 
+ <channel>
+ <title><![CDATA[1x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/crqdjb812a53]]></stream_url>
+ </channel>
+ 
+ <channel>
+ <title><![CDATA[1x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/zv39zqnuksnv]]></stream_url>
+ </channel>
+ 
+ <channel>
+ <title><![CDATA[1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/7etqlcoxe9p1]]></stream_url>
+ </channel>
+ 
+ <channel>
+ <title><![CDATA[1x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/eqnw93paib8f]]></stream_url>
+ </channel>
+                           
+                           
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+    </items>	
