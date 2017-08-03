@@ -330,12 +330,23 @@
 <stream_url><![CDATA[http://streamcloud.eu/49i4vpc64t3f]]></stream_url>
  </channel>
  
+<channel>
+ <title><![CDATA[3x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3efc8cc62864a33a3909f88efa50e937.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/itnsrnj3ca2a]]></stream_url>
+ </channel>
  
  
  
  
- 
- 
+
+  
+  
+  
+  
+  
+  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
     </items>	
