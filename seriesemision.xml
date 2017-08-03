@@ -424,6 +424,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel>       
+<title><![CDATA[Recovery road T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_142c0fb938d4fe22ccb2b3e740b91b3b.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/recoveryroad.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  <channel>       
 <title><![CDATA[Riverdale T1]]></title>
 <logo_30x30></logo_30x30>
