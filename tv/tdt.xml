@@ -95,6 +95,13 @@
 <description></description>
 <stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on]]></stream_url>
 </channel>
+ 
+  <channel>
+<title><![CDATA[24 HORAS]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://90.229.173.167:9000/ch40]]></stream_url>
+</channel>
   
   
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
