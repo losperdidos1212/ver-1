@@ -2549,7 +2549,25 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/alvin_and_the_chipmunks-386264480-large.jpg" />]]></description>
 </channel>
 
+<channel>
+<title><![CDATA[ Alvin y las ardillas 2 2009]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/p5qn19cm1k7e]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/alvin_and_the_chipmunks_the_squeakquel_alvin_and_the_chipmunks_2-456763346-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/alvin_and_the_chipmunks_the_squeakquel_alvin_and_the_chipmunks_2-456763346-large.jpg" />]]></description>
+</channel>
 
+<channel>
+<title><![CDATA[ Alvin y las ardillas 3 2011]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/nm515tooi9n9]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/alvin_and_the_chipmunks_chip_wrecked_alvin_and_the_chipmunks_3-832384115-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/alvin_and_the_chipmunks_chip_wrecked_alvin_and_the_chipmunks_3-832384115-large.jpg" />]]></description>
+</channel>
 
 <channel>
 <title><![CDATA[ Alvin y las ardillas: Fiesta sobre ruedas 2015]]></title>
