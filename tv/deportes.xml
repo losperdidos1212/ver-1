@@ -57,7 +57,7 @@
  <channel>
 <title><![CDATA[Eurosport 1 HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/ESP.png>" />]]>Deportes por internet</description>
+<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/ESP.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15440.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -68,7 +68,7 @@
  <channel>
 <title><![CDATA[Bein sport ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/CHUEFA.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15440.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -79,7 +79,7 @@
     <channel>
 <title><![CDATA[La liga Bar ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<description><![CDATA[<img src="http://img4.futboltv.info/canales/laligatv.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://79.108.23.31:8001/1:0:19:7859:41A:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -88,7 +88,7 @@
   <channel>
 <title><![CDATA[M. FUTBOL]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/CPFUT.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15433.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -97,7 +97,7 @@
    <channel>
 <title><![CDATA[M. GOLF]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/GOLF%2B.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15436.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
@@ -111,7 +111,7 @@
   <channel>
 <title><![CDATA[Eurosport HD (Alem)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/ESP.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/ieIqwI7BT0/oF0OETsBHT/7107.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
