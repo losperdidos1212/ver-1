@@ -3,19 +3,19 @@
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
   <channel>
-<title><![CDATA[M. Futbol HD]]></title>
+<title><![CDATA[SKY SPORT 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15433.m3u8]]></stream_url>
+<stream_url><![CDATA[http://34.252.57.34/streams/1/playlist1.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
   
     <channel>
-<title><![CDATA[M. Futbol SD]]></title>
+<title><![CDATA[BEIN]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13008.m3u8]]></stream_url>
+<stream_url><![CDATA[http://34.252.57.34/streams/3/playlist1.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
