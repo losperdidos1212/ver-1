@@ -55,7 +55,7 @@
 </channel> 
   
  <channel>
-<title><![CDATA[Eurosport 1 HD]]></title>
+<title><![CDATA[Bein sport SD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/ESP.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15440.m3u8]]></stream_url>
@@ -65,14 +65,7 @@
   
 
   
- <channel>
-<title><![CDATA[Bein sport ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/CHUEFA.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15440.m3u8]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel> 
+ 
   
  
   
