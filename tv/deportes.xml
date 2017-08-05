@@ -6,7 +6,7 @@
 <title><![CDATA[GOL TV]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[https://cdn.opencable.es/hls/live/goltv/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://79.108.23.31:8001/1:0:1:74A3:41C:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -19,7 +19,7 @@
 <title><![CDATA[M. MotoGp HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://supervip.mine.nu:36000/live/suoceromario/oV9wrhL8In/15889.m3u8]]></stream_url>
+<stream_url><![CDATA[http://79.108.23.31:8001/1:0:19:7532:426:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -80,7 +80,7 @@
 <title><![CDATA[La liga Bar ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/1575.m3u8]]></stream_url>
+<stream_url><![CDATA[http://79.108.23.31:8001/1:0:19:7859:41A:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -126,14 +126,7 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
-    <channel>
-<title><![CDATA[Sport TV 1 HD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://nitrotv.for-the.biz:25461/live/juana/juana1234/3474.m3u8]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
+    
   
    <channel>
 <title><![CDATA[Chelsea Tv]]></title>
