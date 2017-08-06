@@ -20,6 +20,14 @@
  </channel>
  
  <channel>       
+<title><![CDATA[ADULTOS]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2qkG6nwD5yfaOpyS5EaHCpMidUtJ-nyBg8AmqXJvosi8x3aQWw">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/tv/adulto.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ <channel>       
 <title><![CDATA[Varios Canales]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://images.vertele.eldiario.es/2012/03/23/noticias/rajoy539_1339376105_5804528_660x371.jpg">]]></description>
