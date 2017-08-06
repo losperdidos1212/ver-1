@@ -20,6 +20,15 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
+  <channel>
+<title><![CDATA[M. MotoGp SD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://79.108.23.31:8001/1:0:19:7532:426:1:c00000:0:0:0:]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
  
   
     <channel>
@@ -31,7 +40,14 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
-
+ <channel>
+<title><![CDATA[M. Formula 1 SD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://79.108.23.31:8001/1:0:1:74a4:41c:1:c00000:0:0:0:]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
   
   <channel>
 <title><![CDATA[M. Formula 1 HD]]></title>
