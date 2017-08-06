@@ -3,10 +3,10 @@
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
    <channel>
-<title><![CDATA[NICK JR]]></title>
+<title><![CDATA[NICK JR 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[https://cdn.opencable.es/hls/live/nickjr/index.m3u8]]></stream_url>
+<stream_url><![CDATA[http://flus1.sanpedrowifi.com/live/disneyjnr.SD.IRD/mono.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
