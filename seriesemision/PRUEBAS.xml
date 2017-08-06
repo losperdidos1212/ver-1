@@ -3,7 +3,7 @@
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
    <channel>
-<title><![CDATA[Paramount]></title>
+<title><![CDATA[Paramount]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://flus1.sanpedrowifi.com/live/paramount.sd.ird/mono.m3u8]]></stream_url>
@@ -12,7 +12,7 @@
 </channel>
   
    <channel>
-<title><![CDATA[Hollywood ]></title>
+<title><![CDATA[Hollywood ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://flus1.sanpedrowifi.com/live/hollywood.SD.IRD/mono.m3u8]]></stream_url>
@@ -21,7 +21,7 @@
 </channel>
   
   <channel>
-<title><![CDATA[Hollywood HD]></title>
+<title><![CDATA[Hollywood HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://flus1.sanpedrowifi.com/live/hollywood.HD.xtra/mono.m3u8]]></stream_url>
