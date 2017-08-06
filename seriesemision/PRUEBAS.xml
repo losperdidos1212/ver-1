@@ -2,6 +2,15 @@
 <items>
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
+   <channel>
+<title><![CDATA[NICK JR]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[https://cdn.opencable.es/hls/live/nickjr/index.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
     <channel>
 <title><![CDATA[M. FORMULA F1 HD FULL]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
