@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
-<playlist_name><![CDATA[Deportes Online]]></playlist_name>
+<playlist_name><![CDATA[Adulto Online]]></playlist_name>
   
   <channel>
-<title><![CDATA[GOL TV]]></title>
+<title><![CDATA[CANAL 6]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://e02-elmundo.uecdn.es/assets/multimedia/imagenes/2016/06/01/14648018973966.jpg" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/4455.m3u8]]></stream_url>
+<stream_url><![CDATA[http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel32/playlist.m3u8]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+ <channel>
+<title><![CDATA[CANAL 7]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://e02-elmundo.uecdn.es/assets/multimedia/imagenes/2016/06/01/14648018973966.jpg" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel23/playlist.m3u8]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
