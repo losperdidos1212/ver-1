@@ -2,6 +2,78 @@
 <items>
 <playlist_name><![CDATA[Canales De TV Online]]></playlist_name>
   
+    <channel>
+<title><![CDATA[M. FORMULA F1 HD FULL]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/3522.ts]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   <channel>
+<title><![CDATA[M. FORMULA F1 HD 720P]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/4422.ts]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+  <channel>
+<title><![CDATA[M. FORMULA F1 SD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/4421.ts]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+  <channel>
+<title><![CDATA[BEIN SPORT  hd FULL]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/3528.ts]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[BEIN SPORT  hd 720p]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/4506.ts]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   <channel>
+<title><![CDATA[BEIN SPORT LA LIGA hd full]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/4534.ts]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   <channel>
+<title><![CDATA[BEIN SPORT LA LIGA hd 720p]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/4505.ts]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+    <channel>
+<title><![CDATA[BEIN SPORT LA LIGA SD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://exabytetv.info/img/icon.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/4504.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
   <channel>
 <title><![CDATA[SKY SPORT 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
