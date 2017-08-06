@@ -15,18 +15,18 @@
 <title><![CDATA[M. MotoGp SD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1041.ts:]]></stream_url>
+<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1041.ts]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+
 </channel>
   
   <channel>
 <title><![CDATA[M. MotoGp HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://79.108.23.31:8001/1:0:19:7532:426:1:c00000:0:0:0:]]></stream_url>
+<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1041.ts]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+
 </channel>
   
  
@@ -37,7 +37,7 @@
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/7616.m3u8]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+
 </channel>
   
  <channel>
@@ -46,7 +46,7 @@
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1035.ts:]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+
 </channel>
   
   <channel>
@@ -55,7 +55,7 @@
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15437.m3u8]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+
 </channel>
   
   <channel>
@@ -64,7 +64,7 @@
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/CPDEP.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1064.ts]]></stream_url>
 <video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
+
 </channel>
   
  
