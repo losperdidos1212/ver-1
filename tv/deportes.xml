@@ -12,10 +12,10 @@
 </channel>
   
 <channel>
-<title><![CDATA[M. MotoGp SD]]></title>
+<title><![CDATA[M. MotoGp SD 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1041.ts]]></stream_url>
+<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1041.m3u8]]></stream_url>
 <video_type>http</video_type>
 
 </channel>
