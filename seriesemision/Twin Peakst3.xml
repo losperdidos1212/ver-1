@@ -91,6 +91,20 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>
+<title><![CDATA[3x08 El regreso, Parte 13]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_b74f8acdfa3b33d89e51305adef42992.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/brtek72bj003]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
 
