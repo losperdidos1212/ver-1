@@ -20,20 +20,13 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
   
-<channel>
-<title><![CDATA[M. MotoGp SD 1]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1041.m3u8]]></stream_url>
-<video_type>http</video_type>
 
-</channel>
   
   <channel>
 <title><![CDATA[M. MotoGp HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVMTGP.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1041.m3u8]]></stream_url>
+<stream_url><![CDATA[http://37.132.2.235:8001/1:0:19:7532:426:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 
 </channel>
@@ -49,20 +42,13 @@
 
 </channel>
   
- <channel>
-<title><![CDATA[M. Formula 1 SD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1035.m3u8]]></stream_url>
-<video_type>http</video_type>
 
-</channel>
   
   <channel>
 <title><![CDATA[M. Formula 1 HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/MVF1.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://tv.iptvsensation.com:6500/live/tgko0epdhW/GsD81wUb8F/15437.m3u8]]></stream_url>
+<stream_url><![CDATA[http://37.132.2.235:8001/1:0:19:7531:426:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 
 </channel>
@@ -71,7 +57,7 @@
 <title><![CDATA[M. DEPORTES 1 HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/CPDEP.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1064.m3u8]]></stream_url>
+<stream_url><![CDATA[http://37.132.2.235:8001/1:0:19:7828:428:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 
 </channel>
@@ -81,31 +67,38 @@
 <title><![CDATA[M. DEPORTES 2 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/CPD2.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1073.m3u8]]></stream_url>
+<stream_url><![CDATA[http://37.132.2.235:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel> 
   
  <channel>
-<title><![CDATA[BEIN LA LIGA HD]]></title>
+<title><![CDATA[BEIN sport HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/ESP.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://145.239.108.24:6500/live/tgko0epdhW/GsD81wUb8F/16981.ts]]></stream_url>
+<stream_url><![CDATA[http://37.132.2.235:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
   
 
-  
+    <channel>
+<title><![CDATA[BEIN LA LIGA HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img4.futboltv.info/canales/laligatv.png" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://37.132.2.235:8001/1:0:19:7859:41A:1:C00000:0:0:0:]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel> 
  
   
  
   
     <channel>
-<title><![CDATA[La liga Bar ]]></title>
+<title><![CDATA[LALIGATV BAR]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://img4.futboltv.info/canales/laligatv.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://145.239.108.24:6500/live/tgko0epdhW/GsD81wUb8F/7715.ts]]></stream_url>
+<stream_url><![CDATA[http://37.132.2.235:8001/1:0:19:7859:41A:1:C00000:0:0:0]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
@@ -114,7 +107,7 @@
 <title><![CDATA[M. FUTBOL]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/CPFUT.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1063.m3u8]]></stream_url>
+<stream_url><![CDATA[http://37.132.2.235:8001/1:0:19:74FF:420:1:C00000:0:0:0:]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel> 
