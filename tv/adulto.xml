@@ -3,10 +3,28 @@
 <playlist_name><![CDATA[Adulto Online]]></playlist_name>
   
     <channel>
-<title><![CDATA[HUSTLER HD TV]]></title>
+<title><![CDATA[HOT 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://e02-elmundo.uecdn.es/assets/multimedia/imagenes/2016/06/01/14648018973966.jpg" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://144.217.71.168:8000/live/pedro/pedro/3631.m3u8]]></stream_url>
+<stream_url><![CDATA[http://playlist.prg09.v-ip-tv.com/atip/3/22/channel-75/0/pc.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+      <channel>
+<title><![CDATA[HOT 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://e02-elmundo.uecdn.es/assets/multimedia/imagenes/2016/06/01/14648018973966.jpg" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://playlist.prg09.v-ip-tv.com/atip/3/22/channel-76/0/pc.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+  
+   <channel>
+<title><![CDATA[HOT 3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://e02-elmundo.uecdn.es/assets/multimedia/imagenes/2016/06/01/14648018973966.jpg" />]]>Deportes por internet</description>
+<stream_url><![CDATA[http://playlist.prg09.v-ip-tv.com/atip/3/22/channel-77/0/pc.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
