@@ -105,7 +105,7 @@
 <title><![CDATA[La liga Bar ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://img4.futboltv.info/canales/laligatv.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://portal.geniptv.com:8080/live/julia/julia/1042.m3u8]]></stream_url>
+<stream_url><![CDATA[http://145.239.108.24:6500/live/tgko0epdhW/GsD81wUb8F/7715.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>20480</buffer_kb>
 </channel>
