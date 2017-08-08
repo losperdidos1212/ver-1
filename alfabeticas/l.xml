@@ -22345,7 +22345,7 @@
 
 
 <channel>
-<title><![CDATA[ Los héroes del mal]]></title>
+<title><![CDATA[ Los heroes del mal]]></title>
 <video_type>http</video_type>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <buffer_kb>30000</buffer_kb>
@@ -22826,17 +22826,12 @@
 <buffer_kb>30000</buffer_kb>
 
 <stream_url><![CDATA[http://streamcloud.eu/dmjsk3rn5klv]]></stream_url>
-    
-    
-    
-
-
-
-
+ 
 <thumbnail>http://pics.filmaffinity.com/the_hunger_games_catching_fire-758754770-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/the_hunger_games_catching_fire-758754770-large.jpg" />]]></description>
 </channel>
 
+	
 <channel>
 <title><![CDATA[ Los juegos del hambre: Sinsajo. Parte I]]></title>
 <link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/oscaraday/-22897/p,111451,list,1,3.avi</link>
@@ -24221,7 +24216,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <stream_url><![CDATA[http://streamcloud.eu/tgyac6dl5wkd]]></stream_url>
     
-    
+ 
+ <channel> 
+<title><![CDATA[Los pitufos: La aldea escondida (2017)  Calidad:HDRIP-Latino]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://gnula.nu/wp-content/uploads/2017/01/Smurfs_The_Lost_Village_poster_usa.jpg" />]]>Han pasado 20 años desde que Mark Renton abandonara Escocia, y la heroína. Ahora, Renton vuelve a su Edimburgo natal con el objetivo de rehacer su vida y reencontrarse con sus amigos de toda la vida: David "Spud" Murphy, y Simon "Sick Boy" Williamson; al mismo tiempo que Francis "Franco" Begbie sale de la prisión con sed de venganza. Secuela de 'Trainspotting' (1996), basada en 'Porno', la siguiente novela de Irvine Welsh, aunque el director Boyle aseguró que el guión de John Hodge no será demasiado fiel al libro</description> 
+<stream_url><![CDATA[http://streamcloud.eu/1rt8fndbf60j/th3.smurfs.2017.hdrip.720p.latino.gnula.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>    
     
 
 
