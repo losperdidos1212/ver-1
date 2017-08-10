@@ -36,6 +36,19 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+<channel>
+<title><![CDATA[Capitulo 1x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_eabbefe92de1c181c50897e0824406f7.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/mq95w33sxtby]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ 
+ 
+ 
+ 
+ 
  
  
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
