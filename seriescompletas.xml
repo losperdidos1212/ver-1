@@ -374,6 +374,15 @@
  </channel>
  
  <channel>       
+<title><![CDATA[Erase la vida T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3f5464b1153ff4f314367ea74af060e9.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/eraselavida.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+ <channel>       
 <title><![CDATA[ Fragiles T1 y T2]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_819ea3315fb00db44a40bf58d099ec6a.jpg">]]></description>
