@@ -250,8 +250,6 @@
 </channel>    
   
   
-
-  
   <channel>       
 <title><![CDATA[Curro Jimenez]]></title>
 <logo_30x30></logo_30x30>
@@ -259,6 +257,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/CURROJIMENEZ.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel> 
+ 
+<channel>       
+<title><![CDATA[David el gnomo T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_279caae7d7fd3e0b3203cc740939baf1.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/davidgnomo.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
+ 
+ 
  
  <channel>       
 <title><![CDATA[De parte de quien]]></title>
