@@ -722,6 +722,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/V.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+<channel>       
+<title><![CDATA[V (Xena la princesa guerrera T1 a T6]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/xena_warrior_princess_tv_series-880208288-mmed.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/xena%20La%20Princesa%20Guerrera.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
  <channel>      
 <title><![CDATA[Younger ]]></title> 
