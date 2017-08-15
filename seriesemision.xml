@@ -217,6 +217,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel>       
+<title><![CDATA[Guilt T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/guerrilla_m3lxein7ki62017-04-14.jpg">Guerrilla es una historia de amor ambientada en una de las Ã©pocas mÃ¡s convulsas y agitadas polÃ­ticamente dentro de la historia reciente del Reino Unido. Ambientada en la dÃ©cada de los 70, la serie sigue a una pareja activista polÃ­tica cuya relaciÃ³n, estabilidad y valores se ponen a prueba tras la liberaciÃ³n de un importante preso polÃ­tico que, despuÃ©s de ser liberado, funda una cÃ©lula radical clandestina en el Londres de la Ã©poca con el objetivo de luchar por los derechos de los negros.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/guilt.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
  <channel>       
 <title><![CDATA[Hawai 5.0]]></title>
 <logo_30x30></logo_30x30>
