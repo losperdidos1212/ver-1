@@ -366,6 +366,14 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Morir%20de%20pie%20T1.XML]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+ <channel>      
+<title><![CDATA[ Monster allergy T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_05fa101024eb7219c6ad7854e22be7f7.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/monster.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
   <channel>      
 <title><![CDATA[ NCIS: Nueva Orleans T3]]></title> 
