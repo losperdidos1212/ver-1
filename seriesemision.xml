@@ -112,6 +112,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel>      
+<title><![CDATA[ Crimen en elparaiso T6]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src=" http://hdfull.tv/tthumb/172x265/show_a58a4780ced75051d510dda4aa346d8d.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/crimenparaiso.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
  <channel>      
 <title><![CDATA[ Cronicas Vampiricas T8]]></title> 
 <logo_30x30></logo_30x30> 
