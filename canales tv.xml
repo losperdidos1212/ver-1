@@ -4,54 +4,9 @@
   
   
   
-    <channel>
-<title><![CDATA[F1 ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://1sn.ns1.name:18800/live/fero.iptvTRLoc/fhfgsfadfsgd/3598.m3u8]]></stream_url>
-</channel> 
+   
   
-  <channel>
-<title><![CDATA[Gol TV ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2514.m3u8]]></stream_url>
-</channel> 
-  
-   <channel>
-<title><![CDATA[Bein SPORTS FULL HD ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/15440.m3u8]]></stream_url>
-</channel> 
-  
- <channel>
-<title><![CDATA[beIN La Liga FULL HD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/13709.m3u8]]></stream_url>
-</channel> 
-  
-  <channel>
-<title><![CDATA[Movista comedia]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2524.m3u8]]></stream_url>
-</channel> 
-  
-    <channel>
- <title><![CDATA[Movistar accion]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2425.m3u8]]></stream_url>
-</channel> 
-  
-    <channel>
-<title><![CDATA[Movistar Estrenos]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2427.m3u8]]></stream_url>
-</channel>
+    
   
     <channel>
 <title><![CDATA[La 1]]></title>
@@ -168,30 +123,13 @@
 <stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7705.m3u8]]></stream_url>
 </channel>
   
-  <channel>
-<title><![CDATA[Caza y Pesca]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7688.m3u8]]></stream_url>
-</channel> 
   
-   <channel>
-<title><![CDATA[National Geographic]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2421.m3u8]]></stream_url>
-</channel>
   
  
   
  
   
- <channel>
-<title><![CDATA[RTPA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8]]></stream_url>
-</channel> 
+ 
   
   <channel>
 <title><![CDATA[eitb]]></title>
@@ -207,19 +145,7 @@
 <stream_url><![CDATA[http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8]]></stream_url>
 </channel>
   
-  <channel>
-<title><![CDATA[Toros ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://pro213.com:80/live/abounnachat460/o4341h/2525.m3u8]]></stream_url>
-</channel> 
   
-  <channel>
-<title><![CDATA["ARGENTINA",Garage TV]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8]]></stream_url>
-</channel> 
   
  <channel>
 <title><![CDATA[Betis Tv ]]></title>
@@ -249,13 +175,7 @@
 <stream_url><![CDATA[http://www.xa1q.com:8000/live/dona/dona/855.ts]]></stream_url>
 </channel> 
   
-   <channel>
-<title><![CDATA[Todo deportes]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8]]></stream_url>
-</channel>
-  
+   
   
   <channel>
 <title><![CDATA[FOX SPORTS]]></title>
@@ -268,18 +188,13 @@
    <channel>
 <title><![CDATA[MUZZONE TV MUSICA]]></title>
 <logo_30x30><![CDATA[http://i67.tinypic.com/nwijyh.png]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/9TkUQrMmb8qyYLt5B4bN3xPHkL2.jpg"/>]]>n Johnny Castle es un experto profesor de baile y un amante consumado. Por su parte, Baby Houseman es una aburrida e inocente adolescente de 17 años</description>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/9TkUQrMmb8qyYLt5B4bN3xPHkL2.jpg"/>]]>n Johnny Castle es un experto profesor de baile y un amante consumado. Por su parte, Baby Houseman es una aburrida e inocente adolescente de 17 años</description>
 <stream_url><![CDATA[http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-     <channel>
-<title><![CDATA[foro tv]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8]]></stream_url>
-</channel>
+     
   
    <channel>
 <title><![CDATA[real madrid tv]]></title>
@@ -295,12 +210,7 @@
 <stream_url><![CDATA[http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?]]></stream_url>
 </channel>
   
-   <channel>
-<title><![CDATA[Tigo Music]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?]]></stream_url>
-</channel>
+   
    
   
      
@@ -344,13 +254,7 @@
 </channel>
   
 
-   <channel>
-<title><![CDATA[Simpsonmaniahd14]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[https://hls-ord-1a.vaughnsoft.net/ams/live/live_simpson_maniahd14/chunklist.m3u8]]></stream_url>
-</channel>
-  
+   
   
   
  
