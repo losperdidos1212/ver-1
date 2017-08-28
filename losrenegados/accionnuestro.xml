@@ -230,6 +230,16 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
+	
+	<channel>
+<title><![CDATA[logan 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/logan-528968427-mmed.jpg" />]]>Sin sus poderes, por primera vez, Wolverine es verdaderamente vulnerable. Despues de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda, su mentor Charles Xavier lo convence de asumir una ultima mision: proteger a una joven que sera la unica esperanza para la raza mutante... Tercera y última pelicula protagonizada por Hugh Jackman en el papel de Lobezno.</description>
+<stream_url><![CDATA[http://streamcloud.eu/3xldg8kkufkt/Logan_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+	
 
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
