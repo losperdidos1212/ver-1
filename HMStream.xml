@@ -101,7 +101,7 @@
 <title><![CDATA[CONCIERTOS MUSICA ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjd1P8-YeqINNMtI5AIhZ5pBtgoD2zI1NY8V8l4ftH8SAbLE9Kmg">Aqui encotraras tus programas de tv]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/canales%20tv.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/conciertos.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
