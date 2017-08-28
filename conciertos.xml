@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[ Conciertos Musica]]></playlist_name>
+  
+<channel>
+<title><![CDATA[Concierto Alejandro sanz Sevilla 2013]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/dcxq3ki7k6j5]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_let_there_be_rock_the_movie_live_in_paris-226633958-large.jpg" />]]></description>
+</channel>
+  
+  
+ 
+  
+  
+<channel>
+<title><![CDATA[ AC/DC: Let There Be Rock, la película]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/dcxq3ki7k6j5]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_let_there_be_rock_the_movie_live_in_paris-226633958-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ AC/DC: Live at Donington]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/hfdhj0wbg4fb]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_live_at_donington-173521737-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ AC/DC: Live at River Plate]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/pp5iqqsvdg6u]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_live_at_river_plate-152111993-large.jpg" />]]></description>
+</channel>
+
+
+
+    
+    
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HMStream.xml]]></prev_page_url>
+
+</items>
