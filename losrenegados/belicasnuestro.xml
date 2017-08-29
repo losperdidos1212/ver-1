@@ -52,6 +52,17 @@
 </channel>	
 	
 	
+ <channel>
+<title><![CDATA[el teniente 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_ottoman_lieutenant-873543291-mmed.jpg"/>]]>Historia de amor entre una enfermera americana idealista y un oficial turco en la Primera Guerra Mundial.</description>
+<stream_url><![CDATA[http://streamcloud.eu/69w572mz0iyy/El.teniente.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
+	
+	
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
