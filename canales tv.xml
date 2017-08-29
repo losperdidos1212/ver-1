@@ -12,14 +12,14 @@
 <title><![CDATA[La 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/ruben/ruben/3472.m3u8]]></stream_url>
+<stream_url><![CDATA[http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8]]></stream_url>
 </channel> 
   
     <channel>
 <title><![CDATA[La 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/ruben/ruben/4448.m3u8]]></stream_url>
+<stream_url><![CDATA[http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8]]></stream_url>
 </channel> 
   
              <channel>
@@ -42,14 +42,14 @@
 <title><![CDATA[La Cuatro]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/ruben/ruben/4479.m3u8]]></stream_url>
+<stream_url><![CDATA[http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/NmbWM5YjE6LAH8o-VL3vr3hw3JqSTnRU/cn/fb3d6852c1ac44c982aa727fe9e791cd.m3u8]]></stream_url>
 </channel> 
   
     <channel>
 <title><![CDATA[Telecinco]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/ruben/ruben/4379.m3u8]]></stream_url>
+<stream_url><![CDATA[http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b.m3u8]]></stream_url>
 </channel>  
   
             <channel>
