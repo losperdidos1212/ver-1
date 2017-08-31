@@ -69,8 +69,6 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
  </channel>
-  
- 
  
  
   <channel> 
@@ -90,10 +88,6 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
- 
- 
-
 
  
 <channel> 
@@ -104,14 +98,6 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
- 
-
-
- 
-
- 
- 
  
  
   <channel> 
@@ -141,9 +127,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
- 
-
  
 <channel> 
 <title><![CDATA[Manual de un tacano  ( 2016 ) Calidad:DVD/BR Screener ]]></title>
@@ -153,29 +136,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
- 
-  
-  
-  
-  
-  
-   <channel> 
-<title><![CDATA[Es por tu bien ( 2017 )(Comedia) Calidad:HDRip ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_ad4c99e7a1725a4c5b260aea9d3a5ceb.jpg" />]]>Arturo, Poli y Chus son tres padres de familia que están viendo como su mayor pesadilla se hace realidad. Sus tres preciosas y pequeñas hijas han crecido demasiado rápido. Y lo que es peor: todas se han echado un novio despreciable y quieren presentárselo a la familia. Pero ellos saben que esos seres despreciables solo buscan una cosa de sus dulces hijitas, así que unirán fuerzas para librarse de los novios como sea posible. ¡Esto es la guerra!</description> 
-<stream_url><![CDATA[http://streamcloud.eu/8noem4ci7kxs]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-  <channel> 
-<title><![CDATA[Fast & Furious 8 Calidad:DVD/BR Screener]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_3719fc9382f541dc329d0612b99d5d0b.jpg" />]]>En busca de cualquier manera de alejarse de la vida y del pueblo en el que nació, Tripp (Lucas Till), un estudiante de preparatoria, construye un Monster Truck de partes y piezas de vehículos de tiradero. Después de que un accidente en un sitio de perforación de petróleo en las inmediaciones libera a una criatura extraña y subterránea con un gusto y talento para la velocidad, Tripp no sólo puede haber encontrado la clave para salir del pueblo también encontró un amigo poco probable. </description> 
-<stream_url><![CDATA[http://streamcloud.eu/86l1c6box0kq/Tfotf2017.720p.hdtv.scr.hc.korsub.Castellano.mp4.html]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
   
    <channel> 
 <title><![CDATA[Alien: Covenant (2017) online Calidad:TS]]></title>
@@ -185,8 +146,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
-  
-     
+      
   
     <channel> 
 <title><![CDATA[El Cazador y la Reina de Hielo]]></title>
@@ -296,16 +256,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
-  
-     <channel> 
-<title><![CDATA[LA Gran Muralla]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://es.web.img3.acsta.net/c_215_290/pictures/17/01/16/14/03/499495.jpg" />]]> </description> 
-<stream_url><![CDATA[http://streamcloud.eu/kxn4cfc2woi4]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
+    
     <channel> 
 <title><![CDATA[50 Sombras Mas Oscuras]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -352,13 +303,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-  
-
- 
-   
-  
-  
-  
+    
       <channel>
 <title><![CDATA[Guardianes de la Galaxia 2 (2017) Espanol Calida:ts]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -428,16 +373,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  <channel>
-<title><![CDATA[Arsenal Calidad:DVDRip]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_49a747b588f8891aeb497416c0121349.jpg" />]]>After the deadbeat brother of a businessman is assumed to be in on his own kidnapping, his sibling must take action to rescue him.</description> 
-<stream_url><![CDATA[http://streamcloud.eu/6x56hs6xj2ns]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-     <channel>
+      <channel>
 <title><![CDATA[Monster TrucksCalidad:DVDRip]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_0afba404ac1b54923dd5af78a93b92a0.jpg" />]]>En busca de cualquier manera de alejarse de la vida y del pueblo en el que nació, Tripp (Lucas Till), un estudiante de preparatoria, construye un Monster Truck de partes y piezas de vehículos de tiradero. Después de que un accidente en un sitio de perforación de petróleo en las inmediaciones libera a una criatura extraña y subterránea con un gusto y talento para la velocidad, Tripp no sólo puede haber encontrado la clave para salir del pueblo también encontró un amigo poco probable. </description> 
