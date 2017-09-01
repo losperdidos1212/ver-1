@@ -240,7 +240,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 	
-
+	<channel>
+<title><![CDATA[la momia 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_mummy-692544562-mmed.jpg" />]]>A pesar de estar enterrada en una tumba en lo mas profundo del desierto, una antigua princesa (Sofia Boutella) cuyo destino le fue arrebatado injustamente, se despierta en la epoca actual, trayendo consigo una maldicion que ha crecido hasta limites insospechados con el paso de miles de anos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/82le2jaamujx]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
