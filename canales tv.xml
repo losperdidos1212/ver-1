@@ -226,7 +226,12 @@
 <stream_url><![CDATA[http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?]]></stream_url>
 </channel>
   
-   
+<channel>
+<title><![CDATA[La otra]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8]]></stream_url>
+</channel>
    
   
      
