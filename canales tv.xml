@@ -36,7 +36,12 @@
 <stream_url><![CDATA[http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on]]></stream_url>
 </channel> 
   
- 
+<channel>
+<title><![CDATA[Tv asturias]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8]]></stream_url>
+</channel> 
   
    <channel>
 <title><![CDATA[La Cuatro]]></title>
@@ -159,7 +164,12 @@
 <stream_url><![CDATA[http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8]]></stream_url>
 </channel>
   
-   
+<channel>
+<title><![CDATA[Ceuta tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8]]></stream_url>
+</channel>
   
   
   
@@ -233,7 +243,12 @@
 <stream_url><![CDATA[http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8]]></stream_url>
 </channel>
    
-  
+<channel>
+<title><![CDATA[Ib3 tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8]]></stream_url>
+</channel>
      
   
           <channel>
@@ -268,10 +283,10 @@
 </channel>
   
     <channel>
-<title><![CDATA[clan TVE]]></title>
+<title><![CDATA[Jazmin tv]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://basic.ioiptv.com:8000/live/ruben/ruben/4485.m3u8]]></stream_url>
+<stream_url><![CDATA[http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8]]></stream_url>
 </channel>
   
 
