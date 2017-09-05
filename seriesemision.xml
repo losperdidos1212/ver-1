@@ -168,6 +168,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/ElementaryT5.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+ <channel>      
+<title><![CDATA[ Ella es tu padre T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_da6115fa2d80091759cd0eca73bbacd3.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/ellaestupadre.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
 
 <channel>      
 <title><![CDATA[ El tirador  T2]]></title> 
