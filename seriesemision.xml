@@ -220,6 +220,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>       
+<title><![CDATA[Estoy vivo T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src='http://hdfull.tv/tthumb/172x265/show_904489540e3b8cd0cd3e50ada14bfdbc.jpg'/>La serie se basa en la teorÃ­a de que existe un universo alterno donde todos los personajes de los clÃ¡sicos cuentos de hadas existen, un mundo que tiene una conexiÃ³n perdida con nuestro mundo, por lo que se centra en los personajes del Bosque Encantado y la conspiraciÃ³n de la Reina Malvada para perturbar la vida de los demÃ¡s habitantes. Mediante una maldiciÃ³n, la Bruja envÃ­a a los personajes de los cuentos al pueblo de Storybrooke, Maine, donde todos ellos viven sin saber quiÃ©nes son en realidad, para que sea ella la Ãºnica con un final feliz.]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/estoyvivo.xml]]></playlist_url>  
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
 <channel>       
 <title><![CDATA[Fargo T3]]></title>
 <logo_30x30></logo_30x30>
