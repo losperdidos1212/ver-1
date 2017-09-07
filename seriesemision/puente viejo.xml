@@ -106,7 +106,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- channel>
+ <channel>
 <title><![CDATA[Capitulo 05-09-17]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5bf139354ad891ab252624f24810d2a2.jpg" />]]></description>
@@ -114,7 +114,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-channel>
+<channel>
 <title><![CDATA[Capitulo 06-09-17]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5bf139354ad891ab252624f24810d2a2.jpg" />]]></description>
@@ -122,7 +122,13 @@ channel>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
+<channel>
+<title><![CDATA[Capitulo 07-09-17]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5bf139354ad891ab252624f24810d2a2.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/trutorangvice_yopmail_1642/viej.1657.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
 
