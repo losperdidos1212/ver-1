@@ -607,23 +607,11 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>       
-<title><![CDATA[The Handmaidas Tale T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e80ddb4f6eab1db3a16971cb2b335f5e.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/The%20Handmaid%E2%80%99s%20Tale%20T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  
  
- <channel>       
-<title><![CDATA[The kennedys after camelot T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_440f62e67dcd29a45849b5e37e3bcd43.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/kenedyst1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
  
  <channel>      
 <title><![CDATA[ The Leftovers T3]]></title> 
