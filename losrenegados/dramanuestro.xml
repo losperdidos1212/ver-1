@@ -304,7 +304,26 @@ era yo"</description>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
 	
+  <channel> 
+<title><![CDATA[kiss_and_cry 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/kiss_and_cry-743045108-mmed.jpg" />]]> </description> 
+<stream_url><![CDATA[http://streamcloud.eu/jk0htzciny4p/Kiss_And.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+  <channel> 
+<title><![CDATA[ultimos dias en el desierto 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/last_days_in_the_desert-799897146-mmed.jpg" />]]>En medio de un árido paisaje, ante la fatiga y las alucinaciones por el calor y la solitaria estancia desde hace más de una luna, Jesús tiene un encuentro con el Diablo, quien está más que ansioso de tentar al exhausto viajero.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/d3zyg89p118z/Ultimos_Dias_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
