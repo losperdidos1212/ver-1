@@ -294,13 +294,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>       
-<title><![CDATA[Juego de tronos T7]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_585f3b0122fa2e52c4f50a4562487564.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/juegotronost7.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
  <channel>       
 <title><![CDATA[La extrana pareja]]></title>
