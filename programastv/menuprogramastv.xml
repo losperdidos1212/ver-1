@@ -2,8 +2,16 @@
 <items>
 <playlist_name><![CDATA[PROGRAMAS TV]]></playlist_name>
   
+ <channel>       
+<title><![CDATA[Me cambio de decada]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/09/11/00127/706.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Me%20cambio%20de%20decada.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
 <channel>       
-<title><![CDATA[¿Qué comen nuestros hijos?]]></title>
+<title><![CDATA[¿Que comen nuestros hijos?]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9399b49afa81d7a2534e40e11a07cd13.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/comenhijos.xml]]></playlist_url>
