@@ -2,6 +2,14 @@
 <items>
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
+<channel>       
+<title><![CDATA[1993 T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4a8297688acba964c363671f3df8dd02.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/1993.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
  
  <channel>       
 <title><![CDATA[Acara perro T1]]></title>
