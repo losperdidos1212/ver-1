@@ -163,6 +163,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+<channel>
+<title><![CDATA[Mi mejor amiga 2016 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_818b675692e9252e52921f94cad25bab.jpg"/>]]>Becca, una mujer de trenta y tantos, entabla una estrecha amistad con su alumna de nueve anos, Emily. Con el paso del tiempo, la profesora acaba enamorandose de su padre, que es viudo.</description>
+<stream_url><![CDATA[http://streamcloud.eu/pfhgjc14s81k]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
