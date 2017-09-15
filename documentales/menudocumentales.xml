@@ -10,7 +10,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
-
+<channel>       
+<title><![CDATA[Grupo2 homicidios]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://dvdstorespain.es/44378-large_default/el-hombre-y-la-tierra-40-aniversario-fauna-iberica-dvd-.jpg">]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
   
   
    <channel>       
