@@ -386,6 +386,15 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
+<channel>       
+<title><![CDATA[Embrujadas T1 a T8]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0b3495012856c503561033ba9f006600.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/embrujadas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
   <channel>       
 <title><![CDATA[Entre fantasmas Tempora 1 A Temporada 5]]></title>
 <logo_30x30></logo_30x30>
