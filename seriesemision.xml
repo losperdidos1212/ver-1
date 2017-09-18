@@ -445,7 +445,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- 
+<channel>       
+<title><![CDATA[Oficina de infiltrados T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_756af1e964836e7ac3e3ace5d5b8034b.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/oficinainfiltrados.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
    <channel>      
