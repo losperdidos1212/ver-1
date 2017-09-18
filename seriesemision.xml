@@ -518,6 +518,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Riverdale%20T1.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+<channel>       
+<title><![CDATA[Santa clarita diet T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://seriesdanko.to/fotos/p13554757-b-v8-ab.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/santaclarita.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
 
 <channel>       
 <title><![CDATA[Scorpion T3]]></title>
