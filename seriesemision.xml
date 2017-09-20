@@ -294,13 +294,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
-<channel>       
-<title><![CDATA[Homeland T6]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4eeaa217eb494887e241046f886e2d26.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/homelandt6.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+
  
  
  <channel>       
