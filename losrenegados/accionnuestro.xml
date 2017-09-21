@@ -237,6 +237,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 	
+<channel>
+<title><![CDATA[Le llamaban Jeeg Robot 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_4f30d3440167e6d5df5ee3a22c6d4bfe.jpg" />]]>Enzo Ceccoti, un convicto, entra en contacto con una sustancia radioactiva. Tras el accidente descubre que tiene una fuerza sobrehumana, por lo que decide utilizar sus poderes para comenzar una carrera criminal. Todo cambia no obstante cuando conoce a Alessia, una chica que está convencida de que él es el héroe del manga Jeeg Steel.</description>
+<stream_url><![CDATA[http://streamcloud.eu/o1jy5eumfdqa]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
