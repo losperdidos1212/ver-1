@@ -168,6 +168,14 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/DoschicassinblancaTemporada%206.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+ <channel>      
+<title><![CDATA[ El chapo T2]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_303216b51a44a218f02775226953a94f.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/El%20Chapo%20T2.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 <channel>      
 <title><![CDATA[ Elementary T5]]></title> 
