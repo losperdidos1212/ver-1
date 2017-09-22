@@ -313,7 +313,18 @@ era yo"</description>
 <stream_url><![CDATA[http://streamcloud.eu/d3zyg89p118z/Ultimos_Dias_.avi.html]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-</channel>	
+</channel>
+	
+	<channel>
+<title><![CDATA[ A golpe de monedas 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/4njo1fs4hqzf]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/coin_heist-565254312-large.jpg" />]]>Cuando la crisis amenaza con cerrar su instituto, cuatro estudiantes se unen para intentar conseguir 10 millones de dólares... atracando la fábrica de monedas de los Estados Unidos.</description>
+</channel>
+
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
