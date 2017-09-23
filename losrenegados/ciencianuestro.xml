@@ -53,7 +53,43 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-		
+	
+ <channel>
+<title><![CDATA[Starship Troopers: Traitor of Mars 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/starship_troopers_traitor_of_mars-269953213-mmed.jpg"/>]]>Rico ha sido degradado y enviado a una estación satélite de Marte, donde se ocupará de entrenar a un grupo de reclutas. Por supuesto no tardarán en aparecer los conocidos bichos. Secuela de Starship Troopers: Invasion.</description>
+<stream_url><![CDATA[http://streamcloud.eu/clwr47tvlmba]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+ <channel>
+<title><![CDATA[Sharknado 5: Aletamiento global 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_ab3cb8b19adc000d1c2ef591722c73fe.jpg"/>]]>La quinta entrega de la saga de Syfy presenta nuevas tormentas infestadas de tiburones cuyo tamano y peligro van en aumento, hasta tal punto que el alcance es a nivel global. En medio de esta realidad caotica, se encuentran Fin Shepard y su esposa April, cuyo hijo queda atrapado en un sharknado y es transportado por todo el mundo.</description>
+<stream_url><![CDATA[http://streamcloud.eu/o0qe7cfuqopu]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>		
+	
+ <channel>
+<title><![CDATA[5-Headed Shark Attack 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_3cd390420d8c8e1b8218c1c852867d6a.jpg"/>]]>Una hermosa isla es el hogar de miles de especies de vida acuatica. Ahora hay una nueva especie: el tiburon de 5 cabezas es todo cabeza y dientes. En forma de una estrella de mar demente, este monstruo aterroriza el oceano abierto antes de invadir las playas de Puerto Rico, poniendo en peligro el paradisiaco paraiso una vez pacifica.</description>
+<stream_url><![CDATA[http://streamcloud.eu/y821fcfqwarc]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+ <channel>
+<title><![CDATA[I am a Hero 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_1f19d26c5dd332428849a1f2731b10e0.jpg"/>]]>El film es una pelicula de zombis que nos presenta a un protagonista aspirante a dibujante de mangas que ve como a su alrededor todo se desmorona sin que entienda mucho lo que pasa. Su novia se ha convertido en un zombi y pretende acabar con el, y se vera obligado a huir de la ciudad llevando consigo a una joven estudiante que acaba de conocer.</description>
+<stream_url><![CDATA[http://streamcloud.eu/ibrx8loiiwka]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
