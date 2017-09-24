@@ -90,6 +90,15 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+ <channel> 
+<title><![CDATA[Ghost in the Shell: El alma de la maquina 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_45cffbd992e2ebc58d337aedfb09a1fa.jpg" />]]>Nueva version de la pelicula del 1995, que nos situa en un Japon del futuro. Alli, nos encontramos con una ciborg atormentada por dudas existenciales. Su principal duda se centra en el “ghost”, es decir, el elemento que define aquello que conocemos como conciencia o alma. Cree que solamente sabiendo con exactitud que es el ghost podra ser capaz de darle sentido a su propia existencia.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/oq58a47n93rj]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
