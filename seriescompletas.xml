@@ -634,6 +634,15 @@
  </channel>
  
  <channel>       
+<title><![CDATA[Monk T1 a T8]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/mortadelo_y_filemon_tv_series-965756502-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/monk.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+ <channel>       
 <title><![CDATA[Narcos]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1355fd39402221ba05fb824dc8418c42.jpg">Chilean drug chemist Cockroach brings his product to Colombian smuggler Pablo Escobar. DEA agent Steve Murphy joins the war on drugs in Bogota.]]></description>
