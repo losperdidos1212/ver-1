@@ -10,6 +10,15 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
+<channel>       
+<title><![CDATA[Absentia T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_254d71e1b7b3b7fa09d1a722cfee8b2a.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/absentia.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
  
  <channel>       
 <title><![CDATA[Acara perro T1]]></title>
