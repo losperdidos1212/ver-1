@@ -133,9 +133,23 @@
 <buffer_kb>30000</buffer_kb>
 </channel>	
 	
-		
+		<channel>
+<title><![CDATA[Pequeño demonio 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_e66a6adaf961b8c34e5c138d82086fcd.jpg />]]>Gary, que acaba de casarse con Samantha, la mujer de sus suenos, descubre que su hijastro de 6 anos podria ser el Anticristo.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/nxyvkouznndp]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
 	
-	
+		<channel>
+<title><![CDATA[Secretas intenciones 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_5e2bf17e818439f460369bcb9646dfaa.jpg />]]>Cuando Fay vuelve al trabajo tras su baja de maternidad, ella y su marido deciden contratar a Jen, una joven ninera que se instala en su casa. Pero pronto, Jen comienza a descuidar sus obligaciones y los Tripps deciden despedirla pero Jen se niega a irse.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/84cgyro6janf]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
