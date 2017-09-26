@@ -2,7 +2,15 @@
 <items>
 <playlist_name><![CDATA[ciencia ficcion]]></playlist_name>
   
-	
+
+<channel> 
+<title><![CDATA[The Discovery 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_52495ce72c9fc148421d6468cc9b5a15.jpg" />]]>Una historia de amor ambientada un ano despues de la existencia de la vida futura esta cientificamente verificada.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/a8m33jf7czlu]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
  <channel> 
 <title><![CDATA[Power Rangers ( 2017 ) Calidad:HDRIP-Latinos]]></title>
@@ -13,10 +21,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
-	
-	
-	
-	  <channel> 
+  <channel> 
 <title><![CDATA[Life (Vida)( 2017 ) Calidad:DVDRip-castellano]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_bc80920f1c6895fc03866e1c0bf6f0db.jpg" />]]>Seis miembros de la tripulación de la Estación Espacial Internacional que están a punto de lograr uno de los descubrimientos más importantes en la historia humana: la primera evidencia de vida extraterrestre en Marte. A medida que el equipo comienza a investigar y sus métodos tienen consecuencias inesperadas, la forma viviente demostrará ser más inteligente de lo que cualquiera esperaba. (FILMAFFINITY) </description> 
@@ -24,8 +29,6 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
- 	
 
 <channel>
 <title><![CDATA[shin godzilla 2016 ]]></title>
@@ -96,6 +99,15 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_45cffbd992e2ebc58d337aedfb09a1fa.jpg" />]]>Nueva version de la pelicula del 1995, que nos situa en un Japon del futuro. Alli, nos encontramos con una ciborg atormentada por dudas existenciales. Su principal duda se centra en el “ghost”, es decir, el elemento que define aquello que conocemos como conciencia o alma. Cree que solamente sabiendo con exactitud que es el ghost podra ser capaz de darle sentido a su propia existencia.</description> 
 <stream_url><![CDATA[http://streamcloud.eu/oq58a47n93rj]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
+	
+<channel> 
+<title><![CDATA[Life (Vida) 2017 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_bc80920f1c6895fc03866e1c0bf6f0db.jpg" />]]>Seis miembros de la tripulación de la Estacion Espacial Internacional que estan a punto de lograr uno de los descubrimientos mas importantes en la historia humana:la primera evidencia de vida extraterrestre en Marte. A medida que el equipo comienza a investigar y sus metodos tienen consecuencias inesperadas, la forma viviente demostrara ser mas inteligente de lo que cualquiera.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/6v80kfr8vgkc]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>	
