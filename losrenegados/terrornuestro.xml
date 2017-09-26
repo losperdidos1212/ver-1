@@ -150,6 +150,15 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+<channel>
+<title><![CDATA[El planeta de los tiburones]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_654334d725e0d90fc8f68a4a594a9ca9.jpg />]]>En un futuro proximo, la fusion glacial ha cubierto el 98% de la masa terrestre. Los tiburones han florecido y ahora dominan el planeta, operando como una masiva escuela liderada por un mutante alfa tiburon.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/a9udkus1il6x]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
