@@ -111,6 +111,14 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>	
+
+	
+<channel>
+<title><![CDATA[  El destino de Júpiter 2015 ]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/erqwwcbwt4l5]]></stream_url>
+<thumbnail>http://peliculas-hd.tv/wp-content/uploads/2015/05/el-destino-de-jupiter-1.jpg</thumbnail>
+<description><![CDATA[<img src="http://peliculas-hd.tv/wp-content/uploads/2015/05/el-destino-de-jupiter-1.jpg" />]]>Jupiter Jones nacio en alta mar cuando su madre huia de Rusia rumbo a los Estados Unidos, tras el asesinato de su padre, un astronomo. Ahora vive en Chicago, y trabaja como limpiadora de casas. Su novio Vasiliy la convence para que se gane algún dinero extra vendiendo óvulos y para ello decide adoptar un nombre nuevo: Katherine Dunlevy. Pero su ADN atraera la atencion de los cazadores de recompensas intergalacticos. En el otro confin de la galaxia se ha descubierto que Jupiter forma parte de una cadena genrtica extraordinaria que podria alterar el equilibrio de todo el Universo, pues es la reencarnacion de la matriarca de la milenaria casa de Abrasax. Un ex-militar geneticamente modificado, el licantropo Caine Wise, llegara a la Tierra para intentar salvarla. </description>
+</channel>
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
