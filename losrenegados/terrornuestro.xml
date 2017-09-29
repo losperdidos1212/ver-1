@@ -169,7 +169,31 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
-	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+ <channel> 
+<title><![CDATA[Annabelle: Creation Calidad:HDRip terror]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_2371e08147943e8dd2fe8d3577105343.jpg" />]]>Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una enfermera y un grupo de chicas tratando de convertir su casa en un cálido orfanato. Sin embargo, los nuevos inquilinos se convertirán en el objetivo de Annabelle, una muñeca poseída por un ser demoníaco. Secuela de "Annabelle" (2014).  </description> 
+<stream_url><![CDATA[http://streamcloud.eu/v5nzl07x9lun]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+  <channel> 
+<title><![CDATA[Pequeno demonio Calidad:HDRip terror]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_e66a6adaf961b8c34e5c138d82086fcd.jpg" />]]>Gary, que acaba de casarse con Samantha, la mujer de sus sueños, descubre que su hijastro de 6 años podría ser el Anticristo. </description> 
+<stream_url><![CDATA[http://streamcloud.eu/nxyvkouznndp]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+	
+	
+	
+	
+	
+	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
 
 </items>
