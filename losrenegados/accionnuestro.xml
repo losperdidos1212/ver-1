@@ -2,8 +2,18 @@
 <items>
 <playlist_name><![CDATA[accion]]></playlist_name>
 	
-	
 	<channel>
+<title><![CDATA[Death Race 2050 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/l4hmpl0ioxl2 ]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/standoff-477950972-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_b541d77f0e0067acfc170ef4a9496c92.jpg" />]]>A direct sequel to Roger Corman's Death Race 2000.</description>
+</channel>
+	
+	
+<channel>
 <title><![CDATA[ Acorralados 2016]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
@@ -464,6 +474,16 @@
 <stream_url><![CDATA[http://streamcloud.eu/fa4are06yo4a]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
+</channel>
+	
+<channel>
+<title><![CDATA[ Monster Trucks 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/t3iomxc4l91n]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/standoff-477950972-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_0afba404ac1b54923dd5af78a93b92a0.jpg" />]]>En busca de cualquier manera de alejarse de la vida y del pueblo en el que nacio, Tripp (Lucas Till), un estudiante de preparatoria, construye un Monster Truck de partes y piezas de vehiculos de tiradero. Despues de que un accidente en un sitio de perforacion de petroleo en las inmediaciones libera a una criatura extrana y subterranea con un gusto y talento para la velocidad, Tripp no solo puede haber encontrado la clave para salir del pueblo tambien encontro un amigo poco probable.</description>
 </channel>
 	
 	
