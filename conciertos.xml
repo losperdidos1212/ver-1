@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
 <playlist_name><![CDATA[ Conciertos Musica]]></playlist_name>
+
+<channel>
+<title><![CDATA[Supertramp paris 1979 1ºParte ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/SupertrampLiveInParis1979CD1RueTmZkR7jc/Supertramp_Live_in_Paris_1979_CD1-rueTmZkR7jc.mp4]]></stream_url>
+<description><![CDATA[<img src="" />]]></description>
+</channel>
    
+<channel>
+<title><![CDATA[Supertramp paris 1979 2ºParte ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/SupertrampLiveInParis1979CD1RueTmZkR7jc/Supertramp_Live_in_Paris_1979_CD_2-z7m4viE1HTY.mp4]]></stream_url>
+<description><![CDATA[<img src="" />]]></description>
+</channel>
+   
+<channel>
+<title><![CDATA[Deep purple made in japan 1972 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/ConciertoMaluEnBarcelona2312160jxw8IwfOUc/Deep_Purple_-_Made_in_Japan_Live_1972-J7-mQnxOSx0.mp4]]></stream_url>
+<description><![CDATA[<img src="" />]]></description>
+</channel>  
+      
 <channel>
 <title><![CDATA[Malu caos concierto ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -11,9 +38,6 @@
 <description><![CDATA[<img src="" />]]></description>
 </channel>   
   
-
- 
-
   
 <channel>
 <title><![CDATA[ AC/DC: Let There Be Rock, la película]]></title>
