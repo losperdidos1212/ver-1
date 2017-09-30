@@ -7,7 +7,7 @@
 
 
 <channel>
-<title><![CDATA[1x01]]></title>
+<title><![CDATA[1x01  1993]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_92b74653649048c78104690e7e6eadbd.jpg" />]]></description>                      
 <stream_url><![CDATA[https://archive.org/download/1983V1x01480pENGESPITAENGASUBSENGITADANESPBYNEMO/1983%20-%20V%201x01%20480p%20ENG%20ESP%20ITA%20ENG-A%20SUBS%20ENG%20ITA%20DAN%20ESP%20BY%20NEMO.mkv]]></stream_url>
@@ -15,15 +15,15 @@
 </channel>
 
 <channel>
-<title><![CDATA[1x02]]></title>
+<title><![CDATA[1x02 1993]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_92b74653649048c78104690e7e6eadbd.jpg" />]]></description>                      
-<stream_url><![CDATA[https://archive.org/download/01LosVisitantesI/02LosVisitantesIi.mkv]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/1983V1x01480pENGESPITAENGASUBSENGITADANESPBYNEMO/1983-V1x02480pEngEspItaEng-aSubsEngFreDanItaByNemo.mkv]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
 <channel>
-<title><![CDATA[1x03]]></title>
+<title><![CDATA[2x01 1994]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_92b74653649048c78104690e7e6eadbd.jpg" />]]></description>                      
 <stream_url><![CDATA[https://archive.org/download/01LosVisitantesI/03LaBatallaFinalI.mkv]]></stream_url>
@@ -31,7 +31,7 @@
 	</channel>
 
 <channel>
-<title><![CDATA[1x04]]></title>
+<title><![CDATA[2x02 1994]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_92b74653649048c78104690e7e6eadbd.jpg" />]]></description>                      
 <stream_url><![CDATA[https://archive.org/download/01LosVisitantesI/04LaBatallaFinalIi.mkv]]></stream_url>
@@ -39,10 +39,10 @@
 </channel>
 
 <channel>
-<title><![CDATA[1x05]]></title>
+<title><![CDATA[2x03 1994]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_92b74653649048c78104690e7e6eadbd.jpg" />]]></description>                      
-<stream_url><![CDATA[https://archive.org/download/01LosVisitantesI/05LaBatallaFinalIii.mkv]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/1983V1x01480pENGESPITAENGASUBSENGITADANESPBYNEMO/1984-2x03576pEspEngItaMultisubsByNemo.mkv]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 	</channel>
 
