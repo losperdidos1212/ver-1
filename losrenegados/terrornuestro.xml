@@ -2,10 +2,10 @@
 <items>
 <playlist_name><![CDATA[terror]]></playlist_name>
 	
-	<channel>
+<channel>
 <title><![CDATA[Joker's Poltergeist Calidad:HDRip 2016]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_37c6a6f1526235baec614191a54cb232.jpg />]]>After a clown-masked assailant guns down Aurora's Place, the resident theater owner fights to re-open her business.  </description> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_37c6a6f1526235baec614191a54cb232.jpg" />]]>After a clown-masked assailant guns down Aurora's Place, the resident theater owner fights to re-open her business.  </description> 
 <stream_url><![CDATA[http://streamcloud.eu/5kta7vwxij1k]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
@@ -190,7 +190,14 @@
 </channel>   
 	
 	
-	
+<channel>
+<title><![CDATA[Gerald's Game  2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_33973e5bf571eb3eb42d1355d42a3ae5.jpg" />]]>Cuando el juego sexual de su marido sale mal, Jessie - esposada a una cama en una remota casa del lago - se enfrenta a visiones distorsionadas, secretos oscuros y una mala eleccion.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/tc9o737odq48]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
