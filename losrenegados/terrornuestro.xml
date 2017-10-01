@@ -2,14 +2,8 @@
 <items>
 <playlist_name><![CDATA[terror]]></playlist_name>
 	
-<channel>
-<title><![CDATA[Joker's Poltergeist Calidad:HDRip 2016]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_37c6a6f1526235baec614191a54cb232.jpg" />]]>After a clown-masked assailant guns down Aurora's Place, the resident theater owner fights to re-open her business.  </description> 
-<stream_url><![CDATA[http://streamcloud.eu/5kta7vwxij1k]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
+	
 	
 	
 	
@@ -213,6 +207,16 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_2430f3a2c0003abcc8470c49398b68a9.jpg" />]]>Ano 2022. En una futura sociedad distopica, el regimen politico vigente, llamado Nueva Fundacion de los padres de America, ha decidido como medida catarquica implantar la "purga anual", una regla por la que una noche de cada ano se puede cometer cualquier crimen, incluyendo asesinatos y violaciones, sin tener que hacer frente a las consecuencias ni responder ante la justicia. Asi, cuando las viciadas nuevas reglas del mundo exterior amenacen su casa, los miembros de una familia veran su vida en peligro, en el transcurso de una terrorifica noche durante la cual todos se veran puestos a prueba para ver hasta donde son capaces de llegar para protegerse.</description> 
 <stream_url><![CDATA[http://streamcloud.eu/pac1xvcgpvx8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+
+<channel>
+<title><![CDATA[Election: la noche de las bestias 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_ea027e8256741fd878bca05d1acfcf1f.jpg" />]]>La saga cuenta como el crimen se extiende por Estados Unidos durante doce horas, a raiz de que el gobierno decida que una noche al ano cualquier actividad criminal, incluso el asesinato, sera legal. Los hospitales no admiten pacientes, ni se puede llamar a la policia porque los ciudadanos pueden cometer delitos que no estan castigados.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/vxm7g5z7ybgx/Election_La_noche.avi.html]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
