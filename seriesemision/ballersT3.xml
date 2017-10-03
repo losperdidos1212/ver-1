@@ -76,6 +76,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+ <channel>
+<title><![CDATA[Capitulo 3x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_333fe435df07603e5dd4d9c95f9544fc.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/gculbvjpc2js]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
+ 
+ 
  
  
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
