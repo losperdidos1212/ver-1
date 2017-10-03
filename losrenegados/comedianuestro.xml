@@ -200,6 +200,23 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+  <channel> 
+<title><![CDATA[Una historia de sirenas 2017 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_50c534a9cb04a71d7e1cad373d93a54f.jpg" />]]>Ryan tiene 12 anos y se ve obligada a irse a vivir con su padre al pueblo pesquero en que este nació. Alli descubre una gruta secreta en la que habitan un grupo de delfines y. Coral, una nina que resulta ser una sirena.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/wzo8p7zeyvq6]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+ <channel> 
+<title><![CDATA[The Twin 2017 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_57b455f9d1c4800d62f646b39ccafe85.jpg" />]]>Jocelyn ha encontrado al novio perfecto, Tyler. Es encantador, un caballero y un gran apoyo para Jocelyn desde que ha comenzado sus estudios en la Universidad. Pero de repente, Tyler empieza a comportarse de una forma totalmente distinta.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/0ca4jymhbz2v]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
