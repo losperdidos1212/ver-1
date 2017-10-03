@@ -3,7 +3,7 @@
 <playlist_name><![CDATA[infantiles De Casa]]></playlist_name>
 	
 
-	<channel> 
+<channel> 
 <title><![CDATA[Batman & Harley Quinn  2017]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_7b1c98af569d452a0a9ef7e84753cf6c.jpg" />]]>Una nueva y original historia de Bruce Timm.</description> 
@@ -258,7 +258,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
- 	
+ <channel> 
+<title><![CDATA[Los superheroes 2016]]></title>
+<logo_40x40><![CDATA[]]></logo_40x40>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_72a73eb8362318b6dd9d3aa9af853d4a.jpg" />]]>En un parque tematico, Sam y sus amigos con super poderes deben enfrentarse a una aventura disparatada para frenar a un super villano, Oscar. En el desfile de los enamorados, Sam y sus amigos se encuentran con un ejercito de robots controlados por Oscar.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/0zm4worxkfat]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
