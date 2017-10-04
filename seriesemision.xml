@@ -210,7 +210,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
- 
+<channel>      
+<title><![CDATA[ El Joven Sheldon T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_23ffd2e7406c26bbfb23a6990e8a8224.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/jovensheldon.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
  <channel>      
 <title><![CDATA[ Ella es tu padre T1]]></title> 
