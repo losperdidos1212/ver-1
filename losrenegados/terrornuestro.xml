@@ -227,6 +227,15 @@
 </channel>
 	
 	
+ <channel> 
+<title><![CDATA[10 años de espera 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_fad6a5afc83d2d2c9b6a4acb77e8bf79.jpg" />]]>Cuatro amigas inseparables se reunen diez anos despues de finalizar sus estudios para desenterrar una capsula del tiempo. En ella guardaban sus secretos mas profundos y todas prometieron abrirla tras la tragica muerte de otra companera, que murio la noche antes de su graduacion.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/z38pwkl0nuzm]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
