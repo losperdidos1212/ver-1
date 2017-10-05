@@ -42,17 +42,64 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  
+  <channel>
+<title><![CDATA[Capitulo 1x06 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_bdaeca8d6cfb5a0d65805620211b939a.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/cbj3o2m8iqvj]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
+<channel>
+<title><![CDATA[Capitulo 1x07 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_bdaeca8d6cfb5a0d65805620211b939a.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/vcdb7ygi2312]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x08 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_bdaeca8d6cfb5a0d65805620211b939a.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/pl5mme33cd5q]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x09 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_bdaeca8d6cfb5a0d65805620211b939a.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/nisem2eesu2u]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ <channel>
+<title><![CDATA[Capitulo 1x10 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_bdaeca8d6cfb5a0d65805620211b939a.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bkt9fllt1aij]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
 
  
  
  
  
-
  
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
 
