@@ -853,7 +853,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>       
+<title><![CDATA[Verano azul T1 ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_dd765d7f84c02843e9d06600aeb62f27.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/veranoazul.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
 <channel>       
 <title><![CDATA[V (Los visitantes) AUDIO:Dual Ano:1984]]></title>
 <logo_30x30></logo_30x30>
