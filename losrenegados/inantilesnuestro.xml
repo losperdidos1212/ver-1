@@ -170,6 +170,17 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	<channel>
+<title><![CDATA[ Bob Esponja: Historia Marina2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/1wru1dhgz29w]]></stream_url>
+<thumbnail>https://desmix.net/wp-content/uploads/2017/03/Bob-Esponja-Historia-Marina.jpg</thumbnail>
+<description><![CDATA[<img src="https://desmix.net/wp-content/uploads/2017/03/Bob-Esponja-Historia-Marina.jpg" />]]></description>
+</channel>
+	
 	
 <channel>
 <title><![CDATA[bob esponja Pelicula ]]></title>
