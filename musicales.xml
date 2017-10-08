@@ -20,16 +20,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
- 
-<channel>
-<title><![CDATA[LA BELLA Y LA BESTIA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w185/h5SKkAzLfXfilmoAzMDfOl4aS8Q.jpg"/>]]>n Una hermosa joven llamada Bella acepta alojarse en un castillo con una bestia a cambio de la libertad de su padre. La bestia es, en realidad, un príncipe</description>
-<stream_url><![CDATA[http://streamcloud.eu/fzyqsyahn27b/LaBellaYLaBestia_Hellsy.avi.html]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
 <channel>
 <title><![CDATA[Step up]]></title>
