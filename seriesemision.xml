@@ -70,7 +70,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>       
+<title><![CDATA[Banshee T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_374f55a0cf220ba78ea2490874b9c7b6.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/bansheet4.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
   <channel>       
 <title><![CDATA[Better Call Saul T3]]></title>
