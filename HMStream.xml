@@ -21,16 +21,10 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  <channel>       
-<title><![CDATA[SALA DE SERIES ONLINE MKV]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFanW8FdZw3K89Yl2quE3Xok7GpGknFIhiA4qwUvQX0cfCcB7Bew">Aqui encontraras todas las series en calidad MKV]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesmkv.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+  
   
 <channel>       
-<title><![CDATA[SALA CINE LOS RENEGADOS CALIDAD: MKV]]></title>
+<title><![CDATA[SALA CINE LOS RENEGADOS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFqCgAdfbltZwcBL21kbS4VacDNkiHl50UqLwy-3r5X-0PnnX">Cine en calidad MKV]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></playlist_url>
