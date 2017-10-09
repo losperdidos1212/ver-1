@@ -149,6 +149,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>       
+<title><![CDATA[Banshee T1 a T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_374f55a0cf220ba78ea2490874b9c7b6.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/banshee.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
   <channel>       
 <title><![CDATA[Bienvenidos Al Lolita]]></title>
 <logo_30x30></logo_30x30>
