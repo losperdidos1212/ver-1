@@ -58,13 +58,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-   <channel>       
-<title><![CDATA[SALA DE PELICULAS POR GENERO]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://1.bp.blogspot.com/-id2tRmmagv8/UDWf8MGSi1I/AAAAAAAAAEo/D7AaJ9vTDaQ/s1600/5803926-poster-de-la-pelicula-de-cine-generos-vintage-background.jpg">Aqui encontras pelis por genero]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/pelisgeneros.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+   
 
   
   <channel>       
