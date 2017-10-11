@@ -206,7 +206,16 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
+
+	 <channel> 
+<title><![CDATA[Drone 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_b18997cfa4e8e423a0e33ee73669cf07.jpg" />]]>Neil es un contratista privado de drones que pasa sus dias de trabajo volando en misiones encubiertas. Luego regresa a una vida familiar de mediocridad suburbana. Un enigmatico empresario paquistani, creyendo que Neil es el responsable de las muertes de su esposa y su hijo, lo sigue, alcanzando una confrontacion desgarradora. </description> 
+<stream_url><![CDATA[http://streamcloud.eu/z6ezfst6c1ju]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
