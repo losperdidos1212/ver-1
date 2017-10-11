@@ -104,10 +104,10 @@
   
 
    <channel>       
-<title><![CDATA[Tu Cara No Me Suena Todabia T1]]></title>
+<title><![CDATA[Heroes mas alla del deber T1]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_2a7e6f6cdbb8b7a128eb27e4ada5827b.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/tucaranomesuena.xml]]></playlist_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_a2b551f97d2656de56930da3d4c64876.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/heroes.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>   
   
