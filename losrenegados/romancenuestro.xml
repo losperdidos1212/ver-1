@@ -59,6 +59,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
+  <channel>
+<title><![CDATA[La wedding planner 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_96b7bac722db22469b68ba0a07c6eefe.jpg"/>]]>Mathias y Alexia son pareja desde hace anos, y por primera vez, el la engana con Juliette, una organizadora de bodas. Cuando Alexia descubre una tarjeta de visita de Juliettte en el bolsillo de Mathias, el pierde los nervios, tartamudea y ella se da cuenta enseguida de que hay algo sospechoso.</description>
+<stream_url><![CDATA[http://streamcloud.eu/ky2fu74d613u]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
