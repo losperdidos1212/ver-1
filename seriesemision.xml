@@ -200,6 +200,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>      
+<title><![CDATA[ El bosque T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_07f2a1e777bde88082668415f8b2e0a7.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/elbosque.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
 <channel>      
 <title><![CDATA[ Elementary T5]]></title> 
 <logo_30x30></logo_30x30> 
