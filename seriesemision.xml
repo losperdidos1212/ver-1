@@ -451,7 +451,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Mentes%20Criminales%3A%20Sin%20Fronteras%20T2.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-
+ 
+ <channel>      
+<title><![CDATA[Midnight texas T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1064606f0c569c57c305e901dc42b16f.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/texas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
   <channel>      
 <title><![CDATA[Modus T1]]></title> 
 <logo_30x30></logo_30x30> 
