@@ -673,7 +673,14 @@
 </channel>
 
 	
-	
+ <channel> 
+<title><![CDATA[Fe de etarras 2017 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_fe7bc0733ba90b22ebbb16a416c5bcc6.jpg" />]]>La cinta narrara como vive un "comando disfuncional" que espera una llamada para actuar. Transcurre en verano de 2010 mientras un comando terrorista formado por un veterano que esta deseando demostrar que no es un cobarde (Javier Camara), una pareja cuyo compromiso depende de la continuidad de la banda (Miren Ibarguren y Gorka Otxoa) y un manchego que cree que entrar en el comando le hara sentir como si fuera Chuck Norris (Julian Lopez) se atrincheran en un piso a la espera de recibir una llamada, todo mientras de fondo transcurre el Mundial de futbol de Sudafrica.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/z1hcjjsbljo7]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
