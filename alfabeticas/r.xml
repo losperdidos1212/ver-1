@@ -1381,17 +1381,25 @@
 <buffer_kb>30000</buffer_kb>
 
 <stream_url><![CDATA[http://streamcloud.eu/jqsah2t1rmwz]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/regression-504007684-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/regression-504007684-large.jpg" />]]></description>
 </channel>
 
+    
+ <channel>
+<title><![CDATA[Regreso a la Navidad (2014)  ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/a1B87Ts3gxVgkFl4GsuaesvXrvK.jpg" />Tras romper con su novio en las últimas Navidades, Allie piensa cómo serían las cosas si siguiesen juntos. Cuando conoce a Ginny, tiene la oportunidad de volver a la Navidad del año anterior, pero se da cuenta que, aunque el pasado no se puede cambiar, la felicidad puede aparecer en cualquier momento.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/00ZjEwODE68AjZd8wcObWnwhJaz1CMuR/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>204800</buffer_kb>
+</channel>   
+    
+    
+    
+    
+    
+    
+    
 
 <channel>
 <title><![CDATA[ Regreso a casa]]></title>
