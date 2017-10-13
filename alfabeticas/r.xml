@@ -371,17 +371,20 @@
 <buffer_kb>30000</buffer_kb>
 
 <stream_url><![CDATA[http://streamcloud.eu/3mrclt9n6zoz]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/rastres_de_sandal-131522877-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/rastres_de_sandal-131522877-large.jpg" />]]></description>
 </channel>
 
+  <channel>
+<title><![CDATA[Rastros de sбndalo (2014)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/c5Ya0zW0B88r0ehuOmV7Q3wl9Jj.jpg" />Mina (Nandita Das) es una actriz india de йxito en Mumbai, que no puede olvidar a su hermana pequeсa Sita, de quien fue separada a la fuerza despuйs de la muerte de su madre en un pueblo. Treinta aсos despuйs, Mina finalmente se enterarб de que Sita estб bien y vive en Barcelona. Sin embargo, los padres adoptivos de Sita le han escondido su historia. Ahora se llama Paula (Aina Clotet), es biуloga y no tiene ningъn recuerdo de su pasado.]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/4/0/1478485720304.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+    
+    
+    
 
 <channel>
 <title><![CDATA[ Ratas a la carrera]]></title>
