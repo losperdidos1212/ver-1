@@ -3375,7 +3375,15 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/futurama_the_beast_with_a_billion_backs-981041653-large.jpg" />]]></description>
 </channel>
 
-    
+          
+ <channel>
+<title><![CDATA[Futuro Perdido (2010)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/ttW7Y1BlxXZ3BQBomI11I22xMTr.jpg" />En el año 2510, la Tierra es un mundo post-apocalíptico donde la madre naturaleza ha tomado el control y todo está invadido por selvas amenazantes y junglas salvajes. Nuevas y bestiales criaturas han surgido para dominarlo todo. Un grupo de cazadores tratan de sobrevivir día a día, amenzados también por un espectral y peligrosa enfermedad.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/RoaXB3ODE6pslJhlQb0eGLYLbLMZN0bO/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
  	
 		
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
