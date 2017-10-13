@@ -2180,7 +2180,23 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/hjem_til_jul_home_for_christmas-358886966-large.jpg" />]]></description>
 </channel>
           
-          
+ <channel>
+<title><![CDATA[ A ciegas 2008]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/qjxxt22mwe03]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/blindness-345666087-large.jpg" />]]></description>
+</channel>
+
+<channel>
+<title><![CDATA[ A fondo 2008 (Go Fast)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/9qt4ubbu2oo0]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/go_fast-610354843-large.jpg" />]]></description>
+</channel>         
           
 
           
