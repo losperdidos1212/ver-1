@@ -2,23 +2,7 @@
 <items>
 <playlist_name><![CDATA[Peliculas Desde EL Ano 2005]]></playlist_name>
            
-<channel>
-<title><![CDATA[ A Bittersweet Life 2005]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/ik4skzwy8unl]]></stream_url>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/dalkomhan_insaeng_a_bittersweet_life-790809970-large.jpg" />]]></description>
-</channel>
 
-<channel>
-<title><![CDATA[ A golpes 2005]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/5r857ki3wh2g]]></stream_url>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/a_golpes-210928503-large.jpg" />]]></description>
-</channel>
 
 
 
