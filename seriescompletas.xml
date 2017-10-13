@@ -9,7 +9,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/7Vidas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-
+ 
+ <channel>       
+<title><![CDATA[5 hermanos T5]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/108.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/5hermanos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
 <channel>       
 <title><![CDATA[Abierto hasta amanecer 71 a T3]]></title>
 <logo_30x30></logo_30x30>
