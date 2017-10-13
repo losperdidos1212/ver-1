@@ -621,6 +621,30 @@
 <description><![CDATA[<img src="http://www.lascabezasdesanjuan.es/teatromunicipal/images/stories/documentos/cine/FROZEN.redimensionado.jpg" />]]></description>
 <logo_30x30><![CDATA[]]></logo_30x30>
 </channel>
+
+
+<channel>
+<title><![CDATA[ Los Boxtrolls 2014]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/tqbcjnhslja7/Los_Boxtrolls_HDrip.avi.html]]></stream_url>
+<thumbnail>http://1.bp.blogspot.com/-8fdUQ7veu-Y/VF5zNdK6CtI/AAAAAAAACGM/IJringWZD2A/s1600/a4058-web-banner-boxtrolls.png</thumbnail>
+<fanart></fanart>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Los pinguinos de madagascar 2014]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/jw2gqq2322i3/L0s_p1ng111n0s_d3_M4d4g4sc4r_L4_p3l1c11l4_HDRip.avi.html]]></stream_url>
+
+<fanart></fanart>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Tortugas Ninja jóvenes mutantes 2007]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/usqeyaqgzmgf/TMNT.Tortugas.Ninja.Jovenes.Mutantes.DVDrip.avi.html]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/teenage_mutant_ninja_turtles-176118179-large.jpg</thumbnail>
+<fanart></fanart>
+</channel>	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
