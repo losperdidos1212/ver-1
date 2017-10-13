@@ -176,6 +176,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+<channel> 
+<title><![CDATA[Starship Troopers: Traitor of Mars 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_6aae02c3ecf5f87ff01d3b127dfc6f56.jpg" />]]>Rico ha sido degradado y enviado a una estacion satelite de Marte, donde se ocupara de entrenar a un grupo de reclutas. Por supuesto no tardaran en aparecer los conocidos bichos. Secuela de Starship Troopers: Invasion.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/clwr47tvlmba]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
