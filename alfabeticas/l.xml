@@ -24369,7 +24369,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <stream_url><![CDATA[http://streamcloud.eu/8h8ftlknc4lk]]></stream_url>
     
     
-    
+<channel>
+<title><![CDATA[Loreak (2014)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/iQMdN9pnNfYByWMoFlC8muXYkl5.jpg" />Un hallazgo fortuito en unas obras saca a la luz lo que podrнa ser una fosa comъn. Este suceso reaviva el debate en torno a la memoria histуrica. Coincide en el tiempo con la muerte de un hombre. Tres mujeres vinculadas a йl aportan sentimientos a la trama. Y el misterio llega en forma de flores, flores que se depositan de forma anуnima.]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/4/5/1483923504354.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>    
 
 
 
