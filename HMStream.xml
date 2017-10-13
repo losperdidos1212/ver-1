@@ -50,17 +50,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-      <channel>       
-<title><![CDATA[SALA DE PELICULAS POR ANO]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://i2.wp.com/hipertextual.com/files/2014/03/posters-de-peliculas.jpg?resize=670%2C413&ssl=1">Aqui encontraras peliculas por ano de estreno]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/anos/menuporano-xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-   
-
-  
+     
   <channel>       
 <title><![CDATA[DOCUMENTALES]]></title>
 <logo_30x30></logo_30x30>
