@@ -2160,7 +2160,28 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/to_rome_with_love-664840527-large.jpg" />]]></description>
 </channel>
 
-   
+           
+ <channel>
+<title><![CDATA[A Horrible Way to Die 2010]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/t05txde2l96q]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/a_horrible_way_to_die-666777483-large.jpg" />]]></description>
+</channel>          
+           
+
+<channel>
+<title><![CDATA[ A casa por navidad 2010]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/4btvfcvh1vjo]]></stream_url>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/hjem_til_jul_home_for_christmas-358886966-large.jpg" />]]></description>
+</channel>
+          
+          
+          
 
           
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
