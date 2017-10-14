@@ -3315,7 +3315,16 @@
 <thumbnail>http://pics.filmaffinity.com/nymphomaniac_volume_ii_nymphomaniac_2-478844829-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/nymphomaniac_volume_ii_nymphomaniac_2-478844829-large.jpg" />]]></description>
 </channel>
-  
+ 
+	<channel>
+<title><![CDATA[Noche y día 2010]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/knight_and_day_knight_day-511011976-mmed.jpg" />]]>Una pareja vive romanticas y peligrosas aventuras por todo el mundo ella es una mujer normal que tiene que acudir a una boda, y el parece un agente secreto. Ambos se vuelven a ver una y otra vez en los lugares mas diversos; parece que estan condenados a encontrarse y verse implicados en una serie de persecuciones donde nadie es quien parece ser</description>
+<stream_url><![CDATA[http://streamcloud.eu/f4obw4i0666m/Noche_y_Dia_DVDRip_2010.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+	
 
    		
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
