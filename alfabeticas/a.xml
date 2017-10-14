@@ -2525,7 +2525,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
           
-          
+ 
+<channel>
+<title><![CDATA[ 300 2006 ]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/3muk7cgby5u5/300.HDR.avi.html]]></stream_url>
+<thumbnail>https://cdn1.monologos.com/wp-content/uploads/2015/04/300.pelicula.jpg</thumbnail>
+<description><![CDATA[<img src="https://cdn1.monologos.com/wp-content/uploads/2015/04/300.pelicula.jpg" />]]>Adaptacion del comic de Frank Miller (autor del comic 'Sin City') sobre la famosa batalla de las Termopilas (480 a.C.). El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior</description>
+</channel>
+         
           
           
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
