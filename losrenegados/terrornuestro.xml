@@ -225,6 +225,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+
+	 <channel> 
+<title><![CDATA[Land of Smiles 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_a1be7eebb3423d870152923458573735.jpg " />]]>Una joven decide viajar a Tailandia, lugar paradisiaco del tercer mundo, para encontrarse con su mejor amiga. Una vez alli, hace algunas amistades, pero tambien se convierte en la obsesion de un peligroso sociopata que la persigue por todos lados como parte de un macabro juego.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/fwi1hj9o9tsg]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
