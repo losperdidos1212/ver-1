@@ -2532,7 +2532,24 @@
 <thumbnail>https://cdn1.monologos.com/wp-content/uploads/2015/04/300.pelicula.jpg</thumbnail>
 <description><![CDATA[<img src="https://cdn1.monologos.com/wp-content/uploads/2015/04/300.pelicula.jpg" />]]>Adaptacion del comic de Frank Miller (autor del comic 'Sin City') sobre la famosa batalla de las Termopilas (480 a.C.). El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior</description>
 </channel>
-         
+  
+	<channel>
+<title><![CDATA[Apolo 13 (1995)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/6YNXPvmJ1FtXbz0DYxezhO5Ox08.jpg" />El Apolo 13 inicia su viaje a la luna en abril de 1970. Cuando la tripulación está a punto de llegar a su destino, una explosión en el espacio les hace perder oxígeno, energía y el curso de la nave... Todo se convierte en una situación desesperada para los tres hombres tripulantes, especialmente cuando el oxígeno amenaza con agotarse.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/mHRPaaul6QLigU60YG-koSoH_HyHJlCn4A2HZ5j3bv6FP-vw-iO4RIYDFVlf6qvY7WT7b3hefd4EmMxvHQ3L8I_JPdkpJ1dJP4UYo3RdjOEUlCavHreK_4yYk8Ay5GWRZa_cU-fGQR7x6tJTmHllf2ij8GdOdXkjR3GPw0X6gGpQ1s4NRy3Ypln9tv7wmWdFZgRqT8L0oR2crcnY0EIbzgt4d6OQsFRHJfZZEo9ByOw0fb6TbJlDw4e7a0yaHeN_4aF9Q8DpnoM0ryv_s-zbBLxjvRtsQDWJ8exvMVFEKJ9N3QwQ1REOvbDulOe_85gM79X3awwcRvjv8gFKUb8-dYeusM2SxXcVD420JqAUl3qw9eylfEAufiQkLTfZhzMcsG7Aq8ztUR0P3LMyLx8aNaPNzvHWSRhi2UE6-jMDL4HEmQOiG0OC3y-a3m1LuK_cU6e7rXoq_IuFOY35hKELLPDl2hRZywptvmBneFWnXHZY41UHtU-j-xGfVOk3kJTtBK6hSftGC1tTFiWTtuj30nyHKOUuXj6JBbkxCJ1goBKRCsTyJnw7bSeNJmTerbYny79vKOC3fF9SXBYf5Krrd3eADDfj7Aiq1mCjGCPQcucV0G3YA2G6=m37?cpn=B4sJT5jEccPQgByr&c=WEB&cver=1.20170427]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[Abre los ojos (1997)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/3BPKuiTQLqvKIupPCLLpvv1ch9g.jpg" />César es un atractivo y apuesto joven que ha heredado una gran fortuna de sus padres. Vive en una espléndida casa de su propiedad en la que organiza lujosas fiestas. Cuando una noche su amigo Pelayo le presenta a la hermosa Sofía, Nuria, que fue amante de César, se muere de celos y, al día siguiente, yendo en coche con César, intenta suicidarse.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/ZSFiL2kxi_ZviHJP_yoQ7ZH6tOK-k39LQiQpNFwC6W9G9C7KEsBhTJw3yBB3J5dEzVoDFUPf5CsObZy_vva4QZjasOgKDoSDXFpTmZt6m9bu6PTxtUMAUY-6QwCEL4wGdT4WDolhvqQyXcaTjexOLvKve598XBfx07vanhVbG7_pgUqNLgGoclS7PnCQ3WsxA5IYnIf0QSfI_VfVKHzcUfJL6K3T9GNvvuPu7KmYbRDQO3E_bBspmT_XQweFNFSpgIuXnPawB_logyIosrrN5oSTNDpwNPQO7bFeNohsEXJku7vUEv8aa1swAFV8ny_Sq93BXk55Y-1uuigKD0xXY4R92E9yPrbZ4Cl7WNEDfz009rk4aVNkUgI6J6ujn2tarEWkvh5J8zAmapFkq7PDkVlRg8EcB-qFCej4zVqP36VLC6J88ODEMGfriX2eXyReWbBa2tNgBJsPDRmrbOqr0-hZsjld9c3NoRJmV82QLm8B-yjdvrtk5Rl4j-SE9yAM7SXhS_PjTs6nT0yTELhHi3TeihBAGSBJzaW6tnfWs3HwsA_DN9sx2sKElKqWkzkkYwRSqp0n54ATqeB05EwPb-26MpAba2QraHUhaFPfwOUGxrKI7nss=m22?cpn=FX0rYL9YmUGMuLEh&c=WEB&cver=1.20170427]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
           
           
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
