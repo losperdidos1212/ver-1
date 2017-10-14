@@ -1669,7 +1669,17 @@
 <thumbnail>http://pics.filmaffinity.com/justino_un_asesino_de_la_tercera_edad-679245045-large.jpg</thumbnail>
 <description>http://pics.filmaffinity.com/justino_un_asesino_de_la_tercera_edad-679245045-large.jpg</description>
 </channel>
-    
+ 
+ 
+	
+<channel>
+<title><![CDATA[Jack Reacher 2012]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/jack_reacher-556972936-mmed.jpg" />]]>Jack Reacher (Tom Cruise), un antiguo policía militar que vive como un vagabundo y que trabaja por su cuenta, decide investigar el caso de un francotirador que ha sido acusado de matar a cinco personas en un tiroteo. Al ser interrogado, el francotirador exige la presencia de Jack Reacher.</description>
+<stream_url><![CDATA[http://streamcloud.eu/8mh99i6hlin3]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>    
     
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
