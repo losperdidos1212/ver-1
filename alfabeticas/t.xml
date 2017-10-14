@@ -9169,7 +9169,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
     
+	 <channel>
+ <title><![CDATA[Tú a Londres y yo a California 1998]]></title>
+ <logo_30x30><![CDATA[]]></logo_30x30>
+ <description><![CDATA[<img src="http://image.tmdb.org/t/p/w185/qbbP79NQy5SZrBWkPlB0EqjDRrQ.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/vcnkatuzsa7w/Tu_a_Londres_y_yo_a_California.1998.DVDRip.es.avi.html]]></stream_url>
+  </channel>
 
+	
+	
   <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
 
