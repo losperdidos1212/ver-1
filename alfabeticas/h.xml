@@ -4455,7 +4455,28 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/hysteria-643844293-large.jpg" />]]></description>
 </channel>
  
+<channel>
+<title><![CDATA[Hombres de honor (2000)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/vScP3geSKzjQDzDZzboE6hAPflO.jpg" />La historia de Carl Brasher, un hombre que combatió el racismo y se convirtió en el primer oficial afroamericano de la armada americana. La acción se desarrolla durante más de 30 años, periodo en el que destaca su relación con Billy Sunday , un oficial rebelde de alta graduación y experto buceador que fue degradado por permitir la graduación de Brasher.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/qOk5-yhMOLhUN6-JhbLkE1Jn5hsB7Cbl7zlQGuj1bpdrPRlAMfP76swJBpKBirXCdsGmduMhRYInbkPneD89vCesBdbEBjVS6weZSUTE3MuLXizQVAViLvyEvZuLEN59ssd7FUClEO9zo3Km5sb8CMcYPCvKAmdewUwTAD-OT8VfdSVzBf_94jBob4EECmtnQGjRToGSxrRdlWu_VRBDCvja1_Ka3LAhWy1oPoUDlUb3hiUVlFd2DqQggpAk4dJXBsxhzaOtHczL2C8Lnsia440JQSIuMz0LeE6EpfeVVP2Ajz0CZ6VajUtwndUXcX36d3skVQirH3eMPNclgNxmsDgxFl5mdKni8I5ji3ZiGusE_7AHLxOTLTRMRsUTS544W4vASNyH-tSMZvZ2xEKg2ggD6qRun5ka_NuCTPemkMtUzm8ROR50y8XbZWXACXKVeysc39UVpNaVZ_iKEgRxcFmslYWIj7mb8xHEWbtu-uu4_XyFmFPO4uiiXr8cTehE0Vj2EkX7Djt01REQKuSfrb1m0seUYv8_-S0B8nDoPhlaprujqRrVfTr_aySJAHeXVtlViNwtpGpLnfxmsCeFLZzD0mGyC1vtkzyS1Wuik_DaelvJ_pjG=m22?cpn=a61PygksQ4HjrBrD&c=WEB&cver=1.20170427]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
+
+<channel>
+<title><![CDATA[Hipólito (2010) ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/hipolito-275986189-large.jpg" />Córdoba, 1935. Se elige Gobernador de la provincia. Las urnas se manchan con sangre, luego que Hipólito, un niño huérfano de 10 años, se esconde en un Cuarto Oscuro y descubre al comisario Hugolino Olmos obligando a los votantes a sufragar por el partido Demócrata]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/vHgqiQaXbI-AbTED_m4UH1lTn2xYPXaR3Ugfex0IaA=m22]]></stream_url>
+<buffer_kb>204800</buffer_kb>
+</channel>
+
+    
+    
+    
+    
+    
  	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
 
