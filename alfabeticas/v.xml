@@ -2812,7 +2812,23 @@
 <thumbnail>http://pics.filmaffinity.com/vulnerables-348623553-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/vulnerables-348623553-large.jpg" />]]></description>
 </channel>
-  
+
+ <channel>
+<title><![CDATA[Verano de corrupción (1998)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/jegJfSXd309UgtiGsGXGekjtWgZ.jpg" />Un joven llamado Todd Bowden (Brad Renfro) descubre que un anciano del vecindario (Ian McKellen) es un antiguo miembro de las S.S. El tenebroso asunto no hace sino excitar la curiosidad del muchacho, que se deja seducir por los terribles relatos de su nuevo "amigo"...]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/ov2Fo0XP5_zG4Qp4zKJrccBAEffq8xsoU1CLtb6Up63jU0uaZlIGluOugPfuB5wPuFJgdrt0G_1BN4XC1A4vu55Lt9NBL-2Y_QZseD9HZDwrqU3IRorQ69tR8Maur0op1suwlwElEnVuwuptDhRyrLmqCC3GTt9soe9hf2xu9sEwClO1_erniBf-0N7rcyqrvxxAKz2IVLjzG8tBezv9YbBnN37KjExmFpgw-zgRFx9kG2sSdSj2D0LgYtnI3YtdaDTJQ22kb4p9UXqREl5lSZP49FaZqA3ZCOVONbF6DJ-0Ie7Mg6Yp-X6zngAPYrGi-QsceTxKuQtK8LiWLAJl-PL_awWMaUDqFSMNSGqYueI-QEA_bwDYi8A_NkZc-A4122lCWc2RuImqknhK-ty9KTmLMMtFK-v4k30bQYBCPKx6B9ig8fUu2u_QhW5c4VDQY4MQjhzDlcwhWoZ89Uc2W4GKLtiInBN3THGbQ8SFjrUthDBPpAGZsA9p8wYJEObpzIb46NAUY5XTyyvjxouwHG-6EGxAz3ZH5AS_RANAKkW7H5RY9qCfeZQ5bfIEDQyBNOOms9hKnzKdK3ZiqD20l5ITc3a4fIfvgd_tlhuGJdakEdS-0D1J=m22?cpn=yjfYKJBNPqm5R0-g&c=WEB&cver=1.20170406]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[Vida de este chico (1993)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/xs8ebrGRGu6Y9ebu2dJFdm9yaZP.jpg" />Drama ambientado en la década de los 50, en Estados Unidos, que retrata los años adolescentes de un muchacho, a través de la relación que éste tiene con su madre y con su destructivo y autoritario padrastro.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/Js-BY_GuAKNNeINmcTSqbEgqgZy9AzsaDk4LilZmbbyBcSPvypNhOc8vKp8Xu1rfM20-fFshZ-GX1bL4WTuqofmdKKS38h7CW_Ainhp9ZKlgZkyAJK61rTaX220T-QZLOcEv8l6G-8WigNB5RLBH74Fe0v_sFWiWTqcNn0V7u7XxTDhYcCTFVEuMslp3vXXJM3s-_sWGPXPQdk9W_1X6cpr8Q03T1akOXL0KiJCyBqEKbva2ZTqiSkxPew5eJ5RNgKd7rC1FpAqzKacqbnOJDU_w21x9wwo3MkvdvfLRyAVRoQ3CA0y35WpeG-RcbXvgDsEalEEZbdT3gf1KJhnqUqYh8Hmer8VS8HZBmITUHYffKWn6gw8PWEoLVF471QxHpMN84ej8tp4InWZXw99arqRiHdJ07ytzE87bysosJecJrFsbzpP9rJ6jYmoIV-bRLqei8WQ5wJdNbhoODw4FeOXhoqxWT9MhG6J2we6Mv3P_7DvNgDbHHkeD3aOkiKv2ZdeQrGr33we4onfewMBnF72UENDIaSUKD13gBiLHQe9WjtkbEKJd3AyfheKt7yod7lij_vXLgvoPWciwlVBOsoRamg2vkiBzRKqx1HoeBX_TyZtq8i0B=m22?cpn=35G3sIngRKMNL_8j&c=WEB&cver=1.20170522]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+    
 
   <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
