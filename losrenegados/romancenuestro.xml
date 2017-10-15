@@ -68,6 +68,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
+ <channel>
+<title><![CDATA[La ciudad de las estrellas (La La Land) 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_la_land-262021831-mmed.jpg"/>]]>Mia (Emma Stone), una joven aspirante a actriz que trabaja como camarera mientras acude a castings, y Sebastian (Ryan Gosling), un pianista de jazz que se gana la vida tocando en sordidos tugurios, se enamoran, pero su gran ambicion por llegar a la cima en sus carreras artisticas amenaza con separarlos.</description>
+<stream_url><![CDATA[http://streamcloud.eu/ap78q3q7b9kq/La_ciudad_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
   
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
