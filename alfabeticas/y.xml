@@ -838,6 +838,15 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/yves_saint_laurent-914105604-large.jpg" />]]></description>
 </channel>
     
+  <channel>
+<title><![CDATA[Yo soy Sam (2001)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/tKO51UpTqLyS7PZPKHhnAJ52aQy.jpg" />Sam Dawson (Sean Penn) es un deficiente mental que deberá luchar por conservar la custodia de su pequeña hija, ya que el Estado considera que no está capacitado para hacerse cargo de su educación. De su defensa se encargará una prestigiosa abogada, Rita Harrison (Michelle Pfeiffer), cuyo desinterés y frialdad inicial cambiarán tras conocer a Sam, descubrir el amor que siente por su hija y comprobar su determinación por defender sus derechos como padre.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/Jlo7qrJloYBiqpZvq6NzQYuGd9XLXL4Hw04-XijdjJdqefbIktpd71IkejoltQduogVV-zK8BKj_Hly6YGWaEYYIs4FwVQp8niwPmuaOtYntl_Ne4vCTitnQR0QN_WcgMyvyNxmddvlcMyAZ8i6doqQB8X2K1Eu_xyRzj0CdGQAewC8opbSXOJepnZF3qG8yQ3DwufRy04yvvt2SU7Pbr9vIt24gEpK2GggCCFg3m9BZsSHj8v3D_QkwIrCWoOl0aMu8YF4wwOdTK7cSJo9fkB8XmzYOMbkVbpZlFHwO8_v91evTv-vFwAZVc1JCDGU-l_LfXllo860hIoHSE6r-uRMe1SPknd463dhDB8fmh8CGjUwqejjN7HsBZuYpiFO6oSCZgNmPcafXjzZvcSUEQOUZGygevGbo0lxfGTyjq4Y-MeJoyIX_cfXbSVl_LNoZClnh43fjOleLzOZ4-TNqeCrtl0i1DVe1m7El4FUdlnZ5GQ0932eKi9aOQjOtqjzr3D200q7SKBnrDx8b_pmrrKhIRv1UTvoOI4KxGrC-JXyAzkxC6qGw2zhSYiHmtOmW3fEsSfo3PSQD8c2_3VzZnDcXw5UD8vhkh1uRLVefJim1SB0p65tB=m22?cpn=MnMfOYrmJuoDZnPg&c=WEB&cver=1.20170404]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+    
+    
     
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
