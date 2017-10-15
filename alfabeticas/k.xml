@@ -1384,7 +1384,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
     
-    
+  	
+	<channel>
+<title><![CDATA[K-PAX. Un universo aparte (2001)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/iokED64Us1wtT7ZZnoDVsxEHSHk.jpg" />El estado emocional del Dr. Powell está siendo desafiado por uno de sus pacientes en el pabellón de psiquiatría; Prot, quien reclama ser de otro planeta, ha anunciado su partida de la tierra, y el resto de los pacientes se apuntan también para ir con él.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/x-ItBe0UuZOHUxwrr1QOEJdsf6ypqNIC5U0sk7808UwF25Qe0lvq_1u6mZTD8vWSxO7rp4PFEuqnLNoEpU-1BQxiWvYYTDzlW6zUFlHOBe0M1TCPkO2HMxLb4rmC54mgRDFvOu_i3qwSx9Y_udPEKA0MlZuFO1rSsywMIWRT8BmQ3L_3cUqn_kIzCBrAGd5hjX9u6rL1xKU7qo-KS2cUgfTNYHtDcnEJoQbcZSQxMeupaxEq-KnPTopBgpLC7vFCSpoGdD02o2-EA4T7bQTKKb3Win4p97IGRa1MKO53DjaDNHhS49sBFMdMajYeKMFDPu8W4ujNhaf6bBClugjKAiHGnPDz2Yn8SUiFCLp08VpICzth5HuRyn5CQKJQY4rSCPkSheD45NNMiV70WJS1IF8QTMRDNZVqe8S0vFtD4RlyhdJ4mpGlRm2APZzXWN9NBsLqmwBA0qu1u8495oWl7yXmKAZ0umNQdCbrVArl4vikzqePVnoTG6rdVBLKO4NGoI4EIquF9IcEAuBa7PwFUeqvNa_l0-G0P7gOtJizcCB64zOZnKXTghwgjTpuNa8xo_M7PGKy_FtEVmW54YdAdtEyUKDOXgApQPq5s7odXqn9OwEZCfpo=m22?cpn=NdBbHEqLgj5-D3yW&c=WEB&cver=1.20170330]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
     
 
 <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
