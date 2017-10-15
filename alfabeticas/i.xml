@@ -2933,7 +2933,16 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/ivanhoe-351726666-large.jpg" />]]></description>
 </channel>	
 
-
+<channel>
+<title><![CDATA[Incendies (2010)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/yOro3ezJfcULdd8jcT6JwLFhkdK.jpg" />Jeanne y Simon Marwan son dos mellizos cuya madre, que lleva mucho tiempo sin hablar, está a punto de morir. Pero, antes del fatal desenlace, les da dos cartas que deben ser entregadas a un padre al que creían muerto y a un hermano cuya existencia desconocían. Ambos emprenderán un viaje al Líbano para localizarlos y encontrar respuestas a su existencia. Basada en una obra de teatro de Wajdi Mouawad.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/4TGPDxuVZwo8YLl4S4ek9jjuLv59Sw2muD9zOi9FADuaqimdMJP1s383VOFJy2HseSo-mqTgDagVjV_yri-EcyjHGDcOfLFjGLVmu6B0SiFMhganM60_LoGLWxl-QJOt0x_ogOuyyDL_3ivRoYsggwhf7EzHVeiewvcGBF_fL3rjoNx8p7Kzc2PUYD-dhffRGClq66SDTemEHpNzZNkZrVl2dpdAnl8FsTbrL5rhOKQhv0NfC7_yEzfUUOFNz5KBrq7CBDl9S0yranjLswNu3sWmaa7012FgY8dsSfikILuqhkNFuL_OlSUnd3qGjG-MLEdxc-T4utbmEc0jIJnfsowcJnLNHjYfNITDISvfiHB2yWL7410S0Iz_X6ti-_LASNvMEelat5fuEDMXCPqT1OVRA_aBQeybRzkp3fzIVlBJFv--EU6D_Jnm3ixenX4zDF2jqwjtbGI3dmCKsq_6YTImwh8mPaj39MzXShg5nuCzAup6-LsRT05_USWgmMFZTc7bjxDSZXHOH3Zc1C1SHRwks8QGXLgRsI1zRH9Na-K5ewqncXK6ThwHQvMIWJHcERi0CTM2KfsiDy2T054jFQBKzdr6IvDG1C4M98xuNX7RkpAQ0sUY=m37?cpn=b8S1rl5GsHN-7ouF&c=WEB&cver=1.20170404]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+           
+           
+           
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
 
