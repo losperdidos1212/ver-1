@@ -2375,7 +2375,16 @@
 <thumbnail>http://pics.filmaffinity.com/ozzy-843151684-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/ozzy-843151684-large.jpg" />]]></description>
 </channel>
-   
+  
+  <channel>
+<title><![CDATA[Oficial y Caballero (1982)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/qmCSFTXH6r7Sysdiu4H2f1guBEM.jpg" />Zack Mayo es un joven asignado a la Escuela Naval Militar de los Estados Unidos. Allí encontrará que su actitud es incompatible con el lugar, algo que intentará corregir el implacable sargento Foley. Durante el proceso conocerá a una joven lugareña, Paula, de la que se enamorará, y que supondrá un punto de inflexión en su vida.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/X2RBkPlxU8Yq_QEEMgQnUd9wIESyDDwikDCNIMT-N1I-n40p1j8-JKxG4FUcfvryg0L0whoDL2fU6MaA7hOvRUG825_GtW72q9T5li6iMvpe4Essf2Yq_8wp0dhW0aUyQdnB79WgzC31AQ-IWEz9KDuT9Hatt3RSqAstFd0-xvkDa2K3DVPGRWnm5bkx221RqkXPPe_6dsCyhTz4GycXRsGiGofAzY2nRjXW4RMyYHatXm5FN18tw438EgONnzacpBSdzXO1W09cmwJqEC5SbEuOyR0VMSh8JmBsVQJ4JZV-r-vJIw10ORxthIw_HdKJt7ttiECY_5NpnUCuBIuU9h8PSJbMVKKeRQSn-GukaPYdhCmT20DhRkq27zeIhfTV7fwDRG7xDu4E3K6hcDJ6CFBmn61ZjyGR3G_V2nQBYQ-PMOX-_g-5l1XbEZDB1zCAzc2O4QlkH9gt6JuWR3cdIrwFTH1XB7OK6-KXxJIvtccw-cwgE3msBTQzNjaXX9eML30mStZOmBpxr86uWUH6Wqjc49P4zJjsYtmGsKWqRv8qtC4QkrbudgxRG-U63nt61JmZcdu5yQItFc8Wl-jHMA6IqN38N_xf09EEK_jcsFUUTX0Rowt1=m22?cpn=wf7eBc_8WLyjxlqk&c=WEB&cver=1.20170403]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+    
+    
 
   <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
