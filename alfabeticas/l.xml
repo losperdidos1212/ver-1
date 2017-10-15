@@ -26550,6 +26550,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+
+	<channel>
+<title><![CDATA[La última canción (2010)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/tgOdlyEFT3eYfHM2ZfizB2QuV2P.jpg" />La adolescente Ronnie (Miley Cyrus) pasa por una etapa de rebeldía coincidiendo con el divorcio de sus padres. Odia la idea de tener que trasladarse a un pueblecito sureño para vivir una temporada con su padre Steve (Greg Kinnear), con el que no mantiene una buena relación, pero no le queda otra opción.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/D0XTcUQ70fktMRRWDFUW9yzy0vo3UqjnreD6-3k4Ovew25BcwWfnTp4dq73X2emSmft1OtIzsD5M2S-rOr6n_t0fpGXwLjQyXTPgiaRRdmncP1oBKzhyy-jvJaYqn0iNmEb1ej1rWNapvWgPY2WpLZGXvSLLQS1rkIjIytfG3DfJGx2PczmUIdJgxg19k0jzxd72uHgEtYQiiaQdLWlJefDIz_BkuEokk6fjyOL7I8fRooA20sPAc9tdfWgIBguUmHkUodTaKGAe1RmQD8a9_e2VSYBSkVhQPU8ZipNpateCAfYOGj7vbcJdyXvIgSp_O_Sv2ri51y8su33tcM8hgeRhk5W3mnZ78CA1E3Yz3bMNsJHRHohIjs_wfAh3gwA86yK-DPwR5BIZ0pO9QN9vRputFbcW8yyojoNCc0yTF6JC29BdVzFaKUppnCI_NJEKz5jiHU29d6rGHD7l03vpp4U4yI0BmGm_ODepwERlTM0f23o4BTj_QJS8C6nFJhgGyQCgXmh3cpHNwoAxCIwLTk-QbYMHFA_iYvE7bH-xEiMR_-jDgzyV01_-FpyUV6fHk12egAixIT51JfVw5k28MAYDnVr5zf59o4TekQCNf1tUrrC-nopf=m37?cpn=QmRlboY2CbzM9YW5&c=WEB&cver=1.20170331]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+
+	
+	
 	
 	
 	<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
