@@ -7189,7 +7189,19 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
     
-    
+ <channel>
+<title><![CDATA[Premonition (7 días) (2007)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/cjN2D4TSUDgSA8MWLEsGlcrqzYP.jpg" />Linda Hanson (Sandra Bullock) tiene una casa preciosa, un marido que la quiere y dos hijas adorables. Su vida es perfecta, hasta que recibe una devastadora noticia: su esposo Jim (Julian McMahon) ha fallecido en un accidente de coche. Al despertarse a la mañana siguiente, Linda descubre que su marido sigue vivo.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/L7ZbOokULD64PU4-HvO-pdm1JPF4NKJFmHqlnTIPm93KAX7PVGOUQRpmjeRrig74swVtDZQWu7IjTwTt8BUMqYxbFhO9jfQdvOhEt4QcJEUFxYYNbBG6gcXlygRBHiYFMe9R3jueEdgyGJizRH-e0Brah5P8Z2hAXmYRGrFdP5ADS8hM-gDi2mwxuv3Lym0j3Pr7GmqvDFUM4EstLMYyWSW16I3XfjpyuncFt7m5WJK9a2jVlT8tDk3BMYfC4dx3CanHKhCFYBaizmYbExEeiYeqz_d1rRcp5nRqwOM3G_5DqYkK1C1Yk86DkZqZ8SaBMomfEzTmT4V9GqUVXLAKXuWkRWDLXQ7Ow35MBycS-80ZLiK64b1kGgP4m6qAd0AHdsDbFIlra-jWgBUKMsTslgUqj8jovpf4LCmgFCP6WBv8JjR513FDXhRG9MkC7u9gtGC5iCuucsa8NnPqPmqAFLeREicIDr5NjU3f30OMHIhkewb_-n3UoiTpKybK3lNMk52Wa-ASbChAUZD1657g-8efDpJLraN6XhHfhq49-bADHzRZE_87WVDk5DTMr9yW9KlaWqNL3kSsBxPOmO-cBugD5y6kam6uJmNNqvOlgWRi0DdzYsWW=m22?cpn=1qY0ii40Vq_qTmFm&c=WEB&cver=1.20170331]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+	
+	
+	
+	
+	
    <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
 
