@@ -604,6 +604,16 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>	
+
+	<channel> 
+<title><![CDATA[Manual de un tacano   2016  ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_0ca12d1108535b14943045a1e6afa178.jpg" />]]>Radin! cuenta la historia de un hombre violinista que está totalmente obsesionado con los números. Se le conoce por ser un tacaño y si es posible ahorra siempre hasta el último céntimo. Su día a día parece de lo más normal, pero esa obsesión le genera numerosos problemas a la hora de ir a comprar al supermercado o, por ejemplo, cuando sale a cenar con una mujer. Un día su hija, a la que no conoce, se presenta en su casa para pasar unos días con él. El protagonista tendrá que aprender a convivir con ella le guste o no, pero... ¿será capaz de no ser tan estricto en cuanto a números se refiere? </description> 
+<stream_url><![CDATA[http://streamcloud.eu/anb8bd2qdu7k]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
