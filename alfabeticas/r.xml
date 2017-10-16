@@ -4637,7 +4637,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
-	
+	<channel>
+<title><![CDATA[Río Rojo 1948]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://cdn1.pordede.com/content/covers/mediacover-1753-4.png" />]]>Terminada la Guerra de Secesión (1861-1865) y después de haber sobrevivido a una matanza de los indios, el ganadero Tom Dunson (John Wayne) y su hijo adoptivo Matthew Garth (Montgomery Clift) proyectan trasladar diez mil cabezas de ganado desde Texas hasta Missouri. Nadie hasta entonces había intentado una operación de tal envergadura. </description>
+<stream_url><![CDATA[http://streamcloud.eu/o975dw5q6zzv/R__o.Rojo.1948.DVDRip.es.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
 	
 	
    <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
