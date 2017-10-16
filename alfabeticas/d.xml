@@ -7990,7 +7990,27 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
     
-    
+  <channel>
+<title><![CDATA[Django desencadenado 2012]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://cdn.pordede.com/content/covers/mediacover-33506-4.png" />]]>Dos años antes de estallar la Guerra Civil (1861-1865), Schultz, un cazarrecompensas alemán que le sigue la pista a unos asesinos, le promete al esclavo Django dejarlo en libertad si le ayuda a atraparlos. Terminado con éxito el trabajo, Django prefiere seguir al lado del alemán y ayudarle a capturar a los delincuentes más buscados del Sur. Se convierte así en un experto cazador de recompensas, pero su único objetivo es rescatar a su esposa Broomhilda, a la que perdió por culpa del tráfico de esclavos. La búsqueda llevará a Django y a Schultz hasta Calvin Candie, el malvado propietario de la plantación "Candyland". La presencia de ambos en los alrededores de la propiedad, despierta las sospechas de Stephen, el esclavo de confianza de Candie.</description>
+<stream_url><![CDATA[http://streamcloud.eu/g62h0hhnwi1a/Django.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[Dos hombres y un destino 1969]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://cdn.pordede.com/content/covers/mediacover-502-4.png" />]]>Un grupo de jóvenes pistoleros se dedica a asaltar los bancos del estado de Wyoming y el tren-correo de la Union Pacific. El jefe de la banda es el carismático Butch Cassidy (Newman), y Sundance Kid (Redford) es su inseparable compañero. Un día, después de un atraco, el grupo se disuelve. Será entonces cuando Butch, Sundance y una joven maestra de Denver (Ross) formen un trío de románticos forajidos que, huyendo de la ley, llegan hasta Bolivia.</description>
+<stream_url><![CDATA[http://streamcloud.eu/kjztagiwobsp/__dos-hombres-y-un-destino.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+	
+	
+	
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
 
