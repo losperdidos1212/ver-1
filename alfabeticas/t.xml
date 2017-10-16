@@ -9334,7 +9334,25 @@
 <buffer_kb>30000</buffer_kb>
 </channel>	
 
+
+	<channel>
+<title><![CDATA[toy story 1995]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/toy_story-626273371-mmed.jpg"/>]]>Los juguetes de Andy, un niño de 6 años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano. Su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa. </description>
+<stream_url><![CDATA[http://streamcloud.eu/v9xn13tql81u/toy_story.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
 	
+
+<channel>
+<title><![CDATA[ Tortugas Ninja jóvenes mutantes 2007]]></title>
+<stream_url><![CDATA[http://streamcloud.eu/usqeyaqgzmgf/TMNT.Tortugas.Ninja.Jovenes.Mutantes.DVDrip.avi.html]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/teenage_mutant_ninja_turtles-176118179-large.jpg</thumbnail>
+<fanart></fanart>
+</channel>		
 	
 	
   <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
