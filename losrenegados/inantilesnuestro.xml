@@ -171,15 +171,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-		 <channel> 
-<title><![CDATA[La bella y la bestia 2017]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_be7f47c22e51a08459a8d8f4c70fc299.jpg" />]]>Adaptacion en imagen real del clasico de Disney La bella y la bestia, que cuenta la historia de Bella (Emma Watson), una joven brillante y energica, que suena con aventuras y un mundo que se extiende mas alla de los confines de su pueblo en Francia. Independiente y reservada, Bella no quiere saber nada con el arrogante y engreido Gaston, quien la persigue sin descanso. Todo cambia un dia cuando su padre Maurice (Kevin Kline) es encarcelado en el castillo de una horrible Bestia, y Bella se ofrece a intercambiarse con su padre y queda recluida en el castillo. Rapidamente se hace amiga del antiguo personal del lugar, que fue transformado en objetos del hogar tras una maldicion lanzada por una hechicera </description> 
-<stream_url><![CDATA[http://streamcloud.eu/awftha47j6e8/La_Bella_Y.avi.html]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
-	
 	
 	<channel>
 <title><![CDATA[ Bob Esponja: Historia Marina 2017]]></title>
@@ -307,6 +298,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+	  <channel> 
+<title><![CDATA[Capitán Calzoncillos: 2017 animados]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_ed87f49709886a98de130f9a38850c4c.jpg" />]]>George y Harold son dos ninos de primaria a los que les encantan los comics y se dedican a pintar y dibujar historietas cuyo personaje central es el 'Capitan Calzoncillos'. Un dia, de manera accidental, hipnotizan al director de su escuela, provocando su transformacion en el mismo Capitan Calzoncillos de sus alocados tebeos. Cada vez que alguien chasquea los dedos, el Sr. Krupp se convierte en este superheroe, que debe sus poderes a sus turbocalzones. Para volver a ser el Sr. Krupp, basta con que se le eche agua por encima. </description> 
+<stream_url><![CDATA[http://streamcloud.eu/tkqq8mej7tft]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
