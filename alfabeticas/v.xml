@@ -2829,7 +2829,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>   
     
-
+<channel>
+<title><![CDATA[Valor de ley 2010]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://cdn1.pordede.com/content/covers/mediacover-22495-4.png" />]]>Después del asesinato de su padre por Tom Chaney (Brolin), Mattie Ross (Hailee Steinfeld), una chica de catorce años firmemente decidida a hacer justicia, contrata los servicios del veterano sheriff Rooster Cogburn (Jeff Bridges), un borracho de gatillo fácil. Ambos perseguirán al criminal hasta territorio indio e intentarán atraparlo antes de que lo haga LaBoeuf, un ranger de Texas, cuya misión es llevarlo consigo para que sea juzgado por el asesinato de otro hombre... Nueva adaptación de la novela de Charles Portis, que ya había llevado al cine Henry Hathaway (True Grit, 1969) con John Wayne como protagonista</description>
+<stream_url><![CDATA[http://streamcloud.eu/wgxnc5smfrb2/Valor_de_ley_MicroHD_1080p_AC3_5.1.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+    
+    
   <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
 
