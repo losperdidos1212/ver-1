@@ -614,6 +614,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 	
+
+    <channel>
+ <title><![CDATA[7 Diosas 2015]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_2a8ee86c229300a1dd80e8374f583398.jpg />]]>La cinta se centra en Frieda, una fotógrafa de moda que invita a sus mejores amigas de toda la India a viajar a Goa para hacer un anuncio sorpresa: ¡se va a casar! Entonces empieza una despedida de soltera que dura una semana, una montaña rusa de amistad, enfados, perdones, errores, pasión, devastación, dudas y auto-realización. Pero hay un pequeño detalle: Frieda no les ha dicho a sus amigas con quién se ha prometido.   </description> 
+<stream_url><![CDATA[http://streamcloud.eu/le1cgssjtxyv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
