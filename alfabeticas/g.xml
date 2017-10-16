@@ -2819,6 +2819,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+	<channel>
+<title><![CDATA[Grupo Salvaje 1969]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://cdn.pordede.com/content/covers/mediacover-440-4.png" />]]>Un grupo de veteranos atracadores de bancos, desarraigados ladrones que viven al margen de la ley y que actúan en la frontera entre los Estados Unidos y México, se ven acorralados por unos cazadores de recompensas y el ejército mexicano.</description>
+<stream_url><![CDATA[http://streamcloud.eu/bxb6s77h91e7/Grupo.Salvaje.1969.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+	
+	
 
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
