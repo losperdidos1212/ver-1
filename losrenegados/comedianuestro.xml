@@ -623,6 +623,25 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	 <channel> 
+<title><![CDATA[The Meyerowitz Stories 2017 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_4ca22576d384bb5907fa7e841df0f370.jpg" />]]>Los tres hijos, ya adultos, de un arisco artista neoyorquino se enfrentan a la dificil relacion que tienen con su padre y entre ellos. La familia tenia a sus miembros separados, pero se reunen para un evento que celebra la obra artistica de su padre. Alli surgiran conflictos familiares.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/z3juf20meuju]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	 <channel> 
+<title><![CDATA[CineBasura: La película 2016 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_38f8be5a412d6c7beb95f1723bf46d96.jpg" />]]>Dos videobloggers abren por accidente un portal entre el mundo del cine basura y el nuestro. Que, siendo sinceros, tambien un poco basura. Pero sin zombis.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/hw4ocwtqpb3j]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
