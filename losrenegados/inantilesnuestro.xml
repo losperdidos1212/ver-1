@@ -308,6 +308,13 @@
 </channel>
 	
 
+<channel>
+<title><![CDATA[Cenicienta (2015)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/1j51Y42ifeEqKC9G1rK23utcG6i.jpg" />La historia de "Cenicienta" cuenta las andanzas de la joven Ella (Lily James) cuyo padre, un comerciante, vuelve a casarse tras la muerte de su madre. Ella quiere dar gusto a su padre y acoge con cariño a su nueva madrastra (Cate Blanchett) y a sus hijas Anastasia (Holliday Grainger) y Drisella (Sophie McShera) en la casa familiar.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/A8ltfaCjyhZUMJwyWr95p6U5O2fYcu_8UjYncwGPeUACfDsVN2jFJGiCSBijVp_9yGnJM0rSqo3AJ8u-mflia7hfHRoiAd52ycUBPjCkXbVlF1DetE04LkILJy_smE9aniFKLnufNFVBtECgnnq-TYmL3IJpgkMuO1wNeuIN5J58Zls-otiuSsaW-6kTdx7Vv2l4Hf1p-Ferry6jAw0Ro2WevFtmMQqUtnyMHG43fZHcen8mu9sPxTGIw4yhPtj30E_OjSpNUDoObZaD_3tiDEKjt0eA93J5BLCfS4Udnh_tnsYg6sx4DzAEwchTcsHWEOIMxQNkReVsUFvFc72FHlEsc4qUW7yvjTWBGCsdbfggMyGjlw9EFx9-9YoDYFPk3yvo9X74qv4LHvWxZWO1KgyZQCqZckJV7rymPSYsfX6eKFnL5LOuOjfyrhb4wbQqSakeOU30F5XHC5-JT6ADJ_pFyuB5YFn16WBuDE1f3jJkqR_yK7MLUg4wOdQ_JP3WNK2HGKqZ4jY3xqJVuzLi2uKZV48hU0Gor2oZsxHj8UbLI10x8LprA6BQAoTrlAF1o4gSYxXsr4mgpYXmqDwRGMrgp2kEdV4fJNgxkUNEVZRLqtspb5Kx=m37?cpn=YSfEr_wOY7QxmUvG&c=WEB&cver=1.20170601]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
