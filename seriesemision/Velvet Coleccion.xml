@@ -44,7 +44,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
+<channel>
+<title><![CDATA[1x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_8027963c12f1ecf580b1fb1fbdc9f8f9.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/o6udkvs3yb2h]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
