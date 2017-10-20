@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
- <playlist_name>Arrow >> Temporada 1 A Temporada 4</playlist_name>
+ <playlist_name>Arrow >> Temporada 1 A Temporada 5</playlist_name>
  
 
  
@@ -741,6 +741,190 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+<channel>
+<title><![CDATA[1 Legado]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/uJmQsMSHKJiNuTSpYpJRWtRssCK.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/jq9yliq1gmvs]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[2 Los reclutas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/FwIJiupVE8PEffNjjEzMJfYLpo.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/fbjevavm2pg8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[3 Cuestion de confianza]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/AuhEfrU3I7zCcMb9arnBPsN7h4h.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dltiajcttq5j]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[4 Penitencia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/9Iq4p2MYVwA8DdEzWNdhtVm9ktX.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/06hqd2l7y4cd]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[5 Blanco Humano]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/hQqNO7WpQpgr0ovEXb8aDg8i3Ab.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/m5jv8lxnzddc]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[6 Empezamos así]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/mrlg1ubymy0SJHHbkegqM330Hre.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/tppqu40jp5n9]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[7 Vigilante]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/zBr0aTQpg4UBNOeIcEEe5KG7rH5.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/49dm8a4qnebt]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[8 Invasion! (Parte 3)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/qW0wYoEcEle74RD0oFzrD7SaqRr.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/btsjnr5tgtig]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[9 Lo que dejamos atrás]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/1LL8vxNld4lAzKoLlIMhBzxJJMf.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1i1bex7q2y5s]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[10 Quién eres]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/zy3NwKnTfmXdwgs9WqiYDE9sSYX.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/tbffjnuxko46]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[11 Segundas oportunidades]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/17FewbPKCAoMfAf05yMyE0a6IZB.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/f57reo3xgrp2]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[12 Bratva]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/original/1zOf7TzIIZhOZseyLtNDroanDVZ.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/hbf8vk218qcm]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[13 El espectro de las armas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/fdY4J3nwsMazY87k52dVUz8JkcB.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/76i4rdiymwg4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[14 El devorador de pecados]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/AlciwbQh1q3A7qXhqQHLw1oRWUh.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/s58q99kai893]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[15 Combatiendo fuego con fuego]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/wTLSWi9EYFtBUatV31lzqtdc0nL.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/g00w0cfpgt3i]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[16 Jaque mate]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/mj9661jaFhqrjpTkdXrARlVx6DE.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5ubf9xpp5k7f]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[17 Encapuchado]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/bBxSGVY50HFL6LT4x5d7dfEOpH5.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1zodjhw52rmw]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[18 Disuelto]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/thckbagezx2j]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ <channel>
+<title><![CDATA[19 Dangerous Liaisons]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/cp2kqyjqz5yx/4RR0VV.S05E19.m1080p.WEB.DL.RAiDON.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 20]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/7js4sogyaztn/ARR0VV.S05E20.HDRip.RAiDON.avi.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ <channel>
+<title><![CDATA[Capitulo 21]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/zsf2agvwsog5]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ <channel>
+<title><![CDATA[Capitulo 22]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/je1fpwu3ymer]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+<channel>
+<title><![CDATA[Capitulo 23]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/6wF12YB9X8frkuOPDFmFqSgGgln.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/oe240wjg18pd]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
