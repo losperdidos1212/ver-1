@@ -177,6 +177,19 @@
 </channel>
 	
 	
+<channel>
+<title><![CDATA[ Beasts of No Nation 2015 belica]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/3ozi34zz6aga]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/beasts_of_no_nation-247322698-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/beasts_of_no_nation-247322698-large.jpg" />]]>En plena guerra civil de un país africano, el pequeño Agu (Abraham Attah), separado de su madre, pierde al resto de si familia y se convierte en un niño soldado, manipulado por un temible señor de la guerra, el Comandante (Idris Elba), que le enseñará a matar y le instruirá en los caminos de la guerra.</description>
+</channel>
+	
+	
+	
+	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
 
