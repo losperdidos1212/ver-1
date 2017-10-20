@@ -424,6 +424,15 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/batman_the_killing_joke-391866587-large.jpg" />]]>Una noche lluviosa Batman llega al Asilo Arkham para hablar con Joker. Pero cuando llega a su celda, se da cuenta de que el que está ahí es un impostor, y que el real ha escapado y anda suelto por Gotham. Adaptación animada del cómic homónimo, uno de los más laureados de la historia del medio.</description>
 </channel>
 
+<channel>
+<title><![CDATA[ Bienvenidos a Monster High 2016 animacion]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/4uwbgfd1tl1q]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/monster_high_welcome_to_monster_high-504069245-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/monster_high_welcome_to_monster_high-504069245-large.jpg" />]]></description>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
