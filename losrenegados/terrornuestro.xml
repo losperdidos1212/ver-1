@@ -306,6 +306,43 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	<channel>
+<title><![CDATA[ Ataúd blanco: El juego diabólico 2016 terror]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/m5fvvizwcfp4]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/ataud_blanco_el_juego_diabolico-947125336-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/ataud_blanco_el_juego_diabolico-947125336-large.jpg" />]]>Virginia hará lo imposible para rescatar a su pequeña hija que ha sido secuestrada. Deberá elegir entre la muerte o vivir un día más para intentar salvarla. En su camino enfrentará actos que la harán descubrir que hay cosas peores que la muerte. </description>
+</channel>
+	
+	
+	
+	<channel>
+<title><![CDATA[ Annabelle 2015 terror]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/yuj30kgkzxnb]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/annabelle-671994408-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/annabelle-671994408-large.jpg" />]]>John Form encuentra el regalo perfecto para su mujer embarazada, Mia: una preciosa e inusual muneca vintage que lleva un vestido de novia blanco inmaculado. Sin embargo, la alegria de Mia al recibir a Annabelle no dura mucho. Durante una espantosa noche la pareja ve como miembros de una secta satanica invaden su hogar y los atacan brutalmente. No solo dejan sangre derramada y terror tras su visita…los miembros de la secta conjuran a un ente de tal maldad que nada de lo que han hecho se compara al siniestro camino a la maldicion que ahora es… Annabelle.</description>
+</channel>
+	
+				
+	<channel>
+<title><![CDATA[ Area 51 2015 terror]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/c25hrck1s4sq]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/area_51-755214860-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/area_51-755214860-large.jpg" />]]>Tres amigos viajan hasta el Area 51, en Nevada, para descubrir los misterios que esconde la enigmática localización</description>
+</channel>
+	
+	
+	
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
