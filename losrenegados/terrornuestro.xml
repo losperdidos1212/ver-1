@@ -289,8 +289,23 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/berserker-682488159-large.jpg" />]]>Una cabeza humana pegada al volante de un coche. Este es el hilo del que empieza a tirar el taciturno escritor treintañero Hugo Vartán. Una misteriosa cadena de muertes y desapariciones tras las que se perderá, a modo de "Se ha escrito un crimen" en versión mumblecore, cual Dashiell Hammett postcrisis, compartiendo piso y viviendo a base de patatas, café y cigarrillos. </description>
 </channel>
 	
+ <channel> 
+<title><![CDATA[1922 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/1922-688046313-mmed.jpg" />]]>En el ano 1922 un orgulloso ranchero asesina a su mujer con la ayuda de su hijo adolescente. Lo que nunca se habria imaginado es que un grupo de ratas acabaria atacandoles, llegando al punto de convencerse a si mismo de que esta siendo acechado por su esposa muerta.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/zmem3f0jebsj]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
-	
+	 <channel> 
+<title><![CDATA[Wheelman 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_4aff75a9e6ca6a21d3191b40aef33a0e.jpg" />]]>Durante un atraco a un banco, el conductor contratado para fugarse tras el robo debera hacer uso de su ingenio y destreza cuando recibe ordenes desde un numero desconocido.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/ly0wdr3v9tcc]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
