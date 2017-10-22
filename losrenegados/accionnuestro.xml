@@ -1282,7 +1282,25 @@
 <description><![CDATA[<img src="https://pics.filmaffinity.com/the_lost_city_of_z-256104451-mmed.jpg" />]]>Durante siglos, los europeos discutieron la existencia de una antigua civilizacion en la selva del Amazonas. A principios del siglo XX, el britanico Percy Fawcett participo en una expedicion tras otra, convencido de poder encontrar esta legendaria ciudad en cuya busqueda han muerto cientos de hombres. En 1925, en su viaje mas ambicioso y obsesivo, Fawcett desaparecio en lo mas profundo de la selva, al igual que todas las expediciones que han seguido su rastro.</description>
 </channel>
 	
+<channel>
+<title><![CDATA[ Sharknado 5: Aletamiento global 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/pdmvqeeuzbrl]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/asesinos_inocentes-242356662-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://streamcloud.eu/o0qe7cfuqopu" />]]>La quinta entrega de la saga de Syfy presenta nuevas tormentas infestadas de tiburones cuyo tamano y peligro van en aumento, hasta tal punto que el alcance es a nivel global. En medio de esta realidad caotica, se encuentran Fin Shepard y su esposa April, cuyo hijo queda atrapado en un sharknado y es transportado por todo el mundo.</description>
+</channel>
 	
+<channel>
+<title><![CDATA[ secuestro 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/qm1mjzatyfhi/Secues.mkv.html]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/asesinos_inocentes-242356662-large.jpg</thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/secuestro-232115450-mmed.jpg" />]]>Patricia es una abogada que ve su vida trastornada cuando su hijo Victor desaparece del colegio. Cuando el nino regresa a casa, asegura que un hombre ha intentado secuestrarlo y lo reconoce en una rueda de identificacion. Pero como las pruebas no son definitivas, el sospechoso queda en libertad. Temerosa de que algo pueda pasarle a su hijo, Patricia decide quebrantar sus principios y tomarse la justicia por su mano, lo que acabara teniendo consecuencias imprevisibles.</description>
+</channel>
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
