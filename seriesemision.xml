@@ -369,6 +369,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>       
+<title><![CDATA[La casa de papel T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_347ee8c299158c16b38a35ea54bf120a.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/lacasadepapel.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
 
  <channel>       
 <title><![CDATA[La extrana pareja]]></title>
@@ -742,7 +751,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
+<channel>       
+<title><![CDATA[The Walking Dead T8]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e3fe77e381970bce348c952df3a5e9df.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/thewalking.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
