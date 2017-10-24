@@ -1241,15 +1241,7 @@
 	
 
 	
-<channel>
-<title><![CDATA[ secuestro 2016]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/qm1mjzatyfhi/Secues.mkv.html]]></stream_url>
-<thumbnail>http://pics.filmaffinity.com/asesinos_inocentes-242356662-large.jpg</thumbnail>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/secuestro-232115450-mmed.jpg" />]]>Patricia es una abogada que ve su vida trastornada cuando su hijo Victor desaparece del colegio. Cuando el nino regresa a casa, asegura que un hombre ha intentado secuestrarlo y lo reconoce en una rueda de identificacion. Pero como las pruebas no son definitivas, el sospechoso queda en libertad. Temerosa de que algo pueda pasarle a su hijo, Patricia decide quebrantar sus principios y tomarse la justicia por su mano, lo que acabara teniendo consecuencias imprevisibles.</description>
-</channel>
+
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
