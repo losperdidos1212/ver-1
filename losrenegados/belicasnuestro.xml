@@ -2,6 +2,17 @@
 <items>
 <playlist_name><![CDATA[belicas]]></playlist_name>
 	
+
+	<channel> 
+<title><![CDATA[Whiskey Tango Foxtrot 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_5275b463cc35a04f9b91230c7d2172e1.jpg" />]]>A journalist recounts her wartime coverage in Afghanistan and Pakistan.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/ztupc5cxh79r]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+
 	
   <channel> 
 <title><![CDATA[Zona Hostil( 2017 ) Calidad:DVDRip-castellano]]></title>
@@ -187,7 +198,17 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/beasts_of_no_nation-247322698-large.jpg" />]]>En plena guerra civil de un país africano, el pequeño Agu (Abraham Attah), separado de su madre, pierde al resto de si familia y se convierte en un niño soldado, manipulado por un temible señor de la guerra, el Comandante (Idris Elba), que le enseñará a matar y le instruirá en los caminos de la guerra.</description>
 </channel>
 	
+
+	 <channel> 
+<title><![CDATA[Los últimos de Filipinas 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/1898_los_ultimos_de_filipinas-735303912-mmed.jpg" />]]>A finales del siglo XIX, en la colonia espanola de Filipinas, un destacamento espanol fue sitiado en el pueblo de Baler, en la isla filipina de Luzon, por insurrectos filipinos revolucionarios, durante 337 dias. En diciembre de 1898, con la firma del Tratado de Paris entre Espana y Estados Unidos, se ponia fin formalmente a la guerra entre ambos paises y Espana cedia la soberania sobre Filipinas a Estados Unidos. Debido a esto, los sitiados en Baler son conocidos como "los ultimos de Filipinas.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/5d32ul44b0pv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
+ 
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
