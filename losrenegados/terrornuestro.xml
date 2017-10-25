@@ -341,6 +341,17 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	 <channel> 
+<title><![CDATA[llega de noche 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/it_comes_at_night-800550467-mmed.jpg" />]]>Paul (Joel Edgerton) es un hombre que vive en una casa de madera con su esposa Sarah (Carmen Ejogo) y su hijo Travis (Kelvin Harrison Jr.), y que no se frenara ante nada para proteger a su familia de una presencia maldita que les atemoriza desde el exterior de su casa.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/ddobrf21n4qw/Llega_De_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
