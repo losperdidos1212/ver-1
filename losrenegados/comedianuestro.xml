@@ -795,6 +795,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+ <channel> 
+<title><![CDATA[Band Aid 2017 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_e3e7624293a2acfba03e05d962eb80ed.jpg" />]]>Una pareja que no puede dejar de pelear se embarcara en un ultimo esfuerzo para salvar su matrimonio: convertir sus peleas en canciones y comenzar una banda.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/7i64d1mcl4it]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
