@@ -682,21 +682,7 @@
 </channel>
  
 
- <channel>       
-<title><![CDATA[Supergirl T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_b4322cf1e781d24a3d7617ea402f7cc4.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Supergirl%20T2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
-
-  <channel>      
-<title><![CDATA[ Superstore T2]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0abc8df7b1c554f716b8e5fc21af0ced.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/SuperstoreT2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
 
 
  
