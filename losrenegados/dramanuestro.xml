@@ -3264,6 +3264,18 @@ era yo"</description>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	<channel> 
+<title><![CDATA[Robada al nacer 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_d6b843c76d52d677a89189c5cecefd4f.jpg" />]]>La joven pareja Alicia y Ray , acaban de ser padres y estan muy felices, pero el bebe empieza a mostrar signos de enfermedad y ha desarrollado un síndrome de abstinencia. Entonces descubren que su pequeno fue robado.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/2doupbv4j61s]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
+	
+	
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
