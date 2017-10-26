@@ -225,6 +225,17 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/assassin_s_creed-271195640-large.jpg" />]]>Gracias a una tecnología revolucionaria que permite el acceso a los recuerdos genéticos, Callum Lynch (Michael Fassbender) revive las aventuras de Aguilar, un antepasado suyo que vivió en la España del siglo XV. Así descubre que es descendiente de una misteriosa organización secreta, los Assassins, y que posee las habilidades y los conocimientos necesarios para enfrentarse a la poderosa y temible organización de los Templarios en la época actual. Adaptación libre del videojuego homónimo.</description>
 </channel>
 
+<channel> 
+<title><![CDATA[la piedra sagrada 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/doomsday_device_tv-931723489-mmed.jpg" />]]>Mientras intentan arrestar a un grupo de ladrones, dos agentes del FBI encuentran un antiguo artefacto japones de enorme poder. Deberan evitar que el artilugio caiga en manos de criminales.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/rlvvdnt7wl3k/La_Piedra_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
