@@ -448,6 +448,16 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	<channel> 
+<title><![CDATA[doraimon en busca del escarabajo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/doraemon_nobita_to_kiseki_no_shima_animaru_adobencha-507953539-mmed.jpg" />]]>Una nueva y original historia de Bruce Timm.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/qoufvf69963u/Doramon_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
