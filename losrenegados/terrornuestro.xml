@@ -351,8 +351,33 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+ <channel> 
+<title><![CDATA[testigo 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/la_mecanique_de_l_ombre-156290178-mmed.jpg" />]]>Un enigmatico hombre de negocios en nombre de una misteriosa organización se pone en contacto con Duval (François Cluzet) para ofrecerle un trabajo sencillo y bien remunerado: transcribir escuchas telefonicas interceptadas. Duval, económicamente desesperado, acepta sin preguntar sobre la finalidad de la empresa que lo contrata. De pronto, envuelto en un complot politico, debe afrontar la brutal mecanica del mundo oculto de los servicios secretos.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/ir8c4xmalsel/Testi.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+	 <channel> 
+<title><![CDATA[mio o de nadie 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/unforgettable-798026776-mmed.jpg" />]]>Una mujer (Katherine Heigl) comienza a hacer la vida imposible a la nueva esposa (Rosario Dawson) de su ex marido.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/j7y1k3qdvp1o/Unfor.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
-	
+
+	 <channel> 
+<title><![CDATA[lobos en la noche 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/wolves_at_the_door-483132162-mmed.jpg" />]]>Cuatro amigos se reunen en una casa elegante en el verano del amor, 1969. Lo que no saben es que hay visitantes extranos fuera. La fiesta se convierte en una noche de terror cuando estos visitantes empiezan a acecharles, hasta el punto de q.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/7tlbze5cgv59/Lobos_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
