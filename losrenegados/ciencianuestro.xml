@@ -234,6 +234,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+
+		<channel>
+<title><![CDATA[ Calle Cloverfield 10 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/n5udfcppx2ib]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/10_cloverfield_lane-565304710-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/10_cloverfield_lane-565304710-large.jpg" />]]></description>
+</channel>
+	
 	
 	
 	
