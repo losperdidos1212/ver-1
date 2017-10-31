@@ -315,7 +315,15 @@
  
  
  
- 
+ <channel>
+<title><![CDATA[ Cameraperson 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/eytzps6h4jdd]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/cameraperson-363566874-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cameraperson-363566874-large.jpg" />]]></description>
+</channel>
  
  
  
