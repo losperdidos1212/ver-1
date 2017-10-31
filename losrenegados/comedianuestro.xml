@@ -836,6 +836,17 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/caida_del_cielo-181357031-large.jpg" />]]></description>
 </channel>
 	
+<channel>
+<title><![CDATA[ Canguros en apuros (TV 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/b7x4h197mgkc]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/adventures_in_babysitting_tv-835891304-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/adventures_in_babysitting_tv-835891304-large.jpg" />]]></description>
+</channel>
+	
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
