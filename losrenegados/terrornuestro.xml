@@ -378,6 +378,20 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	
+<channel>
+<title><![CDATA[Caminando entre las tumbas (2014)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w640/jVEEitXmLoB12qVlPh97hYmTyh4.jpg" />Matt Scudder, un expolicía de Nueva York, trabaja como detective privado a pesar de que no tiene licencia. Cuando accede a regañadientes a ayudar a un traficante de heroína a cazar a los hombres que secuestraron y asesinaron brutalmente a su esposa, descubre que no es la primera vez que esos hombres han cometido este tipo de crímenes]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/kBneZFn5Uqahlm6Xh28KOAy9-N1garltndyTVxc39A=m22]]></stream_url>
+<buffer_kb>204800</buffer_kb>
+</channel> 	
+	
+	
+
+	
+	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
