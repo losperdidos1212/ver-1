@@ -816,7 +816,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
+<channel>       
+<title><![CDATA[Z Nation T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9f9319dda32844b27765db2d628cc509.jpg">  ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/znation.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 
  
