@@ -353,3 +353,14 @@
 <stream_url><![CDATA[http://streamcloud.eu/qaiu45h0wh7j]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+
+</items>
