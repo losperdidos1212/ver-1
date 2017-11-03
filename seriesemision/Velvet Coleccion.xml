@@ -60,7 +60,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- 
+ <channel>
+<title><![CDATA[1x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_8027963c12f1ecf580b1fb1fbdc9f8f9.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/V3lv3t.1x02.m720p.Dmsec/VelvetColeccion_107_WWW.NEWPCT1.COM.avi]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
