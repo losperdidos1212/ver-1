@@ -254,6 +254,16 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	<channel> 
+<title><![CDATA[los invasores  2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/the_recall-294838770-mmed.jpg" />]]>Cinco amigos se van de vacaciones a una casa cerca de un lago y descubren que la Tierra esta sufriendo una invasión alienigena.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/6x8pp2biu2lk/Los_Invas.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
