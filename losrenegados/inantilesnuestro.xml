@@ -458,6 +458,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+
+		<channel> 
+<title><![CDATA[cars3  2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/cars_3-755380967-mmed.jpg" />]]>Sorprendido por una nueva generacion de corredores ultrarrapidos, el legendario Rayo McQueen queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecanica de carreras, Cruz Ramirez, que tiene su propio plan para ganar, ademas de la inspiracion del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no esta ni mucho menos acabado, el campeon tendra que poner a prueba su valia en el gran circuito de la Copa Piston.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/rz0p02jhbohw/Car.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
