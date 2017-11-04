@@ -398,6 +398,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+<channel> 
+<title><![CDATA[la noche de las brujas 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/house_of_the_witch_night_of_the_witch_tv-754308582-mmed.jpg" />]]>Un grupo de adolescentes decide ir a divertirse a una misteriosa casa durante la noche de Halloween. No tardan en encontrarse encerrados en la casa mientras comienza a perseguirles una bruja asesina.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/vrr7kpe389k5/La_No1che2_De3_La4_Bru5ja6.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
