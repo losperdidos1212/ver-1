@@ -17,6 +17,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Me%20cambio%20de%20decada.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
+ 
+<channel>       
+<title><![CDATA[Mi casa es la tuya T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/micasa.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
   
 <channel>       
 <title><![CDATA[¿Que comen nuestros hijos?]]></title>
