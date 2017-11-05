@@ -1263,9 +1263,25 @@ Inspirada en hechos reales, “Hyena Road” es un film situado en el corazon de
 <buffer_kb>30000</buffer_kb>
 </channel> 
 
+
+	<channel>
+<title><![CDATA[Undercover Grandpa 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/fgrczazk12px ]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_1069dcc33af9a7bbeb95d32616d776f3.jpg" />]]>Cuando la chica que le gusta desaparece, Jake solicita la ayuda de su abuelo y sus amigos de la Segunda Guerra Mundial.</description>
+</channel>
 	
-	
-	
+
+	<channel>
+<title><![CDATA[Instant Death 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/unrgjvhjyfr3]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_8aec26d789eaf6e12ccd1cc4050b3924.jpg" />]]>Una guerra de pandillas viciosas por el dominio de las drogas atrae a un veterano de las fuerzas especiales John Bradley. Tratando de adaptarse a la vida normal y atormentado por demonios internos de un pasado violento, la retribucion del hampa en su ultima conexion con la humanidad, una hija y un nieto conduce a un descenso de furia y violencia que ni siquiera la brutalidad del gangland esta preparada.</description>
+</channel>
 	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
