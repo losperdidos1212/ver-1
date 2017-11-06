@@ -467,6 +467,16 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	<channel> 
+<title><![CDATA[Canta 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/sing-431201889-mmed.jpg" />]]>Buster Moon es un elegante koala que regenta un teatro que conocio tiempos mejores. Es un optimista nato, lo que esta muy bien si no fuera un poco caradura, pero ama a su teatro con pasion y es capaz de cualquier cosa para salvarlo. Sabe que el sueno de su vida esta a punto de desaparecer, y solo tiene una oportunidad para mantenerlo a flote: organizar un concurso de canto y conseguir que sea un gran exito. Entre los muchos candidatos apareceran una cerdita ama de casa y otro cerdo muy animoso, una puercoespin rockera, un gorila bondadoso, un raton presumido y una elefante muy timida.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/fbmbrct5hsto]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
