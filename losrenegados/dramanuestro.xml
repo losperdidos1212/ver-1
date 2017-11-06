@@ -3195,7 +3195,15 @@ era yo"</description>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
+
+		<channel> 
+<title><![CDATA[dona clara 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/aquarius-823637745-mmed.jpg" />]]>Clara, una ex-critica musical de Recife de 65 anos, vive retirada en un edificio particular, el Aquarius, construido en la decada de 1940 sobre la chic Avenida Boa Viagem, que bordea el oceano. Un importante promotor ha comprado todos los apartamentos, pero ella se niega a vender el suyo y emprende una guerra fria contra la empresa que la acosa. La estresante situacion le perturba y le lleva a pensar en su vida, en su pasado, en sus seres queridos.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/kuhqiipkuhv5/Do1__a22_Cla3ra4_.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
