@@ -334,7 +334,13 @@
 <buffer_kb>30000</buffer_kb>
  </channel> 
  
- 
+<channel>       
+<title><![CDATA[Entourage T1-T8]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.avancetv.com/series/dm/doctor_mateo.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/sequito.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
  
  
   <channel>       
