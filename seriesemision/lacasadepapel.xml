@@ -18,6 +18,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
+<channel>
+<title><![CDATA[2x03 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/CASPA2X01/CasPap2x03.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
