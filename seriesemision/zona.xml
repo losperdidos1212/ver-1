@@ -12,9 +12,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-
+<channel>
+<title><![CDATA[Capitulo 1x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_52c13ea793e2091de75c20e2a55717c6.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/m86xgm84zd0f]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_52c13ea793e2091de75c20e2a55717c6.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1xc0ep3w4y5d]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
