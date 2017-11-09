@@ -76,7 +76,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+<channel> 
+<title><![CDATA[1x01 Temporada 4 Capitulo 10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/M1C4s43sL4Tuy44x10.bibi.mkv/M1_c4s4_3s_l4_tuy4_4x10.bibi.mkv.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+  
+  
+  
+  
+  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/menuprogramastv.xml]]></prev_page_url> 
 </items>
