@@ -2,16 +2,7 @@
 <items>
 <playlist_name><![CDATA[western]]></playlist_name>
   
-  
-<channel>
-<title><![CDATA[Tina Turner ]]></title>
-<logo_30x30><![CDATA[http://i67.tinypic.com/nwijyh.png]]></logo_30x30>
-<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
-<stream_url><![CDATA[http://www.youtube.com/watch?v=5rQ4gXu_B6c]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>  
-	
+ 
 	
 	
 <channel>
