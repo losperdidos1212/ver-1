@@ -2,6 +2,18 @@
 <items>
 <playlist_name><![CDATA[ Conciertos Musica]]></playlist_name>
 
+   
+ <channel>
+<title><![CDATA[Tina Turner concierto Wembley 2000]]></title>
+<logo_30x30><![CDATA[http://i67.tinypic.com/nwijyh.png]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://www.youtube.com/watch?v=5rQ4gXu_B6c]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+   
+   
+   
 <channel>
 <title><![CDATA[Supertramp paris 1979 1ºParte ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -68,16 +80,6 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_live_at_river_plate-152111993-large.jpg" />]]></description>
 </channel>
 
-
-<channel>
-<title><![CDATA[Tina Turner concierto Wembley 2000]]></title>
-<logo_30x30><![CDATA[http://i67.tinypic.com/nwijyh.png]]></logo_30x30>
-<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
-<stream_url><![CDATA[http://www.youtube.com/watch?v=5rQ4gXu_B6c]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
-    
     
   
   
