@@ -21,7 +21,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
-  
+ 
+    <channel>
+<title><![CDATA[Pablo Alboran]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.fmdos.cl/wp-content/uploads/2016/02/ALBORAN-1.jpg"/>]]>Concierto musical Pablo Alborán.</description>
+<stream_url><![CDATA[http://streamcloud.eu/kidiw4xbech2/Pablo_Albor__n_Vi__a_2016_Full_HD__1_.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
    
    
    
