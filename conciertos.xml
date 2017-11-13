@@ -11,6 +11,17 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>  
+  
+   <channel>
+<title><![CDATA[Manolo Garcia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://upload5.streamcloud.eu:8080/i/01/02411/6rgt854z1esg.jpg"/>]]>Concierto musical Manolo Gacia .</description>
+<stream_url><![CDATA[http://streamcloud.eu/6rgt854z1esg/MA1NO2LOGAR3CI4A.Title1.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+  
    
    
    
