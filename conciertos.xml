@@ -41,6 +41,24 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
+ <channel>
+<title><![CDATA[Manuel Carrasco ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://upload32.streamcloud.eu:8080/i/01/02412/za111hau203h.jpg"/>]]>Concierto musical Manuel Carrasco Chile.</description>
+<stream_url><![CDATA[http://streamcloud.eu/za111hau203h/Ma2nu4el_Ca6rras8co.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+  <channel>
+<title><![CDATA[Manuel Carrasco]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://i.ytimg.com/vi/llMr1dKNhTY/hqdefault.jpg"/>]]>Concierto musical tManuel Carrasco.</description>
+<stream_url><![CDATA[http://streamcloud.eu/glnz1q1wf4b6/Ma1nu2el_Ca3rras4co.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
   
    
 <channel>
