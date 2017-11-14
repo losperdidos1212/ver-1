@@ -31,7 +31,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
    
-   
+ 
+  <channel>
+<title><![CDATA[Mickael Jackson ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSStwO0ANdz2qOnGgZ6JCyjhjPqAR-WnmOUwf5aJD-iGzWR439C"/>]]>Mickael Jackson munich.</description>
+<stream_url><![CDATA[http://streamcloud.eu/6jmjlkqnvaj2/Mi1cha2el_Jac3kson.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+  
    
 <channel>
 <title><![CDATA[Supertramp paris 1979 1ºParte ]]></title>
