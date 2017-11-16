@@ -9,3 +9,18 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/patrullacanina.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HMStream.xml]]></prev_page_url> 
+</items>
