@@ -1,21 +1,111 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
-<playlist_name><![CDATA[La patrulla canina T1]]></playlist_name> 
+<playlist_name><![CDATA[La patrulla canina T1-T2]]></playlist_name> 
     
   
   
    <channel> 
-<title><![CDATA[1x01 Temporada 4 Capitulo 1]]></title>
+<title><![CDATA[1x01 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg" />]]></description> 
-<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/r8fetwvx36vq]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel> 
+<title><![CDATA[1x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/e0jj5pno03e8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
+ <channel> 
+<title><![CDATA[1x03 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/bvdf7jqc6tdn]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+    
+<channel> 
+<title><![CDATA[1x04 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/ikm2no8ujmvi]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+    
+<channel> 
+<title><![CDATA[1x05 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/u1u9pawae13n]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+    
+<channel> 
+<title><![CDATA[1x06 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/w8q1gc587wzl]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+    
+    
+<channel> 
+<title><![CDATA[1x07 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/91shef9zj1vf]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
 
-  
+<channel> 
+<title><![CDATA[1x08 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/hbaqjgcvn87z]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+    
+<channel> 
+<title><![CDATA[1x09 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/r9dbl06glewu]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+    
+<channel> 
+<title><![CDATA[1x10 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_fc97856653cdbc698404f682152bf9f0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/22vjy235hcgg]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HMStream.xml]]></prev_page_url> 
 </items>
