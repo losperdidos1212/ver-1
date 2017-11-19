@@ -211,7 +211,7 @@
 </channel>
 
 <channel>
-<title><![CDATA[ Café de Flore 2011]]></title>
+<title><![CDATA[ Cafe de Flore 2011]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
@@ -220,7 +220,115 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/cafe_de_flore-671042652-large.jpg" />]]></description>
 </channel>
 
+	<channel>
+<title><![CDATA[ Café solo o con ellas 2007]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/4tx3rf7hjfsv]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/cafe_solo_o_con_ellas-378269255-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cafe_solo_o_con_ellas-378269255-large.jpg" />]]></description>
+</channel>
+
 	
+<channel>
+<title><![CDATA[ Caída libre 2014]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/w574epa66z5p]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/free_fall-892687034-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/free_fall-892687034-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caído del cielo 1980]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/3tcg4k2oqb7p]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/out_of_the_blue-164530064-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/out_of_the_blue-164530064-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Cairo Time 2009]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/5f5jn8rhwmjc]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/cairo_time-701732448-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cairo_time-701732448-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Cake 2014]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/6vdwlvincqps]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/cake-448403502-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/cake-448403502-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Calabria, mafia del sur 2014]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/lm5ql4i3v9f7]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/anime_nere-372327702-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/anime_nere-372327702-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Calibre 9 2011]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/ea12wqqyoosj]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/caliber_9-951906285-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/caliber_9-951906285-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ California 1947]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/g4p6xd809j82]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/california_addio-251411542-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/california_addio-251411542-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Calígula 1984]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/mz8akk9dm436]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/caligula-361771691-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/caligula-361771691-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Callas Forever 2002]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/26elrsbzpsbr]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/callas_forever-895853573-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/callas_forever-895853573-large.jpg" />]]></description>
+</channel>
+
 	
 	
 	
