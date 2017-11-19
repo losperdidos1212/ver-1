@@ -1268,6 +1268,114 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/the_bad_and_the_beautiful-241934137-large.jpg" />]]></description>
 </channel>
 
+<channel>
+<title><![CDATA[ Cavernícola]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/1dv88b5ll5ar]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/caveman-959218216-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/caveman-959218216-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza a la espía (Fair Game]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/wl4wliz3p39i]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/fair_game-341741234-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/fair_game-341741234-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza a muerte]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/r45xa73duc4o]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/hunt_to_kill-920014423-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/hunt_to_kill-920014423-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza al asesino]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/uaidvnzn2shh]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/the_gunman-744445180-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_gunman-744445180-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza al asesino]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/34uzikwjr8zj]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/the_frozen_ground-540016864-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_frozen_ground-540016864-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza al terrorista]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/57m9yofrmu0t]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/the_assignment-425799147-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_assignment-425799147-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza al traidor]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/bhcoh7acxn6m]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/dead_drop-791392464-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/dead_drop-791392464-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza bajo el sol]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/dfpo6o9w3wld]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/beyond_the_reach-425111051-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/beyond_the_reach-425111051-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza humana]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/wa4jbr0evt70]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/killing_season-638676325-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/killing_season-638676325-large.jpg" />]]></description>
+</channel>
+
+
+<channel>
+<title><![CDATA[ Caza mayor]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/9usm9nsygfw0]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/big_game-321582012-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/big_game-321582012-large.jpg" />]]></description>
+</channel>
 	
 	
 <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
