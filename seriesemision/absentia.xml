@@ -76,7 +76,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_254d71e1b7b3b7fa09d1a722cfee8b2a.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/dz29evaveath]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
