@@ -59,6 +59,36 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
+  <channel>
+<title><![CDATA[concierto de navidad de los tres tenores 2015 en viena]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_CZ5ZW35ngZQHu59ilRyib7e9uNLT9awNDBZ8cS8N8CPDPAxbw
+"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://streamcloud.eu/5zhat2xyfuiq/Con1ci2er3to_de_Na4vi5da6d_de_los_tres_.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+  
+  <channel>
+<title><![CDATA[michael jackson 1996 en alemania ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/8g5bvj4y85fw/Mi0cha1el_Ja2ck3son_.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+  
+  
+   <channel>
+<title><![CDATA[michael jackson ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/izuogtctvutc/Mi3cha4el_Ja5ck6son_.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
   
    
 <channel>
@@ -127,7 +157,15 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/ac_dc_live_at_river_plate-152111993-large.jpg" />]]></description>
 </channel>
 
-    
+
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
