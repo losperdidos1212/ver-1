@@ -12,7 +12,7 @@
 </channel>
 
 <channel> 
-<title><![CDATA[1x01 19-11-17]]></title>
+<title><![CDATA[1x02 19-11-17]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_27247ecde2739f60c3f1f7745c3e8ff7.jpg" />]]></description> 
 <stream_url><![CDATA[http://streamcloud.eu/khnc8whx5ybd]]></stream_url>
@@ -20,7 +20,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
+<channel> 
+<title><![CDATA[1x03 20-11-17]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_27247ecde2739f60c3f1f7745c3e8ff7.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/pol0o9fz5tvp]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
+  
+
   
   
   
