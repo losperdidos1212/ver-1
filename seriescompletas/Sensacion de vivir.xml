@@ -1443,7 +1443,7 @@
 	
 	
 	<channel>
-        <title><![CDATA[7x019]]></title>
+        <title><![CDATA[7x09]]></title>
         <logo_30x30><![CDATA[]]></logo_30x30>
         <description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg" />]]></description>
          <stream_url><![CDATA[http://streamcloud.eu/1qaqmq4hwnlq]]></stream_url>
@@ -1624,8 +1624,6 @@
          </channel>.
 	
 	
-	
-	
 	<channel>
         <title><![CDATA[7x31]]></title>
         <logo_30x30><![CDATA[]]></logo_30x30>
@@ -1633,7 +1631,12 @@
          <stream_url><![CDATA[http://streamcloud.eu/ej0kd7e9fgrm]]></stream_url>
          </channel>.
 	
-	
+	<channel>
+        <title><![CDATA[8x01]]></title>
+        <logo_30x30><![CDATA[]]></logo_30x30>
+        <description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg" />]]></description>
+         <stream_url><![CDATA[]]></stream_url>
+         </channel>.
 		
 	
 	
