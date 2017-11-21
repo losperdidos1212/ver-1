@@ -1139,7 +1139,51 @@
                         <description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg" />]]></description>
                        <stream_url><![CDATA[http://streamcloud.eu/yy6we40ajwqf/SdV.Es.532.avi.html]]></stream_url>
                            </channel>.
-						   
+	
+	
+	<channel>
+        <title><![CDATA[6x01]]></title>
+        <logo_30x30><![CDATA[]]></logo_30x30>
+        <description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg" />]]></description>
+         <stream_url><![CDATA[http://streamcloud.eu/7lvzag4os1cv]]></stream_url>
+         </channel>.
+	
+	
+	<channel>
+        <title><![CDATA[6x02]]></title>
+        <logo_30x30><![CDATA[]]></logo_30x30>
+        <description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg" />]]></description>
+         <stream_url><![CDATA[http://streamcloud.eu/oqvu69xjpf3g]]></stream_url>
+         </channel>.
+	
+	
+	<channel>
+        <title><![CDATA[6x03]]></title>
+        <logo_30x30><![CDATA[]]></logo_30x30>
+        <description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg" />]]></description>
+         <stream_url><![CDATA[http://streamcloud.eu/o4qtvywnokfx]]></stream_url>
+         </channel>.
+	
+	
+	<channel>
+        <title><![CDATA[6x04]]></title>
+        <logo_30x30><![CDATA[]]></logo_30x30>
+        <description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg" />]]></description>
+         <stream_url><![CDATA[http://streamcloud.eu/jb4rdnr99q3b]]></stream_url>
+         </channel>.
+	
+	
+	<channel>
+        <title><![CDATA[6x05]]></title>
+        <logo_30x30><![CDATA[]]></logo_30x30>
+        <description><![CDATA[<img src="http://cdn.20m.es/img/2009/11/26/1024178.jpg" />]]></description>
+         <stream_url><![CDATA[http://streamcloud.eu/02760ow4xl66]]></stream_url>
+         </channel>.
+	
+	
+	
+	
+	
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
     </items>						   
