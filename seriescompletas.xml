@@ -650,7 +650,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-   
+<channel>       
+<title><![CDATA[Mac gyber T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_79a070c6ee48d6010b070ae7bd2fa6cc.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/gyber.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
 <channel>       
 <title><![CDATA[Medico de familia]]></title>
