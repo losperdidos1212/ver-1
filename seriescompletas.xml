@@ -368,7 +368,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/comisariot1.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
-  
+ 
+ <channel>       
+<title><![CDATA[El principe de bel air T1-T6]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_0b3495012856c503561033ba9f006600.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/principe.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
 
 <channel>       
 <title><![CDATA[ El don Alba T1]]></title>
