@@ -36,9 +36,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[6x05 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/uJmQsMSHKJiNuTSpYpJRWtRssCK.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/jwuw2e5u83tn]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
- 
-
+<channel>
+<title><![CDATA[6x06 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/uJmQsMSHKJiNuTSpYpJRWtRssCK.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1a14yotav6n4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
 
