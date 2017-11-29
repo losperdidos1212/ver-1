@@ -201,6 +201,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/DoschicassinblancaTemporada%206.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+ <channel>       
+<title><![CDATA[El accidente T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_3083cfd9788a55e045bb02d50e86a3ee.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/accidente.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
  
  <channel>      
 <title><![CDATA[ El chapo T2]]></title> 
