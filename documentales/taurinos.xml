@@ -14,7 +14,16 @@
 
 
  <channel>
-<title><![CDATA[]]></title>
+<title><![CDATA[la ganaderia del hijo de don celestino]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://i.ytimg.com/vi/j18ylTbpBJQ/hqdefault.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/l9233mhiguwi/La_Ga2na2de2r__2a_de_Hi2jos_de_D._Ce2les2ti2no_Cu2a2dri.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[el torero de los andes]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="" />]]></description>
 <stream_url><![CDATA[]]></stream_url>
@@ -25,17 +34,8 @@
  <channel>
 <title><![CDATA[]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
- <channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="https://i.ytimg.com/vi/wtHXhRY4z08/hqdefault.jpg" />]]></description>
+<stream_url><![CDATA[https://youtu.be/2yY_98umaW8]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
