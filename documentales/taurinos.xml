@@ -5,14 +5,67 @@
 
  
 <channel>
+<title><![CDATA[Victoria Martin Ganadero Taurino]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.victorinomartin.com/sites/default/files/styles/720x720/public/victorino-martin-andres.jpg?" />]]></description>
+<stream_url><![CDATA[https://youtu.be/Y-soyxEjv_Q]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+ <channel>
 <title><![CDATA[]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="" />]]></description>
 <stream_url><![CDATA[]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-
-
+ 
+ 
+ <channel>
+<title><![CDATA[]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+<channel>
+<title><![CDATA[]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
+ <channel>
+<title><![CDATA[]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
  
 
 
