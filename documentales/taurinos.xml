@@ -31,32 +31,6 @@
 </channel>
  
  
- <channel>
-<title><![CDATA[el torero de los andes]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://i.ytimg.com/vi/wtHXhRY4z08/hqdefault.jpg" />]]></description>
-<stream_url><![CDATA[https://youtu.be/2yY_98umaW8]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
-<channel>
-<title><![CDATA[sol y sombra]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toro_De_Lidia_En_Colombia.JPG/1200px-Toro_De_Lidia_En_Colombia.JPG" />]]></description>
-<stream_url><![CDATA[https://youtu.be/Oaj0UEfUqE8]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
- 
- 
- <channel>
-<title><![CDATA[Victoria Martin Ganadero Taurino]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.victorinomartin.com/sites/default/files/styles/720x720/public/victorino-martin-andres.jpg" />]]></description>
-<stream_url><![CDATA[https://youtu.be/Y-soyxEjv_Q]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
  
  <channel>
 <title><![CDATA[Por Las Rutas del Toro-Ganaderia de Miura]]></title>
