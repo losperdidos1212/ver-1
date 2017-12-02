@@ -173,6 +173,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/banshee.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+<channel>       
+<title><![CDATA[Benny Hill T1 a T19]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_374f55a0cf220ba78ea2490874b9c7b6.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/banshee.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
  
   <channel>       
 <title><![CDATA[Bienvenidos Al Lolita]]></title>
@@ -368,7 +377,7 @@
   
   
   <channel>       
-<title><![CDATA[El comisario T1]]></title>
+<title><![CDATA[El comisario T1-T12]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_aa4ad05f14599f9e288eb1e4067d97f3.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/comisariot1.xml]]></playlist_url>
