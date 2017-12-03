@@ -59,9 +59,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  
- 
- 
  
  <channel>
 <title><![CDATA[Daniel Ruiz ]]></title>
@@ -72,11 +69,40 @@
 </channel>
  
  
- 
+ <channel>
+<title><![CDATA[El Juli ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://www.hola.com/imagenes/biografias/el-juli/85344-eljuli30.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/3k709tunzml5/E0re1s_To2re3ro__de_la_ma4no_de_Ju5li6__n_L__7pe8z__El_Ju9li__.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 
+ <channel>
+<title><![CDATA[Gavira ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5bi1vyhrbiyj/Ga1vi1ra_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
+ <channel>
+<title><![CDATA[La Reina del Tajo ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/3bz3lf58f4qi/El_Ta1jo_y_La_Re2i3na_-_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[La Quinta ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/cc4apf3061ep/La_Qui2nta.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 
