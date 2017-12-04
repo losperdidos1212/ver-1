@@ -105,7 +105,35 @@
 </channel>
  
  
-
+<channel>
+<title><![CDATA[Montealto]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://yt3.ggpht.com/-e-wVYX1y_Xw/AAAAAAAAAAI/AAAAAAAAAAA/vVOsbMImrdU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/rordw0k3ouqh/Mon2te2al2to_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[Matadores la magia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://yt3.ggpht.com/-e-wVYX1y_Xw/AAAAAAAAAAI/AAAAAAAAAAA/vVOsbMImrdU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/a0eur1wr4gk8/Ma2ta2do2res_La_ma2gi2a_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ <channel>
+<title><![CDATA[Marques de Albaserrada]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://yt3.ggpht.com/-e-wVYX1y_Xw/AAAAAAAAAAI/AAAAAAAAAAA/vVOsbMImrdU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/qrds9m4awjvn/Mar3ques_de_Al3ba3se3rra3da.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/menudocumentales.xml]]></prev_page_url>
