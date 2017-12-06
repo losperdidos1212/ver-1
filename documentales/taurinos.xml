@@ -133,6 +133,36 @@
 </channel>
  
  
+  <channel>
+<title><![CDATA[Partida de resina]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/1an6pszk229m/Par1ti1do_de_Re2si2na_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+  <channel>
+<title><![CDATA[Ganaderia de Daniel Ruiz]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://i.ytimg.com/vi/ZhgWr63hdvc/hqdefault.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ow36f9u7a4dn/Ga2na2de2ri2a_De_Da2ni3el_Ru3iz.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+  <channel>
+<title><![CDATA[Prieto de la cal]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/reefoil5kr6l/14-_Pri1e1to_de_la_Ca44l_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
  
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
