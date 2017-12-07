@@ -434,6 +434,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+ <channel> 
+<title><![CDATA[siete deseos 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/wish_upon-911675825-mmed.jpg" />]]>Una joven de 17 anos (Joey King) descubre una caja con poderes magicos, pero usarla tendra un alto y sangriento precio.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/3k1usajcsx9h/Si3e3te_De3se3os.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
