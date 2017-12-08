@@ -387,6 +387,34 @@
 <buffer_kb>30000</buffer_kb>
   </channel>
   
+<channel>
+<title><![CDATA[Capitulo 16x01 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_28adbf46b3ea7e11b47c47da89002a07.jpg">]]></description>
+<stream_url><![CDATA[https://archive.org/download/Ver4x01BennyHillMkv/Beny16x03.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+<channel>
+<title><![CDATA[Capitulo 16x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_28adbf46b3ea7e11b47c47da89002a07.jpg">]]></description>
+<stream_url><![CDATA[https://archive.org/download/Ver4x01BennyHillMkv/Beny16x02.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+<channel>
+<title><![CDATA[Capitulo 17x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_28adbf46b3ea7e11b47c47da89002a07.jpg">]]></description>
+<stream_url><![CDATA[https://archive.org/download/Ver4x01BennyHillMkv/Beny17x01.mkv]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+  
   
   
   
