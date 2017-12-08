@@ -132,7 +132,30 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  
+  <channel>
+<title><![CDATA[Rocio de la Camara]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/x9ilxl4a3219/Ro0ci0o_de_la_Ca1ma1ra_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+
+ 
+  <channel>
+<title><![CDATA[el toro amigo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.mundoanimalia.com/images/articles/22/a3/d9/8bf1211fd4b7b94528899de0a43b9fb3/bymatthiasferranges__3664.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/eya9pmkvjiqz/El_To3ro_A4mi0go_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Samuel Flores]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/3cmgw2ulocs9/Sa2mu2el_Flo2res_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 
