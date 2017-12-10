@@ -443,6 +443,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+
+	<channel> 
+<title><![CDATA[En el interior 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/crawlspace-774535587-mmed.jpg" />]]>Un hombre viudo se muda a su nuevo hogar aparentemente perfecto con su hija y su nueva mujer.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/c98fd4sjrp79/E5n_e5l_int6004eri0or.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
