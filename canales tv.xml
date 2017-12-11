@@ -50,9 +50,21 @@
 <stream_url><![CDATA[http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8]]></stream_url>
 </channel> 
   
- 
+ <channel>
+<title><![CDATA[Tv levante]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8]]></stream_url>
+</channel> 
   
+<channel>
+<title><![CDATA[Tv valencia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8]]></stream_url>
+</channel> 
   
+   
    <channel>
 <title><![CDATA[La Cuatro]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
