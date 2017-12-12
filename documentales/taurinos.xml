@@ -224,6 +224,29 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[garcigrande]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bbidn4ly9vd2/Ga0rci5gra0nd7e_-.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[reportajes taurinos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://ep01.epimg.net/cultura/imagenes/2017/07/14/actualidad/1500040896_765910_1500041352_noticia_normal.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/ofoh3pfeoiox/Va2ri8os_re0po4rta7jes_ta0ur3ino4s.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/menudocumentales.xml]]></prev_page_url>
