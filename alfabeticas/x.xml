@@ -2,21 +2,31 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
 <playlist_name><![CDATA[Peliculas Que Empiezan Por X]]></playlist_name>
+    
+ <channel>
+<title><![CDATA[10 la mujer prfecta 1979]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/2uawidxdigrc/1000__la_mu1jer_per2fec2ta_.avi.html]]>George Webber, famoso compositor de canciones romanticas, esta empezando a cansarse de la relacion con su novia. Pero una circunstancia inesperada le ayudara a resolver el problema de modo fulminante: se cruza en la calle con una joven vestida de novia que lo deja absolutamente fascinado; tanto es asi que, aun sabiendo que esta casada, no parara hasta averiguar donde pasara la luna de miel.</stream_url>
+<thumbnail>http://pics.filmaffinity.com/x-568182686-large.jpg</thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/10-943248201-mmed.jpg" />]]></description>
+</channel>
+   
+    
+    
+    
+    
+    
+    
+    
 
 <channel>
 <title><![CDATA[ X: Night of Vengeance]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/u4cjwlt3ci9a]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/x-568182686-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/x-568182686-large.jpg" />]]></description>
 </channel>
