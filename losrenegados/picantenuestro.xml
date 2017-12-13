@@ -2,13 +2,7 @@
 <items>
 <playlist_name><![CDATA[Cine picante]]></playlist_name>
 <protected>true</protected>
-  
-  <channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[]]></stream_url>
-</channel>
+
 	
  <channel>
 <title><![CDATA[ acoso a una mujer 1988]]></title>
@@ -27,6 +21,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/xpwolz0k07ui/A0co4so_en_la_no5che.mp4.html]]></stream_url>
+<protected>true</protected> 
 <description><![CDATA[<img src="https://pics.filmaffinity.com/la_nuit_des_traquees-851258047-mmed.jpg" />]]>Una fria noche el joven Robert (Vincent Carder) regresa a Paris en coche cuando, por el camino, se encuentra a una chica medio desnuda en la calle. La misteriosa joven, Elisabeth (Brigitte Lahaie), ha perdido la memoria y no sabe lo que ha pasado. Robert acaba por enamorarse de ella y, poco a poco, se vera sumergido en una espiral de sadismo y muerte.</description>
 </channel>
 
@@ -36,6 +31,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/47bkhgzps5l7/Ac9to_de_po7ses2i__1n_.avi.html]]></stream_url>
+<protected>true</protected>		 
 <description><![CDATA[<img src="https://pics.filmaffinity.com/acto_de_posesion-314356004-mmed.jpg" />]]>Menos que mediocre folletin pseudoerotico, filmado con objeto de aprovechar la popularidad de la pareja formada por Amparo Munoz y Patxi Andion.</description>
 </channel>
 	
@@ -46,6 +42,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/b1yzmjp1yehx/Al7cal2de_por_el0ecci55__n_.avi.html]]></stream_url>
+<protected>true</protected> 
 <description><![CDATA[<img src="https://pics.filmaffinity.com/alcalde_por_eleccion-677498616-mmed.jpg" />]]>Federico Villalba, propietario de varios vinedos, se presenta a las elecciones para alcalde de su pueblo, oportunidad que aprovecha para viajar frecuentemente a Madrid. Un dia, con motivo de la transmision de un partido de futbol, alguien parecido a el aparece en television acompanado de una rubia despampanante. Todos sus amigos y su mujer creen que se trata de Federico.</description>
 </channel>
 	
@@ -55,6 +52,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/uw2e6ovdj1bt/Fo2t__1gra5fo_de_se5__o0ras_.avi.html]]></stream_url>
+<protected>true</protected>		
 <thumbnail>http://pics.filmaffinity.com/foxfire-635625856-large.jpg</thumbnail>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/fotografo_de_senoras-155274257-mmed.jpg" />]]>Catrasca (Alberto Olmedo) es un reportero gráfico con una gran afición por las mujeres de todo tipo.</description>
 </channel>
@@ -65,6 +63,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/f9o4woxgzx86/__Y1_a2ho3ra_q4u____se0__5or_fis0cal_.avi.html]]></stream_url>
+<protected>true</protected>	
 <thumbnail>http://pics.filmaffinity.com/trainwreck-417142550-large.jpg</thumbnail>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/y_ahora_que_senor_fiscal-989532214-mmed.jpg" />]]>Jose, un joven que vive en un barrio obrero, este acostumbrado a sobrevivir en medio de grandes dificultades. Un verano conoce a Paloma, una chica de buena familia, y entre ellos surge un amor que tropieza con la oposicion de la acomodada familia de la chica. Dos circunstancias complican todavia más la situacion: ella se queda embarazada y el perpetra un robo en casa de un familiar de Paloma.</description>
 </channel>
@@ -76,6 +75,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[http://streamcloud.eu/2uawidxdigrc/1000__la_mu1jer_per2fec2ta_.avi.html]]>George Webber, famoso compositor de canciones romanticas, esta empezando a cansarse de la relacion con su novia. Pero una circunstancia inesperada le ayudara a resolver el problema de modo fulminante: se cruza en la calle con una joven vestida de novia que lo deja absolutamente fascinado; tanto es asi que, aun sabiendo que esta casada, no parara hasta averiguar donde pasara la luna de miel.</stream_url>
+<protected>true</protected>	
 <thumbnail>http://pics.filmaffinity.com/x-568182686-large.jpg</thumbnail>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/10-943248201-mmed.jpg" />]]></description>
 </channel>
