@@ -261,6 +261,16 @@
 </channel>
 
  
+  <channel>
+<title><![CDATA[alcurrucen]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/4nytawm2lixk/Al0cu6rru7ce5n_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/documentales/menudocumentales.xml]]></prev_page_url>
