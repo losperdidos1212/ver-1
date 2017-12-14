@@ -242,10 +242,24 @@
 </channel>
  
  
+  <channel>
+<title><![CDATA[barcial]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/761673126337994758/bZ2nBWbO.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bbr2osw9fj6u/Ba5rci7al.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
- 
- 
+  <channel>
+<title><![CDATA[de los ultimos caballos salvajes de europa]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://i1.ytimg.com/vi/p0BA2SLbSm4/mqdefault.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bp93e85gsok2/De_0los___l5ti4mos_Ca5ba2llos_Sal5va4jes_de_Eur6o5pa.mp4.html
+]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
  
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
