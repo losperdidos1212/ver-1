@@ -78,13 +78,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  <channel>       
-<title><![CDATA[Better Call Saul T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e932aef68f3f93c049fc0fc9a779e9bc.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Better%20Call%20Saul%20T3.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+  
 
 <channel>       
 <title><![CDATA[Beyond T1]]></title>
