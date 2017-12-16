@@ -513,6 +513,18 @@
 <description><![CDATA[<img src="https://pics.filmaffinity.com/uberflieger_kleine_vogel_grosses_geklapper-940490696-mmed.jpg" />]]></description>
 </channel>
 	
+<channel> 
+<title><![CDATA[ice Age 5: El gran cataclismo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/ice_age_collision_course_ice_age_5-789172711-mmed.jpg" />]]>La obsesiva busqueda de bellotas por parte de Scrat acaba provocando un accidente: que un asteroide se dirija a a la Tierra, amenazando con acabar con la Edad de Hielo. Sid, Manny, Diego y los demas miembros de la manada intentaran impedirlo por todos los medios.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/h3kh4b3kskl3/Ic4e_A6ge_415.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
