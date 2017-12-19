@@ -104,8 +104,6 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-
-	
 		
  <channel>
 <title><![CDATA[I am a Hero 2017]]></title>
@@ -169,9 +167,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
 
-	
 	
 	<channel> 
 <title><![CDATA[orbita 9 2017]]></title>
@@ -190,9 +186,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
-	
-		
+
 	
 <channel>
 <title><![CDATA[ Blade Runner 2017 ciencia ficcion]]></title>
@@ -204,8 +198,7 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/blade_runner-351607743-large.jpg" />]]>Treinta años después de los eventos del primer film, un nuevo blade runner, K (Ryan Gosling) descubre un secreto largamente oculto que podría acabar con el caos que impera en la sociedad. El descubrimiento de K le lleva a iniciar la búsqueda de Rick Deckard (Harrison Ford), un blade runner al que se le perdió la pista hace 30 años.</description>
 </channel>
 
-
-		
+	
 <channel>
 <title><![CDATA[ Arma perfecta 2016 ciencia ficcio]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -247,8 +240,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
-		<channel>
+	<channel>
 <title><![CDATA[ Calle Cloverfield 10 2016]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
@@ -258,7 +250,7 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/10_cloverfield_lane-565304710-large.jpg" />]]></description>
 </channel>
 	
-	
+
 	<channel> 
 <title><![CDATA[la guerra del planeta de los simios 2017]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -269,9 +261,6 @@
 </channel>
 
 	
-
-	
-	
 	<channel> 
 <title><![CDATA[los invasores  2017]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -280,7 +269,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
+
 	<channel> 
 <title><![CDATA[un espacio entre nosotros 2017]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -289,8 +278,8 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
 
+	
 	<channel> 
 <title><![CDATA[Estasis (Stasis) 2017]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -308,6 +297,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
 	
 	<channel> 
 <title><![CDATA[Spider-Man: Homecoming 2017 ]]></title>
@@ -346,6 +336,7 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>	
+
 
 	
 	
