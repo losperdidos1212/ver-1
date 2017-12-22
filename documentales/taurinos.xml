@@ -306,6 +306,26 @@
 </channel>
  
  
+  <channel>
+<title><![CDATA[Manuel Rodriguez Manolete]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/v/3343718?w=1180&preview=1446447681080.JPG" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/mgez7f450fc2/Ma23nu8el_Ro4dri6gu0ez_Ma02no8le2te___Le3ye8nda_Vi145va_del_toreo.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+  <channel>
+<title><![CDATA[la vida del toro de lidia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.cetnotorolidia.es/opencms_wf/opencms/system/modules/es.jcyl.ita.site.torodelidia/elements/galleries/galeria_imagenes/Origen_Toro_014.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/n1xcgpseem5m/La01_Vi5da5_Del_To54ro_De_Li4di6a_.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
