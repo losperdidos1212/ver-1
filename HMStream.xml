@@ -13,7 +13,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  <channel>       
+<channel>       
 <title><![CDATA[SALA DE SERIES COMPLETAS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/ff/cd/ca/ffcdcab25fd2bddecc26897f7375c5e7.jpg">Aqui encontraras todas las temporadas completas ]]></description>
@@ -38,7 +38,7 @@
 </channel> 
   
   
-  <channel>       
+<channel>       
 <title><![CDATA[SALA DE PELICULAS DE ESTRENO]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://i.ytimg.com/vi/49VrCLM3d40/maxresdefault.jpg">Aqui encontraras estrenos de cartelera en varias calidades. Recuerda que no siempre se veran con buena calidad]]></description>
@@ -48,7 +48,7 @@
   
   
   
-    <channel>       
+<channel>       
 <title><![CDATA[ALMACEN DE PELICULAS POR ORDEN ALFABETICO]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://img.microsiervos.com/Peliculas-Ready-Player-One.jpg">Aqui encontraras todo ordenado alfabeticamente]]></description>
@@ -57,7 +57,7 @@
 </channel>
   
      
-  <channel>       
+<channel>       
 <title><![CDATA[DOCUMENTALES]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i37.tinypic.com/2dshkzl.jpg">Aqui en contraras documentales variados]]></description>
@@ -65,7 +65,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-    <channel>       
+<channel>       
 <title><![CDATA[PROGRAMAS TV]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjd1P8-YeqINNMtI5AIhZ5pBtgoD2zI1NY8V8l4ftH8SAbLE9Kmg">Aqui encotraras tus programas de tv]]></description>
