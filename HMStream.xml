@@ -8,7 +8,7 @@
 <channel>       
 <title><![CDATA[SALA DE SERIES EN EMISION]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/ff/cd/ca/ffcdcab25fd2bddecc26897f7375c5e7.jpg">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic86/06da08df348e53a02e0b2395fa2d8003.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
