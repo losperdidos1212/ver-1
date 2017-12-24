@@ -701,6 +701,15 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
+ <channel>       
+<title><![CDATA[Mis adorables vecinos T1-T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/1169.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/vecinos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
   <channel>       
 <title><![CDATA[Mortadelo y Filemon]]></title>
 <logo_30x30></logo_30x30>
