@@ -569,6 +569,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>       
+<title><![CDATA[La Casa De los lios]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/5353.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/casalios.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
   <channel>       
 <title><![CDATA[Las chicas del cable]]></title>
 <logo_30x30></logo_30x30>
