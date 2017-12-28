@@ -138,6 +138,26 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
    
+  <channel>
+<title><![CDATA[U2 berlin ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://content.invisioncic.com/Mlnu2/monthly_2017_07/595aaf27b6d70_03Berlin.jpg.963454ebe3a21e6a84faa26a20ab1887.jpg"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://streamcloud.eu/dbjsmzqtoupx/U62_Be452rlin.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+  
+  <channel>
+<title><![CDATA[U2 barcelona ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://blog.ticketmaster.es/wp-content/uploads/2017/01/U2-The-Joshua-Tree-Tour-Imagen-cartel.jpg"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://streamcloud.eu/6vcojutr2mxx/U22_Ba8rc7el6ona_18-07-2017.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+    
   
    
 <channel>
