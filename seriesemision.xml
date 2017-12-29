@@ -728,6 +728,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>       
+<title><![CDATA[The Good Doctor T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_ce18db645a1cb0b21625e0ff9b3d302d.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/gooddoctor.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
 <channel>      
 <title><![CDATA[ Teachers T2]]></title> 
