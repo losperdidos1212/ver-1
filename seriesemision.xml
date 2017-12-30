@@ -416,6 +416,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/lapelu.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
+
+ <channel>       
+<title><![CDATA[La vida secreta de los niños T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c1e63deeee1508a4cf41099ee433e3bc.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/niños.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
  
  <channel>       
 <title><![CDATA[La zona T1]]></title>
