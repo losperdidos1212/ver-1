@@ -560,7 +560,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
-	
+	 <channel> 
+<title><![CDATA[The Vault 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_77f8f4fd1a6b9f6023087c9dc8254c06.jpg" />]]>Dos hermanas separadas se ven obligadas a robar un banco para salvar a su hermano. Pero este no es un banco ordinario.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/faet9wbbll5l]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
