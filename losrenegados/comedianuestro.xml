@@ -1038,7 +1038,24 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+  <channel> 
+<title><![CDATA[Goon: Last of the Enforcers 2017 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_c01bd42b91a46553660808924bb3d074.jpg" />]]>Durante un bloqueo profesional, Doug "The Thug" Glatt esta herido y debe elegir si defender a su equipo contra un nuevo enemigo peligroso, o estar alli para su esposa mientras se prepara para dar a luz a su hija.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/bv1g1aiyrkjy]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
+	
+	  <channel> 
+<title><![CDATA[La ultima cazadora de dragones]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_fbd376b5c0ff74357bb387772f5565b3.jpg" />]]>El destino de la magia esta unido a la vida del ultimo dragon. Y el destino de Jennifer Strange esta inscrito en la espada que debe matarlo.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/4s7yffsdgq39]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
