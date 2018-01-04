@@ -206,15 +206,94 @@
 <title><![CDATA[3x01 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[http://streamcloud.eu/tvhtwzonkykv/Mr.R0b0ts.3x01.m720p.DD.5.1.Dmsec.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[3x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
 <stream_url><![CDATA[]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+  <channel>
+<title><![CDATA[3x03 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[https://seriesblanco.com/serie/4076/temporada-3/capitulo-03/mr-robot-.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
- 
- 
- 
+   <channel>
+<title><![CDATA[3x04 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[http://streamcloud.eu/b2js8xy6zyoc/Mr.R0b0ts.3x04.m720p.DD.5.1.Dmsec.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+ <channel>
+<title><![CDATA[3x05 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[http://streamcloud.eu/l2nmkyhxsm1h/Mr.R0b0ts.3x05.m720p.DD.5.1.Dmsec.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>
+<title><![CDATA[3x06 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[http://streamcloud.eu/wf5v3071fw85/Mr.R0b0ts.3x06.m720p.DD.5.1.Dmsec.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>
+<title><![CDATA[3x07 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[http://streamcloud.eu/z99alo1kmwx7/Mr.R0b0ts.3x07.m720p.DD.5.1.Dmsec.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>
+<title><![CDATA[3x08 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>
+<title><![CDATA[3x09 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[http://streamcloud.eu/dqdwdsvewm9d/Mr.R0b0t.3x09.m720p.DD.5.1.Dmsec.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>
+<title><![CDATA[3x10 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4076.jpg" />]]> </description>
+<stream_url><![CDATA[http://streamcloud.eu/mtw6p4ia8y3u/Mr.R0b0ts.3x10.m720pp.DD.5.1.Dmsec.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+  
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
 
