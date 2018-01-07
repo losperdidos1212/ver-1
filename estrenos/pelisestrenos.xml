@@ -115,7 +115,17 @@
 </channel>
   
    
-    
+  <channel> 
+<title><![CDATA[Jumanji: Welcome to the Jungle 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/jumanji_welcome_to_the_jungle-452853204-mmed.jpg" />]]>Cuatro adolescentes son absorbidos por un videojuego, en el que se convierten en avatares de personajes arquetípicos. Allí vivirán múltiples aventuras, al tiempo que buscan cómo salir de allí para volver a su mundo.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/nrocmp8i7lwo/Ju2ma8nji_Bi5enve3ni77dos_a_la_jungla.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+   
+   
+   
    
    
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
