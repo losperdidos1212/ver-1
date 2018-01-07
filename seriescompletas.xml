@@ -986,7 +986,17 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/The%20Leftovers.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-  
+ 
+ <channel>       
+<title><![CDATA[The vampires diaries  T1-T7]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://image.tmdb.org/t/p/w396/jZn7dEHRRjXcT43D9GMHxzASDef.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/vampiras.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
 <channel>       
 <title><![CDATA[The Walking dead T1-T7]]></title>
 <logo_30x30></logo_30x30>
