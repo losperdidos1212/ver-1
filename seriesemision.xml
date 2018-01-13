@@ -52,6 +52,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>      
+<title><![CDATA[ Apaches - T1]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_d61b700188bed067bc9a4f846f186807.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Apaches%20-%20Temporada%201.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
  <channel>       
