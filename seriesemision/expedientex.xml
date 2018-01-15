@@ -5,14 +5,20 @@
 
  
 <channel>
-<title><![CDATA[Capitulo 1x01]]></title>
+<title><![CDATA[Capitulo 11x01]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_350fd706c56259ea6bc93c2bbdd9a0f7.jpg"/>]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/dfe8mqm1o8am]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-
+<channel>
+<title><![CDATA[Capitulo 11x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_350fd706c56259ea6bc93c2bbdd9a0f7.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/n5em4e7mrezt]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
