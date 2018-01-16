@@ -2571,34 +2571,31 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/37fjzggus69e]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/semiprofesionales-960440477-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/semiprofesionales-960440477-large.jpg" />]]></description>
 </channel>
 
+	<channel>
+<title><![CDATA[Sendas marcadas 1957]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/c9kykdzhygdp/Se1nd5as_ma4rca2d8as_.mkv.html]]></stream_url>
+<thumbnail>https://pics.filmaffinity.com/sendas_marcadas-203309674-mmed.jpg</thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/sendas_marcadas-203309674-mmed.jpg" />]]>Un peligroso delincuente es capturado tras una accidentada persecución por la montaña. Como ya es muy tarde, el inspector de policía decide que pasen la noche en un refugio. Allí, el vigilante del refugio y un pintor se enzarzan en una discusión sobre el destino y, para ilustrar su teoría, cada uno de ellos explica un misterioso caso.</description>
+</channel>
+
+	
+
+	
 
 <channel>
 <title><![CDATA[ Sentencia de muerte]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/kbeuxz8lzp6g]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/death_sentence-711142910-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/death_sentence-711142910-large.jpg" />]]></description>
 </channel>
