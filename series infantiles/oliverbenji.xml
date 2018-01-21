@@ -95,6 +95,50 @@
 </channel>
     
  
+ <channel> 
+<title><![CDATA[1x11 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4481bc71b62f947149ad691777caf8c0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/rzhit77t64gj]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+       
+ <channel> 
+<title><![CDATA[1x12 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4481bc71b62f947149ad691777caf8c0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/kxqhuspzieg5]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+    
+<channel> 
+<title><![CDATA[1x13 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4481bc71b62f947149ad691777caf8c0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/qma1g14tbtl1]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>    
+    
+<channel> 
+<title><![CDATA[1x14 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4481bc71b62f947149ad691777caf8c0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/y14r4pfp3hya]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>    
+    
+<channel> 
+<title><![CDATA[1x15 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4481bc71b62f947149ad691777caf8c0.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/2308n64cm52v]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
     
     
     
