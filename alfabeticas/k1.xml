@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas Que Empiezan Por K]]></playlist_name>
+
+
+
+<channel>
+<title><![CDATA[ Kandahar]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+
+<stream_url><![CDATA[http://streamcloud.eu/ysq4c4l4rggu]]></stream_url>
+    
+    
+    
+
+
+
+
+<thumbnail>http://pics.filmaffinity.com/kandahar-201145118-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/kandahar-201145118-large.jpg</fanart>
+</channel>
+
+
+    
+
+<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
+
+</items>
