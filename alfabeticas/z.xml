@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
-<playlist_name><![CDATA[Peliculas Que Empiezan Por G]]></playlist_name>
+<playlist_name><![CDATA[Peliculas Que Empiezan Por Z]]></playlist_name>
 
 
+<channel>
+
+<title><![CDATA[ Zack y Cody, la película (TV)]]></title>
+
+<logo_30x30><![CDATA[]]></logo_30x30>
+
+<buffer_kb>30000</buffer_kb>
+
+<video_type>http</video_type>
+
+<stream_url><![CDATA[http://streamcloud.eu/w1h2iui5r5mc]]></stream_url>
+      
+<stream_url><![CDATA[http://pics.filmaffinity.com/the_suite_life_movie_tv-539432364-large.jpg]]></stream_url>
+
+</channel>
 
 
 
