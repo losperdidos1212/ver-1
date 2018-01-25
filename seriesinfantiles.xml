@@ -11,14 +11,7 @@
  </channel>
  
  
-<channel>       
-<title><![CDATA[prueba]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.orientacionandujar.es/wp-content/uploads/2017/02/abecedario-patrulla-canina-portada.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/prueba.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
-  
+
  
  
  <channel>       
