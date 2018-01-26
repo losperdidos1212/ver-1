@@ -47,6 +47,19 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
+
+ <channel>       
+<title><![CDATA[Avatar]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/1423.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/Avatar.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+ 
+ 
+ 
  
  
  
