@@ -902,7 +902,19 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-
+<channel>       
+<title><![CDATA[Verguenza T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_66eb24dec898f381d98c97d4b042a04a.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/verguenza.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
 <channel>       
 <title><![CDATA[Vice Principals T2]]></title>
 <logo_30x30></logo_30x30>
