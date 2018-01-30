@@ -137,6 +137,23 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>  
+  
+  
+  <channel>
+<title><![CDATA[david bisbal concierto en londres]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://i.ytimg.com/vi/HrYmDPWMdVA/hqdefault.jpg"/>]]>Concierto musical david bisbal.</description>
+<stream_url><![CDATA[http://streamcloud.eu/rkrpmqs2uxt6/vi2deo85play4back.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+  
+  
+  
+  
+  
+  
    
   <channel>
 <title><![CDATA[U2 berlin ]]></title>
