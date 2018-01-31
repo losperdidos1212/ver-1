@@ -403,6 +403,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/ilovedick.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+ <channel>       
+<title><![CDATA[Quantico T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_28a470b86a842212f4546997717d2c52.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/quantico.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
 <channel>       
 <title><![CDATA[La que se avecina T10]]></title>
