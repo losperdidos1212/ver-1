@@ -335,16 +335,6 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/falsa.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
- 
- 
- <channel>      
-<title><![CDATA[ Fear the Walking Dead T3]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1eb30cdc191d4ed1512a7b5b99666a94.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Fear%20the%20Walking%20DeadT3.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
 
 <channel>       
 <title><![CDATA[Genius T1]]></title>
