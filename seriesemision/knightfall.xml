@@ -68,7 +68,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1b46df93a826b41dc7121f9dbc027eab.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/u4wfr7maciwv]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
