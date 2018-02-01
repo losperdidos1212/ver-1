@@ -987,6 +987,18 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ 
+  <channel>       
+<title><![CDATA[The Grand Tour T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4a8297688acba964c363671f3df8dd02.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/TheGrandTour.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
   
  <channel>       
 <title><![CDATA[The vampires diaries  T1-T7]]></title>
