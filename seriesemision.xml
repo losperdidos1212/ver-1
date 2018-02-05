@@ -37,13 +37,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
-<channel>       
-<title><![CDATA[Alex T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_9614c10b0f9e40b378e9fa4e70980d59.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/alex.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+
  
  
  <channel>      
