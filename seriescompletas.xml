@@ -234,14 +234,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>       
-<title><![CDATA[cosas de casa Temporadas 1 A Temporadas 9]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.covercaratulas.com/ode/mini/dvd-102992.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/cosasdecasa.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
  
 <channel>       
 <title><![CDATA[Blue Bloods (Familia de policías) Temporadas 1 A Temporadas 7]]></title>
@@ -317,6 +309,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+ <channel>       
+<title><![CDATA[cosas de casa Temporadas 1 A Temporadas 9]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.covercaratulas.com/ode/mini/dvd-102992.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/cosasdecasa.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  
  <channel>       
 <title><![CDATA[Cosas de casa]]></title>
 <logo_30x30></logo_30x30>
