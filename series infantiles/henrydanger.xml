@@ -13,25 +13,96 @@
 </channel>
 
 
+ 
+ 
+ <channel> 
+<title><![CDATA[1x2 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/bdkz4ombxvxp/1x02.J3nr1D.mHD720p.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+<channel> 
+<title><![CDATA[1x3 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/0mz35539achi/1x03.J3nr1D.mHD720p.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+<channel> 
+<title><![CDATA[1x4 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/o41u6y9dz2hf/1x04.J3nr1D.mHD720p.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel> 
+<title><![CDATA[1x5 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/kpsu7tbw9f8u/1x05.J3nr1D.mHD720p.mkv.html ]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+<channel> 
+<title><![CDATA[1x6 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/5welahx0y9iu/1x06.J3nr1D.mHD720p.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
 
+<channel> 
+<title><![CDATA[1x7]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/kjtdn2z54r5g/1x07.J3nr1D.mHD720p.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
+<channel> 
+<title><![CDATA[1x8 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/zp2ujney0bxk/1x08.J3nr1D.mHD720p.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel> 
+<title><![CDATA[1x9 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/5cki480qoy8y/1x09.J3nr1D.mHD720p.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+ <channel> 
+<title><![CDATA[1x10 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/mguj062oo9a8/1x10.J3nr1D.mHD720p.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
