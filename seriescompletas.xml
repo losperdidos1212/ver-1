@@ -474,8 +474,6 @@
 </channel> 
 
   
-  
- 
  <channel>       
 <title><![CDATA[El Principe de Bel Air]]></title>
 <logo_30x30></logo_30x30>
@@ -483,6 +481,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/principedebelain.txt]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
+ 
+<channel>       
+<title><![CDATA[El Mentalista T1-T7]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_de16fc068ac90e29714579e7cfdb2815.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/mentalista.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
  
 <channel>       
 <title><![CDATA[Embrujadas T1 a T8]]></title>
