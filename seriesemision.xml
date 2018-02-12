@@ -13,7 +13,7 @@
 <channel>       
 <title><![CDATA[9-1-1 T1]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_14769d06aa8df34085596b5e628b06a2.jpg">]]></description>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/911_o1h36y1esxj2018-01-04.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/991.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
@@ -22,7 +22,7 @@
 <channel>       
 <title><![CDATA[Absentia T1]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_254d71e1b7b3b7fa09d1a722cfee8b2a.jpg">]]></description>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/absentia_n71w282yqsw2017-09-25.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/absentia.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel>
@@ -43,7 +43,7 @@
  <channel>      
 <title><![CDATA[ American Gods T1]]></title> 
 <logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_ba0ae7f8ab0dc24ba9816d159fdede73.jpg" />]]></description>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/american-gods_q132xcw9nn02017-05-08.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/American%20GodsT1.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
