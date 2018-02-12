@@ -69,14 +69,20 @@
 </channel>
  
 <channel>
-<title><![CDATA[Capitulo 1x08]]></title>
+<title><![CDATA[Capitulo 1x09]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_198072fe3ba72627e55a43e567808be9.jpg"/>]]></description>
 <stream_url><![CDATA[http://streamcloud.eu/u6vxrcul93tp]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_198072fe3ba72627e55a43e567808be9.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/oefrmbxsvkz6/S.aT.1x10.m720p.es.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
