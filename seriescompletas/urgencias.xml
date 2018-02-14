@@ -179,10 +179,6 @@
 <stream_url><![CDATA[http://streamcloud.eu/meiv6u2tggcj]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
-
-
-
 
  <channel>
 <title><![CDATA[Capitulo 1x23]]></title>
@@ -465,9 +461,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- 
- 
- 
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
 
 </items>
