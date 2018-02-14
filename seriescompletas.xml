@@ -1069,7 +1069,18 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/chapuzas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-  
+ 
+ <channel>       
+<title><![CDATA[Urgencias T1-T15]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/er-urgencias_s1o2oqcjpla2017-06-15.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/urgencias.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  <channel>       
 <title><![CDATA[Vice Principals T1 ]]></title>
 <logo_30x30></logo_30x30>
