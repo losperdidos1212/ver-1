@@ -405,8 +405,6 @@
 </channel>
  
  
- 
- 
  <channel>
 <title><![CDATA[Capitulo 3X01]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -414,9 +412,7 @@
 <stream_url><![CDATA[http://streamcloud.eu/ovtxq9wp1bvw]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
- 
- 
+
  <channel>
 <title><![CDATA[Capitulo 3X02]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -424,10 +420,7 @@
 <stream_url><![CDATA[http://streamcloud.eu/isrh694wxdhp]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
 
- 
- 
  
  <channel>
 <title><![CDATA[Capitulo 3X04]]></title>
