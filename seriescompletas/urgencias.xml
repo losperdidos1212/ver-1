@@ -1701,7 +1701,6 @@
 </channel>
  
  
- 
  <channel>
 <title><![CDATA[Capitulo 9x21]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -1710,9 +1709,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[Capitulo 9x22]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/er-urgencias_s1o2oqcjpla2017-06-15.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5su5bdul1yme]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
- 
- 
+ <channel>
+<title><![CDATA[Capitulo 10x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/er-urgencias_s1o2oqcjpla2017-06-15.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5su5bdul1yme]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
