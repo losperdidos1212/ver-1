@@ -41,7 +41,7 @@
 <channel>       
 <title><![CDATA[SALA DE PELICULAS DE ESTRENO]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic86/7f43c9cbfb672a5f1e765b7c302246a2.gif">Aqui encontraras estrenos de cartelera en varias calidades. Recuerda que no siempre se veran con buena calidad]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic86/8e67b5ab2906eeee923ae42cb970ba5f.gif">Aqui encontraras estrenos de cartelera en varias calidades. Recuerda que no siempre se veran con buena calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/estrenos/pelisestrenos.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
