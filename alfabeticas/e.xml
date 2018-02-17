@@ -9367,21 +9367,26 @@
 <channel>
 <title><![CDATA[ El hijo de Batman]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-
-
-
 <stream_url><![CDATA[http://streamcloud.eu/shc5xcua0pjx]]></stream_url>
-    <video_type>http</video_type>
-    <buffer_kb>30000</buffer_kb>
-    
-
-
-
-
+ <video_type>http</video_type>
+ <buffer_kb>30000</buffer_kb>
 <thumbnail>http://pics.filmaffinity.com/son_of_batman-351674673-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/son_of_batman-351674673-large.jpg" />]]></description>
 </channel>
 
+	
+	
+	<channel>
+<title><![CDATA[ el hijo del cura  1982]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<stream_url><![CDATA[http://streamcloud.eu/o1fbw59wu3s8/El_hi5jo_del_c1ur8a_.mkv.html]]></stream_url>
+ <video_type>http</video_type>
+ <buffer_kb>30000</buffer_kb>
+<thumbnail>http://pics.filmaffinity.com/son_of_batman-351674673-large.jpg</thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/el_hijo_del_cura-758016959-mmed.jpg" />]]>En un pueblo de Levante Espanol, vive Justo, el cura. Es muy querido por todos los vecinos por su forma de ayudar a los demas. Agapito, el alcalde comunista, tiene una hija, que al quedar embarazada de su novio, el hijo de Santiago, el medico del pueblo, que es de Alianza Popular y pensando que su padre puede matarle, dice que el hijo que espera es del cura. Justo se ve mezclado en todo este follon, que Matilde, la chica embarazada, le cuenta en confesion, atandole de pies y manos para defenderse. Justo, acosado por Agapito, el Obispo y todo el pueblo, decide colgar los habitos, pero en el ultimo momento y ayudado por chicas del pueblo consigue que la verdad salga a relucir.</description>
+</channel>
+	
+	
 
 <channel>
 <title><![CDATA[ El hijo de Godzilla]]></title>
