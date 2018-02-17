@@ -16,7 +16,7 @@
 <channel>       
 <title><![CDATA[SALA DE SERIES COMPLETAS]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic86/f33115e85defcef5bcb699247e5ac769.gif">Aqui encontraras todas las temporadas completas ]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic86/b9d902db0f67fa74cba15d2d3c6ab128.gif">Aqui encontraras todas las temporadas completas ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -32,7 +32,7 @@
 <channel>       
 <title><![CDATA[SALA CINE LOS RENEGADOS]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic86/b18e24e721d3758a53c1081999de9572.gif"]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic86/79a3593e06d50f7e6e37486131d778cc.gif"]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
