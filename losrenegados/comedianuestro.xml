@@ -1105,6 +1105,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 	
+ <channel> 
+<title><![CDATA[En lugar del Sr. Stein 2017 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x256/movie_c7a84b830102fd8d906f169dcbecef68.jpg" />]]>Pierre, viudo y jubilado, no sale de su casa desde hace dos años. Poco a poco descubre las alegrías de Internet gracias a Alex, un joven contratado por su hija para enseñarle los conceptos básicos de los ordenadores. En un sitio de citas, una hermosa joven, Flora63, le ofrece una primera cita.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/1n5phy6vyh7b]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
 	
 	
 	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
