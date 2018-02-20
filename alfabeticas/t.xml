@@ -254,16 +254,8 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/4jy2c1544k9q]]></stream_url>
-    
-    
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/tart-106922224-large.jpg</thumbnail>
+ <thumbnail>http://pics.filmaffinity.com/tart-106922224-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/tart-106922224-large.jpg" />]]></description>
 </channel>
 
@@ -273,15 +265,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/514d6uhuxvsn]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/tarzan-662747949-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/tarzan-662747949-large.jpg" />]]></description>
 </channel>
@@ -292,15 +276,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/ni9up63vlztb]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/tarzan-404302704-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/tarzan-404302704-large.jpg" />]]></description>
 </channel>
@@ -311,15 +287,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/rfiwsm6ncoai]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/tarzan_ii-249130558-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/tarzan_ii-249130558-large.jpg" />]]></description>
 </channel>
@@ -330,19 +298,38 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/89qsyg0pa4qe]]></stream_url>
-    
-    
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/tarzan_the_ape_man-525154798-large.jpg</thumbnail>
+ <thumbnail>http://pics.filmaffinity.com/tarzan_the_ape_man-525154798-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/tarzan_the_ape_man-525154798-large.jpg" />]]></description>
 </channel>
 
+	
+<channel>
+<title><![CDATA[Tarzan, the Ape Man 1932]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/uo8i6a7jn53h/01-_Ta5rz5an_de_los_M6on8os_.mpg.html]]></stream_url>
+ <thumbnail>http://pics.filmaffinity.com/tarzan_the_ape_man-525154798-large.jpg</thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/tarzan_the_ape_man-525154798-mmed.jpg" />]]>James Parker y Harry Holt organizan una expediciin a Africa para hallar un cementerio de elefantes que les proporcione el suficiente marfil para hacerse ricos. La bella hija de Parker, Jane, se une a ellos de forma inesperada y despierta una atracción inmediata en Harry. Pero un hombre mono llamado Tarzan y sus amigos simios secuestran a la chica.</description>
+</channel>	
+	
+	
+<channel>
+<title><![CDATA[Tarzan and His Mate 1934]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/j3qpd3mv4pj7/02-Ta6rz8an_y_su_c5om9pa3__era_.mpg.html]]></stream_url>
+ <thumbnail>http://pics.filmaffinity.com/tarzan_the_ape_man-525154798-large.jpg</thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/tarzan_and_his_mate-499462239-mmed.jpg" />]]>Harry Holt, un antiguo novio de Jane, se encuentra en Africa formando parte de una expedicion que busca marfil en el motico cementerio de los elefantes. El y su amigo Marlin Arlington esperan convencer a Jane para que vuelva con ellos a Londres. Pero Tarzan desaprueba su proyecto de saquear el cementerio.</description>
+</channel>
+	
+	
+	
+	
+	
+	
 
 <channel>
 <title><![CDATA[ Tasio]]></title>
