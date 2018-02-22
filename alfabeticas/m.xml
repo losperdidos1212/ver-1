@@ -64,19 +64,28 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/hduln2icdzp8]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/macgruber-864583125-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/macgruber-864583125-large.jpg" />]]></description>
 </channel>
 
+	
+	<channel>
+<title><![CDATA[mc quade el lobo solitario]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/9nio49qcwk1j/McQ22ua8de__lo3bo_so2li77tario.avi.html]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/macgruber-864583125-large.jpg</thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/lone_wolf_mcquade-160500928-mmed.jpg" />]]>Chuck Norris, comienza con esta su andanza como Texas Ranger. Su trabajo se ve alterado cuando acude a solucionar el robo de un camion. Lo profesional da paso a lo personal, cuando Norris descubre que su hija ha sido secuestrada por aquellos que intentan perpetrar el robo.</description>
+</channel>
+	
+	
+	
+	
+	
+	
+	
 
 <channel>
 <title><![CDATA[ Machete]]></title>
