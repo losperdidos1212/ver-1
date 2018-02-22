@@ -19154,21 +19154,31 @@
 <channel>
 <title><![CDATA[ El triunfo de un sueño (August Rush]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-
-
-
 <stream_url><![CDATA[http://streamcloud.eu/8widablbriln]]></stream_url>
     <video_type>http</video_type>
     <buffer_kb>30000</buffer_kb>
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/august_rush-458895094-large.jpg</thumbnail>
+   <thumbnail>http://pics.filmaffinity.com/august_rush-458895094-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/august_rush-458895094-large.jpg" />]]></description>
 </channel>
 
+	
+		<channel>
+<title><![CDATA[el triunfo de tarzan]]></title>
+<video_type>http</video_type>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/l8s6fvq5rlvz/7_El_tr5iun2fo_de_Ta6rz7__n_.avi.html]]></stream_url>
+ <thumbnail>http://pics.filmaffinity.com/amityville_the_evil_escapes_amityville_4-942996633-large.jpg</thumbnail>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/tarzan_triumphs-818392107-mmed.jpg" />]]>Poco despues de la partida de Jane Parker hacia Inglaterra, Tarzán y su hijo Boy reciben la peticion de ayuda de Zandra, hija del rey de la ciudad perdida de Palandria, cuyo pueblo acaba de ser invadido y esclavizado por tropas nazis. Sin embargo, Tarzan decide permanecer al margen y se limita a "confiscar" una radio portatil de los alemanes. Pero cuando un destacamento de soldados al mando del coronel nazi Von Reichart, buscando la radio, secuestra a Boy, Tarzan decide romper su aislamiento y combatir al III Reich, que amenaza expandirse por su selva</description>
+</channel>
+	
+	
+	
+	
+	
+	
+	
+	
 
 <channel>
 <title><![CDATA[ El truco final (El prestigio]]></title>
