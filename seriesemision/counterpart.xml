@@ -44,7 +44,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[ 1x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_bc04574a54b211cd86c5c335d6aaec84.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/uwch6tzdf5j0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
