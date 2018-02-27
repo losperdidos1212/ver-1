@@ -5,7 +5,7 @@
 <channel>       
 <title><![CDATA[7vidas]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.elnortedecastilla.es/multimedia/201501/29/media/010-gal-amparo-baro.jpg"/>]]></description>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/7-vidas_ul1gl0aq1w12017-07-17.jpg"/>]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/7Vidas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -13,7 +13,7 @@
  <channel>       
 <title><![CDATA[5 hermanos T5]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/108.jpg"/>]]></description>
+<description><![CDATA[<img src="http://r1.abcimg.es/resizer/resizer.php?imagen=http%3A%2F%2Fwww.abc.es%2Fmedia%2Fseries%2F000%2F001%2F774%2Fcinco-hermanos-1.jpg&nuevoancho=150&medio=abc"/>]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/5hermanos.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
