@@ -226,6 +226,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+<channel>       
+<title><![CDATA[Black Mirror Temporadas 1 A Temporadas 3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/blackmirror.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
  
 <channel>       
 <title><![CDATA[Blue Bloods (Familia de policías) Temporadas 1 A Temporadas 7]]></title>
