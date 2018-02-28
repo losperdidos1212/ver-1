@@ -1,0 +1,108 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items>
+ <playlist_name>Black mirror >> Temporada 1-3</playlist_name>
+  
+<channel>
+<title><![CDATA[1x01 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/hz6wo23wq1ta]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[1x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/t3kopar3dltm]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+<channel>
+<title><![CDATA[1x03 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/m71h0l0f5kgi]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ <channel>
+<title><![CDATA[2x01 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/0jvqhyd4kkyy]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ <channel>
+<title><![CDATA[2x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/wtyu3mscgsgc]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ <channel>
+<title><![CDATA[2x03 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/z2uknb0psv61]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ <channel>
+<title><![CDATA[3x01 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+<channel>
+<title><![CDATA[3x02 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ <channel>
+<title><![CDATA[3x03 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/k6gi7clg6as0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+
+<channel>
+<title><![CDATA[3x04 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[3x05 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[3x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/black-mirror_1m5lqepw3zm2016-10-21.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+ 
+</items>
