@@ -354,10 +354,7 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/expedientex.xml]]></playlist_url>  
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
- 
- 
- 
+  
 <channel>       
 <title><![CDATA[Fargo T3]]></title>
 <logo_30x30></logo_30x30>
@@ -366,6 +363,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>       
+<title><![CDATA[Fariñas T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/farina_cxmm3m78k642018-02-28.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/fari.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
  <channel>       
 <title><![CDATA[Falsa identidad T1]]></title>
 <logo_30x30></logo_30x30>
