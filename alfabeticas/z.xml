@@ -2,8 +2,7 @@
 <items>
     
 <playlist_name><![CDATA[Peliculas Que Empiezan Por Z]]></playlist_name>
-    
-       
+
 <channel>
 <title><![CDATA[ Zack y Cody, la película ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -12,7 +11,6 @@
 <stream_url><![CDATA[http://streamcloud.eu/w1h2iui5r5mc]]></stream_url>
 <stream_url><![CDATA[http://pics.filmaffinity.com/the_suite_life_movie_tv-539432364-large.jpg]]></stream_url>
 </channel>
- 
 
 <channel>
 <title><![CDATA[ Zafarrancho en el rancho]]></title>
@@ -23,8 +21,6 @@
 <stream_url><![CDATA[http://pics.filmaffinity.com/home_on_the_range-764151137-large.jpg]]></stream_url>
 </channel>
 
-
- 
  <channel>
 <title><![CDATA[ Zandalee (En el límite del deseo)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -35,24 +31,6 @@
 <stream_url><![CDATA[http://pics.filmaffinity.com/zandalee-981642759-large.jpg]]></stream_url>
 </channel>
 
-
- 
-
- 
- 
- 
- 
- 
- 
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
 <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
