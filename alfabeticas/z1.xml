@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Peliculas Que Empiezan Por B]]></playlist_name>
+
+<channel>
+<title><![CDATA[ Zack y Cody, la película ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<buffer_kb>30000</buffer_kb>
+<video_type>http</video_type>
+<stream_url><![CDATA[http://streamcloud.eu/w1h2iui5r5mc]]></stream_url>
+<stream_url><![CDATA[http://pics.filmaffinity.com/the_suite_life_movie_tv-539432364-large.jpg]]></stream_url>
+</channel>
+
+
+
+<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
+
+</items>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
+
+</items>  
