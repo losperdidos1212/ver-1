@@ -3,7 +3,7 @@
 <playlist_name><![CDATA[accion]]></playlist_name>
 
 	
-			<channel>
+<channel>
 <title><![CDATA[jungla 2017]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
@@ -1980,7 +1980,14 @@ Inspirada en hechos reales, “Hyena Road” es un film situado en el corazon de
 </channel>	
 	
 	
-	
+	<channel>
+<title><![CDATA[El guardian de la reliquia 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/ku37opd0g0co ]]></stream_url>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x256/movie_b1141ade39a107243a7ee47cd8f8769f.jpg" />]]>“Roma ha hablado”, con esa frase unos monjes cristianos deben comenzar la peregrinacion hacia Roma escoltando una reliquia sagrada de su monasterio. En una Irlanda del siglo XIII donde tendran que enfrentarse a los invasores  normandos, guerras tribales y peligros que jamas imaginarian que fueran a presentarse en su pacifica y tranquila vida en el monasterio.</description>
+</channel>
 	
 	
 	
