@@ -574,7 +574,15 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
+
+	<channel> 
+<title><![CDATA[¡Hey Arnold! Una peli en la jungla 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x256/movie_3062dea1a51f2baccb27ea838c31e231.jpg" />]]>Arnold y toda su clase ganan un viaje a San Lorenzo. Esta va a ser la oportunidad perfecta para que Arnold encuentre a sus padres, que desaparecieron  alli hace mucho tiempo.</description> 
+<stream_url><![CDATA[http://streamcloud.eu/03l6fvrsfeuc]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 	
 	
 	
