@@ -1,0 +1,29 @@
+?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items>
+ <playlist_name>Pablo escobar patron del mal >> Temporada 1</playlist_name>
+  
+<channel>
+<title><![CDATA[1x01 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/pablo-escobar-el-patron-del-mal_1vonm1xxibj2016-03-24.jpg" />]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+ 
+</items>
