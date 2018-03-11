@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Narcos]]></playlist_name>
+  
+   <channel>
+<title><![CDATA[1x1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_ff6dc08d95db0e756c183d19f6fbe8cc.jpg" />]]>"La parabola de Pablo". Describe la vida del narco colombiano Pablo Emilio Escobar Gaviria desde su infancia. El uso de la violencia indiscriminada lo convirtio en el narcotraficante mas temible y sanguinario de finales del siglo XX. Llego incluso a desestabilizar al Gobierno colombiano hasta el punto de ser el criminal mas buscado del mundo.</description>
+<stream_url><![CDATA[http://streamcloud.eu/ov04gle93n4i]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+ 
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+
+</items>
+
