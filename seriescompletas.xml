@@ -842,8 +842,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
  
-
-
  <channel>       
 <title><![CDATA[Padre cain T1]]></title>
 <logo_30x30></logo_30x30>
@@ -851,7 +849,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/padrecaint1.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
-  
+
+<channel>       
+<title><![CDATA[Pablo escobar patron del mal T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/el_padre_de_cain_tv-111697850-large.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/pabloescobar.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  <channel>       
 <title><![CDATA[Polseres vermelles]]></title>
 <logo_30x30></logo_30x30>
