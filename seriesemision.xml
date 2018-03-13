@@ -874,6 +874,21 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+  <channel>       
+<title><![CDATA[the strain T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic86/e67462a9c277e8861c06116d230fabff.gif"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/thestrain.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <channel>      
 <title><![CDATA[ Teachers T2]]></title> 
 <logo_30x30></logo_30x30> 
