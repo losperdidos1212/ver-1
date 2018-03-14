@@ -22972,40 +22972,15 @@
 </channel>
 
 	
+
+
 <channel>
 <title><![CDATA[ Los juegos del hambre: Sinsajo. Parte I]]></title>
-<link>$doregex[getUrl]|Referer=http://diskokosmiko.mx/oscaraday/-22897/p,111451,list,1,3.avi</link>
-<logo_30x30><![CDATA[]]></logo_30x30><name>getUrl</name>
-
-import re , requests 
-def GetLSProData(page_data,Cookie_Jar,m):
- url='http://diskokosmiko.mx/oscaraday/-22897/p,111451,list,1,3.avi'
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ''}
- r = requests.get(url, headers=headers).text
- vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r)[0]
- #print data_a
- ref = url
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref,'X-Requested-With': 'XMLHttpRequest'}
- data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
- nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=111451', headers=headers, data=data_a).text
- movie = re.findall('DownloadUrl":"(.*?)"', nr)[0]
- print movie 
- return movie 
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/the_hunger_games_mockingjay_part_i-441255048-large.jpg</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/the_hunger_games_mockingjay_part_i-441255048-large.jpg" />]]></description>
-</channel>
-
-<channel>
-<title><![CDATA[ Los juegos del hambre: Sinsajo. Parte II]]></title>
 <video_type>http</video_type>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <buffer_kb>30000</buffer_kb>
 
-<stream_url><![CDATA[http://streamcloud.eu/2thexr7592wz]]></stream_url>
+<stream_url><![CDATA[]]></stream_url>
     
     
     
@@ -23017,7 +22992,30 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <description><![CDATA[<img src="http://pics.filmaffinity.com/the_hunger_games_mockingjay_part_2-413766198-large.jpg" />]]></description>
 </channel>
 
+<channel>
+<title><![CDATA[ Los juegos del hambre: Sinsajo. Parte II]]></title>
+<video_type>http</video_type>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<buffer_kb>30000</buffer_kb>
 
+<stream_url><![CDATA[http://streamcloud.eu/ptl9b0qu3c58]]></stream_url>
+    
+    
+    
+
+
+
+
+<thumbnail>http://pics.filmaffinity.com/the_hunger_games_mockingjay_part_2-413766198-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/the_hunger_games_mockingjay_part_2-413766198-large.jpg" />]]></description>
+</channel>
+	
+	
+	
+	
+	
+	
+	
 <channel>
 <title><![CDATA[ Los juegos del resacón]]></title>
 <video_type>http</video_type>
