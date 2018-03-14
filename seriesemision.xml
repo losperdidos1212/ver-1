@@ -961,6 +961,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>       
+<title><![CDATA[The Strain T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_cbfb8d3ca289745ed2b862c1b4200c33.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/thestrain.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
  <channel>       
 <title><![CDATA[Tiempos de guerra T1]]></title>
