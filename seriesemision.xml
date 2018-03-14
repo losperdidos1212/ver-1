@@ -874,13 +874,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  <channel>       
-<title><![CDATA[The strain T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic86/57dc3e22a8b56ff1331732f6fbf40cdd.gif"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/Thestrain.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
   
  
 <channel>      
