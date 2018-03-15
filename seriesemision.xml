@@ -757,7 +757,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>       
+<title><![CDATA[Rise T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/rise_sx3ig78yxz02018-03-14.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/rise.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
  <channel>       
