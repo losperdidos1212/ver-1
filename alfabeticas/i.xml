@@ -2217,19 +2217,29 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/oiebw54zkrz7]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/invasion_roswell_tv-413144545-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/invasion_roswell_tv-413144545-large.jpg" />]]></description>
 </channel>
 
+           
+ <channel>
+<title><![CDATA[invasion usa 1985]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/ods3bngydhbp/In2va8si41__n_U1S5A_.mkv.html]]></stream_url>
+<thumbnail>https://pics.filmaffinity.com/invasion_u_s_a-787115389-mmed.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/invasion_roswell_tv-413144545-large.jpg" />]]>Mikhail Rostov (Richard Lynch), un peligroso terrorista que dirige a un grupo de mercenarios sin escrupulos, planea comenzar una campana de terror en los Estados Unidos, pero antes decide acabar con Matt Hunter (Chuck Norris), antiguo integrante de la CIA, que fue su bestia negra en el pasado. Mientras que Hunter trata de salvar su vida de cientos de enemigos que le buscan por todo el pais, tendra que destruir los planes de Rostov que amenazan la estabilidad del pais.</description>
+</channel>          
+           
+           
+           
+           
+           
+           
+           
+           
 
 <channel>
 <title><![CDATA[ Invasión zombie]]></title>
