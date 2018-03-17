@@ -199,6 +199,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>      
+<title><![CDATA[ Chicago Fire T4]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/chicago-fire_7e3v79h20wo2016-03-24.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/chicagofire.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
 <channel>      
 <title><![CDATA[ Crimen en elparaiso T6]]></title> 
 <logo_30x30></logo_30x30> 
