@@ -681,20 +681,26 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/wifi7j0gynn7]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/starke_6_tv-101683923-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/starke_6_tv-101683923-large.jpg" />]]></description>
 </channel>
 
-
+<channel>
+<title><![CDATA[ Magnolias de acero (TV)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/rvq9w4u9d0jn]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/starke_6_tv-101683923-large.jpg</thumbnail>
+<description><![CDATA[<img src="https://cdn3.plusdede.com/cdn/media/peli/4/6/4/1-medium.jpg?v=1"/>]]></description>
+</channel>
+	
+	
+	
+	
+	
+	
 <channel>
 <title><![CDATA[ Major Payne]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
