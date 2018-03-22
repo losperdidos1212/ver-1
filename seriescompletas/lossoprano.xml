@@ -4,15 +4,19 @@
 
 
 
+ 
+ <channel>
+ <title><![CDATA[1x01]]></title>
+ <logo_30x30><![CDATA[]]></logo_30x30>
+ <description><![CDATA[<img src="http://www.elnortedecastilla.es/multimedia/201501/29/media/010-gal-amparo-baro.jpg" />]]></description>                      
+ <stream_url><![CDATA[http://streamcloud.eu/z90sa6v7dopc/Vidas.7.esp.01x01.avi.html]]></stream_url>
+ </channel>
+
+
+
 
  
-<channel>
-<title><![CDATA[1x01]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
 
 
