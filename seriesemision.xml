@@ -825,7 +825,18 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-
+<channel>       
+<title><![CDATA[Seven seconds T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/seven-seconds_okh9efbai9q2018-02-22.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/seven.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
 <channel>       
 <title><![CDATA[Scorpion T4]]></title>
 <logo_30x30></logo_30x30>
