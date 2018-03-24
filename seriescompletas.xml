@@ -706,14 +706,6 @@
 <buffer_kb>30000</buffer_kb>
  </channel> 
  
- <channel>       
-<title><![CDATA[Las chicas del cable T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://seriesblanco.com/files/uploads/4748.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/chicascable.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel> 
- 
  
  <channel>       
 <title><![CDATA[Legends of Tomorrow ]]></title>
