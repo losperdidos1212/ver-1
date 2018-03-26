@@ -149,7 +149,14 @@
 </channel>  
   
   
-  
+   <channel>
+<title><![CDATA[Phil Colling]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/cd3628984eb653d30d8167da403bf868.gif"/>]]>Concierto Phil Collins .</description>
+<stream_url><![CDATA[http://streamcloud.eu/7glgkqk5gkcg/PHIL_COLLINS_GOING_BACK.Title2.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
   
   
   
