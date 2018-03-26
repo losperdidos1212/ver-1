@@ -24377,21 +24377,29 @@
 <channel>
 <title><![CDATA[ Escándalo en el poder]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-
-
-
 <stream_url><![CDATA[http://streamcloud.eu/z44db0vitw5p]]></stream_url>
-    <video_type>http</video_type>
-    <buffer_kb>30000</buffer_kb>
-    
-
-
-
-
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
 <thumbnail>http://pics.filmaffinity.com/the_runner-807105538-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/the_runner-807105538-large.jpg" />]]></description>
 </channel>
 
+	
+	
+	
+	
+	<channel>
+<title><![CDATA[en que lio me han metido]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<stream_url><![CDATA[http://streamcloud.eu/mu2eemdrzbrt/__En_q22u___l1__o_m8e_h3an_m8eti77do__.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<thumbnail>http://pics.filmaffinity.com/the_runner-807105538-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/fd17e5f76e5caf41441e239ddb1a74e8.gi" />]]></description>
+</channel>
+	
+	
+	
 
 <channel>
 <title><![CDATA[ Escándalo en París]]></title>
