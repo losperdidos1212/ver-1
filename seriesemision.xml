@@ -893,7 +893,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+<channel>       
+<title><![CDATA[Trust T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/trust_6j2b3lf42a22018-03-26.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/trust.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
+
  <channel>       
 <title><![CDATA[The Blacklist t5]]></title>
 <logo_30x30></logo_30x30>
