@@ -521,23 +521,29 @@
 
 
 <channel>
-<title><![CDATA[ Quo Vadis (Una historia de la época de Nerón]]></title>
+<title><![CDATA[ Quo Vadis (Una historia de la epoca de Neron]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/pyty30puys1l]]></stream_url>
-    
-    
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/quo_vadis-858129210-large.jpg</thumbnail>
+ <thumbnail>http://pics.filmaffinity.com/quo_vadis-858129210-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/quo_vadis-858129210-large.jpg" />]]></description>
 </channel>
    
+    
+  <channel>
+<title><![CDATA[ Quo Vadis 1951]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/9s1l4wl6rmsb/Quo_Vadis__1951_.mkv.html]]></stream_url>
+ <thumbnail>http://pics.filmaffinity.com/quo_vadis-858129210-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/5c6d50647a6352eced7e5ebe61df86fd.gif" />]]>Cuando regresa victoriosamente a Roma, despues de tres anos en el campo de batalla, el general Marco Vinicio se enamora de Ligia. Pero ella es cristiana y sus creencias le impiden enamorarse de un guerrero. Aunque fue adoptada por un general retirado, juridicamente es un rehen de Roma, de modo que Marco consigue sin dificultad que el emperador Neron se la ceda en pago por sus servicios. </description>
+</channel>  
+    
+    
+    
+    
 
  <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/peliculasalfabeticas.xml]]></prev_page_url>
