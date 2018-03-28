@@ -741,23 +741,12 @@
 	
 
 		
-	<channel> 
-<title><![CDATA[Open Water: Inmersión extrema 2017]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://hdfull.me/tthumb/172x256/movie_639f11a04a76a8397eb086266d33ef1e.jpg" />]]>Tres amigos viajan a Australia con la intencion de grabar un video buceando entre tiburones, que les sirva como audicion para un concurso de actividades extremas. Pero algo sale terriblemente mal, y la grabacion se convierte en un estremecedor diario de supervivencia.y de muerte.</description> 
-<stream_url><![CDATA[http://streamcloud.eu/08god4ui4rqx]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
-	
-	
-	
-	
-	
-	
-	
 
-	<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+	
+	
+	
+	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/losrenegados/menulosrenegados.xml]]></prev_page_url>
 
 </items>
+	
