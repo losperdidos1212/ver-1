@@ -76,6 +76,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+<channel>
+<title><![CDATA[ 1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_bc04574a54b211cd86c5c335d6aaec84.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/y4bkxa2bzpg2]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
 
