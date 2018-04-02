@@ -986,6 +986,15 @@
  
  
  <channel>       
+<title><![CDATA[Silicon Valle T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/si-fueras-tu_2j70oy74n052017-12-08.jpg">sin rastro]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/silicon.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+
+ <channel>       
 <title><![CDATA[Scorpion]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/scorpion_6wx3hufmf9o2016-05-17.jpg">sin rastro]]></description>
