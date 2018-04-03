@@ -27,6 +27,14 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
+
+ <channel>       
+<title><![CDATA[Alli abajo T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/alli-abajo_z53h5c3bxe42016-03-24.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/abajo.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
  
  <channel>       
