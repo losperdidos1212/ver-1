@@ -1235,8 +1235,7 @@
 <stream_url><![CDATA[http://streamcloud.eu/5gmyynf1elnq]]></stream_url>
 <buffer_kb>30000</buffer_kb>
  </channel> 
- 
- 
+  
  <channel>
 <title><![CDATA[Capitulo 1x234]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -1245,7 +1244,13 @@
 <buffer_kb>30000</buffer_kb>
  </channel> 
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x235]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5bf139354ad891ab252624f24810d2a2.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/tlcbcsxc0oc8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel> 
  
  
  
