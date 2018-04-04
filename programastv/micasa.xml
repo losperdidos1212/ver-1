@@ -2,7 +2,56 @@
 <items>
 <playlist_name><![CDATA[Mi casa es la tuya T1]]></playlist_name>
   
-    <channel> 
+<channel> 
+<title><![CDATA[ Temporada 2 Capitulo 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/0vkurmcwsu02/M1.C4S4.3S.L4.TVY4.2x1.avi.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel> 
+<title><![CDATA[ Temporada 2 Capitulo 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/mzmxjyvtsiz6/mi.casa.2x02.es.mkv.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+<channel> 
+<title><![CDATA[ Temporada 2 Capitulo 3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/9fzqo9gawpvk/Mi.casa.2x03.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>    
+  
+  
+ <channel> 
+<title><![CDATA[ Temporada 2 Capitulo 4]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/pmfntvyxikwi/__Mi.csa.2x04.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+<channel> 
+<title><![CDATA[ Temporada 2 Capitulo 5]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/6rclg57gxoyo/__Mi_casa_es_la_tuya.2x05.es.mp4.html]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>    
+  
+  
+  
+  
+  <channel> 
 <title><![CDATA[1x01 Temporada 4 Capitulo 1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_1a05e7e8948cdf74250685d732bd69b9.jpg" />]]></description> 
