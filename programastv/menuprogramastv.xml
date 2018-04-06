@@ -35,7 +35,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  
+<channel>       
+<title><![CDATA[Jose mota presenta T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/jose-mota-presenta_2q922gb05lu2018-04-06.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/josemota.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
 <channel>       
 <title><![CDATA[¿Que comen nuestros hijos?]]></title>
